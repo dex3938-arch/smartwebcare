@@ -1,0 +1,1102 @@
+[
+ {
+  "slug": "ai-agents",
+  "title": "AI Agents",
+  "shortTitle": "AI Agents",
+  "titleTemplate": "Best AI Agent Services in {city}",
+  "descriptionTemplate": "Deploy intelligent AI agents in {city} that handle customer interactions, lead qualification, and support 24/7. Transform your {region} business with conversational AI that scales.",
+  "metaDescriptionTemplate": "AI agent services in {city}. Deploy intelligent chatbots for 24/7 customer support, lead qualification, and appointment scheduling. Scale interactions effortlessly.",
+  "keyPoints": [
+   "Intelligent chatbots for websites",
+   "Virtual assistants for customer support",
+   "Lead qualification and routing",
+   "Appointment scheduling automation",
+   "Multi-channel deployment (web, WhatsApp, Messenger)",
+   "Natural language understanding and learning"
+  ],
+  "benefits": [
+   {
+    "icon": "🤖",
+    "title": "24/7 Availability",
+    "description": "AI agents never sleep - available to help customers anytime"
+   },
+   {
+    "icon": "💬",
+    "title": "Human-like Conversations",
+    "description": "Natural language processing for authentic interactions"
+   },
+   {
+    "icon": "📈",
+    "title": "Scale Effortlessly",
+    "description": "Handle unlimited conversations simultaneously"
+   }
+  ],
+  "process": [
+   {
+    "step": 1,
+    "title": "Discovery",
+    "description": "Identify use cases and conversation flows for your business"
+   },
+   {
+    "step": 2,
+    "title": "Design",
+    "description": "Map conversation logic and agent personality"
+   },
+   {
+    "step": 3,
+    "title": "Build & Train",
+    "description": "Create AI agent and train on your business knowledge"
+   },
+   {
+    "step": 4,
+    "title": "Deploy & Optimize",
+    "description": "Launch agent and continuously improve based on interactions"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "What can AI agents handle?",
+    "answer": "AI agents can handle customer inquiries, lead qualification, appointment booking, product recommendations, troubleshooting, and FAQs for {city} businesses. They escalate complex issues to humans when needed."
+   },
+   {
+    "question": "How is this different from traditional chatbots?",
+    "answer": "Traditional chatbots follow rigid scripts. AI agents use natural language processing to understand context, remember conversations, and provide intelligent, personalized responses."
+   },
+   {
+    "question": "Will customers know they are talking to AI?",
+    "answer": "We recommend transparency - customers appreciate knowing they are chatting with AI. Most users don't mind as long as they get quick, helpful responses."
+   }
+  ]
+ },
+ {
+  "slug": "ai-automations",
+  "title": "AI Automations",
+  "shortTitle": "AI Automations",
+  "titleTemplate": "Best AI Automation Services in {city}",
+  "descriptionTemplate": "Automate your {city} business operations with Make.com and N8N.io workflows. Save time, reduce errors, and scale efficiently with custom AI automation solutions for {region} businesses.",
+  "metaDescriptionTemplate": "AI automation services in {city}. Make.com and N8N.io workflow automation. Eliminate repetitive tasks and scale operations without growing headcount.",
+  "keyPoints": [
+   "Make.com & N8N.io workflow automation",
+   "CRM and email automation",
+   "Data entry and processing automation",
+   "Social media scheduling and automation",
+   "Custom integrations between tools",
+   "Automated reporting and analytics"
+  ],
+  "benefits": [
+   {
+    "icon": "⚡",
+    "title": "Save Time",
+    "description": "Automate hours of manual work into minutes"
+   },
+   {
+    "icon": "🎯",
+    "title": "Reduce Errors",
+    "description": "Eliminate human error in repetitive tasks"
+   },
+   {
+    "icon": "📊",
+    "title": "Scale Efficiently",
+    "description": "Handle more work without hiring more people"
+   }
+  ],
+  "process": [
+   {
+    "step": 1,
+    "title": "Discovery",
+    "description": "Identify repetitive tasks and automation opportunities"
+   },
+   {
+    "step": 2,
+    "title": "Design",
+    "description": "Map out automation workflows and tool integrations"
+   },
+   {
+    "step": 3,
+    "title": "Build",
+    "description": "Create and test automation scenarios using Make.com or N8N.io"
+   },
+   {
+    "step": 4,
+    "title": "Deploy & Support",
+    "description": "Launch automations and provide ongoing optimization"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "What can be automated?",
+    "answer": "Email responses, data entry, social media posting, lead management, invoice generation, report creation, and much more. If it's repetitive and rule-based, it can likely be automated."
+   },
+   {
+    "question": "Make.com vs N8N.io - which is better?",
+    "answer": "Make.com is perfect for non-technical users with its intuitive interface. N8N.io is ideal if you want an open-source, self-hosted solution with more customization."
+   },
+   {
+    "question": "Do I need technical skills?",
+    "answer": "Not at all! We build everything for you and provide training. You'll have a simple interface to monitor and manage automations."
+   }
+  ]
+ },
+ {
+  "slug": "ai-receptionist",
+  "title": "AI Receptionist",
+  "shortTitle": "AI Receptionist",
+  "titleTemplate": "Best AI Receptionist Services in {city}",
+  "descriptionTemplate": "Never miss a customer call in {city} with our 24/7 AI receptionist. Perfect for salons, dental clinics, restaurants, and service businesses across {region}. Automated call handling and appointment booking.",
+  "metaDescriptionTemplate": "AI receptionist services in {city} for salons, clinics, and restaurants. 24/7 automated call handling, appointment booking, and customer inquiries.",
+  "keyPoints": [
+   "24/7 automated call answering",
+   "Appointment scheduling and management",
+   "Booking confirmations and reminders",
+   "Customer inquiry handling",
+   "Call routing for emergencies",
+   "Multi-language support"
+  ],
+  "benefits": [
+   {
+    "icon": "📞",
+    "title": "Never Miss a Call",
+    "description": "AI answers every call, even during peak hours"
+   },
+   {
+    "icon": "📅",
+    "title": "Instant Bookings",
+    "description": "Schedule appointments directly over the phone"
+   },
+   {
+    "icon": "💰",
+    "title": "Reduce No-Shows",
+    "description": "Automated reminders decrease missed appointments"
+   }
+  ],
+  "process": [
+   {
+    "step": 1,
+    "title": "Setup",
+    "description": "Configure business hours, services, and booking rules"
+   },
+   {
+    "step": 2,
+    "title": "Train",
+    "description": "Customize AI voice and responses to match your brand"
+   },
+   {
+    "step": 3,
+    "title": "Integrate",
+    "description": "Connect to your calendar and booking system"
+   },
+   {
+    "step": 4,
+    "title": "Go Live",
+    "description": "Forward calls to your AI receptionist and start accepting bookings"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "Does it sound like a robot?",
+    "answer": "No! Our AI receptionists use advanced voice synthesis that sounds natural and professional. Most callers don't realize they're talking to AI."
+   },
+   {
+    "question": "Can it handle complex requests?",
+    "answer": "Yes, it can handle appointment scheduling, rescheduling, cancellations, service inquiries, and pricing questions. Complex issues are seamlessly transferred to a human."
+   },
+   {
+    "question": "Which businesses benefit most?",
+    "answer": "Salons, spas, dental clinics, medical practices, restaurants, law firms, and home service businesses in {city} that rely on appointment bookings benefit the most."
+   }
+  ]
+ },
+ {
+  "slug": "personal-branding",
+  "title": "Personal Branding",
+  "shortTitle": "Personal Branding",
+  "titleTemplate": "Best Personal Branding Agency in {city}",
+  "descriptionTemplate": "Build your personal brand on LinkedIn & Instagram in {city}. Strategic content, positioning, and storytelling that establishes authority and trust for {region} professionals and entrepreneurs.",
+  "metaDescriptionTemplate": "Personal branding services in {city}. LinkedIn & Instagram strategy, content creation, and positioning for founders, executives, and thought leaders.",
+  "keyPoints": [
+   "LinkedIn & Instagram strategy",
+   "Content planning & positioning",
+   "Storytelling that builds trust",
+   "Profile optimization",
+   "Engagement and community building",
+   "Platform-specific content optimization"
+  ],
+  "benefits": [
+   {
+    "icon": "💼",
+    "title": "LinkedIn Authority",
+    "description": "Position yourself as an industry thought leader"
+   },
+   {
+    "icon": "📸",
+    "title": "Instagram Influence",
+    "description": "Build a compelling visual brand and engaged following"
+   },
+   {
+    "icon": "🤝",
+    "title": "Trust & Credibility",
+    "description": "Authentic storytelling that resonates with your audience"
+   }
+  ],
+  "process": [
+   {
+    "step": 1,
+    "title": "Discovery",
+    "description": "Understand your expertise, goals, and target audience"
+   },
+   {
+    "step": 2,
+    "title": "Strategy",
+    "description": "Create platform-specific content strategies for LinkedIn and Instagram"
+   },
+   {
+    "step": 3,
+    "title": "Content Planning",
+    "description": "Develop content calendars tailored to each platform"
+   },
+   {
+    "step": 4,
+    "title": "Execution & Growth",
+    "description": "Launch campaigns, track engagement, and optimize for reach"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "Should I focus on LinkedIn or Instagram?",
+    "answer": "It depends on your goals! LinkedIn is ideal for B2B and professional networking. Instagram works best for B2C and visual storytelling. We recommend both with tailored strategies."
+   },
+   {
+    "question": "Will you create content for me?",
+    "answer": "Yes! We handle content creation, caption writing, hashtag strategy, and posting schedules. You review and approve everything before it goes live."
+   },
+   {
+    "question": "How long before I see results?",
+    "answer": "You'll see engagement improvements within 2-4 weeks. Building a strong personal brand in {city} typically takes 3-6 months of consistent posting."
+   }
+  ]
+ },
+ {
+  "slug": "social-media-marketing",
+  "title": "Social Media Marketing",
+  "shortTitle": "Social Media",
+  "titleTemplate": "Best Social Media Marketing Agency in {city}",
+  "descriptionTemplate": "Turn scrolls into stops with engaging social media content in {city}. Daily posts, reels, stories, and community management that builds loyal followers for {region} businesses.",
+  "metaDescriptionTemplate": "Social media marketing services in {city}. Instagram, Facebook, LinkedIn content creation, community management, and engagement strategies.",
+  "keyPoints": [
+   "Daily content calendars",
+   "Reels, posts, stories & engagement",
+   "Platform-specific strategies",
+   "Community management",
+   "Analytics and performance tracking"
+  ],
+  "benefits": [
+   {
+    "icon": "📱",
+    "title": "Consistent Presence",
+    "description": "Never miss a posting opportunity with our content calendars"
+   },
+   {
+    "icon": "❤️",
+    "title": "Real Engagement",
+    "description": "Build authentic connections with your audience"
+   },
+   {
+    "icon": "📈",
+    "title": "Growth Focused",
+    "description": "Strategies designed to increase followers and conversions"
+   }
+  ],
+  "process": [
+   {
+    "step": 1,
+    "title": "Audit & Strategy",
+    "description": "Analyze current performance and develop platform-specific strategies"
+   },
+   {
+    "step": 2,
+    "title": "Content Creation",
+    "description": "Design posts, reels, stories, and carousels that resonate"
+   },
+   {
+    "step": 3,
+    "title": "Scheduling & Posting",
+    "description": "Consistent posting at optimal times for maximum reach"
+   },
+   {
+    "step": 4,
+    "title": "Engage & Optimize",
+    "description": "Community management and continuous improvement"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "Which platforms do you manage?",
+    "answer": "We manage Instagram, Facebook, LinkedIn, Twitter/X, and TikTok based on where your audience is most active."
+   },
+   {
+    "question": "How often will you post?",
+    "answer": "Posting frequency depends on your package, typically 3-7 posts per week, plus daily stories and engagement."
+   },
+   {
+    "question": "Do you respond to comments and DMs?",
+    "answer": "Yes! Community management is included for {city} clients. We monitor and respond to comments, DMs, and engage with your audience."
+   }
+  ]
+ },
+ {
+  "slug": "brand-playbook",
+  "title": "Brand Playbook",
+  "shortTitle": "Brand Playbook",
+  "titleTemplate": "Best Brand Playbook Services in {city}",
+  "descriptionTemplate": "Create your all-in-one brand bible in {city}. Logo guidelines, typography, color palette, and brand voice documentation for consistent {region} brand execution.",
+  "metaDescriptionTemplate": "Brand playbook services in {city}. Complete brand guidelines with logo usage, color palette, typography, and brand voice documentation.",
+  "keyPoints": [
+   "Logo, typography, color palette guidelines",
+   "Brand story, voice, and messaging",
+   "Usage guidelines and examples",
+   "Consistent assets for every touchpoint"
+  ],
+  "benefits": [
+   {
+    "icon": "📚",
+    "title": "Complete Guide",
+    "description": "One source of truth for all brand elements"
+   },
+   {
+    "icon": "🎨",
+    "title": "Visual Consistency",
+    "description": "Perfect brand execution every time"
+   },
+   {
+    "icon": "👥",
+    "title": "Team Alignment",
+    "description": "Everyone knows how to represent your brand"
+   }
+  ],
+  "process": [
+   {
+    "step": 1,
+    "title": "Audit",
+    "description": "Review existing brand assets and identify gaps"
+   },
+   {
+    "step": 2,
+    "title": "Documentation",
+    "description": "Create comprehensive guidelines for all brand elements"
+   },
+   {
+    "step": 3,
+    "title": "Design",
+    "description": "Develop visual examples and usage scenarios"
+   },
+   {
+    "step": 4,
+    "title": "Finalize",
+    "description": "Deliver digital and print-ready brand playbook"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "What's included in a brand playbook?",
+    "answer": "Logo variations, color palette with codes, typography guidelines, brand voice, visual examples, do's and don'ts, and templates."
+   },
+   {
+    "question": "Is this different from brand guidelines?",
+    "answer": "A brand playbook is more comprehensive—it includes strategy, storytelling, practical applications, and team training materials."
+   },
+   {
+    "question": "Can we update it later?",
+    "answer": "Yes! We provide source files for {city} clients so you can make updates, or we can handle revisions as your brand evolves."
+   }
+  ]
+ },
+ {
+  "slug": "brand-development",
+  "title": "Brand Development",
+  "shortTitle": "Brand Development",
+  "titleTemplate": "Best Brand Development Agency in {city}",
+  "descriptionTemplate": "Build a brand that connects in {city}. Purpose-driven positioning, tone, personality, and complete visual identity for {region} businesses ready to stand out.",
+  "metaDescriptionTemplate": "Brand development services in {city}. Purpose-first positioning, messaging framework, and visual identity creation for startups and established businesses.",
+  "keyPoints": [
+   "Purpose-first positioning",
+   "Brand personality & narrative",
+   "Complete voice & visual alignment",
+   "Logo and visual identity design",
+   "Messaging framework"
+  ],
+  "benefits": [
+   {
+    "icon": "🎯",
+    "title": "Clear Positioning",
+    "description": "Stand out in your market with unique brand identity"
+   },
+   {
+    "icon": "💡",
+    "title": "Consistent Messaging",
+    "description": "Unified voice across all touchpoints"
+   },
+   {
+    "icon": "🚀",
+    "title": "Market Ready",
+    "description": "Launch with confidence and clarity"
+   }
+  ],
+  "process": [
+   {
+    "step": 1,
+    "title": "Discovery",
+    "description": "Dive deep into your vision, values, and target audience"
+   },
+   {
+    "step": 2,
+    "title": "Strategy",
+    "description": "Develop positioning, messaging, and brand personality"
+   },
+   {
+    "step": 3,
+    "title": "Creation",
+    "description": "Design visual identity and brand guidelines"
+   },
+   {
+    "step": 4,
+    "title": "Delivery",
+    "description": "Complete brand playbook ready to implement"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "How long does brand development take?",
+    "answer": "Typically 4-6 weeks depending on scope and complexity of your brand requirements."
+   },
+   {
+    "question": "What deliverables do I receive?",
+    "answer": "Complete brand strategy document, visual identity guidelines, logo files, color palette, typography system, and brand voice guidelines."
+   },
+   {
+    "question": "Can you rebrand an existing business?",
+    "answer": "Absolutely! We specialize in both new brand development and strategic rebranding for established {city} businesses."
+   }
+  ]
+ },
+ {
+  "slug": "video-editing",
+  "title": "Video Editing",
+  "shortTitle": "Video Editing",
+  "titleTemplate": "Best Video Editing Services in {city}",
+  "descriptionTemplate": "Professional video editing in {city}. Transform raw footage into compelling reels, YouTube videos, and marketing content for {region} brands.",
+  "metaDescriptionTemplate": "Video editing services in {city}. Social media reels, YouTube videos, product demos, and explainers. Professional editing with fast turnaround.",
+  "keyPoints": [
+   "Social media reels and shorts",
+   "YouTube video editing",
+   "Product demo videos",
+   "Explainer videos",
+   "Testimonial videos",
+   "Motion graphics and animations"
+  ],
+  "benefits": [
+   {
+    "icon": "🎬",
+    "title": "Studio Quality",
+    "description": "Professional-grade video editing and effects"
+   },
+   {
+    "icon": "⚡",
+    "title": "Fast Turnaround",
+    "description": "Quick delivery without compromising quality"
+   },
+   {
+    "icon": "📱",
+    "title": "Multi-Format",
+    "description": "Optimized for all platforms and aspect ratios"
+   }
+  ],
+  "process": [
+   {
+    "step": 1,
+    "title": "Brief",
+    "description": "Understand your video goals and target audience"
+   },
+   {
+    "step": 2,
+    "title": "Edit",
+    "description": "Transform raw footage with cuts, transitions, and effects"
+   },
+   {
+    "step": 3,
+    "title": "Review",
+    "description": "Share drafts for feedback and refinement"
+   },
+   {
+    "step": 4,
+    "title": "Deliver",
+    "description": "Final videos in all required formats"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "What types of videos do you edit?",
+    "answer": "Social media reels, YouTube videos, product demos, explainers, testimonials, event coverage, and animated content."
+   },
+   {
+    "question": "Do I need to provide footage?",
+    "answer": "You can provide your own footage, or we can shoot original content for you. We also create fully animated videos if needed."
+   },
+   {
+    "question": "What's the typical turnaround time?",
+    "answer": "For {city} clients: Simple edits take 2-3 days. Complex videos with motion graphics take 5-7 days. Rush delivery available."
+   }
+  ]
+ },
+ {
+  "slug": "graphic-design",
+  "title": "Graphic Design",
+  "shortTitle": "Graphic Design",
+  "titleTemplate": "Best Graphic Design Services in {city}",
+  "descriptionTemplate": "Stunning graphic design in {city}. Social media graphics, brochures, presentations, and marketing collateral for {region} businesses.",
+  "metaDescriptionTemplate": "Graphic design services in {city}. Social media graphics, brochures, presentations, infographics, and brand collateral. On-brand designs delivered fast.",
+  "keyPoints": [
+   "Social media graphics and templates",
+   "Brochures and marketing collateral",
+   "Presentations and pitch decks",
+   "Infographics and data visualization",
+   "Digital ads and banners",
+   "Email templates and newsletters"
+  ],
+  "benefits": [
+   {
+    "icon": "🎨",
+    "title": "On-Brand Designs",
+    "description": "Every graphic follows your brand guidelines perfectly"
+   },
+   {
+    "icon": "⚡",
+    "title": "Quick Turnaround",
+    "description": "Fast delivery without compromising quality"
+   },
+   {
+    "icon": "📱",
+    "title": "Multi-Platform",
+    "description": "Designs optimized for every channel and format"
+   }
+  ],
+  "process": [
+   {
+    "step": 1,
+    "title": "Brief",
+    "description": "Understand design requirements and objectives"
+   },
+   {
+    "step": 2,
+    "title": "Concept",
+    "description": "Develop initial design concepts and directions"
+   },
+   {
+    "step": 3,
+    "title": "Design",
+    "description": "Create polished designs with attention to detail"
+   },
+   {
+    "step": 4,
+    "title": "Deliver",
+    "description": "Final files in all required formats and sizes"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "What design services are included?",
+    "answer": "Social media graphics, presentations, brochures, flyers, infographics, email templates, digital ads, business cards, and brand collateral."
+   },
+   {
+    "question": "How many revisions are included?",
+    "answer": "We include 2 rounds of revisions as standard. Additional revisions can be added if needed."
+   },
+   {
+    "question": "Can you match our existing brand style?",
+    "answer": "Absolutely! We work within {city} businesses' brand guidelines to ensure consistent visual identity across all designs."
+   }
+  ]
+ },
+ {
+  "slug": "branding-marketing",
+  "title": "Branding & Marketing",
+  "shortTitle": "Branding & Marketing",
+  "titleTemplate": "Best Branding & Marketing Agency in {city}",
+  "descriptionTemplate": "End-to-end branding and marketing in {city}. We create your complete brand identity and promote it with strategic campaigns for {region} businesses.",
+  "metaDescriptionTemplate": "Branding and marketing services in {city}. Complete brand development with integrated marketing execution. From logo to launch.",
+  "keyPoints": [
+   "Complete brand identity development",
+   "Logo, colors, typography, visual system",
+   "Brand strategy and positioning",
+   "Marketing strategy and execution",
+   "Content creation and social media",
+   "Digital advertising and promotion"
+  ],
+  "benefits": [
+   {
+    "icon": "🎯",
+    "title": "Unified Approach",
+    "description": "Brand and marketing working in perfect harmony"
+   },
+   {
+    "icon": "🚀",
+    "title": "Faster Launch",
+    "description": "From brand strategy to market presence in weeks"
+   },
+   {
+    "icon": "💡",
+    "title": "Cost Effective",
+    "description": "Better value than separate branding and marketing teams"
+   }
+  ],
+  "process": [
+   {
+    "step": 1,
+    "title": "Brand Foundation",
+    "description": "Develop brand strategy, positioning, and visual identity"
+   },
+   {
+    "step": 2,
+    "title": "Marketing Strategy",
+    "description": "Create go-to-market plan and campaign strategies"
+   },
+   {
+    "step": 3,
+    "title": "Execution",
+    "description": "Launch brand with coordinated marketing campaigns"
+   },
+   {
+    "step": 4,
+    "title": "Growth",
+    "description": "Continuous optimization and scaling"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "What's included in the package?",
+    "answer": "Complete branding (logo, guidelines, visual identity) + marketing strategy + 3-6 months of marketing execution including content, social media, and paid ads."
+   },
+   {
+    "question": "How is this different from just branding?",
+    "answer": "Branding creates your identity; marketing promotes it. This package does both - we build your brand and immediately put it in front of your audience."
+   },
+   {
+    "question": "How long does it take?",
+    "answer": "For {city} businesses: Brand development takes 4-6 weeks, then marketing campaigns launch immediately. You'll see results within 90 days."
+   }
+  ]
+ },
+ {
+  "slug": "rebranding",
+  "title": "Re-branding",
+  "shortTitle": "Re-branding",
+  "titleTemplate": "Best Rebranding Services in {city}",
+  "descriptionTemplate": "Refresh and revitalize your brand in {city}. Strategic rebranding that modernizes your identity while preserving brand equity for {region} businesses.",
+  "metaDescriptionTemplate": "Rebranding services in {city}. Brand refresh, repositioning, logo redesign, and visual identity modernization for established businesses.",
+  "keyPoints": [
+   "Brand audit and assessment",
+   "Strategic repositioning",
+   "Logo redesign and visual refresh",
+   "Updated brand guidelines",
+   "Messaging and voice refinement",
+   "Launch strategy and rollout plan"
+  ],
+  "benefits": [
+   {
+    "icon": "🔄",
+    "title": "Fresh Relevance",
+    "description": "Modernize your brand for today's market"
+   },
+   {
+    "icon": "💼",
+    "title": "Preserve Equity",
+    "description": "Keep what works while evolving what doesn't"
+   },
+   {
+    "icon": "📈",
+    "title": "Drive Growth",
+    "description": "Attract new customers without alienating existing ones"
+   }
+  ],
+  "process": [
+   {
+    "step": 1,
+    "title": "Audit",
+    "description": "Analyze current brand perception, performance, and market position"
+   },
+   {
+    "step": 2,
+    "title": "Strategy",
+    "description": "Define new positioning and identify what to keep vs. change"
+   },
+   {
+    "step": 3,
+    "title": "Redesign",
+    "description": "Create evolved visual identity and brand elements"
+   },
+   {
+    "step": 4,
+    "title": "Launch",
+    "description": "Roll out rebrand with internal and external communication plan"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "When should a business consider rebranding?",
+    "answer": "When entering new markets, after a merger/acquisition, if your brand feels outdated, when repositioning in the market, or if current branding doesn't reflect your values."
+   },
+   {
+    "question": "Will we lose brand recognition?",
+    "answer": "Not if done correctly. We preserve brand equity by maintaining recognizable elements while evolving others. Think Apple or Pepsi - evolved dramatically while maintaining recognition."
+   },
+   {
+    "question": "How long does rebranding take?",
+    "answer": "For {city} businesses: Strategic rebranding typically takes 8-12 weeks from audit to launch, depending on scope and complexity."
+   }
+  ]
+ },
+ {
+  "slug": "marketplace-listings",
+  "title": "Marketplace Listings",
+  "shortTitle": "Marketplace Listings",
+  "titleTemplate": "Best Amazon & Flipkart Listing Services in {city}",
+  "descriptionTemplate": "Optimize your Amazon and Flipkart listings in {city}. SEO, A+ Content, and sponsored ads management for {region} e-commerce sellers.",
+  "metaDescriptionTemplate": "Amazon and Flipkart listing optimization in {city}. Product SEO, A+ Content, sponsored ads management, and marketplace strategy.",
+  "keyPoints": [
+   "Product listing optimization (title, bullets, description)",
+   "Keyword research and marketplace SEO",
+   "Amazon A+ Content and Enhanced Brand Content",
+   "Sponsored Product Ads management (PPC)",
+   "Sponsored Brand and Display Ads",
+   "Product photography and infographics"
+  ],
+  "benefits": [
+   {
+    "icon": "🔍",
+    "title": "Better Visibility",
+    "description": "Rank higher in search results with optimized listings"
+   },
+   {
+    "icon": "💰",
+    "title": "Higher Conversion",
+    "description": "Compelling content that turns visitors into buyers"
+   },
+   {
+    "icon": "📊",
+    "title": "Lower ACoS",
+    "description": "Optimize ad spend for maximum ROI"
+   }
+  ],
+  "process": [
+   {
+    "step": 1,
+    "title": "Audit",
+    "description": "Analyze current listings, keywords, and ad performance"
+   },
+   {
+    "step": 2,
+    "title": "Optimize",
+    "description": "Improve listings with SEO, compelling copy, and enhanced content"
+   },
+   {
+    "step": 3,
+    "title": "Advertise",
+    "description": "Launch and manage sponsored ads campaigns"
+   },
+   {
+    "step": 4,
+    "title": "Scale",
+    "description": "Continuously optimize for better rankings and lower advertising costs"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "Which marketplaces do you work with?",
+    "answer": "We specialize in Amazon India, Amazon USA, and Flipkart. We can also help with other regional marketplaces upon request."
+   },
+   {
+    "question": "What is marketplace SEO?",
+    "answer": "It's optimizing your product listings to rank higher in Amazon/Flipkart search results in {city}. We research high-volume keywords and optimize titles, bullets, and descriptions."
+   },
+   {
+    "question": "Do you manage sponsored ads?",
+    "answer": "Yes! We manage Amazon PPC (Sponsored Products, Brands, Display) and Flipkart Ads to drive qualified traffic while minimizing ad spend."
+   }
+  ]
+ },
+ {
+  "slug": "instagram-marketing",
+  "title": "Instagram Marketing",
+  "shortTitle": "Instagram Marketing",
+  "titleTemplate": "Best Instagram Marketing Agency in {city}",
+  "descriptionTemplate": "Build an engaged Instagram community in {city} with scroll-stopping Reels, Stories, and strategic growth. Turn followers into customers for {region} brands.",
+  "metaDescriptionTemplate": "Instagram marketing services in {city}. Viral Reels, Stories, feed posts, and community management. Grow your Instagram presence with data-driven strategies.",
+  "keyPoints": [
+   "Instagram content strategy and planning",
+   "Reels that capture attention",
+   "Daily Stories and engagement",
+   "Feed posts and carousels",
+   "Hashtag research and optimization",
+   "Community management and DM handling"
+  ],
+  "benefits": [
+   {
+    "icon": "📱",
+    "title": "Scroll-Stopping Content",
+    "description": "Reels and posts designed to capture attention"
+   },
+   {
+    "icon": "❤️",
+    "title": "Real Community",
+    "description": "Build authentic connections with your audience"
+   },
+   {
+    "icon": "📈",
+    "title": "Strategic Growth",
+    "description": "Proven tactics to increase followers and engagement"
+   }
+  ],
+  "process": [
+   {
+    "step": 1,
+    "title": "Audit & Strategy",
+    "description": "Analyze current Instagram and develop growth strategy"
+   },
+   {
+    "step": 2,
+    "title": "Content Creation",
+    "description": "Design Reels, Stories, and feed posts"
+   },
+   {
+    "step": 3,
+    "title": "Posting & Engagement",
+    "description": "Consistent posting plus active community management"
+   },
+   {
+    "step": 4,
+    "title": "Optimize & Scale",
+    "description": "Track performance and refine strategy"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "How often should I post on Instagram?",
+    "answer": "We recommend 4-7 feed posts per week, daily Stories, and 3-5 Reels per week for optimal engagement."
+   },
+   {
+    "question": "What makes Reels go viral?",
+    "answer": "Trending audio, strong hooks in first 3 seconds, value or entertainment, and strategic hashtags. We study trends daily."
+   },
+   {
+    "question": "Do you respond to comments and DMs?",
+    "answer": "Yes! Community management is included for {city} clients. We monitor and respond to comments and DMs to build relationships."
+   }
+  ]
+ },
+ {
+  "slug": "linkedin-marketing",
+  "title": "LinkedIn Marketing",
+  "shortTitle": "LinkedIn Marketing",
+  "titleTemplate": "Best LinkedIn Marketing Agency in {city}",
+  "descriptionTemplate": "Establish thought leadership and generate B2B leads in {city} with strategic LinkedIn content. Position your {region} brand as an industry leader.",
+  "metaDescriptionTemplate": "LinkedIn marketing services in {city}. B2B lead generation, thought leadership content, and company page management. Drive qualified leads.",
+  "keyPoints": [
+   "LinkedIn content strategy for company pages",
+   "Thought leadership articles and posts",
+   "Employee advocacy programs",
+   "Lead generation campaigns",
+   "B2B connection strategies",
+   "LinkedIn newsletters and engagement"
+  ],
+  "benefits": [
+   {
+    "icon": "💼",
+    "title": "B2B Lead Generation",
+    "description": "Connect with decision-makers and generate qualified leads"
+   },
+   {
+    "icon": "🎯",
+    "title": "Thought Leadership",
+    "description": "Position your brand as an industry authority"
+   },
+   {
+    "icon": "🤝",
+    "title": "Professional Network",
+    "description": "Build relationships with your target audience"
+   }
+  ],
+  "process": [
+   {
+    "step": 1,
+    "title": "Strategy Development",
+    "description": "Define LinkedIn positioning and content pillars"
+   },
+   {
+    "step": 2,
+    "title": "Content Creation",
+    "description": "Craft thought leadership posts and articles"
+   },
+   {
+    "step": 3,
+    "title": "Engagement & Outreach",
+    "description": "Participate in conversations and strategic connections"
+   },
+   {
+    "step": 4,
+    "title": "Lead Nurturing",
+    "description": "Convert connections into conversations and leads"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "How is LinkedIn marketing different?",
+    "answer": "LinkedIn is a professional network focused on B2B relationships and thought leadership. Content is industry-focused and aimed at decision-makers."
+   },
+   {
+    "question": "Should I focus on personal or company pages?",
+    "answer": "Both! Personal profiles drive thought leadership while company pages establish brand authority. We recommend a combined strategy."
+   },
+   {
+    "question": "How do you generate leads on LinkedIn?",
+    "answer": "For {city} businesses, we use valuable content, strategic connections, engagement, newsletters, and targeted outreach to decision-makers."
+   }
+  ]
+ },
+ {
+  "slug": "influencer-marketing",
+  "title": "Influencer Marketing",
+  "shortTitle": "Influencer Marketing",
+  "titleTemplate": "Best Influencer Marketing Agency in {city}",
+  "descriptionTemplate": "Amplify your brand in {city} with authentic influencer partnerships. Connect with {region} audiences through trusted voices and drive real results.",
+  "metaDescriptionTemplate": "Influencer marketing services in {city}. Find the right influencers, manage campaigns, and track ROI. Authentic brand collaborations that drive sales.",
+  "keyPoints": [
+   "Influencer identification and vetting",
+   "Campaign strategy and creative briefs",
+   "Contract negotiation and management",
+   "Content approval and quality control",
+   "Campaign execution and monitoring",
+   "Performance tracking and ROI measurement"
+  ],
+  "benefits": [
+   {
+    "icon": "🎯",
+    "title": "Targeted Reach",
+    "description": "Access highly engaged audiences matching your ideal customer"
+   },
+   {
+    "icon": "🤝",
+    "title": "Authentic Trust",
+    "description": "Leverage influencer credibility to build customer trust"
+   },
+   {
+    "icon": "📊",
+    "title": "Measurable Results",
+    "description": "Track engagement, conversions, and ROI"
+   }
+  ],
+  "process": [
+   {
+    "step": 1,
+    "title": "Strategy & Selection",
+    "description": "Define goals and identify aligned influencers"
+   },
+   {
+    "step": 2,
+    "title": "Outreach & Negotiation",
+    "description": "Contact influencers and finalize contracts"
+   },
+   {
+    "step": 3,
+    "title": "Campaign Execution",
+    "description": "Provide briefs, review content, and launch"
+   },
+   {
+    "step": 4,
+    "title": "Monitor & Report",
+    "description": "Track performance metrics and provide ROI reports"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "How do you choose the right influencers?",
+    "answer": "We analyze audience demographics, engagement rates, content quality, brand alignment, and past performance. Authentic fit over follower count."
+   },
+   {
+    "question": "What's better: micro or macro influencers?",
+    "answer": "Micro-influencers (10K-100K) have higher engagement and are cost-effective. Macro-influencers (100K+) provide broader reach. We often recommend a mix."
+   },
+   {
+    "question": "How much do campaigns cost?",
+    "answer": "Costs vary widely in {city}. Micro-influencers might charge ₹5,000-50,000 per post, while macro-influencers range from ₹50,000 to several lakhs."
+   }
+  ]
+ },
+ {
+  "slug": "email-marketing-automation",
+  "title": "Email Marketing & Automation",
+  "shortTitle": "Email Marketing",
+  "titleTemplate": "Best Email Marketing Services in {city}",
+  "descriptionTemplate": "Build relationships and drive sales in {city} with strategic email campaigns and automated workflows. Turn subscribers into customers for {region} businesses.",
+  "metaDescriptionTemplate": "Email marketing services in {city}. Automated workflows, abandoned cart recovery, newsletters, and drip campaigns. Highest ROI marketing channel.",
+  "keyPoints": [
+   "Email strategy and list segmentation",
+   "Welcome series and onboarding automation",
+   "Abandoned cart recovery emails",
+   "Newsletter design and management",
+   "Drip campaigns and nurture sequences",
+   "A/B testing and optimization"
+  ],
+  "benefits": [
+   {
+    "icon": "💰",
+    "title": "Highest ROI",
+    "description": "Email averages $42 return for every $1 spent"
+   },
+   {
+    "icon": "🎯",
+    "title": "Precise Targeting",
+    "description": "Segment audiences and send personalized messages"
+   },
+   {
+    "icon": "⚡",
+    "title": "Automated Revenue",
+    "description": "Earn while you sleep with automated workflows"
+   }
+  ],
+  "process": [
+   {
+    "step": 1,
+    "title": "Setup & Strategy",
+    "description": "Configure email platform and plan campaign strategy"
+   },
+   {
+    "step": 2,
+    "title": "Design & Build",
+    "description": "Create beautiful templates and compelling copy"
+   },
+   {
+    "step": 3,
+    "title": "Automate",
+    "description": "Set up workflows for welcome, cart abandonment, and nurture"
+   },
+   {
+    "step": 4,
+    "title": "Optimize & Scale",
+    "description": "Test and improve performance continuously"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "What email platform do you use?",
+    "answer": "We work with Mailchimp, Klaviyo, ActiveCampaign, ConvertKit based on your business needs."
+   },
+   {
+    "question": "How do you grow email lists?",
+    "answer": "We implement lead magnets, pop-ups, landing pages, and opt-in forms optimized for conversions."
+   },
+   {
+    "question": "What's abandoned cart recovery?",
+    "answer": "When {city} shoppers add items but don't buy, we send automated reminder emails (often with incentives) to recover the sale. Typically recovers 10-15% of carts."
+   }
+  ]
+ }
+]

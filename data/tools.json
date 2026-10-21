@@ -1,0 +1,47 @@
+[
+ {
+  "name": "LinkedIn Headline Generator",
+  "description": "Create compelling LinkedIn headlines that attract your ideal clients and showcase your expertise.",
+  "href": "/tools/linkedin-headline-generator"
+ },
+ {
+  "name": "Instagram Bio Generator",
+  "description": "Generate eye-catching Instagram bios with perfect emojis that convert followers into clients.",
+  "href": "/tools/instagram-bio-generator"
+ },
+ {
+  "name": "Hashtag Generator",
+  "description": "Generate trending hashtags for Instagram, LinkedIn, Twitter, and TikTok to maximize your reach.",
+  "href": "/tools/hashtag-generator"
+ },
+ {
+  "name": "Marketing ROI Calculator",
+  "description": "Calculate your return on marketing investment and make data-driven decisions for your business.",
+  "href": "/tools/marketing-roi-calculator"
+ },
+ {
+  "name": "Brand Name Generator",
+  "description": "Generate creative, memorable brand names for your business in seconds.",
+  "href": "/tools/brand-name-generator"
+ },
+ {
+  "name": "Social Media Audit",
+  "description": "Evaluate your social media presence and get personalized recommendations to improve your strategy.",
+  "href": "/tools/social-media-audit"
+ },
+ {
+  "name": "Content Calendar Generator",
+  "description": "Create organized content calendars for your social media with posting schedules and content ideas.",
+  "href": "/tools/content-calendar-generator"
+ },
+ {
+  "name": "Email Subject Line Generator",
+  "description": "Create high-converting email subject lines that boost open rates for any type of email campaign.",
+  "href": "/tools/email-subject-line-generator"
+ },
+ {
+  "name": "Meta Description Generator",
+  "description": "Generate SEO-optimized meta descriptions that improve click-through rates in search results.",
+  "href": "/tools/meta-description-generator"
+ }
+]

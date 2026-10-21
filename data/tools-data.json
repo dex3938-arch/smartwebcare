@@ -1,0 +1,483 @@
+{
+ "audit": [
+  {
+   "id": "profile_complete",
+   "question": "Is your profile 100% complete with bio, photo, and contact info?",
+   "category": "Profile",
+   "weight": 10,
+   "recommendation": "Complete your profile with a professional photo, compelling bio, and contact information"
+  },
+  {
+   "id": "posting_frequency",
+   "question": "Do you post at least 3 times per week?",
+   "category": "Content",
+   "weight": 15,
+   "recommendation": "Increase posting frequency to at least 3-5 times per week for better engagement"
+  },
+  {
+   "id": "content_variety",
+   "question": "Do you use a variety of content formats (images, videos, stories)?",
+   "category": "Content",
+   "weight": 10,
+   "recommendation": "Experiment with different content formats like Reels, Stories, and carousel posts"
+  },
+  {
+   "id": "engagement",
+   "question": "Do you respond to comments and DMs within 24 hours?",
+   "category": "Engagement",
+   "weight": 15,
+   "recommendation": "Prioritize responding to comments and DMs to build community"
+  },
+  {
+   "id": "hashtags",
+   "question": "Do you use relevant hashtags strategically?",
+   "category": "Visibility",
+   "weight": 10,
+   "recommendation": "Research and use a mix of popular and niche hashtags relevant to your content"
+  },
+  {
+   "id": "brand_consistency",
+   "question": "Is your visual branding consistent across all posts?",
+   "category": "Branding",
+   "weight": 10,
+   "recommendation": "Create brand guidelines and use consistent colors, fonts, and visual style"
+  },
+  {
+   "id": "cta",
+   "question": "Do your posts include clear calls-to-action?",
+   "category": "Conversion",
+   "weight": 10,
+   "recommendation": "Add clear calls-to-action in your posts to drive specific actions"
+  },
+  {
+   "id": "analytics",
+   "question": "Do you review your analytics at least monthly?",
+   "category": "Strategy",
+   "weight": 10,
+   "recommendation": "Set up monthly analytics reviews to understand what content performs best"
+  },
+  {
+   "id": "competitor_research",
+   "question": "Do you regularly research what competitors are doing?",
+   "category": "Strategy",
+   "weight": 5,
+   "recommendation": "Analyze 3-5 competitors monthly to identify trends and opportunities"
+  },
+  {
+   "id": "paid_ads",
+   "question": "Do you run paid advertising campaigns?",
+   "category": "Growth",
+   "weight": 5,
+   "recommendation": "Consider running targeted ad campaigns to accelerate growth"
+  }
+ ],
+ "frequencies": [
+  {
+   "id": "daily",
+   "name": "Daily (7 posts/week)",
+   "postsPerWeek": 7
+  },
+  {
+   "id": "5x",
+   "name": "5x per week",
+   "postsPerWeek": 5
+  },
+  {
+   "id": "3x",
+   "name": "3x per week",
+   "postsPerWeek": 3
+  },
+  {
+   "id": "weekly",
+   "name": "Weekly (1 post/week)",
+   "postsPerWeek": 1
+  }
+ ],
+ "platforms": [
+  {
+   "id": "linkedin",
+   "name": "LinkedIn"
+  },
+  {
+   "id": "instagram",
+   "name": "Instagram"
+  },
+  {
+   "id": "twitter",
+   "name": "Twitter/X"
+  },
+  {
+   "id": "facebook",
+   "name": "Facebook"
+  },
+  {
+   "id": "youtube",
+   "name": "YouTube"
+  }
+ ],
+ "bestTimes": {
+  "linkedin": [
+   {
+    "day": "Monday",
+    "time": "10:00 AM"
+   },
+   {
+    "day": "Tuesday",
+    "time": "11:00 AM"
+   },
+   {
+    "day": "Wednesday",
+    "time": "12:00 PM"
+   },
+   {
+    "day": "Thursday",
+    "time": "10:00 AM"
+   },
+   {
+    "day": "Friday",
+    "time": "9:00 AM"
+   },
+   {
+    "day": "Saturday",
+    "time": "11:00 AM"
+   },
+   {
+    "day": "Sunday",
+    "time": "3:00 PM"
+   }
+  ],
+  "instagram": [
+   {
+    "day": "Monday",
+    "time": "11:00 AM"
+   },
+   {
+    "day": "Tuesday",
+    "time": "2:00 PM"
+   },
+   {
+    "day": "Wednesday",
+    "time": "11:00 AM"
+   },
+   {
+    "day": "Thursday",
+    "time": "7:00 PM"
+   },
+   {
+    "day": "Friday",
+    "time": "2:00 PM"
+   },
+   {
+    "day": "Saturday",
+    "time": "9:00 AM"
+   },
+   {
+    "day": "Sunday",
+    "time": "7:00 PM"
+   }
+  ],
+  "twitter": [
+   {
+    "day": "Monday",
+    "time": "8:00 AM"
+   },
+   {
+    "day": "Tuesday",
+    "time": "9:00 AM"
+   },
+   {
+    "day": "Wednesday",
+    "time": "12:00 PM"
+   },
+   {
+    "day": "Thursday",
+    "time": "8:00 AM"
+   },
+   {
+    "day": "Friday",
+    "time": "8:00 AM"
+   },
+   {
+    "day": "Saturday",
+    "time": "10:00 AM"
+   },
+   {
+    "day": "Sunday",
+    "time": "4:00 PM"
+   }
+  ],
+  "facebook": [
+   {
+    "day": "Monday",
+    "time": "9:00 AM"
+   },
+   {
+    "day": "Tuesday",
+    "time": "1:00 PM"
+   },
+   {
+    "day": "Wednesday",
+    "time": "11:00 AM"
+   },
+   {
+    "day": "Thursday",
+    "time": "9:00 AM"
+   },
+   {
+    "day": "Friday",
+    "time": "9:00 AM"
+   },
+   {
+    "day": "Saturday",
+    "time": "12:00 PM"
+   },
+   {
+    "day": "Sunday",
+    "time": "1:00 PM"
+   }
+  ],
+  "youtube": [
+   {
+    "day": "Monday",
+    "time": "2:00 PM"
+   },
+   {
+    "day": "Tuesday",
+    "time": "4:00 PM"
+   },
+   {
+    "day": "Wednesday",
+    "time": "4:00 PM"
+   },
+   {
+    "day": "Thursday",
+    "time": "4:00 PM"
+   },
+   {
+    "day": "Friday",
+    "time": "3:00 PM"
+   },
+   {
+    "day": "Saturday",
+    "time": "9:00 AM"
+   },
+   {
+    "day": "Sunday",
+    "time": "9:00 AM"
+   }
+  ]
+ },
+ "contentTypes": {
+  "linkedin": [
+   "Text Post",
+   "Carousel",
+   "Article",
+   "Video",
+   "Poll",
+   "Document"
+  ],
+  "instagram": [
+   "Feed Post",
+   "Carousel",
+   "Reel",
+   "Story",
+   "Live"
+  ],
+  "twitter": [
+   "Tweet",
+   "Thread",
+   "Poll",
+   "Video Tweet",
+   "Quote Tweet"
+  ],
+  "facebook": [
+   "Post",
+   "Video",
+   "Story",
+   "Live",
+   "Event"
+  ],
+  "youtube": [
+   "Long-form Video",
+   "Shorts",
+   "Live Stream",
+   "Community Post"
+  ]
+ },
+ "themes": {
+  "Educational/How-to": [
+   "Step-by-step guide to [your expertise]",
+   "5 common mistakes in [industry] and how to avoid them",
+   "The complete beginner guide to [topic]",
+   "How to [achieve specific result] in [timeframe]",
+   "What I wish I knew before starting [journey]"
+  ],
+  "Behind the Scenes": [
+   "A day in my life as a [profession]",
+   "How we created [product/service]",
+   "My morning routine for peak productivity",
+   "The tools I use every day",
+   "What goes into [specific process]"
+  ],
+  "Client Success Stories": [
+   "How [client] achieved [result] in [timeframe]",
+   "Before and after: [client] transformation",
+   "Client spotlight: [name] journey",
+   "Case study: [specific achievement]",
+   "What [client] taught me about [lesson]"
+  ],
+  "Industry News & Trends": [
+   "The future of [industry] in 2025",
+   "Why [trend] is changing everything",
+   "New updates in [platform/tool] you need to know",
+   "My take on [industry news]",
+   "Predictions for [industry] this year"
+  ],
+  "Personal Stories": [
+   "My journey from [start] to [current position]",
+   "The biggest lesson I learned in [year]",
+   "Why I started [business/journey]",
+   "My biggest failure and what I learned",
+   "The moment that changed my career"
+  ],
+  "Tips & Tricks": [
+   "Quick tip: [actionable advice]",
+   "3 hacks to [achieve result] faster",
+   "The one thing that [improved outcome]",
+   "Save this for later: [valuable tip]",
+   "Pro tip that took me years to learn"
+  ],
+  "Quotes & Motivation": [
+   "The quote that changed my perspective",
+   "Monday motivation: [theme]",
+   "Remember this when [situation]",
+   "Words I live by",
+   "What [mentor/book] taught me"
+  ],
+  "Product/Service Showcase": [
+   "Introducing [new feature/service]",
+   "Why we created [product]",
+   "How [product] solves [problem]",
+   "See [product] in action",
+   "What makes [service] different"
+  ],
+  "Q&A / FAQ": [
+   "Answering your top questions about [topic]",
+   "You asked, I answered: [common question]",
+   "The question I get asked most often",
+   "FAQ Friday: [topic]",
+   "Let us clear up confusion about [topic]"
+  ],
+  "User-Generated Content": [
+   "Sharing [customer] amazing work",
+   "You all asked for this: [topic]",
+   "Reacting to your comments",
+   "Community spotlight: [member]",
+   "Best submissions of the week"
+  ]
+ },
+ "platformHashtags": {
+  "linkedin": [
+   "#personalbranding",
+   "#leadership",
+   "#entrepreneurship",
+   "#marketing",
+   "#growthmindset",
+   "#businesstips",
+   "#linkedintips",
+   "#careeradvice"
+  ],
+  "instagram": [
+   "#reels",
+   "#instagramgrowth",
+   "#contentcreator",
+   "#socialmediamarketing",
+   "#digitalmarketing",
+   "#entrepreneur",
+   "#businessowner",
+   "#brandingtips"
+  ],
+  "twitter": [
+   "#marketing",
+   "#branding",
+   "#entrepreneur",
+   "#startup",
+   "#growth",
+   "#socialmedia",
+   "#business",
+   "#tips"
+  ],
+  "facebook": [
+   "#business",
+   "#entrepreneur",
+   "#marketing",
+   "#success",
+   "#motivation",
+   "#smallbusiness",
+   "#growth",
+   "#community"
+  ],
+  "youtube": [
+   "#youtube",
+   "#youtuber",
+   "#video",
+   "#content",
+   "#tutorial",
+   "#howto",
+   "#tips",
+   "#vlog"
+  ]
+ },
+ "hashtags": {
+  "linkedin": [
+   "#personalbranding",
+   "#leadership",
+   "#entrepreneurship",
+   "#marketing",
+   "#growthmindset",
+   "#businesstips",
+   "#linkedintips",
+   "#careeradvice"
+  ],
+  "instagram": [
+   "#reels",
+   "#instagramgrowth",
+   "#contentcreator",
+   "#socialmediamarketing",
+   "#digitalmarketing",
+   "#entrepreneur",
+   "#businessowner",
+   "#brandingtips"
+  ],
+  "twitter": [
+   "#marketing",
+   "#branding",
+   "#entrepreneur",
+   "#startup",
+   "#growth",
+   "#socialmedia",
+   "#business",
+   "#tips"
+  ],
+  "facebook": [
+   "#business",
+   "#entrepreneur",
+   "#marketing",
+   "#success",
+   "#motivation",
+   "#smallbusiness",
+   "#growth",
+   "#community"
+  ],
+  "youtube": [
+   "#youtube",
+   "#youtuber",
+   "#video",
+   "#content",
+   "#tutorial",
+   "#howto",
+   "#tips",
+   "#vlog"
+  ]
+ }
+}

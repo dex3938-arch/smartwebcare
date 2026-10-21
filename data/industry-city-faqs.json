@@ -1,0 +1,266 @@
+{
+ "coaches-consultants": [
+  {
+   "question": "How much does marketing cost for coaches and consultants in {city}?",
+   "answer": "Marketing costs for coaches and consultants in {city} typically range from ₹30,000 to ₹2,00,000 per month depending on the scope of services. This includes personal branding, content creation, LinkedIn optimization, and lead generation campaigns. We offer customized packages based on your specific goals and budget. Book a free consultation to get a personalized quote."
+  },
+  {
+   "question": "What social media platforms work best for consultants in {city}?",
+   "answer": "LinkedIn is the #1 platform for consultants in {city}, followed by Instagram for personal branding. LinkedIn helps establish thought leadership and generates B2B leads, while Instagram builds emotional connection with your audience. We recommend focusing 70% effort on LinkedIn and 30% on Instagram for maximum ROI."
+  },
+  {
+   "question": "How long does it take to build a personal brand in {city}?",
+   "answer": "Building a strong personal brand in {city} typically takes 3-6 months of consistent effort. You'll see initial traction within 4-6 weeks with increased engagement and profile views. By month 3, expect inbound inquiries, and by month 6, a steady stream of qualified leads. Our proven framework accelerates this timeline."
+  },
+  {
+   "question": "Do I need professional video content as a consultant in {city}?",
+   "answer": "Yes, video content significantly boosts engagement and credibility in {city}'s competitive consulting market. Short-form videos (Reels, LinkedIn videos) perform 5x better than text posts. We help consultants create professional yet authentic video content that showcases expertise without requiring expensive equipment or studio setups."
+  },
+  {
+   "question": "Can marketing help me charge higher fees as a coach in {city}?",
+   "answer": "Absolutely. Strategic personal branding positions you as an authority in {city}, allowing you to charge premium fees. Our clients typically increase their rates by 30-50% within 6 months as they build credibility, showcase results, and attract higher-quality clients who value expertise over price."
+  }
+ ],
+ "real-estate": [
+  {
+   "question": "How can real estate agents in {city} generate more leads through digital marketing?",
+   "answer": "Real estate agents in {city} can generate quality leads through targeted Facebook and Instagram ads, Google My Business optimization, property listing videos, virtual tours, and neighborhood guides. We create hyper-local campaigns targeting buyers and sellers in specific {city} areas with proven ROI. Our clients typically see 3-5x increase in qualified inquiries within 60 days."
+  },
+  {
+   "question": "What's the best marketing strategy for property developers in {city}?",
+   "answer": "Property developers in {city} benefit from multi-channel strategies: SEO-optimized property websites, 3D virtual tours, drone videography, targeted social media ads, and influencer partnerships. We focus on showcasing lifestyle benefits, amenities, and location advantages specific to {city}. Content marketing highlighting investment potential drives serious buyer interest."
+  },
+  {
+   "question": "How much should real estate professionals budget for marketing in {city}?",
+   "answer": "Real estate professionals in {city} should allocate 5-10% of expected commission revenue to marketing. For individual agents, this ranges from ₹40,000-₹1,50,000 per month. For developers, budget ₹2,00,000-₹10,00,000+ per project based on property value and target audience. ROI-focused campaigns ensure every rupee spent generates measurable returns."
+  },
+  {
+   "question": "Does video marketing work for real estate in {city}?",
+   "answer": "Video marketing is essential for real estate in {city}. Property walkthrough videos receive 10x more engagement than photos. Drone footage, neighborhood tours, client testimonials, and market update videos establish authority and trust. Listings with professional videos sell 30-40% faster and often command higher prices."
+  },
+  {
+   "question": "How can I stand out in {city}'s competitive real estate market?",
+   "answer": "Stand out in {city} by building a strong personal brand showcasing local expertise, sharing market insights, creating valuable content about {city} neighborhoods, leveraging video testimonials, and maintaining active social media presence. We help real estate professionals become the go-to authority in their niche within {city}."
+  }
+ ],
+ "healthcare-wellness": [
+  {
+   "question": "How can healthcare providers in {city} attract more patients?",
+   "answer": "Healthcare providers in {city} attract patients through Google My Business optimization, educational content marketing, patient testimonials, before/after showcases (where appropriate), and targeted local ads. We focus on building trust through expertise-driven content while ensuring full compliance with medical advertising guidelines in India."
+  },
+  {
+   "question": "What marketing regulations apply to healthcare businesses in {city}?",
+   "answer": "Healthcare marketing in {city} must comply with Indian Medical Council regulations prohibiting misleading claims, guarantees of cure, and patient testimonials for certain conditions. We ensure all campaigns follow ethical guidelines while effectively communicating your expertise, facility quality, and patient care approach. Content focuses on education over promotion."
+  },
+  {
+   "question": "Is social media effective for wellness businesses in {city}?",
+   "answer": "Yes, social media is highly effective for wellness businesses in {city}. Instagram and YouTube work best for fitness trainers, nutritionists, and yoga studios. LinkedIn suits mental health professionals and corporate wellness programs. We create educational content, transformation stories, and wellness tips that build authority and attract ideal clients."
+  },
+  {
+   "question": "How can clinics in {city} improve their online reputation?",
+   "answer": "Clinics in {city} improve online reputation through proactive Google review management, responding to patient feedback professionally, showcasing facility and staff on social media, sharing health education content, and highlighting specializations. We implement reputation management strategies that build trust and attract new patients."
+  },
+  {
+   "question": "What's the ROI timeline for healthcare marketing in {city}?",
+   "answer": "Healthcare marketing in {city} typically shows results within 2-4 months. Initial phase focuses on visibility and trust-building. By month 3, expect increased appointment bookings. Month 6+ shows consistent patient flow and strong local presence. Healthcare requires longer trust-building but delivers sustainable patient acquisition."
+  }
+ ],
+ "saas-tech-startups": [
+  {
+   "question": "What marketing strategies work best for SaaS startups in {city}?",
+   "answer": "SaaS startups in {city} succeed with product-led growth, content marketing targeting buyer keywords, LinkedIn thought leadership, free trial campaigns, and developer community building. We focus on demo conversions, feature-driven content, integration partnerships, and case studies. Our tech-focused approach drives qualified signups and reduces CAC."
+  },
+  {
+   "question": "How can tech startups in {city} build thought leadership?",
+   "answer": "Tech startups in {city} build thought leadership through founder-led LinkedIn content, technical blogs solving industry problems, speaking at tech events, contributing to open source, sharing product learnings, and engaging in relevant online communities. We position your founders as industry experts attracting investors, customers, and talent."
+  },
+  {
+   "question": "What's the average marketing budget for early-stage startups in {city}?",
+   "answer": "Early-stage startups in {city} typically allocate ₹50,000-₹3,00,000 monthly for marketing. Pre-revenue startups focus on organic content and community. Post-PMF startups invest in paid acquisition and growth experiments. We recommend starting with founder-led content and SEO, then scaling paid channels as you validate product-market fit."
+  },
+  {
+   "question": "Should SaaS companies in {city} focus on LinkedIn or other platforms?",
+   "answer": "B2B SaaS companies in {city} should prioritize LinkedIn for decision-maker reach, followed by Twitter for developer audiences and tech community engagement. YouTube works for product tutorials and demos. We create platform-specific strategies balancing thought leadership content with product education and customer success stories."
+  },
+  {
+   "question": "How long does it take to see marketing results for tech startups in {city}?",
+   "answer": "Tech startups in {city} typically see initial traction within 6-8 weeks with increased brand awareness and website traffic. Demo requests and qualified leads pick up by month 3. Consistent content marketing and paid campaigns show strong ROI by month 6. SaaS marketing requires patience but delivers compounding returns over time."
+  }
+ ],
+ "ecommerce-d2c": [
+  {
+   "question": "How can e-commerce brands in {city} increase online sales?",
+   "answer": "E-commerce brands in {city} increase sales through conversion-optimized product pages, retargeting campaigns, influencer partnerships, user-generated content, seasonal promotions, and WhatsApp marketing. We focus on reducing cart abandonment, improving product discovery, and creating urgency. Our strategies typically boost conversion rates by 40-60%."
+  },
+  {
+   "question": "What's the best marketing strategy for D2C brands in {city}?",
+   "answer": "D2C brands in {city} succeed with Instagram-first content, creator collaborations, unboxing experiences, customer testimonials, and performance marketing. We build communities around your brand, leverage UGC, optimize marketplace listings (Amazon, Flipkart), and create thumb-stopping creative. Focus on building brand loyalty beyond transactions."
+  },
+  {
+   "question": "Should D2C brands in {city} invest in influencer marketing?",
+   "answer": "Yes, influencer marketing delivers strong ROI for D2C brands in {city}. Micro-influencers (10K-100K followers) often outperform celebrities with higher engagement and trust. We identify relevant creators, negotiate performance-based deals, and track conversions. Expect 5-10x ROAS from well-executed influencer campaigns."
+  },
+  {
+   "question": "How much should e-commerce brands budget for ads in {city}?",
+   "answer": "E-commerce brands in {city} should allocate 15-25% of revenue to marketing, with 60-70% going to performance ads (Meta, Google). Start with ₹1,00,000-₹5,00,000 monthly ad spend and scale based on ROAS. We optimize campaigns to achieve 3-5x ROAS while maintaining healthy CAC:LTV ratios."
+  },
+  {
+   "question": "What platforms drive the most sales for D2C brands in {city}?",
+   "answer": "Instagram and Facebook drive highest sales for D2C brands in {city}, accounting for 60-70% of social commerce revenue. WhatsApp Business for personalized selling, Google Ads for intent-driven traffic, and marketplace ads (Amazon, Flipkart) for product discovery complete the mix. We create omnichannel strategies maximizing each platform's strengths."
+  }
+ ],
+ "restaurants-hospitality": [
+  {
+   "question": "How can restaurants in {city} attract more customers through social media?",
+   "answer": "Restaurants in {city} attract customers through mouth-watering food photography, behind-the-scenes content, chef stories, customer testimonials, limited-time offers, and UGC from food bloggers. Instagram and Google My Business are crucial. We create content that drives reservations and foot traffic while building a loyal community."
+  },
+  {
+   "question": "What's the ROI of influencer marketing for restaurants in {city}?",
+   "answer": "Influencer marketing delivers 4-8x ROI for restaurants in {city}. Food bloggers with 20K-100K followers drive immediate footfall and long-term brand awareness. One viral post can generate 50-200 new customers. We identify authentic food influencers, manage collaborations, and track attributable revenue from each partnership."
+  },
+  {
+   "question": "Should hotels in {city} invest in video marketing?",
+   "answer": "Absolutely. Hotels in {city} must use video to showcase rooms, amenities, locations, and guest experiences. Virtual tours, drone footage, and testimonial videos significantly boost bookings. Properties with video content see 50% more inquiries. We create cinematic content that positions your property as the preferred choice in {city}."
+  },
+  {
+   "question": "How can hospitality businesses in {city} manage online reviews?",
+   "answer": "Hospitality businesses in {city} need proactive review management on Google, TripAdvisor, and Zomato. Respond to all reviews within 24 hours, showcase positive testimonials, and address negative feedback professionally. We implement review generation campaigns that improve ratings and build trust with potential customers."
+  },
+  {
+   "question": "What's the best way to promote special events at restaurants in {city}?",
+   "answer": "Promote restaurant events in {city} through targeted Facebook/Instagram ads to local audiences, Google My Business event posts, email marketing to existing customers, influencer invitations, and early-bird offers. Create event-specific landing pages and use countdown timers. Multi-channel promotion ensures packed venues and maximizes revenue."
+  }
+ ],
+ "legal-financial": [
+  {
+   "question": "How can law firms in {city} attract high-value clients online?",
+   "answer": "Law firms in {city} attract premium clients through thought leadership content, SEO-optimized legal guides, case study showcases, LinkedIn authority building, and Google Ads targeting high-intent keywords. We position attorneys as trusted advisors through educational content while ensuring compliance with Bar Council advertising guidelines."
+  },
+  {
+   "question": "Is LinkedIn effective for financial advisors in {city}?",
+   "answer": "Yes, LinkedIn is the most effective platform for financial advisors in {city}. It's ideal for establishing trust, sharing market insights, demonstrating expertise, and connecting with high-net-worth individuals. We create content strategies that position advisors as thought leaders while generating qualified leads and referrals."
+  },
+  {
+   "question": "What content works best for CA firms in {city}?",
+   "answer": "CA firms in {city} succeed with tax planning guides, compliance update videos, startup financial advice, GST tutorials, and regulatory deadline reminders. Educational content builds trust and positions CAs as essential business partners. We create content calendars aligned with financial year cycles and tax seasons for maximum relevance."
+  },
+  {
+   "question": "How much should legal/financial firms budget for marketing in {city}?",
+   "answer": "Legal and financial firms in {city} should allocate 5-10% of revenue to marketing, ranging from ₹50,000-₹3,00,000 monthly based on firm size. Focus on high-ROI channels: LinkedIn, Google Ads, SEO, and referral programs. Professional services marketing requires longer sales cycles but delivers high-value clients with strong LTV."
+  },
+  {
+   "question": "What marketing regulations apply to financial services in {city}?",
+   "answer": "Financial services marketing in {city} must comply with SEBI, IRDAI, and RBI guidelines prohibiting misleading claims, guaranteed returns, and unsubstantiated performance data. All content needs disclaimers and risk warnings. We ensure compliant marketing that builds trust while effectively communicating your expertise and value proposition."
+  }
+ ],
+ "education-edtech": [
+  {
+   "question": "How can coaching institutes in {city} attract more students online?",
+   "answer": "Coaching institutes in {city} attract students through Google Ads targeting exam-related keywords, YouTube educational content, student success stories, faculty showcases, and free demo classes. Instagram Reels and Facebook communities build engagement. We create enrollment-focused campaigns with proven conversion funnels that fill batches consistently."
+  },
+  {
+   "question": "What's the best marketing strategy for EdTech startups in {city}?",
+   "answer": "EdTech startups in {city} succeed with free trial campaigns, content marketing targeting student pain points, influencer partnerships with educators, app store optimization, and performance marketing. We focus on reducing cost-per-acquisition through organic channels while scaling paid campaigns for courses with proven demand and retention."
+  },
+  {
+   "question": "Should educational institutions in {city} use video marketing?",
+   "answer": "Yes, video marketing is essential for education brands in {city}. Lecture samples, student testimonials, campus tours, faculty introductions, and explainer videos build trust and showcase quality. Video content receives 10x more engagement than text. We create video strategies that convert viewers into enrolled students."
+  },
+  {
+   "question": "How can schools in {city} improve admission inquiries?",
+   "answer": "Schools in {city} improve inquiries through local SEO, Google My Business optimization, virtual campus tours, parent testimonials, academic achievement showcases, and targeted Facebook ads to parents. We create informative content addressing parent concerns about curriculum, facilities, safety, and results while driving campus visit bookings."
+  },
+  {
+   "question": "What's the ROI timeline for education marketing in {city}?",
+   "answer": "Education marketing in {city} shows results within admission cycles. For annual admissions, start campaigns 3-4 months before. EdTech sees faster results with online enrollment. Expect increased inquiries within 2-4 weeks, with strong conversion by month 2-3. Consistent marketing builds brand reputation that compounds over academic years."
+  }
+ ],
+ "beauty-fashion": [
+  {
+   "question": "How can beauty salons in {city} attract more customers?",
+   "answer": "Beauty salons in {city} attract customers through Instagram-first content showcasing transformations, influencer partnerships, Google My Business optimization, limited-time offers, and customer testimonials. Visual platforms work best. We create before/after content, trend-based Reels, and local targeting campaigns that keep appointment slots filled."
+  },
+  {
+   "question": "What marketing works for fashion boutiques in {city}?",
+   "answer": "Fashion boutiques in {city} succeed with Instagram Shopping, influencer styling collaborations, lookbook content, seasonal campaigns, and WhatsApp catalog marketing. We create aspirational content, leverage UGC, and run flash sales that drive store visits and online orders. Focus on building community around your brand aesthetic."
+  },
+  {
+   "question": "Should beauty brands in {city} work with micro-influencers?",
+   "answer": "Yes, micro-influencers (10K-50K followers) deliver higher ROI for beauty brands in {city}. They have engaged communities, authentic voices, and affordable rates. One campaign with 5-10 micro-influencers often outperforms one macro-influencer. We identify relevant creators and manage performance-based partnerships."
+  },
+  {
+   "question": "How much should beauty/fashion businesses budget for marketing in {city}?",
+   "answer": "Beauty and fashion businesses in {city} should allocate 10-15% of revenue to marketing. Salons: ₹30,000-₹1,00,000/month. Boutiques: ₹50,000-₹2,00,000/month. Fashion brands: ₹1,00,000-₹5,00,000+/month. Instagram ads, influencer partnerships, and content creation are primary investments. ROI shows in 4-8 weeks with consistent campaigns."
+  },
+  {
+   "question": "What platforms drive sales for fashion brands in {city}?",
+   "answer": "Instagram drives 70% of fashion sales in {city}, followed by Facebook (15%), Pinterest (10%), and WhatsApp Business (5%). Instagram Shopping, Reels, and Stories are crucial. We create platform-specific content strategies, optimize product catalogs, and run conversion-focused campaigns that turn followers into customers."
+  }
+ ],
+ "home-services": [
+  {
+   "question": "How can home service businesses in {city} get more leads?",
+   "answer": "Home service businesses in {city} get leads through Google Local Service Ads, Google My Business optimization, Facebook lead forms, before/after project galleries, customer reviews, and local SEO. We create location-specific campaigns targeting homeowners in {city} neighborhoods with immediate service needs and high conversion intent."
+  },
+  {
+   "question": "What's the best way to market interior designers in {city}?",
+   "answer": "Interior designers in {city} should showcase portfolio projects on Instagram and Pinterest, create room transformation videos, share design tips, client testimonials, and 3D renders. High-quality visuals are essential. We position designers as local experts, generate qualified inquiries, and fill project pipelines with ideal clients."
+  },
+  {
+   "question": "Should contractors in {city} invest in Google Ads?",
+   "answer": "Yes, Google Ads delivers strong ROI for contractors in {city}. People search \"plumber near me\" or \"electrician in {city}\" when they need immediate help. Local Service Ads and Search campaigns capture high-intent customers. We optimize for phone calls and form submissions with cost-per-lead as low as ₹500-₹2,000."
+  },
+  {
+   "question": "How can cleaning services in {city} build trust online?",
+   "answer": "Cleaning services in {city} build trust through Google reviews, before/after photos, video testimonials, team introductions, service process explanations, and eco-friendly certifications. We create content addressing common concerns (safety, quality, reliability) and implement review generation campaigns that establish credibility."
+  },
+  {
+   "question": "What's the typical ROI for home service marketing in {city}?",
+   "answer": "Home service marketing in {city} delivers fast ROI. Google Ads show results within 2-4 weeks with qualified leads. Local SEO takes 2-3 months but provides consistent long-term leads. Expect 5-10x ROI on well-optimized campaigns. One high-value project (renovation, design) can recoup 6 months of marketing investment."
+  }
+ ],
+ "fitness-trainers": [
+  {
+   "question": "How can personal trainers in {city} attract more clients?",
+   "answer": "Personal trainers in {city} attract clients through Instagram transformation content, workout tutorials, nutrition tips, client testimonials, and free challenge campaigns. We position trainers as local fitness authorities through consistent content, Google My Business optimization, and targeted ads reaching fitness enthusiasts in {city}."
+  },
+  {
+   "question": "What's the best platform for fitness businesses in {city}?",
+   "answer": "Instagram is #1 for fitness businesses in {city}, followed by YouTube for detailed workout content and Facebook for community building. Instagram Reels showing exercises, transformations, and gym culture drive maximum engagement. We create content strategies that convert followers into paying members or personal training clients."
+  },
+  {
+   "question": "Should gyms in {city} offer free trial content?",
+   "answer": "Yes, free trial offers work extremely well for gyms in {city}. 7-day free passes, free fitness assessments, or complimentary training sessions lower barrier to entry. We create trial campaigns that convert 30-40% of attendees into paid members through strategic follow-up and value demonstration during trial period."
+  },
+  {
+   "question": "How much should fitness trainers budget for marketing in {city}?",
+   "answer": "Personal trainers in {city} should budget ₹15,000-₹50,000 monthly. Gyms: ₹50,000-₹2,00,000 monthly. Focus on Instagram content creation, local Facebook ads, and Google My Business. Investment pays off quickly - acquiring 5-10 new clients per month at ₹5,000-₹10,000/month creates strong ROI."
+  },
+  {
+   "question": "What content performs best for fitness brands in {city}?",
+   "answer": "Transformation videos, exercise tutorials, nutrition tips, day-in-life content, gym culture Reels, and client success stories perform best for fitness brands in {city}. Short-form video dominates. We create scroll-stopping content that showcases results, builds community, and positions your fitness brand as the go-to choice."
+  }
+ ],
+ "b2b-manufacturing": [
+  {
+   "question": "How can B2B manufacturers in {city} generate quality leads?",
+   "answer": "B2B manufacturers in {city} generate leads through LinkedIn thought leadership, industry-specific content, case studies, product demo videos, trade show presence, and Google Ads targeting supplier keywords. We create technical content showcasing capabilities, certifications, and successful projects that attract decision-makers and procurement teams."
+  },
+  {
+   "question": "Is digital marketing effective for manufacturing companies in {city}?",
+   "answer": "Yes, digital marketing is crucial for manufacturers in {city}. Buyers research suppliers online before contact. LinkedIn establishes authority, SEO captures search traffic, video showcases facilities and processes, and targeted ads reach procurement professionals. We've helped manufacturers reduce sales cycles by 30-40% through strategic digital presence."
+  },
+  {
+   "question": "What platforms work for B2B marketing in {city}?",
+   "answer": "LinkedIn is primary for B2B marketing in {city}, followed by Google Search for intent-based traffic, YouTube for product demonstrations, and industry-specific portals (IndiaMart, TradeIndia). We create platform-specific strategies focusing on decision-maker engagement and lead quality over volume."
+  },
+  {
+   "question": "How much should manufacturing firms budget for marketing in {city}?",
+   "answer": "Manufacturing firms in {city} should allocate 2-5% of revenue to marketing, typically ₹1,00,000-₹5,00,000 monthly. Focus on long-term brand building, LinkedIn presence, SEO, and case study development. B2B sales cycles are longer but deals are larger, making sustained marketing investment worthwhile for consistent pipeline growth."
+  },
+  {
+   "question": "What content should B2B manufacturers in {city} create?",
+   "answer": "B2B manufacturers in {city} should create facility tour videos, process explainers, quality certification showcases, case studies, technical specifications, white papers, and industry insight articles. Educational content builds trust and positions your company as the expert supplier. We create content calendars aligned with industry buying cycles."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+# Never upload local env files — configure variables in Vercel → Project → Settings → Environment Variables.
+.env
+.env.local
+.env.*.local
+.next
+node_modules
+.claude
+
+# project archives (never deploy)
+*.zip

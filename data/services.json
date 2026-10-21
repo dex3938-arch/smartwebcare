@@ -1,0 +1,2023 @@
+[
+ {
+  "title": "AI Agents",
+  "slug": "ai-agents",
+  "category": "AI Services",
+  "description": "Deploy intelligent AI agents to handle customer interactions, lead qualification, and support 24/7.",
+  "badge": "✨ New",
+  "heroSubtitle": "Transform customer interactions with intelligent AI agents that work around the clock.",
+  "fullDescription": "AI agents are intelligent assistants that can handle complex customer interactions, qualify leads, schedule appointments, and provide support 24/7. They learn from every conversation and continuously improve their responses.",
+  "targetAudience": "Businesses of all sizes looking to scale customer interactions without proportionally increasing support staff.",
+  "points": [
+   "Intelligent chatbots for websites",
+   "Virtual assistants for customer support",
+   "Lead qualification and routing",
+   "Appointment scheduling",
+   "Multi-channel deployment (web, WhatsApp, Messenger)",
+   "Natural language understanding"
+  ],
+  "benefits": [
+   {
+    "title": "24/7 Availability",
+    "description": "AI agents never sleep - available to help customers anytime"
+   },
+   {
+    "title": "Human-like Conversations",
+    "description": "Natural language processing for authentic interactions"
+   },
+   {
+    "title": "Scale Effortlessly",
+    "description": "Handle unlimited conversations simultaneously"
+   }
+  ],
+  "process": [
+   {
+    "title": "Discovery",
+    "description": "Identify use cases and conversation flows for your business"
+   },
+   {
+    "title": "Design",
+    "description": "Map conversation logic and agent personality"
+   },
+   {
+    "title": "Build & Train",
+    "description": "Create AI agent and train on your business knowledge"
+   },
+   {
+    "title": "Deploy & Optimize",
+    "description": "Launch agent and continuously improve based on interactions"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "What can AI agents handle?",
+    "answer": "AI agents can handle customer inquiries, lead qualification, appointment booking, product recommendations, troubleshooting, and FAQs. They escalate complex issues to humans when needed."
+   },
+   {
+    "question": "How is this different from traditional chatbots?",
+    "answer": "Traditional chatbots follow rigid scripts. AI agents use natural language processing to understand context, remember conversations, and provide intelligent, personalized responses."
+   },
+   {
+    "question": "Will customers know they're talking to AI?",
+    "answer": "We recommend transparency - customers appreciate knowing they're chatting with AI. Most users don't mind as long as they get quick, helpful responses."
+   },
+   {
+    "question": "How long does it take to set up?",
+    "answer": "Basic AI agents can be deployed in 2-3 weeks. More complex agents with custom integrations take 4-6 weeks."
+   }
+  ],
+  "relevantIndustries": [
+   "healthcare-wellness",
+   "real-estate",
+   "restaurants-hospitality",
+   "home-services",
+   "legal-financial"
+  ],
+  "relevantComparisons": [
+   "ai-vs-human-marketing",
+   "diy-vs-professional"
+  ],
+  "metaTitle": "AI Agents Services | Intelligent Chatbots & Virtual Assistants | Social Guava"
+ },
+ {
+  "title": "AI Automations",
+  "slug": "ai-automations",
+  "category": "AI Services",
+  "description": "Automate repetitive tasks with Make.com and N8N.io to save time and eliminate errors.",
+  "badge": "✨ New",
+  "heroSubtitle": "Streamline operations with powerful automation workflows using Make.com and N8N.io.",
+  "fullDescription": "Stop wasting time on repetitive tasks. We build custom automation workflows using Make.com and N8N.io that work 24/7 to streamline operations, improve efficiency, and free up your team for strategic work.",
+  "targetAudience": "Growing businesses, startups, and agencies looking to scale operations without increasing headcount.",
+  "points": [
+   "Make.com & N8N.io workflow automation",
+   "CRM and email automation",
+   "Data entry and processing automation",
+   "Social media scheduling and automation",
+   "Custom integrations between tools",
+   "Automated reporting and analytics"
+  ],
+  "benefits": [
+   {
+    "title": "Save Time",
+    "description": "Automate hours of manual work into minutes"
+   },
+   {
+    "title": "Reduce Errors",
+    "description": "Eliminate human error in repetitive tasks"
+   },
+   {
+    "title": "Scale Efficiently",
+    "description": "Handle more work without hiring more people"
+   }
+  ],
+  "process": [
+   {
+    "title": "Discovery",
+    "description": "Identify repetitive tasks and automation opportunities"
+   },
+   {
+    "title": "Design",
+    "description": "Map out automation workflows and tool integrations"
+   },
+   {
+    "title": "Build",
+    "description": "Create and test automation scenarios using Make.com or N8N.io"
+   },
+   {
+    "title": "Deploy & Support",
+    "description": "Launch automations and provide ongoing optimization"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "What can be automated?",
+    "answer": "Email responses, data entry, social media posting, lead management, invoice generation, report creation, file organization, and much more. If it's repetitive and rule-based, it can likely be automated."
+   },
+   {
+    "question": "Make.com vs N8N.io - which is better?",
+    "answer": "Make.com is perfect for non-technical users with its intuitive interface and 1000+ pre-built integrations. N8N.io is ideal if you want an open-source, self-hosted solution with more customization. We recommend based on your needs."
+   },
+   {
+    "question": "Do I need technical skills?",
+    "answer": "Not at all! We build everything for you and provide training. You'll have a simple interface to monitor and manage automations."
+   },
+   {
+    "question": "How much can I save?",
+    "answer": "Most clients save 10-30 hours per week on manual tasks. That's equivalent to hiring another person, but at a fraction of the cost."
+   }
+  ],
+  "relevantIndustries": [
+   "saas-tech-startups",
+   "ecommerce-d2c",
+   "coaches-consultants",
+   "legal-financial",
+   "education-edtech"
+  ],
+  "relevantComparisons": [
+   "ai-vs-human-marketing",
+   "in-house-vs-agency"
+  ],
+  "metaTitle": "AI Automation Services | Make.com & N8N.io Workflows | Social Guava"
+ },
+ {
+  "title": "AI Receptionist",
+  "slug": "ai-receptionist",
+  "category": "AI Services",
+  "description": "24/7 automated call handling for salons, dental clinics, restaurants, real estate, law firms, and service businesses.",
+  "badge": "🔥 Trending",
+  "heroSubtitle": "Never miss a customer call with AI-powered phone reception that books appointments and answers inquiries.",
+  "fullDescription": "Your AI receptionist handles incoming calls, schedules appointments, answers common questions, and routes urgent calls to your team - all while sounding natural and professional. Perfect for salons, dental clinics, restaurants, real estate agents, law firms, medical practices, and any service-based business.",
+  "targetAudience": "Salons, spas, dental clinics, medical practices, restaurants, home services, real estate agents, law firms, HVAC businesses, auto repair shops, and any business that handles high call volume for bookings and inquiries.",
+  "points": [
+   "24/7 automated call answering",
+   "Appointment scheduling and management",
+   "Booking confirmations and reminders",
+   "Customer inquiry handling",
+   "Call routing for emergencies",
+   "Multi-language support",
+   "CRM and calendar integration"
+  ],
+  "benefits": [
+   {
+    "title": "Never Miss a Call",
+    "description": "AI answers every call, even during peak hours"
+   },
+   {
+    "title": "Instant Bookings",
+    "description": "Schedule appointments directly over the phone"
+   },
+   {
+    "title": "Reduce No-Shows",
+    "description": "Automated reminders decrease missed appointments"
+   }
+  ],
+  "process": [
+   {
+    "title": "Setup",
+    "description": "Configure business hours, services, and booking rules"
+   },
+   {
+    "title": "Train",
+    "description": "Customize AI voice and responses to match your brand"
+   },
+   {
+    "title": "Integrate",
+    "description": "Connect to your calendar and booking system"
+   },
+   {
+    "title": "Go Live",
+    "description": "Forward calls to your AI receptionist and start accepting bookings"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "Does it sound like a robot?",
+    "answer": "No! Our AI receptionists use advanced voice synthesis that sounds natural and professional. Most callers don't realize they're talking to AI."
+   },
+   {
+    "question": "Can it handle complex requests?",
+    "answer": "Yes, it can handle appointment scheduling, rescheduling, cancellations, service inquiries, and pricing questions. Complex issues are seamlessly transferred to a human."
+   },
+   {
+    "question": "What if I already have a receptionist?",
+    "answer": "Perfect! Your AI receptionist can handle overflow calls, after-hours bookings, and routine inquiries - freeing your human staff for higher-value tasks."
+   },
+   {
+    "question": "Which businesses benefit most?",
+    "answer": "Salons, spas, dental clinics, medical practices, restaurants, law firms, real estate offices, home services, and any business that relies on appointment bookings."
+   }
+  ],
+  "relevantIndustries": [
+   "beauty-fashion",
+   "healthcare-wellness",
+   "restaurants-hospitality",
+   "real-estate",
+   "legal-financial",
+   "home-services"
+  ],
+  "relevantComparisons": [
+   "ai-vs-human-marketing",
+   "agency-vs-freelancer"
+  ],
+  "metaTitle": "AI Receptionist Services | Automated Call Handling for Salons, Clinics & Restaurants | Social Guava"
+ },
+ {
+  "title": "Personal Branding",
+  "slug": "personal-branding",
+  "category": "Branding Services",
+  "description": "Grow your personal brand where it matters.",
+  "badge": "🏆 Best Seller",
+  "heroSubtitle": "Build authority and influence on LinkedIn & Instagram with strategic personal branding.",
+  "fullDescription": "In today's digital world, your personal brand is your biggest asset. We help founders, executives, and professionals build authentic personal brands on LinkedIn and Instagram that attract opportunities, clients, and collaborations.",
+  "targetAudience": "Founders, CEOs, thought leaders, coaches, consultants, and professionals looking to establish authority in their industry.",
+  "points": [
+   "LinkedIn & Instagram strategy",
+   "Content planning & positioning",
+   "Storytelling that builds trust and recall",
+   "Platform-specific content optimization",
+   "Profile optimization for both platforms",
+   "Engagement and community building strategies"
+  ],
+  "benefits": [
+   {
+    "title": "LinkedIn Authority",
+    "description": "Position yourself as an industry thought leader with strategic content"
+   },
+   {
+    "title": "Instagram Influence",
+    "description": "Build a compelling visual brand and engaged following"
+   },
+   {
+    "title": "Trust & Credibility",
+    "description": "Authentic storytelling that resonates with your audience"
+   }
+  ],
+  "process": [
+   {
+    "title": "Discovery",
+    "description": "Understand your expertise, goals, and target audience on both platforms"
+   },
+   {
+    "title": "Strategy",
+    "description": "Create platform-specific content strategies for LinkedIn (professional insights) and Instagram (visual storytelling)"
+   },
+   {
+    "title": "Content Planning",
+    "description": "Develop content calendars tailored to each platform's audience and format"
+   },
+   {
+    "title": "Execution & Growth",
+    "description": "Launch campaigns, track engagement, and optimize for maximum reach"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "Should I focus on LinkedIn or Instagram?",
+    "answer": "It depends on your goals! LinkedIn is ideal for B2B, thought leadership, and professional networking. Instagram works best for B2C, lifestyle brands, and visual storytelling. We recommend both for maximum impact, with tailored strategies for each."
+   },
+   {
+    "question": "How is LinkedIn personal branding different from Instagram?",
+    "answer": "LinkedIn focuses on professional insights, industry expertise, and business storytelling. Instagram emphasizes visual content, lifestyle elements, and behind-the-scenes authenticity. We create distinct strategies for each platform while maintaining consistent brand messaging."
+   },
+   {
+    "question": "Will you create content for me?",
+    "answer": "Yes! We handle content creation, caption writing, hashtag strategy, and posting schedules for both platforms. You'll review and approve everything before it goes live."
+   },
+   {
+    "question": "How long before I see results?",
+    "answer": "You'll see engagement improvements within 2-4 weeks. Building a strong personal brand typically takes 3-6 months of consistent posting and engagement."
+   }
+  ],
+  "relevantIndustries": [
+   "coaches-consultants",
+   "real-estate",
+   "fitness-trainers",
+   "legal-financial",
+   "saas-tech-startups"
+  ],
+  "relevantComparisons": [
+   "personal-vs-company-branding",
+   "diy-vs-professional",
+   "agency-vs-freelancer"
+  ],
+  "metaTitle": "Personal Branding Services | LinkedIn & Instagram Branding | Social Guava"
+ },
+ {
+  "title": "Instagram Marketing",
+  "slug": "instagram-marketing",
+  "category": "Marketing Services",
+  "description": "Build an engaged Instagram community with scroll-stopping content and strategic growth.",
+  "badge": "🏆 Best Seller",
+  "heroSubtitle": "Turn Instagram into a powerful growth engine with Reels, Stories, and authentic engagement.",
+  "fullDescription": "Instagram is where visual storytelling meets business growth. We create thumb-stopping content, manage your daily presence, and build genuine engagement that turns followers into loyal customers and brand advocates. Our data-driven approach combines creative excellence with platform insights to deliver measurable results—from increased reach and engagement to direct sales and brand loyalty.",
+  "targetAudience": "E-commerce brands, lifestyle businesses, influencers, restaurants, fashion brands, beauty businesses, and any visual-first brand looking to grow on Instagram.",
+  "points": [
+   "Instagram content strategy & planning",
+   "Reels that go viral",
+   "Stories for daily engagement",
+   "Feed posts and carousels",
+   "Hashtag research and optimization",
+   "Community management and engagement",
+   "Instagram Shopping setup",
+   "Analytics and growth tracking",
+   "Influencer collaboration management",
+   "Instagram Ads integration"
+  ],
+  "benefits": [
+   {
+    "title": "Scroll-Stopping Content",
+    "description": "Reels and posts designed to capture attention in the first 3 seconds and drive engagement"
+   },
+   {
+    "title": "Real Community",
+    "description": "Build authentic connections with your audience through daily engagement and responses"
+   },
+   {
+    "title": "Strategic Growth",
+    "description": "Proven tactics to increase followers by 30-50% and convert them to customers"
+   },
+   {
+    "title": "Direct Sales",
+    "description": "Instagram Shopping integration that turns your feed into a revenue channel"
+   },
+   {
+    "title": "Data-Driven Results",
+    "description": "Track reach, engagement, saves, and conversions with comprehensive analytics"
+   }
+  ],
+  "process": [
+   {
+    "title": "Audit & Strategy",
+    "description": "Analyze your current Instagram performance, audit competitors, and develop growth strategy with content pillars"
+   },
+   {
+    "title": "Content Creation",
+    "description": "Design scroll-stopping Reels, captivating Stories, and stunning feed posts aligned with your brand"
+   },
+   {
+    "title": "Posting & Engagement",
+    "description": "Consistent posting at optimal times plus active community management with replies and DM responses"
+   },
+   {
+    "title": "Optimize & Scale",
+    "description": "Track performance metrics, identify winning content patterns, and refine strategy for exponential growth"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "How often should I post on Instagram?",
+    "answer": "We recommend 4-7 feed posts per week, daily Stories, and 3-5 Reels per week for optimal engagement and growth. Consistency is key on Instagram's algorithm."
+   },
+   {
+    "question": "What makes Instagram Reels go viral?",
+    "answer": "Viral Reels combine trending audio, strong hooks in the first 3 seconds, value or entertainment, strategic hashtags, and pattern interrupts. We study trends daily to keep your content relevant and shareable."
+   },
+   {
+    "question": "Do you respond to comments and DMs?",
+    "answer": "Yes! Community management is included. We monitor comments, respond to DMs within 24 hours, and engage with your audience to build authentic relationships that convert."
+   },
+   {
+    "question": "Can you help with Instagram Shopping?",
+    "answer": "Absolutely! We can set up Instagram Shopping, tag products in posts and Stories, create shoppable content, and develop strategies that drive sales directly from Instagram."
+   },
+   {
+    "question": "What kind of results can I expect?",
+    "answer": "Most clients see 30-50% follower growth in 3 months, 2-3x increase in engagement rate, and significant boost in website traffic and sales. Results vary based on industry, starting point, and content quality."
+   }
+  ],
+  "relevantIndustries": [
+   "beauty-fashion",
+   "fitness-trainers",
+   "restaurants-hospitality",
+   "ecommerce-d2c",
+   "coaches-consultants"
+  ],
+  "metaTitle": "Instagram Marketing Services | Reels, Stories & Content Strategy | Social Guava",
+  "metaDescription": "Professional Instagram marketing with viral Reels, engaging Stories, and strategic growth tactics. Turn followers into customers with data-driven Instagram strategies. Grow 30-50% in 90 days!"
+ },
+ {
+  "title": "LinkedIn Marketing",
+  "slug": "linkedin-marketing",
+  "category": "Marketing Services",
+  "description": "Establish thought leadership and generate B2B leads with strategic LinkedIn content.",
+  "badge": "🏆 Best Seller",
+  "heroSubtitle": "Position your brand as an industry leader on LinkedIn with content that drives conversations and converts prospects.",
+  "fullDescription": "LinkedIn is where business relationships are built and deals are made. We create authoritative content, manage your company presence, and implement strategies that generate qualified B2B leads and establish your brand as an industry thought leader. Our approach combines executive positioning, employee advocacy, and targeted outreach to create a powerful B2B growth engine that delivers measurable pipeline impact.",
+  "targetAudience": "B2B companies, professional services firms, SaaS businesses, consultants, recruiters, and any business targeting decision-makers and professionals.",
+  "points": [
+   "LinkedIn content strategy for company pages",
+   "Thought leadership articles and posts",
+   "Employee advocacy programs",
+   "Lead generation campaigns",
+   "LinkedIn pulse articles and newsletters",
+   "Engagement and network growth",
+   "B2B connection strategies",
+   "Analytics and lead tracking",
+   "LinkedIn Events and Live sessions",
+   "Executive personal branding support"
+  ],
+  "benefits": [
+   {
+    "title": "B2B Lead Generation",
+    "description": "Connect with decision-makers and generate 20-30 qualified leads per month"
+   },
+   {
+    "title": "Thought Leadership",
+    "description": "Position executives and your brand as industry authorities with consistent, valuable content"
+   },
+   {
+    "title": "Professional Network",
+    "description": "Build meaningful relationships with your target audience and industry peers"
+   },
+   {
+    "title": "Measurable Pipeline",
+    "description": "Track connection requests, engagement, and conversions from LinkedIn to sales pipeline"
+   },
+   {
+    "title": "Organic Reach",
+    "description": "Amplify your message through employee advocacy and strategic engagement tactics"
+   }
+  ],
+  "process": [
+   {
+    "title": "Strategy Development",
+    "description": "Define your LinkedIn positioning, identify target audience personas, and create platform-specific content pillars for B2B growth"
+   },
+   {
+    "title": "Content Creation",
+    "description": "Craft thought leadership posts, long-form articles, company updates, and engaging content that sparks industry conversations"
+   },
+   {
+    "title": "Engagement & Outreach",
+    "description": "Active participation in industry discussions, strategic connection requests, and personalized outreach to decision-makers"
+   },
+   {
+    "title": "Lead Nurturing",
+    "description": "Convert connections into conversations, nurture relationships through value-first content, and track leads into your CRM"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "How is LinkedIn marketing different from other platforms?",
+    "answer": "LinkedIn is a professional network focused on B2B relationships and thought leadership. Content is more industry-focused, data-driven, and aimed at decision-makers rather than consumers. The average order value from LinkedIn leads is 3-5x higher than other social platforms."
+   },
+   {
+    "question": "Should I focus on personal profiles or company pages?",
+    "answer": "Both! Personal profiles drive thought leadership and trust (they get 8x more engagement than company pages), while company pages establish brand authority and credibility. We recommend a combined strategy where executives build personal brands that amplify the company page."
+   },
+   {
+    "question": "How do you generate leads on LinkedIn?",
+    "answer": "We use a combination of valuable content that attracts your ICP, strategic connection requests, engagement in relevant conversations, LinkedIn newsletters, and targeted outreach to decision-makers. Our approach generates 20-30 qualified leads per month for most B2B businesses."
+   },
+   {
+    "question": "What types of content work best on LinkedIn?",
+    "answer": "Industry insights, data-driven posts, thought leadership articles, company news, employee stories, and educational content perform best. We avoid overly salesy content and focus on value-first approaches that build trust before asking for the sale."
+   },
+   {
+    "question": "What kind of results can I expect?",
+    "answer": "Most B2B clients see 2-3x increase in profile views, 20-30 qualified leads per month, 5-10 meaningful business conversations, and typically convert 2-3 LinkedIn connections into customers within 90 days. ROI compounds over time as your network and authority grow."
+   }
+  ],
+  "metaTitle": "LinkedIn Marketing Services | B2B Lead Generation & Thought Leadership | Social Guava",
+  "metaDescription": "Professional LinkedIn marketing for B2B growth. Generate 20-30 qualified leads monthly with thought leadership content, strategic outreach, and company page management."
+ },
+ {
+  "title": "Influencer Marketing",
+  "slug": "influencer-marketing",
+  "category": "Marketing Services",
+  "description": "Amplify your brand with the right influencer partnerships and collaborations.",
+  "badge": "🔥 Trending",
+  "heroSubtitle": "Connect with your target audience through authentic influencer collaborations that drive awareness and sales.",
+  "fullDescription": "Influencer marketing is one of the most effective ways to build trust and reach new audiences. We identify the perfect influencers for your brand, negotiate partnerships, manage campaigns, and track ROI from start to finish.",
+  "targetAudience": "E-commerce brands, beauty and fashion businesses, food and beverage companies, lifestyle brands, tech products, and any business looking to expand reach through trusted voices.",
+  "points": [
+   "Influencer identification and vetting",
+   "Campaign strategy and creative briefs",
+   "Contract negotiation and management",
+   "Content approval and quality control",
+   "Campaign execution and monitoring",
+   "Performance tracking and ROI measurement",
+   "Long-term influencer relationship management",
+   "Micro and macro influencer campaigns"
+  ],
+  "benefits": [
+   {
+    "title": "Targeted Reach",
+    "description": "Access highly engaged audiences that match your ideal customer profile"
+   },
+   {
+    "title": "Authentic Trust",
+    "description": "Leverage influencer credibility to build trust with potential customers"
+   },
+   {
+    "title": "Measurable Results",
+    "description": "Track engagement, conversions, and ROI from every campaign"
+   }
+  ],
+  "process": [
+   {
+    "title": "Strategy & Selection",
+    "description": "Define campaign goals and identify influencers aligned with your brand values"
+   },
+   {
+    "title": "Outreach & Negotiation",
+    "description": "Contact influencers, negotiate terms, and finalize contracts"
+   },
+   {
+    "title": "Campaign Execution",
+    "description": "Provide creative briefs, review content, and launch campaigns"
+   },
+   {
+    "title": "Monitor & Report",
+    "description": "Track performance metrics and provide detailed ROI reports"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "How do you choose the right influencers?",
+    "answer": "We analyze audience demographics, engagement rates, content quality, brand alignment, and past campaign performance. We focus on authentic fit over follower count to ensure genuine partnerships."
+   },
+   {
+    "question": "What's better: micro or macro influencers?",
+    "answer": "It depends on your goals! Micro-influencers (10K-100K followers) have higher engagement and are cost-effective. Macro-influencers (100K+) provide broader reach. We often recommend a mix of both."
+   },
+   {
+    "question": "How much do influencer campaigns cost?",
+    "answer": "Costs vary widely based on influencer size, platform, and deliverables. Micro-influencers might charge ₹5,000-50,000 per post, while macro-influencers can range from ₹50,000 to several lakhs. We work within your budget to maximize impact."
+   },
+   {
+    "question": "How do you measure success?",
+    "answer": "We track reach, impressions, engagement rate, website traffic, conversions, and sales attributed to the campaign. Every campaign includes detailed reporting on ROI and key performance metrics."
+   }
+  ],
+  "metaTitle": "Influencer Marketing Services | Brand Collaborations & Campaigns | Social Guava",
+  "metaDescription": "Strategic influencer marketing campaigns that drive real results. Find the perfect influencers, manage partnerships, and track ROI. Amplify your brand reach today!"
+ },
+ {
+  "title": "Email Marketing & Automation",
+  "slug": "email-marketing-automation",
+  "category": "Marketing Services",
+  "description": "Build relationships and drive sales with strategic email campaigns and automated workflows.",
+  "badge": "📈 High Demand",
+  "heroSubtitle": "Turn subscribers into customers with personalized email campaigns that nurture leads and drive repeat purchases.",
+  "fullDescription": "Email marketing delivers the highest ROI of any marketing channel. We design and execute email strategies that build relationships, nurture leads, recover abandoned carts, and drive repeat purchases through automated workflows and targeted campaigns.",
+  "targetAudience": "E-commerce businesses, SaaS companies, online course creators, service providers, and any business with an audience to nurture and convert.",
+  "points": [
+   "Email strategy and list segmentation",
+   "Welcome series and onboarding automation",
+   "Abandoned cart recovery emails",
+   "Newsletter design and management",
+   "Promotional campaign creation",
+   "Drip campaigns and nurture sequences",
+   "A/B testing and optimization",
+   "Email platform setup (Mailchimp, Klaviyo, etc.)"
+  ],
+  "benefits": [
+   {
+    "title": "Highest ROI",
+    "description": "Email marketing averages $42 return for every $1 spent"
+   },
+   {
+    "title": "Precise Targeting",
+    "description": "Segment audiences and send personalized messages that convert"
+   },
+   {
+    "title": "Automated Revenue",
+    "description": "Set up once and earn while you sleep with automated workflows"
+   }
+  ],
+  "process": [
+   {
+    "title": "Setup & Strategy",
+    "description": "Configure email platform, build list segments, and plan campaign strategy"
+   },
+   {
+    "title": "Design & Build",
+    "description": "Create beautiful email templates and write compelling copy"
+   },
+   {
+    "title": "Automate",
+    "description": "Set up automated workflows for welcome, cart abandonment, and nurture sequences"
+   },
+   {
+    "title": "Optimize & Scale",
+    "description": "Test subject lines, content, and timing to continuously improve performance"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "What email platform do you use?",
+    "answer": "We work with Mailchimp, Klaviyo, ActiveCampaign, ConvertKit, and most major email platforms. We recommend the best fit based on your business type and size."
+   },
+   {
+    "question": "How do you grow email lists?",
+    "answer": "We implement lead magnets, pop-ups, landing pages, and opt-in forms optimized for conversions. We also integrate with your website and sales funnels to capture subscribers at key touchpoints."
+   },
+   {
+    "question": "What's an abandoned cart email?",
+    "answer": "When someone adds products to their cart but doesn't complete the purchase, we send automated reminder emails (often with incentives) to recover the sale. This typically recovers 10-15% of abandoned carts."
+   },
+   {
+    "question": "How often should I email my list?",
+    "answer": "It depends on your business and audience. We typically recommend 2-4 emails per week for e-commerce, 1-2 per week for B2B, and weekly newsletters. We test and optimize frequency based on engagement data."
+   }
+  ],
+  "metaTitle": "Email Marketing & Automation Services | Email Campaigns & Workflows | Social Guava",
+  "metaDescription": "Professional email marketing with automated workflows, abandoned cart recovery, and newsletter management. Drive sales and build relationships through strategic email campaigns."
+ },
+ {
+  "title": "WhatsApp Marketing",
+  "slug": "whatsapp-marketing",
+  "category": "Marketing Services",
+  "description": "Reach customers directly with personalized WhatsApp campaigns and automated messaging.",
+  "badge": "🚀 Hottest Selling",
+  "heroSubtitle": "Connect with customers on their favorite messaging app with WhatsApp Business campaigns that drive engagement and sales.",
+  "fullDescription": "WhatsApp has 2+ billion users and the highest open rates of any marketing channel. We help you leverage WhatsApp Business API to send personalized campaigns, automate customer service, recover carts, and build direct relationships with your audience.",
+  "targetAudience": "E-commerce businesses, local businesses, restaurants, service providers, coaching businesses, and any brand looking to connect with customers on WhatsApp.",
+  "points": [
+   "WhatsApp Business API setup",
+   "Broadcast campaigns and promotions",
+   "Automated chatbots for customer service",
+   "Order updates and notifications",
+   "Abandoned cart recovery via WhatsApp",
+   "Customer support and query handling",
+   "Catalog and product showcases",
+   "Rich media messages (images, videos, PDFs)"
+  ],
+  "benefits": [
+   {
+    "title": "98% Open Rate",
+    "description": "WhatsApp messages have the highest open rates of any channel"
+   },
+   {
+    "title": "Instant Connection",
+    "description": "Reach customers on the app they use most throughout the day"
+   },
+   {
+    "title": "Smart Automation",
+    "description": "Automate responses while maintaining a personal touch"
+   }
+  ],
+  "process": [
+   {
+    "title": "Setup & Integration",
+    "description": "Configure WhatsApp Business API and integrate with your systems"
+   },
+   {
+    "title": "Strategy",
+    "description": "Develop messaging strategy, templates, and automation workflows"
+   },
+   {
+    "title": "Campaign Execution",
+    "description": "Launch broadcast campaigns, promotions, and automated sequences"
+   },
+   {
+    "title": "Optimize",
+    "description": "Track delivery, engagement, and conversions to refine campaigns"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "What's the difference between WhatsApp Business and WhatsApp Business API?",
+    "answer": "WhatsApp Business is a free app for small businesses. WhatsApp Business API (which we use) is for medium to large businesses, offers automation, broadcasting to unlimited contacts, and integration with CRM and marketing tools."
+   },
+   {
+    "question": "Can I send promotional messages on WhatsApp?",
+    "answer": "Yes, but only to users who have opted in to receive messages from your business. We ensure full compliance with WhatsApp's policies while maximizing your reach."
+   },
+   {
+    "question": "How do you get people to opt-in to WhatsApp?",
+    "answer": "We use click-to-WhatsApp ads, QR codes, website widgets, and opt-in campaigns. Once someone messages your business, you can send them promotional content (with their consent)."
+   },
+   {
+    "question": "Can WhatsApp marketing work for my business?",
+    "answer": "Absolutely! WhatsApp works for e-commerce, restaurants, service businesses, coaching, real estate, healthcare—any business that wants direct, instant communication with customers."
+   }
+  ],
+  "metaTitle": "WhatsApp Marketing Services | WhatsApp Business API & Campaigns | Social Guava",
+  "metaDescription": "Reach customers on WhatsApp with broadcast campaigns, automated chatbots, and personalized messaging. 98% open rates and instant customer connections."
+ },
+ {
+  "title": "LinkedIn Ads & Lead Generation",
+  "slug": "linkedin-ads-lead-generation",
+  "category": "Marketing Services",
+  "description": "Generate high-quality B2B leads with targeted LinkedIn advertising campaigns.",
+  "badge": "💼 B2B Focused",
+  "heroSubtitle": "Reach decision-makers and generate qualified leads with precision-targeted LinkedIn ad campaigns.",
+  "fullDescription": "LinkedIn is the #1 platform for B2B lead generation. We create and manage LinkedIn ad campaigns that target the right job titles, industries, and companies to fill your pipeline with qualified leads ready to convert.",
+  "targetAudience": "B2B companies, SaaS businesses, professional services, enterprise software, consulting firms, and any business targeting professionals and decision-makers.",
+  "points": [
+   "LinkedIn Ads strategy and setup",
+   "Sponsored Content and InMail campaigns",
+   "Lead Gen Forms for instant captures",
+   "Account-Based Marketing (ABM) campaigns",
+   "Retargeting and audience nurturing",
+   "Landing page optimization",
+   "A/B testing and creative optimization",
+   "CRM integration and lead tracking"
+  ],
+  "benefits": [
+   {
+    "title": "Precise Targeting",
+    "description": "Target by job title, company size, industry, and more"
+   },
+   {
+    "title": "Decision-Maker Access",
+    "description": "Reach C-level executives and business owners directly"
+   },
+   {
+    "title": "Quality Leads",
+    "description": "Generate leads that are pre-qualified and ready to buy"
+   }
+  ],
+  "process": [
+   {
+    "title": "Strategy & Setup",
+    "description": "Define ideal customer profile and set up LinkedIn Campaign Manager"
+   },
+   {
+    "title": "Creative Development",
+    "description": "Design compelling ads and lead capture forms"
+   },
+   {
+    "title": "Launch & Test",
+    "description": "Launch campaigns with multiple audience and creative tests"
+   },
+   {
+    "title": "Optimize & Scale",
+    "description": "Refine targeting, optimize bids, and scale winning campaigns"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "How much do LinkedIn Ads cost?",
+    "answer": "LinkedIn CPCs are typically higher than other platforms (₹300-800 per click), but leads are higher quality. We recommend a minimum monthly budget of ₹50,000-100,000 for meaningful results."
+   },
+   {
+    "question": "What types of LinkedIn Ads work best for lead generation?",
+    "answer": "Sponsored Content with Lead Gen Forms performs best for lead generation. InMail (Message Ads) works well for high-value offers. We test multiple formats to find what works for your audience."
+   },
+   {
+    "question": "How qualified are LinkedIn leads?",
+    "answer": "LinkedIn leads are typically more qualified than other channels because you can target specific job titles, seniority levels, and company attributes. Most B2B companies find LinkedIn leads convert at 2-3x the rate of other platforms."
+   },
+   {
+    "question": "Do you handle lead follow-up?",
+    "answer": "We focus on generating and delivering leads to you. However, we can integrate with your CRM, set up automated follow-up emails, and provide guidance on lead nurturing best practices."
+   }
+  ],
+  "metaTitle": "LinkedIn Ads & Lead Generation Services | B2B Lead Gen Campaigns | Social Guava",
+  "metaDescription": "Generate high-quality B2B leads with targeted LinkedIn advertising. Reach decision-makers, drive conversions, and fill your pipeline with qualified prospects."
+ },
+ {
+  "title": "Reputation Management (ORM)",
+  "slug": "reputation-management",
+  "category": "Marketing Services",
+  "description": "Protect and enhance your online reputation with proactive monitoring and strategic response.",
+  "badge": "⭐ Essential",
+  "heroSubtitle": "Build trust and protect your brand with comprehensive online reputation management and review strategy.",
+  "fullDescription": "Your online reputation is your most valuable asset. We monitor what's being said about your brand, manage reviews, suppress negative content, and build a positive online presence that attracts customers and builds trust.",
+  "targetAudience": "Established businesses, personal brands, healthcare professionals, law firms, real estate agents, restaurants, hotels, and any business where reputation directly impacts revenue.",
+  "points": [
+   "Online reputation monitoring and alerts",
+   "Review management (Google, Yelp, Facebook)",
+   "Negative review response and resolution",
+   "Review generation campaigns",
+   "Search result optimization (push down negatives)",
+   "Crisis management and response",
+   "Social media sentiment tracking",
+   "Brand mention monitoring across web"
+  ],
+  "benefits": [
+   {
+    "title": "More Positive Reviews",
+    "description": "Systematic approach to generate 5-star reviews from happy customers"
+   },
+   {
+    "title": "Protect Your Brand",
+    "description": "Quick response to negative content before it damages your reputation"
+   },
+   {
+    "title": "Increased Trust",
+    "description": "Strong online reputation drives more customers and higher conversions"
+   }
+  ],
+  "process": [
+   {
+    "title": "Audit",
+    "description": "Comprehensive analysis of your current online reputation across all platforms"
+   },
+   {
+    "title": "Strategy",
+    "description": "Develop plan for monitoring, review generation, and negative content suppression"
+   },
+   {
+    "title": "Implementation",
+    "description": "Set up monitoring tools, review systems, and response protocols"
+   },
+   {
+    "title": "Ongoing Management",
+    "description": "Continuous monitoring, review management, and reputation building"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "Can you remove negative reviews?",
+    "answer": "We can't directly remove legitimate reviews, but we can request removal of fake/policy-violating reviews, respond professionally to mitigate damage, and bury negatives with positive content and reviews."
+   },
+   {
+    "question": "How do you generate more positive reviews?",
+    "answer": "We implement automated review request systems, create easy review processes, identify your happiest customers, and time requests for maximum response rates. Most clients see 3-5x more reviews within 90 days."
+   },
+   {
+    "question": "What if someone is saying false things about my business online?",
+    "answer": "We can help with cease and desist letters, requesting content removal from platforms, legal action if needed, and suppressing negative search results with positive content. We have experience handling reputation crises."
+   },
+   {
+    "question": "How long does it take to improve online reputation?",
+    "answer": "Review generation shows results in 30-60 days. Suppressing negative search results takes 3-6 months. Crisis management requires immediate action. We provide realistic timelines based on your situation."
+   }
+  ],
+  "metaTitle": "Online Reputation Management (ORM) Services | Review Management | Social Guava",
+  "metaDescription": "Protect your brand with professional reputation management. Monitor reviews, respond to negatives, generate positive reviews, and build trust online."
+ },
+ {
+  "title": "YouTube Channel Management",
+  "slug": "youtube-channel-management",
+  "category": "Marketing Services",
+  "description": "Grow your YouTube channel with optimized content strategy, SEO, and audience engagement.",
+  "badge": "📹 Creator Focused",
+  "heroSubtitle": "Build a thriving YouTube presence with content strategy, video optimization, and monetization support.",
+  "fullDescription": "YouTube is the second-largest search engine and a powerful platform for building audiences and generating revenue. We help you create a winning content strategy, optimize videos for discovery, grow subscribers, and monetize your channel effectively.",
+  "targetAudience": "Content creators, businesses, coaches, educators, influencers, brands, and anyone looking to build a YouTube presence and audience.",
+  "points": [
+   "Channel setup and branding",
+   "Content strategy and planning",
+   "Video SEO and optimization",
+   "Thumbnail and title optimization",
+   "Audience growth strategies",
+   "Community management",
+   "Monetization strategy (AdSense, sponsorships, products)",
+   "Analytics and performance tracking"
+  ],
+  "benefits": [
+   {
+    "title": "Organic Discovery",
+    "description": "Optimize for YouTube search and suggested videos to grow organically"
+   },
+   {
+    "title": "Multiple Revenue Streams",
+    "description": "Monetize through ads, sponsorships, products, and memberships"
+   },
+   {
+    "title": "Engaged Community",
+    "description": "Build a loyal audience that watches, shares, and supports your content"
+   }
+  ],
+  "process": [
+   {
+    "title": "Channel Audit",
+    "description": "Analyze current performance and identify growth opportunities"
+   },
+   {
+    "title": "Content Strategy",
+    "description": "Develop content pillars, topics, and publishing schedule"
+   },
+   {
+    "title": "Optimization",
+    "description": "Optimize titles, descriptions, tags, thumbnails for maximum reach"
+   },
+   {
+    "title": "Growth & Monetization",
+    "description": "Implement growth tactics and monetization strategies"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "How long does it take to grow a YouTube channel?",
+    "answer": "Growth varies widely. With consistent posting (3-4 videos/week) and proper optimization, you can reach 1,000 subscribers in 3-6 months. Reaching 100K+ subscribers typically takes 1-2 years of consistent effort."
+   },
+   {
+    "question": "What makes a YouTube video rank higher?",
+    "answer": "Click-through rate (thumbnail + title), watch time, engagement (likes, comments, shares), and keyword optimization. We optimize all these factors to help your videos rank and get suggested."
+   },
+   {
+    "question": "When can I start making money on YouTube?",
+    "answer": "You need 1,000 subscribers and 4,000 watch hours to join the YouTube Partner Program for ad revenue. However, you can earn through sponsorships, affiliate links, and digital products from day one."
+   },
+   {
+    "question": "Do you create videos or just manage the channel?",
+    "answer": "We focus on strategy, optimization, and management. We can coordinate with video editors or provide guidance, but video creation is typically done by you or a separate video production team."
+   }
+  ],
+  "metaTitle": "YouTube Channel Management Services | Video SEO & Growth Strategy | Social Guava",
+  "metaDescription": "Professional YouTube channel management with content strategy, video optimization, and audience growth tactics. Build a thriving YouTube presence and monetize effectively."
+ },
+ {
+  "title": "Performance Marketing",
+  "slug": "performance-marketing",
+  "category": "Marketing Services",
+  "description": "Because reach should bring results.",
+  "heroSubtitle": "Data-driven advertising campaigns on Google & Meta that deliver measurable ROI.",
+  "fullDescription": "Performance marketing is about results, not vanity metrics. We create, manage, and optimize paid advertising campaigns that drive leads, sales, and revenue growth. Every rupee is tracked, tested, and optimized.",
+  "targetAudience": "E-commerce brands, service businesses, B2B companies, and any business looking to scale with paid advertising.",
+  "points": [
+   "Meta & Google ads",
+   "Campaign planning & optimization",
+   "ROI-centric execution",
+   "A/B testing and analytics",
+   "Landing page optimization",
+   "Retargeting campaigns"
+  ],
+  "benefits": [
+   {
+    "title": "Scalable Growth",
+    "description": "Predictable customer acquisition you can scale"
+   },
+   {
+    "title": "Cost Efficiency",
+    "description": "Lower cost per acquisition through continuous optimization"
+   },
+   {
+    "title": "Full Transparency",
+    "description": "Clear reporting on spend, conversions, and ROI"
+   }
+  ],
+  "process": [
+   {
+    "title": "Audit & Setup",
+    "description": "Review existing campaigns, set up tracking, define KPIs"
+   },
+   {
+    "title": "Strategy & Creative",
+    "description": "Develop campaign strategy and create high-converting ad creatives"
+   },
+   {
+    "title": "Launch & Test",
+    "description": "Launch campaigns with A/B tests across audiences and creatives"
+   },
+   {
+    "title": "Optimize & Scale",
+    "description": "Continuous optimization and scaling of winning campaigns"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "What's the minimum budget for performance marketing?",
+    "answer": "We recommend a minimum ad spend of ₹30,000-50,000 per month for meaningful testing and optimization, plus our management fee."
+   },
+   {
+    "question": "How quickly will I see results?",
+    "answer": "Initial data comes within 1-2 weeks, but optimal performance typically requires 30-60 days of testing and optimization."
+   },
+   {
+    "question": "Do you guarantee specific results?",
+    "answer": "While we can't guarantee specific numbers (no one can ethically), we focus on continuous improvement and beating industry benchmarks for your niche."
+   },
+   {
+    "question": "Which platforms do you advertise on?",
+    "answer": "We specialize in Google Ads (Search, Display, YouTube) and Meta Ads (Facebook, Instagram). We can also run campaigns on LinkedIn, Twitter, and other platforms based on your audience."
+   }
+  ],
+  "metaTitle": "Performance Marketing Services | Google & Meta Ads | Social Guava",
+  "metaDescription": "ROI-focused performance marketing with Google Ads & Meta advertising. Campaign optimization, A/B testing, and transparent reporting. Drive real results!"
+ },
+ {
+  "title": "Brand Playbook",
+  "slug": "brand-playbook",
+  "category": "Branding Services",
+  "description": "Your all-in-one brand bible.",
+  "heroSubtitle": "Everything your team needs to keep your brand consistent, compelling, and on-point.",
+  "fullDescription": "A brand playbook is your comprehensive guide to maintaining brand consistency. From logo usage to tone of voice, we create a detailed manual that ensures everyone represents your brand correctly.",
+  "targetAudience": "Growing businesses, franchises, and companies with multiple team members or locations who need brand consistency.",
+  "points": [
+   "Logo, typography, color palette",
+   "Brand story, voice, and usage guidelines",
+   "Consistent assets for every touchpoint"
+  ],
+  "benefits": [
+   {
+    "title": "Complete Guide",
+    "description": "One source of truth for all brand elements"
+   },
+   {
+    "title": "Visual Consistency",
+    "description": "Perfect brand execution every time"
+   },
+   {
+    "title": "Team Alignment",
+    "description": "Everyone knows how to represent your brand"
+   }
+  ],
+  "process": [
+   {
+    "title": "Discovery",
+    "description": "Deep dive into your brand identity and current assets"
+   },
+   {
+    "title": "Documentation",
+    "description": "Create comprehensive guidelines for all brand elements"
+   },
+   {
+    "title": "Design",
+    "description": "Build a beautiful, easy-to-navigate digital playbook"
+   },
+   {
+    "title": "Training",
+    "description": "Train your team on proper brand usage"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "What's included in a brand playbook?",
+    "answer": "Logo usage, color palette, typography, imagery style, tone of voice, messaging guidelines, do's and don'ts, templates, and real-world examples."
+   },
+   {
+    "question": "Do I need a brand playbook if I'm a small business?",
+    "answer": "If you work with contractors, agencies, or plan to grow your team, yes! A playbook ensures consistent brand execution from day one."
+   },
+   {
+    "question": "How long does it take to create?",
+    "answer": "4-6 weeks depending on complexity. We work collaboratively to ensure it captures your brand perfectly."
+   }
+  ],
+  "metaTitle": "Brand Playbook Services | Brand Guidelines & Style Guide | Social Guava",
+  "metaDescription": "Complete brand playbook with logo guidelines, color palette, typography, and brand voice. Ensure consistent brand execution across your entire team."
+ },
+ {
+  "title": "Video Editing",
+  "slug": "video-editing",
+  "category": "Design Services",
+  "description": "Professional video editing that brings your content to life.",
+  "heroSubtitle": "Transform raw footage into polished, engaging videos that captivate your audience.",
+  "fullDescription": "Great video content starts with great editing. From Reels and explainer videos to YouTube content and launch videos, we edit your footage into compelling stories that engage viewers and drive results.",
+  "targetAudience": "Content creators, brands, agencies, coaches, course creators, and businesses that need professional video content.",
+  "points": [
+   "Reels and short-form video editing",
+   "YouTube video editing",
+   "Explainer video production",
+   "Launch and promo videos",
+   "Social media video content",
+   "Motion graphics and animations",
+   "Color grading and audio mixing",
+   "Subtitle and caption creation"
+  ],
+  "benefits": [
+   {
+    "title": "Professional Quality",
+    "description": "Studio-grade editing that makes your content stand out"
+   },
+   {
+    "title": "Fast Turnaround",
+    "description": "Quick delivery without compromising quality"
+   },
+   {
+    "title": "Platform Optimized",
+    "description": "Videos formatted perfectly for each platform"
+   }
+  ],
+  "process": [
+   {
+    "title": "Brief & Footage",
+    "description": "Share your vision and provide raw footage"
+   },
+   {
+    "title": "Editing",
+    "description": "Cut, arrange, add effects, music, and polish your video"
+   },
+   {
+    "title": "Review",
+    "description": "Review the draft and request revisions"
+   },
+   {
+    "title": "Final Delivery",
+    "description": "Receive final videos optimized for all platforms"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "What video formats do you edit?",
+    "answer": "Reels, YouTube videos, TikTok content, explainer videos, testimonials, product demos, course content, ads, and any other video format you need."
+   },
+   {
+    "question": "How long does video editing take?",
+    "answer": "Simple Reels: 1-2 days. YouTube videos: 3-5 days. Complex projects with motion graphics: 1-2 weeks. Rush delivery available for urgent projects."
+   },
+   {
+    "question": "Do you provide stock footage and music?",
+    "answer": "Yes! We have access to premium stock libraries and can source footage, music, and sound effects that fit your video perfectly."
+   },
+   {
+    "question": "Can you edit videos I shot on my phone?",
+    "answer": "Absolutely! We work with footage from any source—phone, DSLR, professional cameras, screen recordings, stock footage, and more."
+   }
+  ],
+  "metaTitle": "Professional Video Editing Services | Reels, YouTube & Explainer Videos | Social Guava",
+  "metaDescription": "Expert video editing for Reels, YouTube, and social media content. Motion graphics, color grading, and platform optimization. Transform your footage today!"
+ },
+ {
+  "title": "Graphic Design",
+  "slug": "graphic-design",
+  "category": "Design Services",
+  "description": "Eye-catching designs that communicate your brand message effectively.",
+  "heroSubtitle": "From social media graphics to presentations, we create designs that capture attention and drive action.",
+  "fullDescription": "Great design is the difference between being ignored and being remembered. We create stunning graphics for every touchpoint—from social media posts to pitch decks—ensuring your brand always looks professional and on-point.",
+  "targetAudience": "Businesses, startups, agencies, content creators, and brands that need consistent, high-quality graphic design.",
+  "points": [
+   "Social media graphics and templates",
+   "Brochures and marketing materials",
+   "Presentation decks and pitch decks",
+   "Infographics and data visualization",
+   "Digital ads (display, social, banner)",
+   "Email newsletter design",
+   "Brand collateral (business cards, letterheads)",
+   "Ebooks and digital downloads"
+  ],
+  "benefits": [
+   {
+    "title": "On-Brand Design",
+    "description": "Every design perfectly aligned with your brand guidelines"
+   },
+   {
+    "title": "Quick Delivery",
+    "description": "Fast turnaround times without sacrificing quality"
+   },
+   {
+    "title": "Unlimited Revisions",
+    "description": "We refine until you're 100% satisfied"
+   }
+  ],
+  "process": [
+   {
+    "title": "Brief",
+    "description": "Share your requirements, reference designs, and brand assets"
+   },
+   {
+    "title": "Design",
+    "description": "Create initial design concepts aligned with your brief"
+   },
+   {
+    "title": "Revisions",
+    "description": "Refine designs based on your feedback"
+   },
+   {
+    "title": "Delivery",
+    "description": "Receive final files in all required formats"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "What design tools do you use?",
+    "answer": "We primarily use Adobe Creative Suite (Photoshop, Illustrator, InDesign), Figma, and Canva depending on the project requirements."
+   },
+   {
+    "question": "Do you provide source files?",
+    "answer": "Yes! You'll receive final designs in high-resolution formats (PNG, JPG, PDF) plus source files (PSD, AI, Figma) upon request."
+   },
+   {
+    "question": "How many revisions do I get?",
+    "answer": "We offer unlimited revisions within reason until you're satisfied with the design. Most projects require 2-3 rounds of revisions."
+   },
+   {
+    "question": "Can you match my brand style?",
+    "answer": "Absolutely! Share your brand guidelines, logo, and color palette, and we'll create designs that perfectly match your existing brand identity."
+   }
+  ],
+  "metaTitle": "Professional Graphic Design Services | Social Media, Brochures & Presentations | Social Guava",
+  "metaDescription": "Creative graphic design for social media, marketing materials, presentations, and branding. On-brand designs delivered fast with unlimited revisions."
+ },
+ {
+  "title": "Branding & Marketing",
+  "slug": "branding-marketing",
+  "category": "Branding Services",
+  "description": "Complete branding and marketing strategy for businesses ready to make an impact.",
+  "badge": "⭐ Popular",
+  "heroSubtitle": "Build a powerful brand identity and marketing strategy that attracts customers and drives growth.",
+  "fullDescription": "Great branding combined with strategic marketing is the recipe for business success. We create comprehensive brand identities and go-to-market strategies that position your business for long-term growth and market leadership.",
+  "targetAudience": "Startups launching new brands, established businesses ready to scale, and companies undergoing transformation who need both brand and marketing excellence.",
+  "points": [
+   "Brand identity and visual design",
+   "Brand positioning and messaging",
+   "Go-to-market strategy",
+   "Marketing channel strategy",
+   "Content and campaign planning",
+   "Customer journey mapping",
+   "Brand guidelines and playbook",
+   "Launch strategy and execution"
+  ],
+  "benefits": [
+   {
+    "title": "Complete Solution",
+    "description": "Brand identity and marketing strategy in one cohesive package"
+   },
+   {
+    "title": "Faster Launch",
+    "description": "Coordinated branding and marketing accelerates go-to-market"
+   },
+   {
+    "title": "Aligned Growth",
+    "description": "Brand and marketing working together for maximum impact"
+   }
+  ],
+  "process": [
+   {
+    "title": "Discovery",
+    "description": "Understand your business, audience, market, and goals"
+   },
+   {
+    "title": "Brand Development",
+    "description": "Create brand identity, positioning, and visual system"
+   },
+   {
+    "title": "Marketing Strategy",
+    "description": "Develop go-to-market plan and marketing roadmap"
+   },
+   {
+    "title": "Execution",
+    "description": "Launch brand and implement marketing campaigns"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "What's included in this service?",
+    "answer": "Brand strategy, visual identity (logo, colors, typography), brand guidelines, marketing strategy, channel plan, content strategy, and launch support. It's everything you need to build and market your brand."
+   },
+   {
+    "question": "How is this different from just branding or just marketing?",
+    "answer": "This integrates both disciplines from the start, ensuring your brand and marketing are perfectly aligned. You get a cohesive strategy rather than two separate efforts."
+   },
+   {
+    "question": "How long does the process take?",
+    "answer": "8-12 weeks typically. Week 1-6: Brand development. Week 7-10: Marketing strategy. Week 11-12: Launch preparation and execution."
+   },
+   {
+    "question": "Is this suitable for existing businesses?",
+    "answer": "Yes! This is perfect for businesses ready to rebrand and revamp their marketing, or established companies launching new product lines or entering new markets."
+   }
+  ],
+  "metaTitle": "Branding & Marketing Services | Complete Brand & Go-to-Market Strategy | Social Guava",
+  "metaDescription": "Comprehensive branding and marketing services. Build a strong brand identity and go-to-market strategy that drives growth. Complete solution for business success."
+ },
+ {
+  "title": "Re-branding",
+  "slug": "rebranding",
+  "category": "Branding Services",
+  "description": "Refresh your brand identity and reconnect with modern audiences.",
+  "heroSubtitle": "Transform your outdated brand into a modern identity that resonates with today's customers.",
+  "fullDescription": "Is your brand tired, outdated, or no longer aligned with your business vision? Re-branding is more than a new logo—it's a strategic evolution of your entire brand identity to stay relevant, competitive, and connected with your audience.",
+  "targetAudience": "Established businesses ready for a refresh, companies pivoting to new markets, businesses that have outgrown their current brand, and organizations looking to modernize their image.",
+  "points": [
+   "Brand audit and competitive analysis",
+   "Updated brand strategy and positioning",
+   "New visual identity (logo, colors, typography)",
+   "Brand messaging and voice evolution",
+   "Updated brand guidelines",
+   "Marketing asset redesign",
+   "Launch and rollout strategy",
+   "Stakeholder and customer communication"
+  ],
+  "benefits": [
+   {
+    "title": "Fresh Modern Look",
+    "description": "Updated visual identity that appeals to today's audiences"
+   },
+   {
+    "title": "Strategic Repositioning",
+    "description": "Realign your brand with current market and business goals"
+   },
+   {
+    "title": "Renewed Growth",
+    "description": "Revitalized brand that attracts new customers and re-engages existing ones"
+   }
+  ],
+  "process": [
+   {
+    "title": "Audit",
+    "description": "Evaluate current brand performance, perception, and competitive landscape"
+   },
+   {
+    "title": "Strategy",
+    "description": "Develop new brand positioning, messaging, and visual direction"
+   },
+   {
+    "title": "Design",
+    "description": "Create refreshed visual identity and brand guidelines"
+   },
+   {
+    "title": "Rollout",
+    "description": "Plan and execute brand launch across all touchpoints"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "When should a business consider rebranding?",
+    "answer": "When you've outgrown your current brand, entering new markets, after a merger/acquisition, if your brand looks dated, or when your brand no longer reflects your business values and vision."
+   },
+   {
+    "question": "Will rebranding confuse existing customers?",
+    "answer": "Not if done right! We create transition strategies that honor your brand equity while introducing the new identity. Most customers appreciate when brands evolve and modernize."
+   },
+   {
+    "question": "How much of our brand should change?",
+    "answer": "It depends! Some brands need a complete overhaul, others just need a refresh. We assess your situation and recommend the right level of change—from subtle evolution to complete transformation."
+   },
+   {
+    "question": "How long does rebranding take?",
+    "answer": "Full rebranding typically takes 8-12 weeks: research and strategy (2-3 weeks), design development (4-6 weeks), refinement and guidelines (2-3 weeks), plus rollout planning."
+   }
+  ],
+  "metaTitle": "Rebranding Services | Brand Refresh & Modernization | Social Guava",
+  "metaDescription": "Professional rebranding services to modernize your brand identity. Strategic refresh for established businesses ready to evolve and grow. Transform your brand today!"
+ },
+ {
+  "title": "Marketplace Listings",
+  "slug": "marketplace-listings",
+  "category": "Marketing Services",
+  "description": "Optimize your Amazon & Flipkart listings and maximize sales with sponsored ads.",
+  "badge": "📈 High Demand",
+  "heroSubtitle": "Dominate marketplace search results with optimized listings and strategic advertising on Amazon & Flipkart.",
+  "fullDescription": "Success on marketplaces requires perfect listings and smart advertising. We optimize your product pages, create compelling content, manage A+ content, and run high-ROI sponsored ad campaigns to increase visibility and sales.",
+  "targetAudience": "E-commerce sellers, D2C brands, manufacturers, distributors, and anyone selling products on Amazon, Flipkart, or other online marketplaces.",
+  "points": [
+   "Product listing optimization (titles, bullets, descriptions)",
+   "Amazon A+ Content / Enhanced Brand Content",
+   "Product photography and infographics",
+   "Keyword research and SEO",
+   "Amazon PPC / Sponsored Product Ads",
+   "Flipkart Sponsored Ads management",
+   "Review generation and management",
+   "Competitor analysis and pricing strategy"
+  ],
+  "benefits": [
+   {
+    "title": "Higher Visibility",
+    "description": "Optimize for marketplace search to appear at the top of results"
+   },
+   {
+    "title": "Increased Sales",
+    "description": "Better listings and strategic ads drive more conversions"
+   },
+   {
+    "title": "Better ROI",
+    "description": "Optimize ad spend to maximize profit margins"
+   }
+  ],
+  "process": [
+   {
+    "title": "Audit",
+    "description": "Analyze current listings, ads, and competitive landscape"
+   },
+   {
+    "title": "Optimization",
+    "description": "Improve listings with keyword research, enhanced content, and better images"
+   },
+   {
+    "title": "Advertising",
+    "description": "Launch and optimize sponsored ad campaigns"
+   },
+   {
+    "title": "Monitor & Scale",
+    "description": "Track performance, adjust bids, and scale winning campaigns"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "What's the difference between organic optimization and sponsored ads?",
+    "answer": "Organic optimization improves your natural ranking in search results through better listings. Sponsored ads put you at the top of results instantly but require ongoing ad spend. Both work together for maximum visibility."
+   },
+   {
+    "question": "How much should I spend on Amazon/Flipkart ads?",
+    "answer": "Typically 10-20% of your target sales revenue. For a product with ₹1 lakh monthly sales target, budget ₹10,000-20,000 for ads. We optimize to reduce this percentage over time."
+   },
+   {
+    "question": "Do you handle account setup or just optimization?",
+    "answer": "We handle both! Whether you're setting up a new seller account or optimizing an existing one, we provide end-to-end support."
+   },
+   {
+    "question": "Can you help with international marketplaces like Amazon US?",
+    "answer": "Yes! We manage listings and advertising on Amazon India, US, UK, UAE, and other major Amazon marketplaces, as well as Flipkart in India."
+   }
+  ],
+  "metaTitle": "Amazon & Flipkart Listing Optimization | Marketplace Sponsored Ads | Social Guava",
+  "metaDescription": "Optimize your Amazon and Flipkart product listings and maximize sales with strategic sponsored ads. Expert marketplace SEO and PPC management."
+ },
+ {
+  "title": "Strategic Marketing",
+  "slug": "strategic-marketing",
+  "category": "Marketing Services",
+  "description": "Mapping out market domination (one tactic at a time).",
+  "heroSubtitle": "Get a comprehensive marketing roadmap tailored to your business goals and market position.",
+  "fullDescription": "Strategy before tactics. We develop comprehensive marketing strategies that align with your business objectives, market position, and customer journey to drive sustainable growth.",
+  "targetAudience": "Startups planning their go-to-market, established businesses entering new markets, and companies looking to scale strategically.",
+  "points": [
+   "Market research & analysis",
+   "Target audience deep-dive",
+   "Channel & tactic recommendations",
+   "Quarterly and annual planning",
+   "KPI setting and tracking"
+  ],
+  "benefits": [
+   {
+    "title": "Clear Direction",
+    "description": "Know exactly where to focus your marketing efforts"
+   },
+   {
+    "title": "Strategic Advantage",
+    "description": "Outmaneuver competitors with data-backed strategies"
+   },
+   {
+    "title": "Measurable Success",
+    "description": "Clear KPIs and milestones to track progress"
+   }
+  ],
+  "process": [
+   {
+    "title": "Discovery",
+    "description": "Understand your business, market, competitors, and goals"
+   },
+   {
+    "title": "Research",
+    "description": "Deep-dive into market data, audience insights, and opportunities"
+   },
+   {
+    "title": "Strategy",
+    "description": "Develop comprehensive marketing plan with actionable tactics"
+   },
+   {
+    "title": "Roadmap",
+    "description": "Create quarterly implementation roadmap with KPIs"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "What's included in a marketing strategy?",
+    "answer": "Market analysis, customer personas, positioning, channel strategy, content strategy, campaign planning, budget allocation, KPIs, and a 12-month roadmap."
+   },
+   {
+    "question": "How is this different from execution services?",
+    "answer": "This is the strategic plan—the what and why. Execution services (like social media management or ads) are the how. Many clients start with strategy, then hire us for execution."
+   },
+   {
+    "question": "Can you help implement the strategy?",
+    "answer": "Yes! Once the strategy is approved, we can handle implementation through our execution services or work alongside your team."
+   }
+  ],
+  "metaTitle": "Strategic Marketing Services | Marketing Strategy & Planning | Social Guava",
+  "metaDescription": "Comprehensive marketing strategy and planning services. Get a clear roadmap for market domination with data-backed tactics and measurable KPIs."
+ },
+ {
+  "title": "Brand Development",
+  "slug": "brand-development",
+  "category": "Branding Services",
+  "description": "Creating brands that click and stick.",
+  "heroSubtitle": "Build a memorable brand identity from scratch that resonates with your audience.",
+  "fullDescription": "Your brand is more than a logo—it's the complete experience customers have with your business. We develop distinctive brand identities that stand out in crowded markets.",
+  "targetAudience": "New businesses, product launches, and companies needing a complete brand identity overhaul.",
+  "points": [
+   "Brand strategy & positioning",
+   "Logo, typography, and color palette",
+   "Visual identity systems",
+   "Brand story and messaging",
+   "Brand guidelines document"
+  ],
+  "benefits": [
+   {
+    "title": "Distinctive Identity",
+    "description": "Stand out with a unique, memorable brand"
+   },
+   {
+    "title": "Professional Presence",
+    "description": "Look established and credible from day one"
+   },
+   {
+    "title": "Customer Connection",
+    "description": "Build emotional bonds with your audience"
+   }
+  ],
+  "process": [
+   {
+    "title": "Discovery",
+    "description": "Understand your vision, values, audience, and market"
+   },
+   {
+    "title": "Strategy",
+    "description": "Define positioning, personality, and brand pillars"
+   },
+   {
+    "title": "Design",
+    "description": "Create logo, color palette, typography, and visual elements"
+   },
+   {
+    "title": "Guidelines",
+    "description": "Document everything in a comprehensive brand playbook"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "What's the difference between brand development and logo design?",
+    "answer": "Logo design is just one element. Brand development includes strategy, positioning, messaging, complete visual identity, and guidelines—everything you need to build a cohesive brand."
+   },
+   {
+    "question": "How long does brand development take?",
+    "answer": "6-8 weeks typically. Strategy and research (2 weeks), design concepts (2-3 weeks), refinement (1-2 weeks), guidelines and assets (1 week)."
+   },
+   {
+    "question": "What if I don't like the initial designs?",
+    "answer": "We present multiple concepts and refine based on your feedback. We work iteratively until you love the final brand identity."
+   }
+  ],
+  "metaTitle": "Brand Development Services | Brand Identity & Strategy | Social Guava",
+  "metaDescription": "Professional brand development from strategy to visual identity. Create a distinctive brand that resonates with your audience and stands out in the market."
+ },
+ {
+  "title": "Go-To-Market Strategy",
+  "slug": "go-to-market-strategy",
+  "category": "Marketing Services",
+  "description": "Launch like you mean it.",
+  "heroSubtitle": "Strategic launch plans that ensure your product or service hits the market with maximum impact.",
+  "fullDescription": "Launching without a plan is like throwing darts blindfolded. We create comprehensive go-to-market strategies that identify your ideal customers, craft compelling positioning, and map out launch tactics for maximum traction.",
+  "targetAudience": "Startups launching products, established companies entering new markets, and businesses introducing new offerings.",
+  "points": [
+   "Market sizing & analysis",
+   "ICP (Ideal Customer Profile) definition",
+   "Positioning and messaging",
+   "Launch phases and timeline",
+   "Channel strategy and budget allocation"
+  ],
+  "benefits": [
+   {
+    "title": "Focused Launch",
+    "description": "Target the right audience with the right message"
+   },
+   {
+    "title": "Faster Traction",
+    "description": "Get to market faster with a clear plan"
+   },
+   {
+    "title": "Better ROI",
+    "description": "Optimize spend by focusing on what works"
+   }
+  ],
+  "process": [
+   {
+    "title": "Research",
+    "description": "Analyze market, competitors, and customer segments"
+   },
+   {
+    "title": "Positioning",
+    "description": "Define your unique value proposition and messaging"
+   },
+   {
+    "title": "Strategy",
+    "description": "Develop phased launch plan with tactics and budget"
+   },
+   {
+    "title": "Execution Plan",
+    "description": "Create detailed action plan with timelines and responsibilities"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "When should I create a GTM strategy?",
+    "answer": "3-6 months before launch. This gives time to refine positioning, prepare assets, and line up partnerships or press coverage."
+   },
+   {
+    "question": "Can you help with product launches for existing businesses?",
+    "answer": "Absolutely! Whether you're launching a new product line, entering a new market, or pivoting your business, a GTM strategy ensures a successful launch."
+   },
+   {
+    "question": "Do you handle execution or just strategy?",
+    "answer": "We create the strategy, but can also execute through our marketing services (ads, content, social media, etc.) or work with your team."
+   }
+  ],
+  "metaTitle": "Go-To-Market Strategy Services | Product Launch Planning | Social Guava",
+  "metaDescription": "Strategic go-to-market planning for product launches and market entry. Get a clear launch roadmap that drives traction and maximizes ROI."
+ },
+ {
+  "title": "Web Development",
+  "slug": "web-development",
+  "category": "Design Services",
+  "description": "Build fast, beautiful, conversion-focused websites.",
+  "heroSubtitle": "Custom websites designed to attract visitors and convert them into customers.",
+  "fullDescription": "Your website is your digital storefront. We build modern, fast-loading websites that look stunning, provide great user experiences, and are optimized for conversions and search engines.",
+  "targetAudience": "Businesses needing new websites, outdated websites that need rebuilding, and companies launching new digital experiences.",
+  "points": [
+   "Custom website design and development",
+   "Mobile-responsive design",
+   "SEO optimization",
+   "Fast loading and performance",
+   "Content management systems",
+   "E-commerce integration"
+  ],
+  "benefits": [
+   {
+    "title": "Lightning Fast",
+    "description": "Optimized for speed and performance"
+   },
+   {
+    "title": "Mobile First",
+    "description": "Perfect experience on all devices"
+   },
+   {
+    "title": "SEO Ready",
+    "description": "Built for search engine visibility"
+   }
+  ],
+  "process": [
+   {
+    "title": "Discovery",
+    "description": "Understand your goals, audience, and requirements"
+   },
+   {
+    "title": "Design",
+    "description": "Create wireframes and visual designs"
+   },
+   {
+    "title": "Development",
+    "description": "Build and test the website"
+   },
+   {
+    "title": "Launch",
+    "description": "Deploy and provide training"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "How long does it take to build a website?",
+    "answer": "Simple websites: 3-4 weeks. Complex websites with custom functionality: 6-12 weeks. We provide detailed timelines after understanding your requirements."
+   },
+   {
+    "question": "Do you provide hosting and maintenance?",
+    "answer": "Yes! We offer hosting packages and ongoing maintenance to keep your website secure, updated, and performing optimally."
+   },
+   {
+    "question": "Can I update the website myself?",
+    "answer": "Absolutely! We build websites on user-friendly platforms (WordPress, Webflow, etc.) and provide training so you can make updates easily."
+   }
+  ],
+  "metaTitle": "Web Development Services | Custom Website Design & Development | Social Guava",
+  "metaDescription": "Professional web development services. Build fast, beautiful, conversion-optimized websites that grow your business. Mobile-responsive and SEO-ready."
+ },
+ {
+  "title": "UI/UX Design",
+  "slug": "ui-ux-design",
+  "category": "Design Services",
+  "description": "Design experiences users love.",
+  "heroSubtitle": "Create intuitive, beautiful digital experiences that delight users and drive conversions.",
+  "fullDescription": "Great products aren't just functional—they're intuitive and delightful to use. We design user interfaces and experiences that make complex things simple and turn visitors into loyal users.",
+  "targetAudience": "SaaS companies, app developers, startups, and businesses building digital products.",
+  "points": [
+   "User research and personas",
+   "Wireframing and prototyping",
+   "Visual UI design",
+   "Usability testing",
+   "Design system creation"
+  ],
+  "benefits": [
+   {
+    "title": "Happy Users",
+    "description": "Intuitive design that users love"
+   },
+   {
+    "title": "Higher Conversions",
+    "description": "Optimized flows that drive action"
+   },
+   {
+    "title": "Beautiful Interfaces",
+    "description": "Modern, polished visual design"
+   }
+  ],
+  "process": [
+   {
+    "title": "Research",
+    "description": "Understand users, their needs, and pain points"
+   },
+   {
+    "title": "Wireframes",
+    "description": "Map out user flows and information architecture"
+   },
+   {
+    "title": "Design",
+    "description": "Create high-fidelity UI designs"
+   },
+   {
+    "title": "Test & Refine",
+    "description": "Validate with users and iterate"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "What's the difference between UI and UX?",
+    "answer": "UX (User Experience) is about how it works—the flow, structure, and usability. UI (User Interface) is how it looks—colors, typography, and visual elements. Great products need both."
+   },
+   {
+    "question": "Do you do user testing?",
+    "answer": "Yes! We conduct usability testing with real users to validate designs and identify areas for improvement before development."
+   },
+   {
+    "question": "Can you redesign an existing product?",
+    "answer": "Absolutely! Many of our projects involve redesigning existing products to improve usability, modernize the look, and increase conversions."
+   }
+  ],
+  "metaTitle": "UI/UX Design Services | User Interface & Experience Design | Social Guava",
+  "metaDescription": "Professional UI/UX design for apps and websites. Create intuitive, beautiful digital experiences that users love and drive conversions."
+ },
+ {
+  "title": "Product & Packaging Design",
+  "slug": "product-packaging-design",
+  "category": "Design Services",
+  "description": "Designs that sell off the shelf.",
+  "heroSubtitle": "Create product packaging that stands out on shelves and creates memorable unboxing experiences.",
+  "fullDescription": "In a crowded market, your packaging is your silent salesperson. We design product packaging that grabs attention, communicates value, and creates shareable unboxing moments that turn customers into brand advocates.",
+  "targetAudience": "Consumer product brands, e-commerce businesses, food & beverage companies, cosmetics brands, and anyone selling physical products.",
+  "points": [
+   "Product packaging design",
+   "Label design",
+   "3D mockups and visualization",
+   "Structural design consultation",
+   "Print-ready file preparation",
+   "Eco-friendly packaging solutions"
+  ],
+  "benefits": [
+   {
+    "title": "Shelf Appeal",
+    "description": "Designs that stand out in crowded markets"
+   },
+   {
+    "title": "Unboxing Magic",
+    "description": "Create shareable moments that boost brand loyalty"
+   },
+   {
+    "title": "Print Ready",
+    "description": "Complete files ready for production with supplier coordination"
+   }
+  ],
+  "process": [
+   {
+    "title": "Discovery",
+    "description": "Understand product, target market, and packaging requirements"
+   },
+   {
+    "title": "Concept Design",
+    "description": "Create multiple design directions with 3D mockups"
+   },
+   {
+    "title": "Refinement",
+    "description": "Perfect chosen design with structural and visual details"
+   },
+   {
+    "title": "Production",
+    "description": "Deliver print-ready files and coordinate with manufacturers"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "What types of packaging do you design?",
+    "answer": "Product boxes, labels, bottles, pouches, bags, shipping boxes, inserts, and complete unboxing experiences."
+   },
+   {
+    "question": "Do you help with sustainable packaging?",
+    "answer": "Yes! We research and recommend eco-friendly materials and work with suppliers who offer sustainable options."
+   },
+   {
+    "question": "Can you handle printing or do you just design?",
+    "answer": "We primarily focus on design, but we can coordinate with printers and provide technical support throughout production."
+   },
+   {
+    "question": "Do you provide 3D mockups?",
+    "answer": "Yes! We create realistic 3D mockups so you can visualize the final product before manufacturing."
+   }
+  ],
+  "metaTitle": "Product & Packaging Design Services | Label & Box Design | Social Guava",
+  "metaDescription": "Eye-catching product packaging design from concept to print-ready files. Create memorable unboxing experiences that boost your brand. Start now!"
+ },
+ {
+  "title": "Shoot Services",
+  "slug": "shoot-services",
+  "category": "Design Services",
+  "description": "Bringing your brand to life, frame by frame.",
+  "heroSubtitle": "Professional photography and videography that brings your brand to life.",
+  "fullDescription": "Great content starts with great visuals. From product photography to brand storytelling shoots, we capture compelling imagery that elevates your brand and drives engagement.",
+  "targetAudience": "E-commerce brands, restaurants, fashion brands, lifestyle businesses, and any brand that needs professional visual content.",
+  "points": [
+   "Product and brand shoots",
+   "From moodboards to editing",
+   "Styled for scroll-stopping impact",
+   "Location scouting and permits",
+   "Professional equipment and crew",
+   "Post-production and retouching"
+  ],
+  "benefits": [
+   {
+    "title": "Professional Quality",
+    "description": "Studio-grade equipment and expert photographers"
+   },
+   {
+    "title": "Creative Direction",
+    "description": "From concept to execution, we handle it all"
+   },
+   {
+    "title": "Content Library",
+    "description": "Build a library of high-quality assets for all channels"
+   }
+  ],
+  "process": [
+   {
+    "title": "Planning",
+    "description": "Create shot list, moodboards, and logistics planning"
+   },
+   {
+    "title": "Shoot Day",
+    "description": "Professional photography/videography with art direction"
+   },
+   {
+    "title": "Post-Production",
+    "description": "Editing, color grading, and retouching"
+   },
+   {
+    "title": "Delivery",
+    "description": "Final high-res files optimized for all platforms"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "What types of shoots do you do?",
+    "answer": "Product photography, lifestyle shoots, food photography, fashion shoots, corporate headshots, event coverage, and brand storytelling content."
+   },
+   {
+    "question": "Do you provide models and stylists?",
+    "answer": "Yes! We can arrange models, makeup artists, stylists, and props based on your shoot requirements."
+   },
+   {
+    "question": "Where do shoots take place?",
+    "answer": "We can shoot in our studio, at your location, or scout and arrange external locations—whatever works best for your vision."
+   },
+   {
+    "question": "How long does post-production take?",
+    "answer": "Typically 5-10 business days depending on the volume of content. Rush delivery available for urgent projects."
+   }
+  ],
+  "metaTitle": "Professional Photography & Videography Services | Brand Shoots | Social Guava",
+  "metaDescription": "Professional product and brand photography services. From moodboards to editing, we create scroll-stopping visual content. Book your shoot today!"
+ },
+ {
+  "title": "SEO (Search Engine Optimization)",
+  "slug": "seo",
+  "category": "Marketing Services",
+  "description": "Rank higher on Google and drive organic traffic to your website.",
+  "badge": "📈 High Demand",
+  "heroSubtitle": "Dominate search results with data-driven SEO strategies that bring qualified traffic to your business.",
+  "fullDescription": "Get found by your ideal customers when they're actively searching for solutions. Our comprehensive SEO services combine technical optimization, content strategy, and link building to improve your rankings and drive sustainable organic growth.",
+  "targetAudience": "Businesses looking to increase online visibility, drive organic traffic, reduce paid advertising costs, and establish long-term digital presence.",
+  "points": [
+   "Technical SEO audits and optimization",
+   "Keyword research and strategy",
+   "On-page optimization and content SEO",
+   "Link building and authority development",
+   "Local SEO for location-based businesses",
+   "Monthly reporting and performance tracking"
+  ],
+  "benefits": [
+   {
+    "title": "Organic Growth",
+    "description": "Sustainable traffic without ongoing ad spend"
+   },
+   {
+    "title": "Qualified Leads",
+    "description": "Reach customers actively searching for your solutions"
+   },
+   {
+    "title": "Better ROI",
+    "description": "Long-term results that compound over time"
+   }
+  ],
+  "process": [
+   {
+    "title": "SEO Audit",
+    "description": "Comprehensive analysis of your current website performance and opportunities"
+   },
+   {
+    "title": "Strategy Development",
+    "description": "Custom SEO roadmap based on your goals and competition"
+   },
+   {
+    "title": "Implementation",
+    "description": "Technical fixes, content optimization, and link building execution"
+   },
+   {
+    "title": "Monitor & Optimize",
+    "description": "Ongoing tracking, reporting, and continuous improvement"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "How long does SEO take to show results?",
+    "answer": "SEO is a long-term strategy. You'll typically see initial improvements in 3-4 months, with significant results in 6-12 months. The timeline depends on competition and your starting point."
+   },
+   {
+    "question": "What's the difference between SEO and paid ads?",
+    "answer": "SEO drives organic traffic through unpaid search results and builds long-term value. Paid ads provide immediate traffic but stop when you stop paying. We recommend a balanced approach using both."
+   },
+   {
+    "question": "Do you guarantee #1 rankings?",
+    "answer": "No reputable SEO agency can guarantee specific rankings. We focus on improving overall visibility, traffic, and conversions through proven strategies and transparent reporting."
+   },
+   {
+    "question": "Will you handle content creation too?",
+    "answer": "Yes! We can create SEO-optimized content, or work with your existing content team to ensure everything is optimized for search engines and users."
+   }
+  ],
+  "metaTitle": "SEO Services - Search Engine Optimization | Rank Higher on Google | Social Guava",
+  "metaDescription": "Professional SEO services to increase your Google rankings and organic traffic. Technical SEO, keyword research, content optimization, and link building. Get found online!"
+ },
+ {
+  "title": "AEO (Answer Engine Optimization)",
+  "slug": "aeo",
+  "category": "Marketing Services",
+  "description": "Optimize for AI search engines and featured snippets to capture the future of search.",
+  "badge": "🚀 Hottest Selling",
+  "heroSubtitle": "Get featured in AI-powered search results, voice assistants, and answer boxes with cutting-edge AEO strategies.",
+  "fullDescription": "The future of search is here. With ChatGPT, Perplexity, and Google's AI Overviews changing how people find information, AEO ensures your brand appears in AI-generated answers. We optimize your content to be the trusted source AI models reference.",
+  "targetAudience": "Forward-thinking businesses, tech companies, SaaS brands, and thought leaders who want to dominate AI-powered search and voice queries.",
+  "points": [
+   "AI search engine optimization (ChatGPT, Perplexity, Google SGE)",
+   "Featured snippet and answer box optimization",
+   "Voice search optimization",
+   "Structured data and schema markup",
+   "FAQ and conversational content strategy",
+   "Knowledge panel optimization"
+  ],
+  "benefits": [
+   {
+    "title": "AI Visibility",
+    "description": "Get featured in AI-generated search responses"
+   },
+   {
+    "title": "Voice Search Ready",
+    "description": "Capture voice queries from Alexa, Siri, and Google Assistant"
+   },
+   {
+    "title": "Zero-Click Wins",
+    "description": "Appear in featured snippets and answer boxes"
+   }
+  ],
+  "process": [
+   {
+    "title": "Content Audit",
+    "description": "Analyze your content for AEO readiness and opportunities"
+   },
+   {
+    "title": "Optimization Strategy",
+    "description": "Develop structured data, FAQ content, and conversational formats"
+   },
+   {
+    "title": "Implementation",
+    "description": "Deploy schema markup, optimize for answer boxes, and create AI-friendly content"
+   },
+   {
+    "title": "Track & Refine",
+    "description": "Monitor AI search appearances and refine strategy"
+   }
+  ],
+  "faqs": [
+   {
+    "question": "What is AEO and how is it different from SEO?",
+    "answer": "AEO (Answer Engine Optimization) focuses on optimizing for AI-powered search results like ChatGPT, Perplexity, and Google's AI Overviews. While SEO targets traditional search rankings, AEO ensures your content is referenced by AI when answering user queries."
+   },
+   {
+    "question": "Why should I care about AEO now?",
+    "answer": "AI-powered search is growing rapidly. Millions use ChatGPT and Perplexity daily, and Google is rolling out AI Overviews globally. Early adopters of AEO will dominate this new search landscape while others catch up."
+   },
+   {
+    "question": "Will AEO replace my SEO efforts?",
+    "answer": "No, they work together. AEO complements SEO by ensuring you're visible in both traditional and AI-powered search. We integrate both strategies for maximum visibility across all search types."
+   },
+   {
+    "question": "How do you measure AEO success?",
+    "answer": "We track featured snippet appearances, AI search citations, voice search visibility, and zero-click impressions. We also monitor branded mentions in AI-generated responses."
+   }
+  ],
+  "metaTitle": "AEO Services - Answer Engine Optimization | AI Search Optimization | Social Guava",
+  "metaDescription": "Future-proof your online presence with AEO. Get featured in ChatGPT, Perplexity, and AI search results. Voice search and featured snippet optimization experts."
+ }
+]

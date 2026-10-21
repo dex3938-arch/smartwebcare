@@ -1,0 +1,50 @@
+[
+ {
+  "industrySlug": "coaches-consultants",
+  "industryName": "Coaches & Consultants"
+ },
+ {
+  "industrySlug": "real-estate",
+  "industryName": "Real Estate Professionals"
+ },
+ {
+  "industrySlug": "healthcare-wellness",
+  "industryName": "Healthcare & Wellness"
+ },
+ {
+  "industrySlug": "saas-tech-startups",
+  "industryName": "SaaS & Tech Startups"
+ },
+ {
+  "industrySlug": "ecommerce-d2c",
+  "industryName": "E-commerce & D2C Brands"
+ },
+ {
+  "industrySlug": "restaurants-hospitality",
+  "industryName": "Restaurants & Hospitality"
+ },
+ {
+  "industrySlug": "legal-financial",
+  "industryName": "Legal & Financial Services"
+ },
+ {
+  "industrySlug": "education-edtech",
+  "industryName": "Education & EdTech"
+ },
+ {
+  "industrySlug": "beauty-fashion",
+  "industryName": "Beauty & Fashion"
+ },
+ {
+  "industrySlug": "home-services",
+  "industryName": "Home Services"
+ },
+ {
+  "industrySlug": "fitness-trainers",
+  "industryName": "Fitness & Personal Trainers"
+ },
+ {
+  "industrySlug": "b2b-manufacturing",
+  "industryName": "B2B & Manufacturing"
+ }
+]

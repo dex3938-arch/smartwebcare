@@ -1,0 +1,86 @@
+{
+ "india": {
+  "slug": "india",
+  "name": "India",
+  "description": "Leading marketing agency serving 936+ cities across India with cutting-edge personal branding, social media marketing, and digital growth strategies. From metro cities to tier 2/3 cities, we help businesses achieve exceptional results with data-driven campaigns trusted by 100+ brands.",
+  "cityCount": 738
+ },
+ "usa": {
+  "slug": "usa",
+  "name": "United States",
+  "description": "Premier marketing solutions across 135 major US cities from New York to Los Angeles. Expert personal branding, performance marketing, and social media strategies that drive real growth for American businesses. Trusted by leading brands coast to coast.",
+  "cityCount": 41
+ },
+ "uk": {
+  "slug": "uk",
+  "name": "United Kingdom",
+  "description": "Top-rated marketing agency serving 100 cities across the UK from London to Edinburgh. Specialized in personal branding, social media marketing, and digital transformation for British businesses seeking authentic growth and market leadership.",
+  "cityCount": 21
+ },
+ "canada": {
+  "slug": "canada",
+  "name": "Canada",
+  "description": "Award-winning marketing services across 75 Canadian cities from Toronto to Vancouver. Expert strategies in personal branding, content creation, and performance marketing tailored for the Canadian market. Helping businesses grow from coast to coast.",
+  "cityCount": 18
+ },
+ "australia": {
+  "slug": "australia",
+  "name": "Australia",
+  "description": "Leading marketing agency serving 72 major Australian cities from Sydney to Perth. Innovative personal branding, social media marketing, and digital strategies designed for the Australian market. Trusted partner for brands seeking measurable growth down under.",
+  "cityCount": 15
+ },
+ "uae": {
+  "slug": "uae",
+  "name": "United Arab Emirates",
+  "description": "Premium marketing solutions across 8 UAE cities led by Dubai. Expert personal branding, luxury marketing, and digital strategies tailored for the Middle East market. Helping businesses thrive in one of the world's most competitive markets.",
+  "cityCount": 7
+ },
+ "new-zealand": {
+  "slug": "new-zealand",
+  "name": "New Zealand",
+  "description": "Trusted marketing partner serving 6 cities across New Zealand from Auckland to Wellington. Specialized in personal branding, content marketing, and digital growth strategies for Kiwi businesses seeking authentic connections and sustainable growth.",
+  "cityCount": 6
+ },
+ "singapore": {
+  "slug": "singapore",
+  "name": "Singapore",
+  "description": "Elite marketing services in Singapore, Southeast Asia's business hub. Expert personal branding, social media marketing, and performance strategies designed for the competitive Singaporean market. Driving exceptional results for brands in Asia's most dynamic city.",
+  "cityCount": 1
+ },
+ "ireland": {
+  "slug": "ireland",
+  "name": "Ireland",
+  "description": "Premier marketing agency serving 8 Irish cities from Dublin to Cork. Specialized in tech startups, SaaS marketing, and European expansion strategies. Helping Irish businesses scale across EU markets with data-driven campaigns and creative excellence.",
+  "cityCount": 8
+ },
+ "south-africa": {
+  "slug": "south-africa",
+  "name": "South Africa",
+  "description": "Leading marketing partner across 12 South African cities from Johannesburg to Cape Town. Expert strategies for Pan-African expansion, regional brand building, and digital growth. Trusted by brands targeting Africa's most developed economy.",
+  "cityCount": 12
+ },
+ "philippines": {
+  "slug": "philippines",
+  "name": "Philippines",
+  "description": "Top marketing agency serving 10 Philippine cities from Manila to Cebu. Specialized in social media mastery, influencer marketing, and regional campaigns. Helping Filipino businesses achieve national prominence and ASEAN market reach.",
+  "cityCount": 10
+ },
+ "hong-kong": {
+  "slug": "hong-kong",
+  "name": "Hong Kong",
+  "description": "Elite marketing services in Hong Kong, Asia's financial hub. Expert in fintech marketing, luxury brands, and cross-border commerce. Driving exceptional results for businesses targeting Asia-Pacific markets from this global city.",
+  "cityCount": 1
+ },
+ "malta": {
+  "slug": "malta",
+  "name": "Malta",
+  "description": "Premium marketing agency serving 3 Maltese cities. Specialized in iGaming, fintech, and EU-compliant marketing strategies. Helping businesses leverage Malta's strategic position for European market expansion and regulatory expertise.",
+  "cityCount": 3
+ },
+ "kenya": {
+  "slug": "kenya",
+  "name": "Kenya",
+  "description": "Leading marketing partner across 6 Kenyan cities from Nairobi to Mombasa. Expert in Silicon Savannah tech marketing, M-Pesa fintech, and East African expansion. Helping brands dominate Kenya's innovative market and Pan-African opportunities.",
+  "cityCount": 6
+ }
+}

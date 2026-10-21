@@ -1,0 +1,422 @@
+{
+ "coaches-consultants": [
+  {
+   "name": "Personal Branding",
+   "slug": "personal-branding",
+   "description": "Build your authority and attract high-ticket clients with strategic personal branding.",
+   "benefits": [
+    "LinkedIn thought leadership",
+    "Instagram authority building",
+    "Content strategy for coaches",
+    "Lead generation systems"
+   ]
+  },
+  {
+   "name": "LinkedIn Marketing",
+   "slug": "linkedin-marketing",
+   "description": "Position yourself as an industry expert and generate qualified leads through LinkedIn.",
+   "benefits": [
+    "Profile optimization",
+    "Content calendar",
+    "Engagement strategy",
+    "Lead funnel setup"
+   ]
+  },
+  {
+   "name": "Social Media Marketing",
+   "slug": "social-media-marketing",
+   "description": "Build a strong social presence to showcase your expertise and attract clients.",
+   "benefits": [
+    "Multi-platform strategy",
+    "Content creation",
+    "Community building",
+    "Client acquisition"
+   ]
+  }
+ ],
+ "real-estate": [
+  {
+   "name": "Instagram Marketing",
+   "slug": "instagram-marketing",
+   "description": "Showcase properties and build trust with potential buyers through visual storytelling.",
+   "benefits": [
+    "Property showcases",
+    "Virtual tours",
+    "Lead generation",
+    "Brand building"
+   ]
+  },
+  {
+   "name": "Performance Marketing",
+   "slug": "performance-marketing",
+   "description": "Generate qualified property inquiries with targeted advertising campaigns.",
+   "benefits": [
+    "Facebook & Instagram ads",
+    "Google Ads for properties",
+    "Retargeting campaigns",
+    "Lead tracking"
+   ]
+  },
+  {
+   "name": "Video Marketing",
+   "slug": "video-editing",
+   "description": "Create compelling property videos and virtual tours that convert viewers into buyers.",
+   "benefits": [
+    "Property walkthroughs",
+    "Drone footage",
+    "Testimonial videos",
+    "Social media clips"
+   ]
+  }
+ ],
+ "healthcare-wellness": [
+  {
+   "name": "AI Receptionist",
+   "slug": "ai-receptionist",
+   "description": "24/7 automated appointment booking and patient inquiry handling with AI-powered calls.",
+   "benefits": [
+    "24/7 availability",
+    "Appointment scheduling",
+    "Patient queries",
+    "Multilingual support"
+   ]
+  },
+  {
+   "name": "Social Media Marketing",
+   "slug": "social-media-marketing",
+   "description": "Build patient trust and educate your community through engaging social content.",
+   "benefits": [
+    "Health education content",
+    "Patient testimonials",
+    "Service promotion",
+    "Community building"
+   ]
+  },
+  {
+   "name": "Reputation Management",
+   "slug": "reputation-management",
+   "description": "Manage online reviews and build a trusted healthcare brand in your city.",
+   "benefits": [
+    "Review monitoring",
+    "Response management",
+    "Brand protection",
+    "Trust building"
+   ]
+  }
+ ],
+ "saas-tech-startups": [
+  {
+   "name": "Performance Marketing",
+   "slug": "performance-marketing",
+   "description": "Scale user acquisition with data-driven paid advertising campaigns.",
+   "benefits": [
+    "Google Ads",
+    "LinkedIn Ads",
+    "Retargeting",
+    "Conversion optimization"
+   ]
+  },
+  {
+   "name": "AI Agents",
+   "slug": "ai-agents",
+   "description": "Automate customer support and sales processes with intelligent AI agents.",
+   "benefits": [
+    "Lead qualification",
+    "Customer support automation",
+    "Sales assistance",
+    "User onboarding"
+   ]
+  },
+  {
+   "name": "Brand Development",
+   "slug": "brand-development",
+   "description": "Create a memorable brand identity that resonates with your target market.",
+   "benefits": [
+    "Brand strategy",
+    "Visual identity",
+    "Messaging framework",
+    "Market positioning"
+   ]
+  }
+ ],
+ "ecommerce-d2c": [
+  {
+   "name": "Marketplace Listings",
+   "slug": "marketplace-listings",
+   "description": "Optimize your Amazon, Flipkart listings and run sponsored ads to boost sales.",
+   "benefits": [
+    "Listing optimization",
+    "Sponsored ads",
+    "A+ content",
+    "Sales analytics"
+   ]
+  },
+  {
+   "name": "Performance Marketing",
+   "slug": "performance-marketing",
+   "description": "Drive sales with high-ROI advertising campaigns across multiple channels.",
+   "benefits": [
+    "Meta ads",
+    "Google Shopping ads",
+    "Retargeting",
+    "Conversion tracking"
+   ]
+  },
+  {
+   "name": "Email Marketing",
+   "slug": "email-marketing-automation",
+   "description": "Build customer loyalty and drive repeat purchases with automated email campaigns.",
+   "benefits": [
+    "Welcome sequences",
+    "Abandoned cart recovery",
+    "Post-purchase nurture",
+    "Segmentation"
+   ]
+  }
+ ],
+ "restaurants-hospitality": [
+  {
+   "name": "AI Receptionist",
+   "slug": "ai-receptionist",
+   "description": "Never miss a reservation with 24/7 AI-powered phone booking and customer service.",
+   "benefits": [
+    "Reservation management",
+    "24/7 availability",
+    "Menu inquiries",
+    "Order taking"
+   ]
+  },
+  {
+   "name": "Instagram Marketing",
+   "slug": "instagram-marketing",
+   "description": "Showcase your dishes and ambiance to attract food lovers and increase footfall.",
+   "benefits": [
+    "Food photography",
+    "Story highlights",
+    "Influencer collaborations",
+    "Location tagging"
+   ]
+  },
+  {
+   "name": "Reputation Management",
+   "slug": "reputation-management",
+   "description": "Monitor and respond to reviews to build a stellar online reputation.",
+   "benefits": [
+    "Review monitoring",
+    "Response templates",
+    "Rating improvement",
+    "Crisis management"
+   ]
+  }
+ ],
+ "legal-financial": [
+  {
+   "name": "Personal Branding",
+   "slug": "personal-branding",
+   "description": "Establish thought leadership and attract high-value clients through professional branding.",
+   "benefits": [
+    "LinkedIn authority",
+    "Content marketing",
+    "Speaking opportunities",
+    "Client acquisition"
+   ]
+  },
+  {
+   "name": "LinkedIn Marketing",
+   "slug": "linkedin-marketing",
+   "description": "Build trust and generate B2B leads with strategic LinkedIn presence.",
+   "benefits": [
+    "Profile optimization",
+    "Thought leadership content",
+    "Network building",
+    "Lead generation"
+   ]
+  },
+  {
+   "name": "Reputation Management",
+   "slug": "reputation-management",
+   "description": "Protect and enhance your professional reputation online.",
+   "benefits": [
+    "Review management",
+    "Brand monitoring",
+    "Crisis response",
+    "Trust signals"
+   ]
+  }
+ ],
+ "education-edtech": [
+  {
+   "name": "Performance Marketing",
+   "slug": "performance-marketing",
+   "description": "Drive student enrollments with targeted advertising campaigns.",
+   "benefits": [
+    "Facebook Ads",
+    "Google Ads",
+    "Lead generation",
+    "Enrollment tracking"
+   ]
+  },
+  {
+   "name": "Social Media Marketing",
+   "slug": "social-media-marketing",
+   "description": "Build brand awareness and engage with students and parents on social platforms.",
+   "benefits": [
+    "Content strategy",
+    "Community management",
+    "Success stories",
+    "Event promotion"
+   ]
+  },
+  {
+   "name": "Video Marketing",
+   "slug": "video-editing",
+   "description": "Create engaging educational content and course previews to attract students.",
+   "benefits": [
+    "Course trailers",
+    "Student testimonials",
+    "Educational content",
+    "Explainer videos"
+   ]
+  }
+ ],
+ "beauty-fashion": [
+  {
+   "name": "Instagram Marketing",
+   "slug": "instagram-marketing",
+   "description": "Build a stunning visual presence and attract beauty enthusiasts to your brand.",
+   "benefits": [
+    "Before/after content",
+    "Influencer partnerships",
+    "Product showcases",
+    "Story engagement"
+   ]
+  },
+  {
+   "name": "Influencer Marketing",
+   "slug": "influencer-marketing",
+   "description": "Partner with beauty influencers to reach your target audience authentically.",
+   "benefits": [
+    "Influencer partnerships",
+    "Campaign management",
+    "Content collaboration",
+    "ROI tracking"
+   ]
+  },
+  {
+   "name": "Video Marketing",
+   "slug": "video-editing",
+   "description": "Create stunning beauty tutorials and product demos that drive sales.",
+   "benefits": [
+    "Tutorial videos",
+    "Product demos",
+    "Brand films",
+    "Social media clips"
+   ]
+  }
+ ],
+ "home-services": [
+  {
+   "name": "AI Receptionist",
+   "slug": "ai-receptionist",
+   "description": "Handle service inquiries and appointment bookings 24/7 with AI automation.",
+   "benefits": [
+    "Booking automation",
+    "Service inquiries",
+    "Quote requests",
+    "Follow-ups"
+   ]
+  },
+  {
+   "name": "Performance Marketing",
+   "slug": "performance-marketing",
+   "description": "Generate service requests with location-targeted advertising campaigns.",
+   "benefits": [
+    "Local service ads",
+    "Google Ads",
+    "Facebook Ads",
+    "Lead tracking"
+   ]
+  },
+  {
+   "name": "Reputation Management",
+   "slug": "reputation-management",
+   "description": "Build trust with positive reviews and professional online presence.",
+   "benefits": [
+    "Review generation",
+    "Response management",
+    "Rating optimization",
+    "Local SEO"
+   ]
+  }
+ ],
+ "fitness-trainers": [
+  {
+   "name": "Personal Branding",
+   "slug": "personal-branding",
+   "description": "Build your fitness authority and attract clients through strong personal branding.",
+   "benefits": [
+    "Instagram growth",
+    "Content strategy",
+    "Authority positioning",
+    "Client attraction"
+   ]
+  },
+  {
+   "name": "Instagram Marketing",
+   "slug": "instagram-marketing",
+   "description": "Showcase transformations and build a fitness community on Instagram.",
+   "benefits": [
+    "Transformation posts",
+    "Workout content",
+    "Client testimonials",
+    "Engagement strategy"
+   ]
+  },
+  {
+   "name": "Video Marketing",
+   "slug": "video-editing",
+   "description": "Create motivating workout videos and client success stories.",
+   "benefits": [
+    "Workout tutorials",
+    "Transformation videos",
+    "Testimonials",
+    "Social content"
+   ]
+  }
+ ],
+ "b2b-manufacturing": [
+  {
+   "name": "LinkedIn Marketing",
+   "slug": "linkedin-marketing",
+   "description": "Generate B2B leads and build industry authority through LinkedIn.",
+   "benefits": [
+    "Company page management",
+    "Thought leadership",
+    "Lead generation",
+    "Network building"
+   ]
+  },
+  {
+   "name": "Performance Marketing",
+   "slug": "performance-marketing",
+   "description": "Drive qualified B2B inquiries with targeted advertising campaigns.",
+   "benefits": [
+    "LinkedIn Ads",
+    "Google Ads",
+    "Retargeting",
+    "Lead nurturing"
+   ]
+  },
+  {
+   "name": "Brand Development",
+   "slug": "brand-development",
+   "description": "Create a professional B2B brand that builds trust with enterprise clients.",
+   "benefits": [
+    "Brand strategy",
+    "Visual identity",
+    "Collateral design",
+    "Trade show materials"
+   ]
+  }
+ ]
+}
