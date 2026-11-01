@@ -1,0 +1,150 @@
+{
+  "slug": "whatsapp-ai-automation-guide",
+  "category": "ai-automation",
+  "published": "2026-11-01",
+  "eyebrow": "AI & Automation",
+  "title": "Automating WhatsApp enquiries with AI while keeping a human in the loop",
+  "metaTitle": "WhatsApp AI Automation With a Human in the Loop",
+  "metaDescription": "Automate WhatsApp enquiries with AI and keep people in charge: opt-in, templates, Meta's per-message pricing after October 2026 and clear handover rules.",
+  "lead": "WhatsApp is where many Indian customers ask about prices, slots and delivery dates, often late at night. AI can answer the routine part in seconds, but Meta's rules on consent, templates and escalation shape what you can build, and its pricing changed again on October 1, 2026. Design around those rules first and the automation itself becomes much simpler.",
+  "keyPoints": [
+    "Get recorded opt-in that names your business before you message anyone first, and honor opt-out requests whether they arrive on WhatsApp or elsewhere.",
+    "Free-form replies, including AI-written ones, are allowed only inside the 24-hour window a customer message opens; outside it you need an approved template.",
+    "Meta charges per delivered message by category, and from October 1, 2026 service replies beyond a monthly free allowance and utility templates inside the window are billed.",
+    "WhatsApp's policy requires a prompt, clear path to a human, so decide your handover triggers before you write a single bot reply."
+  ],
+  "sections": [
+    {
+      "heading": "Where WhatsApp automation actually runs",
+      "paragraphs": [
+        "The free WhatsApp Business app is built for a person holding a phone. It offers greeting messages, away messages, quick replies and labels, which is enough for a shop answering a few dozen chats a day.",
+        "Connecting an AI model requires the WhatsApp Business Platform, which Meta offers as a Cloud API, usually through a Business Solution Provider that supplies the shared inbox, template manager and integrations. Tools that automate the app by imitating a phone session sit outside Meta's rules and put your number at risk of restriction, so keep them away from anything customer-facing.",
+        "If you are still choosing a provider, our [WhatsApp marketing guide](/whatsapp-marketing/guide) explains the platform options and setup steps."
+      ]
+    },
+    {
+      "heading": "Opt-in that holds up",
+      "paragraphs": [
+        "Meta's Business Messaging Policy lets you contact people only if they gave you their number and opted in to receive further messages. Its developer guidance adds that the opt-in must make clear the person is agreeing to messages from your business, named as such. The method is up to you: a website form, an SMS, an IVR step on a call or a signed form at your counter.",
+        "A Surat textile wholesaler collecting numbers at a trade fair, for instance, should ask separately for order updates and for new-collection announcements, because people who want one often don't want the other. Meta recommends this category-by-category approach.",
+        "India's DPDP Act points the same way: consent should be specific, informed and as easy to withdraw as it was to give. In practice that means:"
+      ],
+      "bullets": [
+        "Record when, where and how each number opted in, and for which message types.",
+        "Show the business name and the kind of messages in the opt-in wording.",
+        "Give a one-word way to stop, such as replying STOP, and act on it promptly.",
+        "Respect opt-outs made by phone, email or in person, not only those sent inside WhatsApp."
+      ]
+    },
+    {
+      "heading": "The 24-hour window and message templates",
+      "paragraphs": [
+        "Every time a customer messages you, a 24-hour customer service window opens or resets. Inside it you may reply with free-form messages, and the policy explicitly allows automation during that window. Once it closes, you can only start a conversation with a pre-approved message template.",
+        "Templates fall into three categories: marketing, utility and authentication. Utility covers updates the customer expects about something they did, such as a booking confirmation; marketing covers offers, launches and re-engagement. Meta reviews templates and can recategorize them, so a Diwali discount dressed up as an “account update” will be treated, and billed, as marketing.",
+        "For AI, this means the model can write freely only when the customer has spoken recently. Follow-ups, reminders and win-back messages after the window closes must come from templates you have written and had approved."
+      ]
+    },
+    {
+      "heading": "What WhatsApp messaging costs now",
+      "paragraphs": [
+        "Meta moved the platform from conversation-based billing to per-message pricing on July 1, 2025. You pay when a message is delivered, at a rate set by its category and the recipient's country code, and messages customers send to you are not charged. India's rates were revised in January and again in April 2026, so check Meta's current rate card rather than an older blog post.",
+        "The update that took effect on October 1, 2026 matters most for AI replies. Each business phone number now gets 1,000 free service messages a month, and service replies beyond that are charged. Utility templates sent inside an open customer service window, free until then, are billed too. According to Meta's pricing page, replies to people who arrive from Click-to-WhatsApp ads remain free for a limited window.",
+        "The practical lesson: a chatty bot that splits one answer into four short bubbles now uses four billable messages once you pass the free allowance. Write AI replies to be complete in a single message, and send separate messages only when the customer needs to act on each one."
+      ]
+    },
+    {
+      "heading": "Where AI helps on WhatsApp, and where it shouldn't answer",
+      "paragraphs": [
+        "AI earns its place on questions that arrive in many phrasings but have one correct answer: fees, timings, locations, eligibility, stock, delivery areas and order status. It is also good at collecting details before a person steps in, such as a flat-hunter's budget and preferred localities.",
+        "Keep it away from medical, legal or financial advice, price negotiation, complaints, payment disputes and anything involving a minor. In those chats the AI's job is to acknowledge the message, gather context and pass the conversation to a person.",
+        "One platform rule to note: Meta's terms bar AI providers from distributing general-purpose assistants through WhatsApp where AI is the primary product. A clinic or retailer using an [AI agent](/ai-agents) for its own customer service is in a different position, but confirm your setup with your solution provider."
+      ]
+    },
+    {
+      "heading": "Handover rules customers will notice",
+      "paragraphs": [
+        "WhatsApp's policy says that if you automate, you must offer prompt, clear and direct escalation paths, such as transfer to a human agent within the chat or a phone number. Treat that as the minimum, because the handover moment is where most automated experiences lose trust.",
+        "When it hands over, the bot should say so plainly, give a realistic response time and pass a short summary so the customer doesn't have to repeat themselves. Outside business hours, state when a person will reply instead of promising “shortly”.",
+        "Hand the conversation to a person when:"
+      ],
+      "bullets": [
+        "The customer asks for a person in any language, including phrases like “kisi se baat karni hai”.",
+        "The same question comes back twice, which usually means the answer missed.",
+        "Money, refunds, cancellations or a complaint enter the conversation.",
+        "Health, safety or legal topics come up, or the customer sounds distressed.",
+        "A correct answer would need information that isn't in the AI's approved sources."
+      ]
+    },
+    {
+      "heading": "A setup that works for a small team",
+      "paragraphs": [
+        "Consider a coaching institute in Indore that receives most admission questions on WhatsApp in the evening. A workable design looks like this:"
+      ],
+      "bullets": [
+        "A welcome message that says the assistant is automated and offers buttons for courses, fees, batch timings and “talk to the team”.",
+        "AI answers drawn only from the current prospectus and fee sheet, with batch dates read from a shared calendar.",
+        "Lead details saved to the CRM with tags for course and city, and a counselor alerted when a lead looks ready to enroll.",
+        "A shared inbox where counselors see the full thread, take over with one click and hand back when they're done.",
+        "A weekly review of a random sample of AI conversations, with fixes made to the knowledge source rather than to the prompt alone."
+      ]
+    },
+    {
+      "heading": "Launch checklist",
+      "paragraphs": [
+        "Before switching the assistant on for real customers, confirm each of these:"
+      ],
+      "bullets": [
+        "Platform access through the Cloud API or a solution provider, with a verified business and an approved display name.",
+        "Opt-in wording, record-keeping and opt-out handling tested from end to end.",
+        "Templates written and approved for reminders, confirmations and follow-ups.",
+        "Approved knowledge sources loaded, with a named owner responsible for updates.",
+        "Handover triggers, business-hours messages and a phone fallback configured.",
+        "Billing alerts on your Meta account, and AI replies written to avoid unnecessary extra messages."
+      ]
+    },
+    {
+      "heading": "Protect your number's quality rating",
+      "paragraphs": [
+        "Meta tracks how recipients react to your messages and shows you a quality rating; blocks and reports pull it down, and a poor rating can limit how many people you may message. Unwanted template blasts are the usual cause, not AI replies to people who wrote to you first.",
+        "Keep marketing templates relevant to the category people opted into, space them out and make leaving easy. Our [responsible AI marketing checklist](/insights/responsible-ai-marketing-checklist) covers the disclosure and consent questions that apply on every channel.",
+        "SmartWebCare sets up and runs [WhatsApp marketing](/whatsapp-marketing) programs with AI and human handover built in. If you'd like your setup reviewed before launch, [contact us](/contact)."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I connect an AI chatbot to the regular WhatsApp Business app?",
+      "a": "Not through an official route. AI automation needs the WhatsApp Business Platform, reached through Meta's Cloud API or a solution provider. Unofficial tools that drive the app risk your number being restricted."
+    },
+    {
+      "q": "Are AI replies on WhatsApp free?",
+      "a": "Replies inside the 24-hour customer service window are service messages. Since October 1, 2026, each business phone number gets 1,000 free service messages a month and pays for the rest, so a high-volume bot now has a per-message cost. Check Meta's current rate card for India."
+    },
+    {
+      "q": "Do customers have to be told they're chatting with AI?",
+      "a": "WhatsApp's policy focuses on opt-in and human escalation rather than a specific AI notice, but saying so in the first message is good practice and reduces complaints. Some markets, including the EU, now require people to be informed when they interact with an AI system."
+    },
+    {
+      "q": "What happens when the 24-hour window closes mid-conversation?",
+      "a": "You can no longer send free-form messages, whether written by AI or by staff. To continue, send an approved template, such as a utility follow-up or a marketing message the customer opted into, and a new window opens once they reply."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Meta for Developers — Pricing on the WhatsApp Business Platform",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/pricing"
+    },
+    {
+      "label": "WhatsApp — Business Messaging Policy",
+      "url": "https://whatsappbusiness.com/policy/"
+    },
+    {
+      "label": "Meta for Developers — Getting opt-in for WhatsApp",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/getting-opt-in"
+    },
+    {
+      "label": "Meta — Terms for WhatsApp Business Platform",
+      "url": "https://www.facebook.com/legal/Meta-Terms-for-WhatsApp-Business-Platform"
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "slug": "whatsapp-marketing",
+  "guide": {
+    "eyebrow": "WhatsApp Marketing · 2026 guide",
+    "title": "WhatsApp marketing in 2026: pricing, policy and what actually works",
+    "metaTitle": "WhatsApp Marketing Guide: 2026 Rules & Pricing",
+    "metaDescription": "How WhatsApp Business Platform messaging works in 2026: template categories, per-message pricing, the October 2026 changes, opt-in rules and metrics.",
+    "lead": "WhatsApp is where many Indian customers already talk to businesses, which makes it powerful and easy to misuse. This guide explains how the Business Platform works today, what changed in 2025 and 2026, and how to run campaigns people don't block.",
+    "sections": [
+      {
+        "heading": "Business app or Business Platform?",
+        "paragraphs": [
+          "The free WhatsApp Business app suits an owner replying from one phone. Once you need several team members on one number, automated journeys, CRM integration or sends to large opted-in lists, you need the WhatsApp Business Platform, reached through Meta's Cloud API directly or through a Business Solution Provider.",
+          "On the Platform the rules are stricter but clearer. Every conversation you start must use a pre-approved template, and every template belongs to a category that decides how it is billed and how closely it is reviewed."
+        ]
+      },
+      {
+        "heading": "Templates, categories and the 24-hour window",
+        "paragraphs": [
+          "Every inbound message from a customer starts a 24-hour customer service window, and each new message from them restarts the clock. Inside it you can reply freely with text, images or buttons. Outside it, you can only reach out with templates.",
+          "Meta polices categories closely. A template that mixes an order update with a discount code counts as marketing, and since April 2025 Meta approves a template submitted as utility under the marketing category if its review decides that is what it is. Keep utility templates strictly about the transaction."
+        ],
+        "bullets": [
+          "**Marketing:** offers, launches, recommendations, re-engagement and anything with promotional content.",
+          "**Utility:** updates tied to something the customer did, such as an order, booking or payment.",
+          "**Authentication:** one-time passcodes for login or verification."
+        ]
+      },
+      {
+        "heading": "How pricing works now",
+        "paragraphs": [
+          "Since July 1, 2025, Meta charges per delivered message rather than per conversation. Rates depend on the message category and the recipient's country, and Meta's published pricing calendar limits rate changes to the first day of a quarter.",
+          "October 1, 2026 brought two more changes. Free-form service replies inside the customer service window are charged again, with the first 1,000 per business phone number each month free. Utility templates sent inside an open window, free since mid-2025, are now charged too.",
+          "For Indian businesses, Meta raised India's marketing rates on January 1, 2026 and began billing eligible Indian accounts in rupees, with those accounts expected to move to INR by December 31, 2026. One saving remains: when someone messages you from a Click to WhatsApp ad and you reply within the window, a free entry point window of up to seven days opens, during which marketing, utility and service messages aren't charged."
+        ]
+      },
+      {
+        "heading": "Consent and the rules that protect your number",
+        "paragraphs": [
+          "WhatsApp requires opt-in before you message anyone. Since Meta's November 2024 policy update the opt-in doesn't have to mention WhatsApp specifically, but it must make clear the person is agreeing to hear from your business, name the business and comply with local law. In India that law includes the DPDP Act, whose Rules phase in most obligations by May 2027.",
+          "Consent protects your reach as well as your legal position. Every block and report drags down your number's quality rating, and Meta rate-limits numbers whose quality stays low. Meta also limits how many marketing templates any one person receives from businesses, so repeating the same offer often means many messages are never delivered."
+        ],
+        "bullets": [
+          "Collect opt-in on your website, at checkout, through QR codes at the counter or via Click to WhatsApp ads.",
+          "Where you can, ask separately for order updates and for offers, so people can keep one and drop the other.",
+          "Honor 'stop' requests immediately and make opting out easy.",
+          "Never message bought or scraped number lists."
+        ]
+      },
+      {
+        "heading": "What else changed in 2026",
+        "paragraphs": [
+          "**Usernames are arriving.** WhatsApp is introducing optional usernames gradually through 2026, and since April 2026 Meta has included a business-scoped user ID with incoming messages. For users who adopt a username you may not always see a phone number, so CRMs and integrations that treat the phone number as the only identifier need updating.",
+          "**Marketing moves to its own API.** Meta's Marketing Messages API for WhatsApp became generally available in November 2025, and the Cloud API will stop carrying marketing messages on October 13, 2027. If your provider hasn't planned the move, ask now.",
+          "**General-purpose AI bots are out.** Meta's Business Platform terms, effective January 15, 2026, stop AI providers distributing general-purpose assistants on WhatsApp. Business chatbots that serve your own customers are a different matter; our [AI agents](/ai-agents) service builds those, and our [WhatsApp automation article](/insights/whatsapp-ai-automation-guide) covers the options."
+        ]
+      },
+      {
+        "heading": "Planning messages people want",
+        "paragraphs": [
+          "Treat WhatsApp as a personal channel, not a billboard. A useful test: would a customer forward this message to a family member, or mute you? Order updates, appointment reminders, back-in-stock alerts and early access for loyal customers pass that test far more often than daily discount blasts.",
+          "Segment before you send. Recent buyers, lapsed customers and people who asked about a specific product deserve different messages and a different frequency. Keep promotional sends to a rhythm your audience accepts, and check block rates after every campaign. Our [WhatsApp use cases](/whatsapp-marketing/use-cases) show how this plays out by industry."
+        ]
+      },
+      {
+        "heading": "Common mistakes",
+        "paragraphs": [
+          "Most of these come from treating WhatsApp like bulk SMS. The channel rewards relevance and punishes volume."
+        ],
+        "bullets": [
+          "Importing an old contact list without proof of consent.",
+          "Sneaking promotions into utility templates, which risks recategorization and trust.",
+          "Sending the same offer to everyone at the same moment.",
+          "Building flows on phone numbers alone and ignoring business-scoped user IDs.",
+          "Leaving service replies unmanaged now that they are billed beyond the monthly free tier.",
+          "Celebrating read rates while ignoring blocks, opt-outs and revenue."
+        ]
+      },
+      {
+        "heading": "Measuring WhatsApp campaigns",
+        "paragraphs": [
+          "Read receipts make WhatsApp look effective even when it isn't. Track the full chain from delivery to outcome, always alongside the signals that tell you people are tiring of you. Our [WhatsApp marketing process](/whatsapp-marketing/process) sets this tracking up before the first campaign."
+        ],
+        "bullets": [
+          "**Delivered and read:** a health check, not a goal.",
+          "**Click-through and reply rate:** whether the message prompted action.",
+          "**Conversions and revenue per send:** orders, bookings or leads attributed through UTM-tagged links.",
+          "**Block and opt-out rate:** tracked per campaign and per segment.",
+          "**Quality rating and messaging limits:** both visible in WhatsApp Manager.",
+          "**Cost per outcome:** message fees divided by orders or bookings."
+        ]
+      }
+    ],
+    "takeaways": [
+      "Every business-initiated WhatsApp message needs an approved template and the customer's opt-in.",
+      "Meta bills per delivered message, and since October 2026 service replies are charged beyond 1,000 a month per number.",
+      "Mixed promotional and transactional content counts as marketing, so keep utility templates clean.",
+      "Usernames and business-scoped user IDs mean integrations can no longer rely on phone numbers alone.",
+      "Marketing messages are moving to the Marketing Messages API, with Cloud API support ending in October 2027.",
+      "Judge campaigns by conversions and block rates, not by read receipts."
+    ],
+    "faqs": [
+      {
+        "q": "Can we keep using the WhatsApp Business app on the same number?",
+        "a": "Often, yes. Meta's onboarding option for Business app users, usually called coexistence, connects an existing app number to the Cloud API, so you can send at scale through a provider while still chatting one-to-one in the app, with the option to share chat history. Not every provider supports it, so check before you switch."
+      },
+      {
+        "q": "Why were some of our marketing messages not delivered?",
+        "a": "Common reasons include the recipient blocking you or opting out of marketing, an invalid number, your number reaching its messaging limit, or Meta's per-person cap on marketing messages. Your provider's delivery reports show the error code behind each failure."
+      },
+      {
+        "q": "Do Click to WhatsApp ads make messaging cheaper?",
+        "a": "They can. When someone starts a chat from one of these ads and you reply in time, the free entry point window means most follow-up messages for the next several days carry no Meta fee. It suits campaigns where the conversation itself does the selling."
+      },
+      {
+        "q": "Is WhatsApp marketing covered by India's data protection law?",
+        "a": "Yes. Phone numbers and chat histories are personal data under the DPDP Act. The Rules give businesses until May 2027 for most obligations, including clear notices and a way to withdraw consent as easily as it was given, so build those into your opt-in flows now."
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "WhatsApp Marketing · How we deliver",
+    "title": "How we set up and run WhatsApp marketing that stays compliant and gets replies",
+    "metaTitle": "Our WhatsApp Marketing Process, Step by Step",
+    "metaDescription": "How SmartWebCare runs WhatsApp marketing: account verification, consent audit, template approval, journeys, integrations, campaigns and monthly reports.",
+    "lead": "WhatsApp campaigns succeed or fail on groundwork: a verified account, a clean list and templates Meta approves first time. Here is how we build that groundwork and then run the channel month to month.",
+    "steps": [
+      {
+        "title": "Account and verification setup",
+        "summary": "We get your business verified and your number ready to send, in accounts you own.",
+        "activities": [
+          "Complete Meta business verification and create the WhatsApp Business Account",
+          "Register the phone number and display name, and choose a solution provider suited to your volume",
+          "Add a payment method and confirm billing currency, including INR billing for eligible Indian accounts",
+          "Set up team access and two-step verification"
+        ],
+        "output": "A verified WhatsApp Business Platform account ready for templates."
+      },
+      {
+        "title": "Consent and contact audit",
+        "summary": "We check where your contacts came from and build opt-in flows that hold up to scrutiny.",
+        "activities": [
+          "Review each contact source and the consent wording used at the time",
+          "Separate contacts with clear opt-in from those who need re-permission through another channel",
+          "Add opt-in capture to forms, checkout, QR codes and Click to WhatsApp ads",
+          "Set up opt-out keywords and suppression lists"
+        ],
+        "output": "A segmented, consented contact base with documented opt-in and opt-out flows."
+      },
+      {
+        "title": "Messaging plan",
+        "summary": "We map which messages go to whom, when and how often across the customer journey.",
+        "activities": [
+          "Map lifecycle moments such as first inquiry, purchase, delivery, reorder and lapse",
+          "Assign each moment a template category and a frequency limit",
+          "Draft a campaign calendar around your launches and festive seasons"
+        ],
+        "output": "A messaging plan and a quarterly campaign calendar."
+      },
+      {
+        "title": "Templates and automated journeys",
+        "summary": "We write templates built to pass review and wire them into automated journeys.",
+        "activities": [
+          "Write marketing, utility and authentication templates in the correct categories",
+          "Submit them for approval and revise any rejections",
+          "Build journeys such as welcome, cart recovery, order updates and back-in-stock alerts",
+          "Add quick-reply buttons and menus so customers can help themselves"
+        ],
+        "output": "Approved templates and live journeys, recorded in a template register."
+      },
+      {
+        "title": "Integrations",
+        "summary": "We connect WhatsApp to your store, CRM and ads so messages respond to real events.",
+        "activities": [
+          "Connect your store or CRM so orders, bookings and form fills trigger the right message",
+          "Store business-scoped user IDs alongside phone numbers in contact records",
+          "Tag links with UTM parameters and pass conversion data to analytics"
+        ],
+        "output": "Event-triggered messaging and tracking that ties every send to an outcome."
+      },
+      {
+        "title": "Campaign execution",
+        "summary": "We send segmented campaigns, test as we go and watch quality signals after every send.",
+        "activities": [
+          "Build segments and run test sends to internal numbers",
+          "Schedule sends at times that suit each segment",
+          "Test one variable at a time, such as the offer, creative or button text",
+          "Check block rate and quality rating after each campaign"
+        ],
+        "output": "Delivered campaigns with results for each send."
+      },
+      {
+        "title": "Reporting and optimization",
+        "summary": "Each month we report what drove results and adjust the plan.",
+        "activities": [
+          "Report delivery, clicks, replies, conversions, blocks and message costs",
+          "Retire weak templates and expand what works",
+          "Track Meta's policy and pricing updates and adjust before they take effect"
+        ],
+        "output": "A monthly report with recommendations and an updated calendar."
+      }
+    ],
+    "deliverables": [
+      "Verified WhatsApp Business Platform account in your name",
+      "Consent audit with documented opt-in and opt-out flows",
+      "Messaging plan and quarterly campaign calendar",
+      "Template register of approved templates by category",
+      "Automated journeys for key lifecycle moments",
+      "Store, CRM and analytics integrations",
+      "Monthly performance and cost report"
+    ],
+    "youProvide": [
+      "Business documents for Meta verification",
+      "A phone number that can be registered on the Platform",
+      "Contact lists, with details of how consent was collected",
+      "Access to your store, CRM and ad accounts",
+      "Approval of templates, offers and the campaign calendar"
+    ],
+    "faqs": [
+      {
+        "q": "How soon can we send our first campaign?",
+        "a": "That depends mostly on Meta. Business verification can take anywhere from a few days to a few weeks depending on your documents, and template reviews add a round whenever something is rejected. We run the consent audit and content work in parallel so nothing waits unnecessarily."
+      },
+      {
+        "q": "What if Meta rejects a template?",
+        "a": "Rejections usually come down to wording, formatting or category. We revise and resubmit, and keep a register of what was approved so future templates follow the same pattern. The [WhatsApp marketing guide](/whatsapp-marketing/guide) explains how categories work."
+      },
+      {
+        "q": "Do you also build WhatsApp chatbots?",
+        "a": "Menus and simple journeys are part of this service. Conversational AI that answers open questions sits under our [AI agents](/ai-agents) service, and back-office triggers such as syncing orders are often built as [AI automations](/ai-automations). [Book a consultation](/book-consultation) to plan the mix."
+      }
+    ]
+  },
+  "useCases": {
+    "eyebrow": "WhatsApp Marketing · Use cases",
+    "title": "WhatsApp marketing in practice: six businesses, six different playbooks",
+    "metaTitle": "WhatsApp Marketing Use Cases by Industry",
+    "metaDescription": "Illustrative WhatsApp marketing scenarios for an Indore snack brand, a Kolkata jeweler, a Gurugram fitness studio and others, with the approach and metrics.",
+    "lead": "The right WhatsApp strategy depends on how often your customers buy and how personal the purchase is. These illustrative scenarios, not client stories, show how the channel can be shaped for very different businesses.",
+    "cases": [
+      {
+        "title": "Reorder reminders for a snack brand",
+        "businessType": "D2C snack brand · Indore",
+        "challenge": "Customers love the products but forget to reorder, so the brand leans on discount-heavy ads to win them back. Festive gifting orders arrive late because customers don't know hampers exist until the last minute.",
+        "approach": [
+          "Order and delivery updates go out as utility templates, building trust in the channel",
+          "Reorder nudges are timed to each product's usual consumption cycle, only for customers who opted in to offers",
+          "Diwali hamper previews reach repeat buyers first, with a catalog link for quick ordering"
+        ],
+        "measure": [
+          "Repeat purchase rate among opted-in customers versus everyone else",
+          "Revenue per message for reorder nudges",
+          "Opt-outs and blocks after festive campaigns"
+        ]
+      },
+      {
+        "title": "Appointment-led selling for a jewelry store",
+        "businessType": "Family jewelry store · Kolkata",
+        "challenge": "Customers make big purchases a few times a year, around weddings and festivals such as Dhanteras. Broadcasting new designs every day annoys them, but going silent means they forget the store when it matters.",
+        "approach": [
+          "Customers pick their interests at opt-in: bridal, daily wear, gold coins or silver gifts",
+          "A few well-timed messages before key festivals and the wedding season, each with a button to book a store visit",
+          "Staff continue personal conversations inside the service window, sharing photos of the pieces a customer asked about"
+        ],
+        "measure": [
+          "Store visits booked through WhatsApp",
+          "Purchases by customers who engaged with a campaign",
+          "Block rate per campaign, kept low by limiting frequency"
+        ]
+      },
+      {
+        "title": "From trial class to membership at a fitness studio",
+        "businessType": "Boutique fitness studio · Gurugram",
+        "challenge": "Instagram ads bring trial-class inquiries, but the team replies slowly and many trial users never return for a second class.",
+        "approach": [
+          "Click to WhatsApp ads open conversations that book a trial slot on the spot",
+          "Class reminders and check-in instructions go out as utility messages",
+          "After the trial, a short sequence offers a starter pack, sent only to people who agreed to offers"
+        ],
+        "measure": [
+          "Trial bookings per ad-started conversation",
+          "Trial-to-membership conversion",
+          "Message cost per new member, including free entry point savings"
+        ]
+      },
+      {
+        "title": "Webinar and cohort launches for an online educator",
+        "businessType": "Online course creator · Delhi",
+        "challenge": "Webinar sign-ups come in through email, but attendance is poor, and the cohort launch relies on a single email that many people never see.",
+        "approach": [
+          "Registrants can choose WhatsApp reminders at sign-up, with a clear note on what they'll receive",
+          "Reminders arrive shortly before the session with a direct join link",
+          "Enrolled students get onboarding steps and schedule changes on WhatsApp, while long-form content stays in email"
+        ],
+        "measure": [
+          "Attendance of WhatsApp-reminded registrants versus email-only ones",
+          "Enrollments from webinar attendees",
+          "Opt-outs after the launch window closes"
+        ]
+      },
+      {
+        "title": "Keeping buyer conversations in one place for a developer",
+        "businessType": "Residential developer · Mumbai",
+        "challenge": "Buyers inquire months before deciding. Salespeople send brochures from personal phones, so conversations vanish when staff leave and nobody can see what was promised.",
+        "approach": [
+          "All buyer conversations move to one verified business number shared by the sales team",
+          "Brochures, floor plans and construction updates reach opted-in prospects through approved templates",
+          "Site visit booking and reminder flows cut the back-and-forth"
+        ],
+        "measure": [
+          "Site visits booked and attended from WhatsApp",
+          "Response time to buyer questions",
+          "Conversation history retained when sales staff change"
+        ]
+      },
+      {
+        "title": "Reminders and aftercare for a dermatology clinic",
+        "businessType": "Dermatology clinic · Chennai",
+        "challenge": "Patients forget follow-up appointments and post-procedure instructions. The clinic wants to stay in touch without sending promotional health claims that could breach medical advertising norms.",
+        "approach": [
+          "Appointment confirmations, reminders and aftercare instructions go out as utility messages",
+          "Follow-up reminders are scheduled by treatment type, as the doctor advises",
+          "Any educational content is reviewed by the clinic's doctors and avoids promising outcomes"
+        ],
+        "measure": [
+          "Follow-up attendance rate",
+          "No-shows for booked appointments",
+          "Patient replies needing staff attention, answered within the clinic's target time"
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Which of these businesses should start with utility messages?",
+        "a": "Almost all of them. Order updates, reminders and confirmations build the habit of reading your messages before you ask for a purchase, and people rarely block them. The [WhatsApp marketing guide](/whatsapp-marketing/guide) explains how categories and pricing differ."
+      },
+      {
+        "q": "Can a clinic or healthcare brand use WhatsApp for marketing?",
+        "a": "Carefully. Reminders and aftercare are generally appropriate, but promotional healthcare content has to respect medical advertising norms and patient privacy. We keep claims factual and have clinical content approved by the doctors, in line with our approach to [healthcare and wellness](/industries/healthcare-wellness) brands."
+      },
+      {
+        "q": "How many messages a month is too many?",
+        "a": "There is no universal number. Watch block and opt-out rates after each send; if they climb, you're sending too often or to the wrong segment. Customers who asked for updates on a specific product will accept more messages than a general list. To plan your own rhythm, [talk to us](/contact)."
+      }
+    ]
+  }
+}

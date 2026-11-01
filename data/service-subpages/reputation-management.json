@@ -1,0 +1,336 @@
+{
+  "slug": "reputation-management",
+  "guide": {
+    "eyebrow": "Reputation management · 2026 guide",
+    "title": "Online reputation management in 2026: reviews, search results and AI answers",
+    "metaTitle": "Online Reputation Management Guide 2026",
+    "metaDescription": "How online reputation works now: review rules on Google and in India, replying to criticism, what can be removed, AI answers about you and what to track.",
+    "lead": "Your online reputation is whatever a stranger finds when they look you up: star ratings, the first page of search results, social threads and, more and more, a paragraph an AI assistant writes about you. Managing it is mostly operational work: earning honest reviews, answering criticism well and fixing what customers complain about.",
+    "sections": [
+      {
+        "heading": "What counts as reputation online now",
+        "paragraphs": [
+          "Reviews are the core, but they are spread across more places than most businesses track: Google, the marketplace or delivery app where you sell, sector platforms such as Practo for doctors, Zomato for restaurants or travel sites for hotels, and employer review sites that shape hiring. Around them sit search results for your brand and founder names, social media mentions, forum threads and news coverage.",
+          "AI search features and assistants now compress all of this into a few sentences. Someone asking for a reliable physiotherapist nearby may never open an individual review, only read the verdict an assistant has assembled from many of them."
+        ]
+      },
+      {
+        "heading": "Why reviews matter beyond the star rating",
+        "paragraphs": [
+          "Google names prominence as one of the main factors in local ranking and says more reviews and positive ratings can help a business rank locally. That makes reviews part of local SEO as well as social proof; our guide to [Google Business Profile in 2026](/insights/local-seo-google-business-profile-2026) covers the rest of that picture.",
+          "Recency and detail matter as much as the average. A 4.6 built from reviews written years ago tells a buyer less than a 4.4 from steady recent feedback that mentions specific staff, treatments or dishes. Buyers read the negative reviews closely, and they read your replies even more closely."
+        ]
+      },
+      {
+        "heading": "The rules on asking for reviews",
+        "paragraphs": [
+          "Asking customers for genuine reviews is allowed and sensible. What Google's policies forbid is manipulation, and enforcement can mean removed reviews or restrictions on your Business Profile."
+        ],
+        "bullets": [
+          "**No incentives:** no discounts, freebies, cashback or contest entries in exchange for a review, an edited review or the removal of a negative one",
+          "**No gating:** you can't ask only happy customers, or steer unhappy ones to a private form while sending satisfied ones to Google",
+          "**No conflicts of interest:** reviews from employees, owners, relatives or competitors aren't allowed",
+          "**No fake engagement:** no paid reviews, review swaps or several accounts posting on one person's behalf"
+        ]
+      },
+      {
+        "heading": "India's review standard and your customers' data",
+        "paragraphs": [
+          "IS 19000:2022, the Bureau of Indian Standards' framework for online consumer reviews, sets out principles of integrity, accuracy, privacy, security, transparency, accessibility and responsiveness. It applies to any organization that collects or publishes reviews, including a business gathering them from its own customers, and it expects paid reviews to be disclosed. It began as a voluntary standard, but it shows clearly where Indian regulators draw the line.",
+          "Messaging customers for reviews also uses their personal data. Collect phone numbers and emails with consent, honor opt-outs and keep the request purely about feedback, especially as India's DPDP Rules come into force through 2026 and 2027."
+        ]
+      },
+      {
+        "heading": "Responding to criticism",
+        "paragraphs": [
+          "Write each reply for the next customer reading it, not to win the argument with the reviewer. Respond promptly, thank them, acknowledge the specific problem, say what you've changed if anything, and offer a direct contact to resolve it. Keep it short.",
+          "Never confirm private details in public. A clinic shouldn't mention treatments, a law firm shouldn't discuss a matter and a hotel shouldn't name dates or room numbers, even when the reviewer already has.",
+          "When a review breaks platform policy, for example spam, off-topic rants, hate speech, a conflict of interest or a review meant for a different business, report it instead of arguing. Google's Reviews Management Tool lets a profile owner report a review, follow the decision and file a one-time appeal if the first decision goes against them. Reviews that are merely harsh or unfair generally stay up, and a calm reply is your best tool there."
+        ]
+      },
+      {
+        "heading": "What can and can't be removed from search results",
+        "paragraphs": [
+          "Lawful content about your business, such as honest reviews, critical news coverage and accurate forum posts, usually can't be taken down, and paying anyone who promises otherwise is a risk in itself. The realistic route depends on what the content is.",
+          "When none of the routes below fits, the answer is better content, which is what agencies mean by suppression. It's slow and never complete, and it only works when the new pages are genuinely useful to someone searching your name."
+        ],
+        "bullets": [
+          "**Factual errors:** ask the publisher for a correction, with evidence",
+          "**Policy violations:** report through the platform's own flagging process",
+          "**Personal information:** Google has request processes for results that expose personal contact details and similar sensitive information",
+          "**Unlawful content:** defamation or impersonation is a matter for a lawyer, and platforms operating in India must run grievance mechanisms under the IT Rules, 2021",
+          "**Lawful but unflattering results:** publish stronger, accurate pages, such as your site, profiles, interviews and videos, that earn their place above them over months"
+        ]
+      },
+      {
+        "heading": "Reputation inside AI answers",
+        "paragraphs": [
+          "AI assistants describe businesses from what is published about them: your website, reviews, directory listings, news, forums and social profiles. If those sources disagree on your services, locations or founders, or if an old complaint thread is the most detailed page about you, the summary will reflect it.",
+          "Ask the main assistants about your brand every quarter, correct inaccurate facts at the source and make sure your own pages state the basics plainly. Our work on [answer engine optimization](/aeo) covers how to become a source those systems trust."
+        ]
+      },
+      {
+        "heading": "Preparing for a bad day, and measuring progress",
+        "paragraphs": [
+          "Prepare for a crisis before you need to: decide who speaks for the business, who approves statements and how quickly you'll respond. When something spreads, post a short holding statement fast, establish the facts, then follow up with what happened and what you're doing about it. Deleting critical comments in bulk usually becomes a second story.",
+          "Day to day, track a small set of measures by platform and location, and read them alongside what operations has fixed. The most telling sign of progress is often a complaint theme that vanishes from new reviews because its cause was dealt with. Our [reputation management process](/reputation-management/process) shows the reporting and crisis planning we set up."
+        ],
+        "bullets": [
+          "Average rating and its trend, per platform and location",
+          "Review volume and recency each month",
+          "Response rate and typical response time",
+          "Recurring complaint themes, followed until operations resolve them",
+          "Sentiment of page-one search results for your brand and founder names",
+          "Accuracy of what AI assistants say about you"
+        ]
+      }
+    ],
+    "takeaways": [
+      "Reputation now spans reviews, search results, social mentions and AI-generated summaries.",
+      "Ask every customer for a review in the same way, because incentives and gating break Google's rules.",
+      "Reply for the next reader: specific, brief and free of private details.",
+      "Lawful criticism rarely comes down, so correct facts, flag violations and build better content.",
+      "Check what AI assistants say about you and fix inaccurate facts where they originate.",
+      "Treat recurring complaint themes as operational fixes, not marketing problems."
+    ],
+    "faqs": [
+      {
+        "q": "Can we send review requests only to customers who were happy?",
+        "a": "No. Selectively asking satisfied customers, or screening people with a private survey first, is review gating, and Google's policy prohibits it. Send the same request to everyone you'd normally contact. Collect private feedback separately if you want it, but don't make the review link depend on the answer."
+      },
+      {
+        "q": "Should we reply to every review?",
+        "a": "Reply to every negative and mixed review, and to positive ones when you have something specific to say. Copy-pasted thank-you notes add little. Businesses with high review volume should prioritize detailed reviews and anything describing a problem."
+      },
+      {
+        "q": "Can our staff or family leave reviews?",
+        "a": "They shouldn't. Google treats reviews from people with a conflict of interest, including employees, owners and relatives, as policy violations, and a pattern of them can put the whole profile at risk. Ask staff to encourage customers to review instead."
+      },
+      {
+        "q": "What's the risk in buying reviews?",
+        "a": "Platforms look for patterns such as bursts of reviews, new accounts and similar wording, then remove what they find, sometimes along with genuine reviews, and they can restrict your profile. In India, paid or fake reviews also cut against the principles of IS 19000:2022 and can prompt consumer complaints. The short-term bump isn't worth the exposure."
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "Reputation management · Our process",
+    "title": "How we manage your reputation: audit, review system, responses and monitoring",
+    "metaTitle": "Our Reputation Management Process",
+    "metaDescription": "How SmartWebCare runs reputation management: a full audit, root-cause review, fair review requests, a response playbook, search work and monthly reporting.",
+    "lead": "Our reputation work starts with listening and ends in operations, because most fixes involve how customers are treated, not just what appears online. Here is each step and what it leaves you with. For the rules and principles behind it, see our [reputation management guide](/reputation-management/guide).",
+    "steps": [
+      {
+        "title": "Reputation audit",
+        "summary": "We map everything a prospective customer can find about you, platform by platform.",
+        "activities": [
+          "Review ratings, volume and themes on Google and every sector platform you appear on",
+          "Check page-one search results for your brand, locations and founder names",
+          "Scan social mentions, forums and news coverage",
+          "Ask the main AI assistants about your business and record their answers"
+        ],
+        "output": "A reputation baseline with a risk list: what's hurting you, where, and how urgently."
+      },
+      {
+        "title": "Root-cause and compliance review",
+        "summary": "We read negative feedback for patterns and check how reviews are being collected today.",
+        "activities": [
+          "Group complaints into operational themes such as wait times, billing or delivery",
+          "Audit current review-request practices against Google's policies and IS 19000 principles",
+          "List reviews that appear to break platform policy, with the reason for each"
+        ],
+        "output": "A theme analysis for your operations team, compliance notes and a list of reviews to flag."
+      },
+      {
+        "title": "Review request system",
+        "summary": "We design a fair, consistent way to ask every customer for feedback at the right moment.",
+        "activities": [
+          "Choose the moment and channel, whether [WhatsApp](/whatsapp-marketing), SMS, email or a QR code at the counter or on the invoice",
+          "Write request messages and staff scripts that ask without pressuring or rewarding",
+          "Connect requests to your booking, billing or order system where possible",
+          "Set up consent capture and opt-outs for every message"
+        ],
+        "output": "A live review-request flow and a short training session for your staff."
+      },
+      {
+        "title": "Response playbook and monitoring",
+        "summary": "We set up alerts and agree how each kind of review or mention gets handled.",
+        "activities": [
+          "Configure monitoring for reviews and brand mentions across platforms",
+          "Write response guidelines by scenario, including what must never be said publicly",
+          "Agree approval rules and an escalation path for serious complaints",
+          "Draft replies for the reviews currently sitting unanswered"
+        ],
+        "output": "A response playbook, an escalation matrix and a monitoring dashboard."
+      },
+      {
+        "title": "Search and AI visibility work",
+        "summary": "We strengthen the accurate, useful content that should represent you in search results and AI answers.",
+        "activities": [
+          "Update profiles, directory listings and your website's about, team and policy pages",
+          "Plan content that earns its ranking, such as expert articles, interviews and videos",
+          "Request corrections from publishers and data sources that carry wrong facts",
+          "Prepare evidence for policy reports, and for your lawyer where content may be unlawful"
+        ],
+        "output": "A search-results plan with a content calendar and a log of correction requests."
+      },
+      {
+        "title": "Ongoing management and crisis readiness",
+        "summary": "Each month we keep reviews answered, track themes and keep a crisis plan ready to use.",
+        "activities": [
+          "Respond to reviews within agreed times and flag policy violations",
+          "Report on ratings, volume, themes and changes in search results",
+          "Maintain a crisis plan with holding statements and named spokespeople"
+        ],
+        "output": "A monthly reputation report and a crisis plan your team has walked through."
+      }
+    ],
+    "deliverables": [
+      "Reputation audit and risk list",
+      "Complaint-theme analysis for your operations team",
+      "Policy-compliant review-request flow with templates and a staff script",
+      "Response playbook and escalation matrix",
+      "Monitoring dashboard across review platforms and mentions",
+      "Search-results and content plan",
+      "Monthly report and crisis plan"
+    ],
+    "youProvide": [
+      "Manager access to your Google Business Profile and other review platforms",
+      "Customer contact data collected with consent, or access to your booking or billing system",
+      "A named person who handles escalations and approves sensitive replies",
+      "Background on known issues, disputes or past incidents",
+      "Contact details for your legal counsel, for anything involving legal action"
+    ],
+    "faqs": [
+      {
+        "q": "Do you write replies in our name?",
+        "a": "We draft them in your voice and, once guidelines are agreed, post routine replies directly. Anything sensitive, whether clinical, legal, financial or a serious complaint, goes to your named approver first. Every reply follows the playbook, so customers don't receive templated responses."
+      },
+      {
+        "q": "Will you contact our customers directly?",
+        "a": "Only through the request flow you approve, using contact data you collected with consent, and only to ask for feedback. We never call or message reviewers to pressure them into changing a review; where a reviewer needs follow-up, your team makes contact."
+      },
+      {
+        "q": "What do you do about a review we think is fake?",
+        "a": "We check it against the platform's policy and your records. If it clearly breaks the rules, for instance there's no record of the customer or it comes from a competitor, we report it with evidence and follow it through the platform's review and appeal steps. If it may be genuine, we help you reply calmly instead. To talk through a specific case, [book a consultation](/book-consultation)."
+      }
+    ]
+  },
+  "useCases": {
+    "eyebrow": "Reputation management · Use cases",
+    "title": "Reputation management use cases: when reviews and search results decide the sale",
+    "metaTitle": "Reputation Management Use Cases",
+    "metaDescription": "Illustrative reputation scenarios for a hospital, café, developer, startup, founder and D2C brand, each with the challenge, the approach and what to measure.",
+    "lead": "Reputation problems take different shapes: a slow drift in ratings, one damaging search result, a complaint that spreads overnight. These illustrative scenarios show how we'd handle each and how we'd know the work is paying off.",
+    "cases": [
+      {
+        "title": "Tackling billing complaints at a hospital",
+        "businessType": "Multi-speciality hospital · Hyderabad",
+        "challenge": "A hospital with strong clinical teams has a slipping Google rating. Most negative reviews mention long waits at the billing desk and unclear estimates, and replies so far have been defensive or missing entirely.",
+        "approach": [
+          "Share a theme analysis with administration so billing and waiting-time problems are fixed at the source",
+          "Introduce one consistent review request after discharge and outpatient visits, sent to every patient",
+          "Write a response playbook that never confirms patient details or treatment in public",
+          "Report reviews that break policy, such as those clearly meant for another hospital"
+        ],
+        "measure": [
+          "New reviews mentioning billing or waiting, month by month",
+          "Average rating of reviews from the last three months",
+          "Response rate and response time on negative reviews"
+        ]
+      },
+      {
+        "title": "Recovering after a viral complaint",
+        "businessType": "Beach café · Goa",
+        "challenge": "A popular café receives a burst of one-star reviews after a customer's video about a dispute with staff spreads on Instagram. Many of the new reviewers have never visited.",
+        "approach": [
+          "Post a short, factual public statement and a calm reply to the original video",
+          "Report reviews from people who clearly weren't customers, under the platform's policies",
+          "Keep asking real guests for reviews in the usual way, with no incentives",
+          "Review how staff are trained to handle disputes at the table"
+        ],
+        "measure": [
+          "Outcomes of reported reviews",
+          "Rating trend from recent genuine guests",
+          "Sentiment in comments on the café's own social posts"
+        ]
+      },
+      {
+        "title": "Answering delay complaints for a property developer",
+        "businessType": "Real estate developer · Noida",
+        "challenge": "Searching the developer's name surfaces forum threads and videos about delayed possession in an older project. Buyers for its new project raise them in almost every sales meeting.",
+        "approach": [
+          "Publish clear, dated project updates on the website, consistent with the developer's RERA filings",
+          "Reply factually on forums where the developer can post, pointing to the official updates",
+          "Build accurate content, such as construction progress videos and handover documentation, that ranks for the brand name",
+          "Brief the sales team with honest answers about the older project, drawing on our [real estate marketing](/industries/real-estate) experience"
+        ],
+        "measure": [
+          "Page-one search results for the brand name, by sentiment",
+          "How often delays come up in sales conversations",
+          "Site-visit-to-booking rate on the new project"
+        ]
+      },
+      {
+        "title": "Fixing employer reviews that hold back hiring",
+        "businessType": "SaaS startup · Bengaluru",
+        "challenge": "A growing startup struggles to hire engineers. Candidates point to employer reviews describing a chaotic culture from two years ago, before a leadership change.",
+        "approach": [
+          "Respond to employer reviews openly, acknowledging past issues and what has changed since",
+          "Invite current employees to share honest reviews through a neutral, optional process with no pressure",
+          "Publish engineering blog posts, team videos and clear hiring pages",
+          "Feed recurring themes from exit interviews into HR's priorities"
+        ],
+        "measure": [
+          "Rating and recency of employer reviews",
+          "Offer-acceptance rate",
+          "Candidates raising reviews as a concern in interviews"
+        ]
+      },
+      {
+        "title": "Cleaning up a founder's search results",
+        "businessType": "Founder and investor · Mumbai",
+        "challenge": "Searching a founder's name shows an old article about a failed venture, with inaccurate details, ranking above anything current. Investors and partners bring it up.",
+        "approach": [
+          "Ask the publisher to correct factual errors, supported by documents",
+          "Build accurate assets that deserve to rank, such as a personal site, an updated LinkedIn profile, interviews and conference talks, as part of a [personal branding](/personal-branding) plan",
+          "Align facts across profiles so AI assistants describe the founder consistently"
+        ],
+        "measure": [
+          "Position of the article in results for the founder's name",
+          "Accurate, founder-controlled pages on page one",
+          "What AI assistants say when asked about the founder"
+        ]
+      },
+      {
+        "title": "Handling a quality complaint for a snack brand",
+        "businessType": "D2C snack brand · Kolkata",
+        "challenge": "A customer's photos of a damaged, stale pack spread across Instagram and X. Marketplace reviews start mentioning it, and the brand's team argues with commenters.",
+        "approach": [
+          "Stop the arguing, post one acknowledgment with a clear contact route and investigate the batch",
+          "Publish what was found and what changed in packaging or logistics",
+          "Monitor marketplace and social mentions daily until the topic fades",
+          "Turn the incident into a written crisis plan for next time"
+        ],
+        "measure": [
+          "Daily volume of negative mentions until it subsides",
+          "Marketplace rating on the affected products",
+          "Customer complaints by batch after the fix"
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Which businesses need reputation management most?",
+        "a": "Those whose buyers can't judge quality before purchase and rely on other people's experience: healthcare, legal and financial services, hospitality, education, real estate and most high-ticket purchases. A single-location business with few reviews can also be swayed by a handful of negative ones."
+      },
+      {
+        "q": "Is it worth investing if our rating is already good?",
+        "a": "A good rating needs a steady flow of new reviews to stay credible, and monitoring catches problems while they're small. For a business in good shape the work is lighter, mainly a review-request system and quick responses, but skipping it means hearing about problems from customers first."
+      },
+      {
+        "q": "How does reputation work connect with local SEO?",
+        "a": "Closely. Reviews contribute to local ranking on Google, and replies and profile accuracy shape how your listing comes across. We usually coordinate reputation work with [SEO](/seo) so that profiles, location pages and reviews support each other."
+      }
+    ]
+  }
+}

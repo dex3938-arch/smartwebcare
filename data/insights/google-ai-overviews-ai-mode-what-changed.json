@@ -1,0 +1,128 @@
+{
+  "slug": "google-ai-overviews-ai-mode-what-changed",
+  "category": "search-visibility",
+  "published": "2026-11-01",
+  "eyebrow": "Search, AEO & GEO",
+  "title": "Google AI Overviews and AI Mode: what changed for business websites, and what didn't",
+  "metaTitle": "Google AI Overviews and AI Mode: What Changed",
+  "metaDescription": "What Google's AI Overviews and AI Mode changed for business sites, Google's official guidance, the 2026 opt-out control and how to track AI visibility.",
+  "lead": "Google now answers many searches with an AI-written summary above the usual links, and AI Mode turns search into a back-and-forth conversation. Both changed how visibility is earned and measured, yet Google's own guidance says the fundamentals for site owners haven't moved. Here's the timeline, what arrived in 2026 and what to do about it.",
+  "keyPoints": [
+    "AI Overviews reached India in English and Hindi in August 2024, and AI Mode now works in English, Hindi and seven more Indian languages.",
+    "Google says its AI features have no extra technical requirements or special markup: a page needs to be indexed and eligible to show a snippet.",
+    "Since August 31, 2026, every site can see its AI-feature impressions in Search Console and can opt out of these features without affecting regular rankings.",
+    "Simple informational searches may send fewer clicks, so judge search performance by enquiries and sales, not traffic alone."
+  ],
+  "sections": [
+    {
+      "heading": "A short timeline",
+      "paragraphs": [
+        "Google's AI search features arrived in India in stages, with language support widening each time:"
+      ],
+      "bullets": [
+        "**August 2024:** AI Overviews expand beyond the US to six more countries, including India, where they launch in English and Hindi.",
+        "**June–July 2025:** AI Mode reaches India, first as a Search Labs experiment and then for all users in English.",
+        "**September 2025:** AI Mode adds Hindi alongside several other languages.",
+        "**October 2025:** Bengali, Kannada, Malayalam, Marathi, Tamil, Telugu and Urdu follow, together with Search Live for voice and camera questions.",
+        "**June 3, 2026:** Google announces generative AI performance reports in Search Console and a control for opting out of AI Search features, tested first with UK sites.",
+        "**August 31, 2026:** both roll out to all websites worldwide."
+      ]
+    },
+    {
+      "heading": "How AI features choose what to show",
+      "paragraphs": [
+        "AI Overviews and AI Mode draw on Google's existing search index rather than a separate one. For complex questions they use what Google calls query fan-out: the system runs several related searches across subtopics and data sources, then assembles an answer with supporting links.",
+        "For a business this changes the unit of competition. A Lucknow wedding photographer used to compete for “wedding photographer Lucknow”; now the answer to “how much does a wedding photographer in Lucknow charge for two days” may be stitched together from pages that each answer one sub-question about pricing, packages, travel or albums. Pages that answer those specifics plainly have more ways in."
+      ]
+    },
+    {
+      "heading": "What Google officially tells site owners",
+      "paragraphs": [
+        "Google's Search Central documentation is unusually direct: there are no additional requirements to appear in AI Overviews or AI Mode, no special schema.org markup to add and no new AI text files to create. A page has to be indexed and eligible to appear in Search with a snippet, and inclusion is never promised.",
+        "Its recommended practices are the ones you would expect from a sound [SEO baseline](/seo-standards):"
+      ],
+      "bullets": [
+        "Allow crawling in robots.txt and through any CDN or hosting firewall.",
+        "Make important content easy to find through internal links.",
+        "Keep key information in text, supported by relevant images and video.",
+        "Make structured data match what is visible on the page.",
+        "Keep your Business Profile and Merchant Center information current.",
+        "Provide a good page experience."
+      ]
+    },
+    {
+      "heading": "What changed for business websites",
+      "paragraphs": [
+        "The fundamentals held, but the way people move from a search to your site did not. Five shifts stand out:"
+      ],
+      "bullets": [
+        "**Fewer clicks on simple questions.** When the summary already explains “what is GST on restaurant bills”, fewer people need to open a page.",
+        "**Mentions without visits.** Your brand or page can appear inside an answer and shape a decision without a click being recorded.",
+        "**Longer, conversational searches.** AI Mode invites follow-up questions, so content should anticipate the next question as well as the first.",
+        "**More languages that matter.** With AI Mode in Hindi and seven other Indian languages, a regional-language query can surface different sources from its English equivalent.",
+        "**Local and buying intent still leans on profiles and listings.** Business Profile details, reviews and product data feed many answers about where to buy or whom to call."
+      ]
+    },
+    {
+      "heading": "What still matters, arguably more than before",
+      "paragraphs": [
+        "If AI features reward anything, it is being the clearest and most specific source on a question. That favors service pages that state prices or ranges, areas served and process steps; comparison and FAQ content written by people who do the work; and evidence such as named authors, honestly described client outcomes and up-to-date facts.",
+        "This is the territory of [answer engine optimization](/aeo) and [generative engine optimization](/geo), both of which build on technical SEO rather than replacing it. Our article on [getting cited by AI assistants](/insights/how-to-get-cited-by-ai-assistants) covers ChatGPT, Perplexity and Copilot, which follow different rules from Google."
+      ]
+    },
+    {
+      "heading": "The 2026 Search Console changes",
+      "paragraphs": [
+        "The new generative AI performance report shows how often your URLs appeared in AI Overviews and AI Mode, plus generative AI features in Discover. You can break impressions down by page, country, device (for Search only) and date, from hourly to monthly. At launch the report centered on impressions, and Google says it will add more metrics over time; clicks from AI features are still counted inside the overall Performance report under the “Web” search type.",
+        "The new control, found in Search Console settings, lets a property opt out of AI Overviews, AI Mode and AI Overviews in Discover. Google says opted-out sites receive no traffic or impressions from those features, and that the setting is not used as a ranking signal for regular results. It is separate from Google-Extended, which governs use of your content for Gemini training and grounding outside Search, and from page-level preview controls such as `nosnippet`, `data-nosnippet`, `max-snippet` and `noindex`."
+      ]
+    },
+    {
+      "heading": "Should you opt out? A simple decision rule",
+      "paragraphs": [
+        "For most service businesses, clinics, retailers and B2B firms, staying in is the sensible default: AI answers are a discovery surface, and competitors will appear there if you don't. Opting out makes sense mainly when your content is itself the product, such as paid research or a publisher's archive, and you have evidence that AI summaries are replacing visits that would otherwise have converted.",
+        "If only certain passages concern you, such as a detailed rate card you'd rather people read on your own page, the `data-nosnippet` attribute can keep that text out of snippets and AI features without touching the rest of the site. Try changes on a few pages and watch a full month of data before deciding anything site-wide."
+      ]
+    },
+    {
+      "heading": "How to track AI search visibility month to month",
+      "paragraphs": [
+        "If you'd like this reporting set up for you, our [SEO team](/seo) can build it into your monthly review. Otherwise, a simple routine covers most of it:"
+      ],
+      "bullets": [
+        "Export AI-feature impressions by page from the generative AI report each month.",
+        "Put the same pages' clicks and impressions from the main Performance report beside them.",
+        "Separate branded from non-branded queries, since brand searches behave differently.",
+        "Track enquiries, calls and sales from organic search in your analytics, not just sessions.",
+        "Check a fixed list of priority questions in AI Mode, in English and Hindi, and note whether and how you appear.",
+        "Ask new leads how they found you, because AI-assisted journeys often hide inside answers that simply say “Google”."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need special schema markup to appear in AI Overviews?",
+      "a": "No. Google states that no special structured data is required for its AI features. Structured data still helps search engines understand your pages, but it must match the content visitors can see."
+    },
+    {
+      "q": "Will opting out of AI features hurt my normal rankings?",
+      "a": "Google says the opt-out is not used as a ranking signal for results outside its generative AI features. You would lose whatever traffic and impressions those features send, so measure what they bring before switching them off."
+    },
+    {
+      "q": "Does blocking Google-Extended remove my site from AI Overviews?",
+      "a": "No. Google-Extended controls whether your content is used for Gemini training and grounding outside Search. Appearance in AI Overviews and AI Mode is governed by the Search Console control and the standard preview controls."
+    },
+    {
+      "q": "Can I see clicks from AI Overviews separately?",
+      "a": "Not as a separate figure at the time of writing. Clicks from AI features are counted within the overall Web data in the Performance report, while the dedicated AI report focuses on impressions; Google has said more metrics will follow."
+    }
+  ],
+  "sources": [
+    { "label": "Google Search Central — AI features and your website", "url": "https://developers.google.com/search/docs/appearance/ai-features" },
+    { "label": "Google Search Central Blog — Introducing Search Generative AI performance reports in Search Console", "url": "https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports" },
+    { "label": "Google — New controls and insights for website owners (updated August 31, 2026)", "url": "https://blog.google/products-and-platforms/products/search/new-controls-website-owners/" },
+    { "label": "Google India Blog — AI Mode now in Hindi", "url": "https://blog.google/intl/en-in/products/google-search-ai-mode-now-available-in-hindi/" },
+    { "label": "Google India Blog — New languages in AI Mode and Search Live", "url": "https://blog.google/intl/en-in/products/supercharging-search-for-india-new-languages-in-ai-mode-search-live-debuts/" },
+    { "label": "All India Radio News — Google expands AI Overviews to India and five other countries", "url": "https://www.newsonair.gov.in/google-expands-ai-overviews-feature-to-india-five-other-countries" }
+  ]
+}

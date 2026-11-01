@@ -1,0 +1,342 @@
+{
+  "slug": "ai-receptionist",
+  "guide": {
+    "eyebrow": "AI Receptionist · 2026 guide",
+    "title": "AI receptionists explained: how voice AI answers your calls and when it makes sense",
+    "metaTitle": "AI Receptionist Guide: How Voice AI Answers Calls",
+    "metaDescription": "How AI phone receptionists work, how call forwarding and booking fit together, the 2026 rules on disclosure and outbound calls, and what to measure.",
+    "lead": "An AI receptionist answers your business phone with a natural voice, works out what the caller wants, and then books, answers or transfers. This guide explains the technology, the setup choices and the rules worth knowing before you switch one on.",
+    "sections": [
+      {
+        "heading": "What happens during an AI-answered call",
+        "paragraphs": [
+          "When a call reaches the AI line, speech recognition turns the caller's words into text, a language model decides what to say or do, and a synthetic voice speaks the reply. Newer speech-to-speech models handle several of these stages at once, which shortens the pause between the caller finishing and the AI responding.",
+          "That pause decides whether a call feels natural. People expect a reply within a second or so, and they expect to be able to interrupt. A good system stops talking when the caller cuts in, a behavior called barge-in, and picks up the new point instead of finishing its script.",
+          "Behind the voice, the receptionist works like any other AI system: it consults your approved information, checks your calendar, and logs the call with a transcript and summary for your team."
+        ]
+      },
+      {
+        "heading": "Why voice is harder than chat",
+        "paragraphs": [
+          "Phone calls bring problems text never does: traffic noise, weak mobile signal, speakerphones, and callers who give a name, a locality and a date in one breath. Names and addresses are the hardest part, especially Indian surnames and locality spellings, so the system should read them back and confirm.",
+          "Language switching matters too. Many callers start in English and drift into Hindi or a regional language mid-sentence. Test with role-played calls that sound like your real customers, not only with clean studio audio.",
+          "This is where an AI receptionist differs from a text-based [AI agent](/ai-agents). The reasoning may be similar, but the voice layer, timing and confirmation habits need their own design."
+        ]
+      },
+      {
+        "heading": "Which calls should the AI take?",
+        "paragraphs": [
+          "You don't have to hand over every call. Most businesses begin with one of three patterns and adjust after a few weeks of recordings. If you're weighing this against outsourcing, our comparison of an [AI receptionist and a call center](/insights/ai-receptionist-vs-call-centre) sets out the trade-offs."
+        ],
+        "bullets": [
+          "**After hours:** the AI answers only when you're closed, so evening and holiday callers can still book.",
+          "**Overflow:** calls ring your staff first and move to the AI if nobody picks up within a few rings or the line is busy.",
+          "**First line:** the AI answers every call, handles routine requests and transfers the rest to a person."
+        ]
+      },
+      {
+        "heading": "How the phone side works",
+        "paragraphs": [
+          "Most setups keep your existing number. Conditional call forwarding, which Indian mobile and landline operators support, sends unanswered or busy calls to the AI's number. If you use a cloud telephony or IVR provider, calls can usually be routed to the AI inside that system instead.",
+          "Customers also call businesses through WhatsApp now. Meta's WhatsApp Business Calling API lets people place voice calls to a business number, and calls the customer starts are free for the business. Depending on your provider, those calls can reach the same AI receptionist, so callers get the same answers whichever app they use.",
+          "Bookings depend on calendar integration. The AI needs live availability, your buffer rules and which staff offer which services, or it will promise slots that don't exist."
+        ]
+      },
+      {
+        "heading": "Rules on disclosure, recording and outbound calls",
+        "paragraphs": [
+          "Say in the greeting that the caller is speaking to an AI assistant and that the call may be recorded. It is honest and it sets expectations. For callers in the European Union, the AI Act's transparency rule, which has applied since August 2, 2026, requires people to be told they are talking to an AI unless that is obvious.",
+          "Recordings and transcripts contain personal data. Under India's DPDP framework, the Rules notified in November 2025 bring most obligations for businesses into effect by May 2027, so now is a good time to set retention periods and decide who may listen to recordings.",
+          "Outbound calls face stricter rules than inbound ones. In India, TRAI's amended commercial communication regulations put promotional calls on the 140 number series and service or transactional calls on the 1600 series, with senders registered on the DLT platform. In the United States, the FCC ruled in February 2024 that AI-generated voices count as artificial voices under the TCPA, so automated outbound calls generally need the recipient's prior consent. For most small businesses, reminders by SMS or a WhatsApp template are simpler than outbound AI calls."
+        ]
+      },
+      {
+        "heading": "What an AI receptionist should not do",
+        "paragraphs": [
+          "Decide in advance which calls must reach a human every time. For a clinic, that includes anything that sounds like a medical emergency, where the AI's job is to direct the caller to emergency services or put them through to the doctor on call. For a law firm or financial adviser, it includes anything that would amount to advice."
+        ],
+        "bullets": [
+          "Giving medical, legal or financial advice beyond published facts such as timings and fees.",
+          "Quoting prices or offers that aren't in its approved information.",
+          "Sharing reports, results or account details over the phone without identity checks.",
+          "Keeping a frustrated caller in a loop instead of transferring them.",
+          "Confirming a booking it couldn't actually write to the calendar."
+        ]
+      },
+      {
+        "heading": "Common mistakes",
+        "paragraphs": [
+          "The most frequent error is a greeting that tries to say everything. Callers want to be asked how the business can help within a few seconds, not hear a list of services. Long confirmations at the end of a booking cause hang-ups too.",
+          "Other regular problems: a transfer number that rings an empty desk, a calendar that isn't updated when staff take leave, and nobody listening to recordings after the first week. Each is easy to prevent and costly to ignore."
+        ]
+      },
+      {
+        "heading": "Measuring a receptionist's performance",
+        "paragraphs": [
+          "Compare against your missed-call log from before launch; most phone systems and mobile operators can show how many calls went unanswered and when. Our [AI receptionist process](/ai-receptionist/process) records that baseline in the first week."
+        ],
+        "bullets": [
+          "**Answer rate:** calls picked up out of all calls received, broken down by hour of day.",
+          "**Booking conversion:** calls with booking intent that end in a confirmed appointment.",
+          "**Transfer rate and reasons:** how often callers reach a person, and why.",
+          "**Drop-off points:** where in the conversation callers hang up before their request is handled.",
+          "**No-show rate:** whether confirmations and reminders keep appointments on track.",
+          "**Caller feedback:** complaints and compliments that mention the AI line."
+        ]
+      }
+    ],
+    "takeaways": [
+      "An AI receptionist chains speech recognition, a language model and a synthetic voice, and the pause between them shapes the caller's experience.",
+      "Start with after-hours or overflow calls before letting the AI answer every call.",
+      "Names, localities and mixed-language speech need read-back confirmation and real-world testing.",
+      "Disclose the AI and any recording in the greeting; for EU callers it has been a legal duty since August 2026.",
+      "Outbound AI calls face stricter rules than inbound ones in both India and the United States.",
+      "Judge success by answer rate, confirmed bookings and transfer reasons against your old missed-call log."
+    ],
+    "faqs": [
+      {
+        "q": "Can the AI receptionist keep our existing phone number?",
+        "a": "Usually, yes. Calls are forwarded from your current number to the AI line, either all the time or only when you're busy, unreachable or closed. Customers keep dialing the number they already know."
+      },
+      {
+        "q": "Which languages can it speak?",
+        "a": "Current systems generally handle English and Hindi reliably and support several other Indian languages, though quality varies by language and voice. Mixed Hindi-English speech is common on Indian calls, so test that specifically before launch."
+      },
+      {
+        "q": "Can it take payments over the phone?",
+        "a": "We don't recommend it. Reading card details aloud to any automated system creates security and compliance risks. A safer pattern is for the AI to send a payment link by SMS or WhatsApp once the booking is confirmed."
+      },
+      {
+        "q": "Will it cope with a festival rush or a sudden spike in calls?",
+        "a": "That's one of its strengths: an AI line can answer many calls at the same time, so callers don't hit a busy tone. The real limit is usually your calendar. If every slot is full, the AI should offer a waitlist or callback rather than overbook."
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "AI Receptionist · How we deliver",
+    "title": "How we set up an AI receptionist that sounds right and books correctly",
+    "metaTitle": "Our AI Receptionist Setup Process",
+    "metaDescription": "From call audit and call-flow scripts to voice selection, calendar integration, test calls and call forwarding: how SmartWebCare sets up an AI receptionist.",
+    "lead": "A receptionist is judged in the first few seconds of every call, so most of our work happens before the line goes live. These are the stages we follow and what you get at each.",
+    "steps": [
+      {
+        "title": "Call audit",
+        "summary": "We learn why people call you, when they call and which calls you're missing today.",
+        "activities": [
+          "Review your missed-call log and call volumes by hour and weekday",
+          "Listen to sample calls or interview front-desk staff about common requests",
+          "Group calls by reason: booking, rescheduling, pricing, directions, complaints, urgent",
+          "Agree which calls the AI will take: after hours, overflow or first line"
+        ],
+        "output": "A call-reason map and coverage plan, with baseline answer and booking figures."
+      },
+      {
+        "title": "Call flows and policies",
+        "summary": "We write how the receptionist handles each type of call, including what it must never do.",
+        "activities": [
+          "Script the greeting, AI disclosure and recording notice",
+          "Define booking rules: services, durations, buffers, staff, deposits and cancellation terms",
+          "List urgent scenarios with the exact transfer or emergency instruction for each",
+          "Write approved answers for pricing, location, parking and other routine questions"
+        ],
+        "output": "A call-flow document and policy sheet signed off by your team."
+      },
+      {
+        "title": "Voice and language setup",
+        "summary": "We choose a voice that suits your brand and teach it the words your callers use.",
+        "activities": [
+          "Shortlist voices and record sample greetings for your approval",
+          "Add pronunciations for staff names, treatments, products and local areas",
+          "Configure language handling for English, Hindi and any regional language you need"
+        ],
+        "output": "Approved voice samples and a pronunciation list."
+      },
+      {
+        "title": "Integrations",
+        "summary": "We connect the receptionist to your calendar, records and messaging so bookings are real, not promises.",
+        "activities": [
+          "Connect the booking system or calendar with live availability",
+          "Send call summaries to email, your CRM or a shared channel",
+          "Trigger booking confirmations by SMS or WhatsApp template for customers who agreed to them",
+          "Configure transfer numbers and a fallback for unanswered transfers"
+        ],
+        "output": "A connected test line that books into a test calendar."
+      },
+      {
+        "title": "Test calls",
+        "summary": "We call the line in every way we can think of before any customer does.",
+        "activities": [
+          "Run scripted calls covering each call reason and policy",
+          "Test noisy lines, speakerphones, interruptions and mixed-language callers",
+          "Ask your staff to role-play difficult callers",
+          "Fix and re-test every call that went wrong"
+        ],
+        "output": "A test-call log with recordings, issues found and fixes made."
+      },
+      {
+        "title": "Go-live and forwarding",
+        "summary": "We switch on forwarding with you and watch the first live calls closely.",
+        "activities": [
+          "Set conditional or full call forwarding with your telecom provider or telephony system",
+          "Brief staff on transfers, call summaries and how to report a problem",
+          "Monitor the first days of calls and make quick adjustments"
+        ],
+        "output": "A live AI line, a staff quick-reference sheet and daily call summaries."
+      },
+      {
+        "title": "Review and tuning",
+        "summary": "We keep listening after launch and improve the receptionist from real calls.",
+        "activities": [
+          "Review a sample of recordings and transcripts each week",
+          "Update answers whenever prices, services or timings change",
+          "Report answer rate, bookings and transfer reasons every month"
+        ],
+        "output": "A monthly call report with the changes made and our recommendations."
+      }
+    ],
+    "deliverables": [
+      "Call-reason map and coverage plan",
+      "Call-flow scripts, policy sheet and approved answers",
+      "Configured voice with a pronunciation list",
+      "Calendar, CRM and messaging integrations",
+      "Test-call log with recordings",
+      "Live forwarding setup and staff quick-reference sheet",
+      "Monthly call performance report"
+    ],
+    "youProvide": [
+      "Your missed-call log or phone system reports, if available",
+      "Services, durations, prices, staff schedules and booking rules",
+      "Access to your calendar or booking software",
+      "Transfer numbers for urgent calls, and someone who answers them",
+      "Approval of scripts and voice before launch"
+    ],
+    "faqs": [
+      {
+        "q": "Do we need new phone hardware?",
+        "a": "No. The AI line works through forwarding from your existing mobile, landline or cloud telephony number. If you already use an IVR system, we can usually add the AI as one of its destinations."
+      },
+      {
+        "q": "What happens if a transfer to our staff isn't answered?",
+        "a": "We set a fallback for exactly that moment. The receptionist takes a message with the caller's details and reason, promises a callback within a time you choose, and alerts the right person by message. No caller should be left on hold indefinitely."
+      },
+      {
+        "q": "Can it also handle WhatsApp chats?",
+        "a": "Text conversations are a separate setup under our [AI agents](/ai-agents) service, and both can share the same approved information so phone and chat answers match. The [AI receptionist use cases](/ai-receptionist/use-cases) show typical setups, or you can [book a consultation](/book-consultation) to plan both."
+      }
+    ]
+  },
+  "useCases": {
+    "eyebrow": "AI Receptionist · Use cases",
+    "title": "Who an AI receptionist helps most: six phone-heavy businesses",
+    "metaTitle": "AI Receptionist Use Cases: Clinics, Salons & More",
+    "metaDescription": "Six illustrative AI receptionist scenarios, including a Pune dental clinic, a Chandigarh salon chain and a Lucknow diagnostic lab, with what to measure.",
+    "lead": "Phones still drive bookings for many Indian businesses, and an unanswered call is often a customer lost to the next name on the list. The scenarios below are illustrative examples, not client case studies, showing how an AI line could be set up and judged.",
+    "cases": [
+      {
+        "title": "After-hours and lunch-hour calls at a dental clinic",
+        "businessType": "Dental clinic · Pune",
+        "challenge": "The front desk is busy with patients in the waiting area, calls go unanswered over lunch and after evening hours, and patients with toothache simply ring the next clinic.",
+        "approach": [
+          "The AI answers overflow and after-hours calls and books check-ups and cleanings into the clinic's calendar",
+          "Callers describing severe pain, swelling or bleeding are put through to the on-call dentist under the clinic's written policy",
+          "Reminders go out as a WhatsApp template the day before each appointment"
+        ],
+        "measure": [
+          "Calls answered over lunch and after hours, compared with the old missed-call log",
+          "New-patient bookings made through the AI line",
+          "No-show rate for AI-booked appointments"
+        ]
+      },
+      {
+        "title": "Multi-branch booking for a salon chain",
+        "businessType": "Salon chain · Chandigarh",
+        "challenge": "Three branches share one number. Weekend calls overwhelm reception, callers want specific stylists, and double bookings happen when staff juggle a paper diary alongside the software.",
+        "approach": [
+          "The AI asks for branch, service and preferred stylist, then checks that stylist's live calendar",
+          "It handles rescheduling and cancellations within the salon's notice policy",
+          "Bridal and group bookings pass to the branch manager with full details"
+        ],
+        "measure": [
+          "Weekend calls answered versus missed",
+          "Double bookings per month",
+          "Reschedules completed without staff involvement"
+        ]
+      },
+      {
+        "title": "Turning hoarding and newspaper calls into site visits",
+        "businessType": "Real estate site office · Noida",
+        "challenge": "Outdoor and print ads drive bursts of calls at weekends. The sales team is out giving site tours, so many callers reach voicemail and never try again.",
+        "approach": [
+          "The AI answers questions on configurations, possession timelines and location from approved project details",
+          "It captures budget and timeline, then books a site visit with a sales executive",
+          "Callers ready to buy are transferred straight away whenever a salesperson is free"
+        ],
+        "measure": [
+          "Calls answered during peak ad periods",
+          "Site visits booked and attended",
+          "Leads captured with enough detail for a useful follow-up call"
+        ]
+      },
+      {
+        "title": "Peak-season job booking for a home-services company",
+        "businessType": "AC repair and maintenance · Hyderabad",
+        "challenge": "In summer, calls multiply and technicians are booked out days ahead. Staff can't answer fast enough, and urgent breakdowns get mixed up with routine servicing.",
+        "approach": [
+          "The AI books visits with full address, landmark and appliance details, reading each back for confirmation",
+          "It separates urgent breakdowns from routine servicing using rules the owner sets",
+          "When slots are full it offers the next available date or a waitlist instead of overbooking"
+        ],
+        "measure": [
+          "Jobs booked per day in peak season",
+          "Visits wasted by wrong or incomplete addresses",
+          "Callers who hung up before booking, and at what point"
+        ]
+      },
+      {
+        "title": "Table reservations for a busy restaurant",
+        "businessType": "Restaurant · Bengaluru",
+        "challenge": "The phone rings throughout service, and staff leave tables to take reservations. Many calls are simple questions about timings, parking or whether the kitchen serves Jain food.",
+        "approach": [
+          "The AI takes reservations for standard party sizes after checking the reservation system",
+          "It answers questions on timings, location, parking and menu options from approved information",
+          "Large parties and private events go to the manager with date, headcount and budget",
+          "Delivery complaints are pointed to the relevant delivery app or logged for a callback"
+        ],
+        "measure": [
+          "Reservations taken by the AI line each week",
+          "Service-hour calls handled without interrupting floor staff",
+          "No-shows for phone reservations"
+        ]
+      },
+      {
+        "title": "Home sample collection for a diagnostic lab",
+        "businessType": "Diagnostic lab · Lucknow",
+        "challenge": "Callers want to book home sample collection, ask about fasting rules and check whether reports are ready. Reception spends hours on these calls while walk-in patients wait.",
+        "approach": [
+          "The AI books home collection slots by area, with the address read back",
+          "It gives preparation instructions from the lab's approved list, such as fasting requirements for specific tests",
+          "Report queries trigger a secure SMS or WhatsApp link after identity checks; results are never read out on the call"
+        ],
+        "measure": [
+          "Home-collection bookings taken by phone",
+          "Repeat calls about the same booking",
+          "Reception time freed for walk-in patients"
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Is an AI receptionist suitable for medical practices?",
+        "a": "For bookings, timings, fees and preparation instructions, yes, provided the answers come from the practice's approved information. It should never diagnose or advise on treatment, and any call that sounds urgent must reach a person or emergency guidance immediately. Our [healthcare and wellness](/industries/healthcare-wellness) work follows the same caution."
+      },
+      {
+        "q": "We get only a few calls a day. Is it worth it?",
+        "a": "It depends on what each missed call is worth. A clinic or home-services business that loses a valuable booking whenever the phone rings out may still benefit, especially after hours. If calls are rare and low in value, voicemail plus a quick callback habit may be enough."
+      },
+      {
+        "q": "Can the receptionist send follow-up messages after a call?",
+        "a": "Yes. A confirmation or reminder by SMS or WhatsApp template is a common add-on, sent only to customers who agreed to it. Longer nurture sequences belong in [email marketing automation](/email-marketing-automation), and the [AI receptionist guide](/ai-receptionist/guide) explains the technology itself."
+      }
+    ]
+  }
+}

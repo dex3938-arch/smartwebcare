@@ -1,0 +1,349 @@
+{
+  "slug": "brand-playbook",
+  "guide": {
+    "eyebrow": "Brand playbook · 2026 guide",
+    "title": "How to build a brand playbook your team will actually use",
+    "metaTitle": "Brand Playbook Guide: What to Include in 2026",
+    "metaDescription": "What a brand playbook should contain in 2026, how to make it usable for teams, agencies and AI tools, and how to keep it current after launch day.",
+    "lead": "A brand playbook turns the decisions behind your brand into rules other people can follow without asking you. The test of a good one is simple: someone new can produce an on-brand post, slide or signboard from it on their first day.",
+    "sections": [
+      {
+        "heading": "Guidelines, style guide or playbook?",
+        "paragraphs": [
+          "The terms overlap. A style guide usually covers visual rules such as logo, color and type. Brand guidelines add voice and messaging. A playbook goes further and shows how to apply all of it in specific situations, with templates, worked examples and an approval route.",
+          "The distinction matters because plenty of businesses own a polished logo PDF and still get inconsistent work. Nobody wrote down how to handle a festival post, a dealer banner or a sales proposal, so every team improvised."
+        ]
+      },
+      {
+        "heading": "What belongs inside",
+        "paragraphs": [
+          "Organize the playbook around the questions people actually ask, not around the order in which the brand was designed. Keep the strategy pages short; a playbook that opens with twenty pages of philosophy loses its readers before the logo section."
+        ],
+        "bullets": [
+          "**Strategy on a page**: purpose, positioning, audience and personality, so every rule has a visible reason.",
+          "**Verbal identity**: tone of voice, words to use and avoid, messages by audience, language choices and before-and-after rewrites.",
+          "**Visual identity**: logo use and misuse, color roles and codes, type hierarchy, imagery, icons, layout grids and basic motion.",
+          "**Applications**: social posts, presentations, documents, packaging, signage, email, WhatsApp messages, uniforms and vehicles.",
+          "**Templates**: editable files for the jobs people do most often.",
+          "**Governance**: who owns the brand, how to request an exception, and how approvals work."
+        ]
+      },
+      {
+        "heading": "Formats: PDF, web portal or design library",
+        "paragraphs": [
+          "A PDF is easy to share and fine for a small team, but it starts aging the moment it is sent, and soon nobody knows which version is current. A web-based playbook with one address, searchable pages and downloadable assets solves that, and it is what most growing teams should aim for.",
+          "Teams that build digital products, or work mostly in tools such as Figma or Canva, benefit from a shared component library alongside the written rules. Design tokens, the named values for colors, type sizes and spacing, keep design files and code in step. The W3C Design Tokens Community Group published the first stable version of its common token format in October 2025, which makes tokens easier to move between tools."
+        ]
+      },
+      {
+        "heading": "Accessibility is part of consistency",
+        "paragraphs": [
+          "A palette that fails contrast checks gets quietly adjusted by every developer and designer who notices, and that is how inconsistency starts. Build accessibility into the rules instead. At the AA level, the Web Content Accessibility Guidelines (WCAG 2.2) set a minimum contrast ratio of 4.5:1 for normal text and 3:1 for large text. List which color pairs are approved for text and which are decorative only.",
+          "Cover minimum font sizes for print and screen, alt-text guidance, captions on video and layouts that stay readable on small phones. These are brand rules as much as accessibility rules, because they decide how your brand looks to everyone. Our [UI/UX design](/ui-ux-design) team applies the same standards inside products."
+        ]
+      },
+      {
+        "heading": "Writing the playbook for AI-assisted work",
+        "paragraphs": [
+          "In 2026 a lot of brand content is drafted by AI before a person touches it, so the playbook needs a section written for that workflow: a voice summary short enough to paste into a writing assistant, example prompts for common jobs, approved and banned image styles, and clear rules on when AI-generated visuals may be used.",
+          "Many design platforms let teams load brand colors, fonts and logos so drafts start closer to the brand, and enterprise tools such as Adobe Firefly custom models can be trained on a company's own assets. These help only when the underlying rules are clear; AI will reproduce an inconsistent brand very efficiently.",
+          "Write down your disclosure rule as well. Platforms and Indian regulators increasingly expect synthetic images, audio and video to be labeled, and some sectors, healthcare among them, add rules of their own."
+        ]
+      },
+      {
+        "heading": "Rolling it out so people use it",
+        "paragraphs": [
+          "Most playbooks fail at launch, not in design. Introduce yours in a short session for each group that uses it, such as marketing, sales, franchise owners and agencies, covering the three or four rules that matter most to their work. Then make the right files easier to find than the wrong ones: one link, pinned in team chats and built into onboarding.",
+          "Name an owner. Someone has to answer questions, approve exceptions and update the playbook as the brand evolves. Without an owner, the document freezes and teams start working around it."
+        ]
+      },
+      {
+        "heading": "Common mistakes",
+        "paragraphs": [
+          "Almost every failed playbook shows at least one of these."
+        ],
+        "bullets": [
+          "Writing only for designers, when most daily brand work is done by sales, support and social teams.",
+          "Listing rules without examples, although one do-and-don't pair teaches more than a paragraph.",
+          "Skipping regional and language cases, such as the logo lockup with a Hindi or Tamil name.",
+          "Leaving out templates, so every team rebuilds the basics differently.",
+          "Never updating it, so the playbook still shows a website and products that no longer exist."
+        ]
+      },
+      {
+        "heading": "Measuring whether the playbook works",
+        "paragraphs": [
+          "A playbook is working when output becomes more consistent and faster at the same time. If you are still defining the brand itself, start with [brand development](/brand-development), because a playbook records decisions rather than making them. Our [playbook process](/brand-playbook/process) shows how we build one for an existing brand."
+        ],
+        "bullets": [
+          "Time from brief to approved asset for routine jobs",
+          "Revision rounds caused by brand errors",
+          "Template downloads and playbook visits, by team",
+          "A quarterly spot check of real materials in stores, on dealer signage and in social feeds",
+          "Questions reaching the brand owner, which should fall as the playbook improves"
+        ]
+      }
+    ],
+    "takeaways": [
+      "A playbook shows how to apply the brand in real situations, not just how the logo looks.",
+      "One searchable web playbook beats a PDF that nobody can version.",
+      "Approved color pairs and minimum sizes keep the brand accessible and stop quiet workarounds.",
+      "Add a section for AI workflows with a pasteable voice summary, prompts and disclosure rules.",
+      "Every playbook needs a named owner, or it drifts away from the brand within a year."
+    ],
+    "faqs": [
+      {
+        "q": "How long should a brand playbook be?",
+        "a": "As long as the jobs your team does require, and no longer. A small business may need a few dozen pages; a franchise network may need far more, split into sections by audience. What matters is how quickly someone finds the answer to their question."
+      },
+      {
+        "q": "Can we create a playbook before the brand is finished?",
+        "a": "You can document what is settled and mark the rest as provisional, but a playbook built on unresolved strategy will need rewriting. If positioning or the identity itself is still open, settle those first."
+      },
+      {
+        "q": "Who should own the playbook?",
+        "a": "Usually the head of marketing or a brand manager, supported by a designer for visual updates. In a smaller business it can be a founder. The owner needs the authority to say no to off-brand work and the time to answer questions."
+      },
+      {
+        "q": "Should agencies and freelancers get the full playbook?",
+        "a": "Give them the sections they need, the templates and a contact for questions. Keep anything confidential, such as unreleased product plans, in a separate internal section."
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "Brand playbook · How we work",
+    "title": "How we build your brand playbook, from audit to team training",
+    "metaTitle": "Our Brand Playbook Process and Deliverables",
+    "metaDescription": "How we build a brand playbook: usage audit, user interviews, rules and examples, templates and tokens, a web-based playbook, team training and governance.",
+    "lead": "We build playbooks around the people who will use them, not only the brand team. That means finding out who creates materials today, what they get wrong and why, then writing rules, examples and templates that make the right choice the easy one.",
+    "steps": [
+      {
+        "title": "Asset and usage audit",
+        "summary": "We gather everything that currently represents the brand and see how it is really used in the field. Our [playbook guide](/brand-playbook/guide) explains what a complete one covers.",
+        "activities": [
+          "Collect logos, fonts, colors, templates and any existing guidelines from every team",
+          "Sample real materials such as social posts, decks, store signage, dealer banners, packaging and emails",
+          "Flag inconsistencies, outdated assets and missing rules",
+          "Note the tools each team uses, from Canva and Figma to PowerPoint or a print vendor's software"
+        ],
+        "output": "An audit report showing where the brand breaks down today, and why."
+      },
+      {
+        "title": "User interviews",
+        "summary": "We talk to the people who make brand materials day to day to learn what they need from the playbook.",
+        "activities": [
+          "Short interviews with marketing, sales, HR, franchisees, agencies or dealers",
+          "A list of the most frequent jobs each group handles",
+          "The questions people currently send to the brand owner",
+          "Agreement on the playbook's audiences and sections"
+        ],
+        "output": "A playbook outline organized by audience and task."
+      },
+      {
+        "title": "Rules and examples",
+        "summary": "We write the core rules for strategy, voice and visuals, each paired with real do-and-don't examples.",
+        "activities": [
+          "A one-page strategy summary that gives the reason behind each rule",
+          "Tone-of-voice guidance with rewrites of your own past content",
+          "Visual rules for logo, color, type, imagery and layout, with contrast checks",
+          "Language and regional variations where they apply"
+        ],
+        "output": "Approved rule sections, ready to be designed into the playbook."
+      },
+      {
+        "title": "Templates, tokens and AI guidance",
+        "summary": "We build the files that turn rules into everyday output, with our [graphic design](/graphic-design) team producing the templates.",
+        "activities": [
+          "Editable templates for the most frequent jobs found in the audit",
+          "Design tokens or a component library if you run digital products",
+          "An AI section with a pasteable voice summary, prompt examples and disclosure rules",
+          "An organized asset library with clear file names and formats"
+        ],
+        "output": "A template and asset library your team can start using immediately."
+      },
+      {
+        "title": "Playbook build",
+        "summary": "We design and assemble the playbook in the format that suits your team, usually a web version plus a downloadable PDF.",
+        "activities": [
+          "Design and layout of every section",
+          "A searchable web version or a shared-drive structure, as agreed",
+          "Quick-start pages for each audience",
+          "A final review with your brand owner"
+        ],
+        "output": "A finished, navigable playbook behind one link everyone can use."
+      },
+      {
+        "title": "Training and rollout",
+        "summary": "We introduce the playbook to each group in a session built around their own work.",
+        "activities": [
+          "Live or recorded training for each audience",
+          "A practical exercise using the new templates",
+          "Clearing outdated files from shared folders with your IT team",
+          "An onboarding module for future hires and new partners"
+        ],
+        "output": "Trained teams and a clean starting point, with old assets out of circulation."
+      },
+      {
+        "title": "Governance setup",
+        "summary": "We help you set up the routine that keeps the playbook current and respected.",
+        "activities": [
+          "Defining the owner, approval flow and exception process",
+          "A change log and version numbering",
+          "A schedule for spot checks and updates",
+          "Optional quarterly reviews with us"
+        ],
+        "output": "A governance document and a review calendar."
+      }
+    ],
+    "deliverables": [
+      "Brand usage audit report",
+      "Web-based playbook and downloadable PDF",
+      "Quick-start pages for each audience",
+      "Editable templates for frequent jobs",
+      "Organized master asset library",
+      "AI usage and disclosure section",
+      "Training sessions and an onboarding module",
+      "Governance document with change log"
+    ],
+    "youProvide": [
+      "All current brand files, guidelines and templates",
+      "Names of the teams, agencies or partners who create materials, and time for short interviews",
+      "Recent examples of materials, good and bad",
+      "A named internal brand owner",
+      "Access to the tools or drives where the playbook and assets will live"
+    ],
+    "faqs": [
+      {
+        "q": "Can you build a playbook for a brand another agency designed?",
+        "a": "Yes. We work from your existing identity and document it, adding the rules, examples and templates that are missing. If the audit exposes gaps in the identity itself, such as no secondary logo or no imagery rules, we design those pieces with your approval."
+      },
+      {
+        "q": "Do we get editable files?",
+        "a": "Yes. Templates come in the tools your teams already use, and you own the playbook and every asset. The web version can be hosted on your own site or drive."
+      },
+      {
+        "q": "What if our brand changes after the playbook is done?",
+        "a": "The governance step sets up a process for updates. Your brand owner can make small changes; larger ones, such as a new product line or sub-brand, can be added with our help. If the change is fundamental, talk to our [rebranding](/rebranding) team first."
+      }
+    ]
+  },
+  "useCases": {
+    "eyebrow": "Brand playbook · Who it's for",
+    "title": "Brand playbook use cases: when consistency becomes a business problem",
+    "metaTitle": "Brand Playbook Use Cases for Growing Teams",
+    "metaDescription": "Illustrative scenarios where a brand playbook matters: franchises, hospital groups, D2C brands using freelancers, SaaS teams, developers and dealer networks.",
+    "lead": "A playbook earns its keep when other people start producing your brand: franchisees, dealers, freelancers, new hires and regional teams. These illustrative scenarios show what goes wrong without one, what we would build and how to tell it is working.",
+    "cases": [
+      {
+        "title": "A café chain opening franchise outlets",
+        "businessType": "Café franchise · Delhi NCR and Chandigarh",
+        "challenge": "The company-run cafés look and feel consistent because the founders oversee everything. New franchisees are already printing their own menus, posting their own offers and hiring their own signage vendors, and the brand is starting to drift.",
+        "approach": [
+          "Write a franchise section covering store signage, menu boards, uniforms and local social posts",
+          "Supply editable templates for local offers, festival posts and hiring notices",
+          "Set an approval route for anything outside the templates",
+          "Train franchise owners and their staff during onboarding"
+        ],
+        "measure": [
+          "Spot-check scores for each outlet's signage and social posts",
+          "Time taken to approve franchise requests",
+          "Off-template materials found each quarter"
+        ]
+      },
+      {
+        "title": "A hospital group with many departments",
+        "businessType": "Multi-specialty hospital group · Kochi",
+        "challenge": "Each department makes its own leaflets, posters and social posts, so materials range from carefully designed to clip-art. Every public communication also has to follow medical advertising rules.",
+        "approach": [
+          "Write patient-communication rules with plain-language guidance and accessibility minimums",
+          "Create leaflet, poster and educational social templates for departments",
+          "Add a checklist based on the National Medical Commission's 2026 advertising guidelines",
+          "Route new materials through a single communications reviewer"
+        ],
+        "measure": [
+          "Share of department materials produced from templates",
+          "Revision rounds needed before approval",
+          "Compliance issues caught at review rather than after publication"
+        ]
+      },
+      {
+        "title": "A D2C brand that relies on freelancers and AI drafts",
+        "businessType": "D2C home fragrance brand · Mumbai",
+        "challenge": "The brand works with a rotating group of freelance designers, photographers and writers, plus an AI-assisted content workflow. Each new freelancer takes weeks to learn the style, and AI drafts keep sliding toward generic language.",
+        "approach": [
+          "Create a freelancer quick-start covering voice, photography direction and product naming",
+          "Write a pasteable voice summary and prompt examples for AI drafting tools",
+          "Build a shared library of approved product shots and packaging files",
+          "Add a short checklist freelancers complete before submitting work"
+        ],
+        "measure": [
+          "Revision rounds per freelance brief",
+          "Time for a new freelancer to deliver approved work",
+          "Share of AI drafts accepted with light edits"
+        ]
+      },
+      {
+        "title": "A SaaS company whose product and marketing look different",
+        "businessType": "B2B SaaS company · Hyderabad",
+        "challenge": "The website, the product interface and the sales decks were built by different teams at different times. A customer moving from an ad to a demo to the app feels they are dealing with three companies.",
+        "approach": [
+          "Align product and marketing on one set of design tokens for color, type and spacing",
+          "Document voice for interface copy as well as marketing copy",
+          "Build deck and one-pager templates for the sales team",
+          "Set up a shared component library with our [UI/UX design](/ui-ux-design) team"
+        ],
+        "measure": [
+          "Consistency of color, type and voice across site, app and decks in a quarterly review",
+          "Time to produce new sales materials",
+          "Design and engineering hours spent on one-off styling"
+        ]
+      },
+      {
+        "title": "A real estate developer with several projects",
+        "businessType": "Residential developer · Bengaluru",
+        "challenge": "Each new project gets its own name and look from a different agency, and buyers rarely connect the projects to the developer. Hoardings, brochures and ads also leave out mandatory project details more often than the legal team would like.",
+        "approach": [
+          "Define a master-brand and project-brand system so each project keeps its character under a consistent developer endorsement",
+          "Create templates for hoardings, brochures, site offices and digital ads with mandatory details built into the layout",
+          "Write a briefing pack for the agencies that handle individual projects",
+          "Add a review step before any project creative is released"
+        ],
+        "measure": [
+          "Buyer awareness of the developer behind each project, from site-visit feedback",
+          "Errors or missing mandatory details found at review",
+          "Time needed to brief a new project agency"
+        ]
+      },
+      {
+        "title": "A manufacturer whose dealers make their own signage",
+        "businessType": "Pumps and motors manufacturer · Coimbatore",
+        "challenge": "Hundreds of dealers across South India display the brand on shop boards, vans and local newspaper ads. Most create materials locally, with stretched logos, wrong colors and old product photos.",
+        "approach": [
+          "Write a dealer section in English, Tamil, Kannada, Telugu and Malayalam with simple visual rules",
+          "Provide ready-made signboard, van and local ad templates in each language",
+          "Offer a request form so dealers can order co-branded materials centrally",
+          "Run short training sessions at dealer meets, as part of wider [B2B manufacturing](/industries/b2b-manufacturing) marketing"
+        ],
+        "measure": [
+          "Share of dealer signage that follows the templates in field audits",
+          "Requests submitted through the central form",
+          "Dealer feedback on how easy the materials are to use"
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "At what size does a business need a playbook?",
+        "a": "The trigger is rarely headcount. It is the number of people outside the core team who create materials. Once freelancers, franchisees, dealers or a second office are involved, rules that lived in the founder's head need writing down."
+      },
+      {
+        "q": "Can one playbook cover several brands or sub-brands?",
+        "a": "Yes. A master section holds the shared rules, and each brand or project gets its own section for what differs. The developer and manufacturer scenarios above both use this structure."
+      },
+      {
+        "q": "Where do we start if our brand is already inconsistent?",
+        "a": "With an audit of what is out there today, which shows the inconsistencies that matter most so the playbook fixes real problems first. See [how we build playbooks](/brand-playbook/process), or [contact us](/contact) to talk through your situation."
+      }
+    ]
+  }
+}

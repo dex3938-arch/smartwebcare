@@ -1,0 +1,170 @@
+{
+  "slug": "responsible-ai-marketing-checklist",
+  "category": "ai-automation",
+  "published": "2026-11-01",
+  "eyebrow": "AI & Automation",
+  "title": "A responsible AI marketing checklist: disclosure, consent, copyright and deepfake risk",
+  "metaTitle": "A Responsible AI Marketing Checklist for 2026",
+  "metaDescription": "A practical checklist for generative AI in marketing in India: ASCI labels, IT Rules on synthetic media, DPDP consent, copyright, likeness and fact-checking.",
+  "lead": "Generative AI now writes captions, builds ad visuals and clones voices in minutes, and in 2026 the rules caught up. India's IT Rules now require platforms to label synthetic media, ASCI has issued guidelines on when ads must carry an AI label, and data protection duties are phasing in. Run anything AI-made through this checklist before it goes public.",
+  "keyPoints": [
+    "Label AI content when it could change what a customer believes about your product; ASCI's guidelines exempt routine edits, background elements and obvious fantasy.",
+    "Never use AI to fake a testimonial or an endorsement, or to copy a real person's face or voice without consent; a label does not make that acceptable.",
+    "Customer data you feed into AI tools remains personal data under India's DPDP Act, so check consent, purpose and the tool's data terms first.",
+    "Who owns purely AI-generated output is unsettled in India, so keep meaningful human input and records of how each asset was made.",
+    "Fact-check every figure, claim and citation in an AI draft before it is published."
+  ],
+  "sections": [
+    {
+      "heading": "What changed in 2026",
+      "paragraphs": [
+        "Three legal and self-regulatory developments now shape how Indian brands can use generative AI in marketing, with each platform's own rules layered on top (see checklist 3):"
+      ],
+      "bullets": [
+        "**IT Rules amendment (February 2026).** MeitY notified changes to the Intermediary Guidelines on February 10, 2026, in force from February 20. Platforms must label synthetically generated audio, images and video, and large social media platforms must ask users to declare whether their content is synthetic.",
+        "**ASCI guidelines on synthetic content in ads (September 2026).** These set out when an advertiser must label AI-generated material, and they take effect three months after publication.",
+        "**DPDP Rules (November 2025).** The Rules under India's data protection law are phasing in, with most obligations on businesses scheduled for 2027."
+      ]
+    },
+    {
+      "heading": "Checklist 1: decide whether a label is needed",
+      "paragraphs": [
+        "ASCI asks advertisers three questions. Is the synthetic content central to the ad's persuasion or likely to influence a purchase? Would it mislead about the product's claims, performance or benefits if left unlabeled? Would the absence of a disclosure create a false impression? If any answer is yes, label it.",
+        "No label is needed for minor enhancements such as color correction and blemish removal, decorative backgrounds and ambient music, obviously fantastical effects, AI-assisted copywriting or accessibility features such as captions and translations. Platform-provided labels and your own wording, such as “Video created using AI”, are both acceptable. For influencer posts, pair this with the paid-partnership rules in our [creator disclosure guide](/insights/creator-partnerships-asci-disclosure).",
+        "The guidelines list cases where a label is mandatory:"
+      ],
+      "bullets": [
+        "Synthetic influencers or brand ambassadors.",
+        "A real person's face or voice replicated for personalized messages, even with their consent.",
+        "Fabricated events or settings that could affect how people understand the product.",
+        "Products that don't exist yet, such as a 3D render of an unbuilt housing project.",
+        "Synthetic sound tied to a core feature, such as audio quality in a headphone ad.",
+        "Paid product suggestions made by an AI assistant, which must say “Sponsored by [Brand]”."
+      ]
+    },
+    {
+      "heading": "Checklist 2: know what no label can fix",
+      "paragraphs": [
+        "ASCI is explicit that some uses breach its code even when they carry an AI label. Check every asset against this list:"
+      ],
+      "bullets": [
+        "Fabricated testimonials or endorsements implying that a real person used or recommended your product.",
+        "Exaggerated results, such as an AI before-and-after image that a weight-loss product cannot substantiate.",
+        "Places or facilities shown as real when they don't exist, a particular risk for travel and hospitality brands.",
+        "Unauthorized copyrighted work, deepfakes or anyone's likeness used without consent."
+      ]
+    },
+    {
+      "heading": "Checklist 3: follow each platform's rules",
+      "paragraphs": [
+        "Platform policies change more often than law, so recheck them before each major campaign. As of late 2026:"
+      ],
+      "bullets": [
+        "**Meta:** ads created or significantly edited with Meta's generative tools get an “AI info” label, and ads featuring an AI-generated photorealistic person show it next to “Sponsored”. Meta says it also detects third-party AI edits through industry-standard signals.",
+        "**YouTube:** creators must use the “Altered content” disclosure in YouTube Studio when realistic content shows a real person saying or doing something they didn't, alters real events or places, or creates a realistic scene that never happened. Beauty filters, AI-drafted scripts and clearly unrealistic effects don't need it, but repeated non-disclosure can lead to penalties.",
+        "**Large platforms in India:** under the amended IT Rules, expect upload flows to ask whether content is synthetic. Answer truthfully, because a false declaration is a policy breach in itself."
+      ]
+    },
+    {
+      "heading": "Checklist 4: personal data and consent",
+      "paragraphs": [
+        "Personalized AI campaigns run on customer data, and that data does not stop being personal because a model processes it. The DPDP Act requires consent to be specific and withdrawable, and the Rules add notice, security and breach-reporting duties as they come into force. Before uploading a customer list, chat export or call recording to an AI tool, confirm:"
+      ],
+      "bullets": [
+        "Customers were told their data would be used for this kind of marketing.",
+        "The tool's business terms say your inputs are not used to train its public models.",
+        "You know where the data is stored and how long the vendor keeps it.",
+        "You can delete a person's data from your systems and the tool when they withdraw consent."
+      ]
+    },
+    {
+      "heading": "Checklist 5: copyright and ownership",
+      "paragraphs": [
+        "Two separate questions apply. The first is whether AI companies may train on copyrighted work: in December 2025 a DPIIT committee published a working paper proposing a mandatory blanket license with royalties for training, which remains a proposal. The second, more pressing for marketers, is who owns what the tool produces.",
+        "Indian law has not settled whether purely machine-generated content can be protected. In the US, the Copyright Office concluded in a January 2025 report that prompts alone do not give a user enough control to count as the author. Until the position is clearer:"
+      ],
+      "bullets": [
+        "Add meaningful human creative input: your own photography, edits, layouts and copy.",
+        "Use tools whose terms allow commercial use, and keep a copy of those terms.",
+        "Avoid prompts that imitate a named living artist, a competitor's campaign or a recognizable character.",
+        "Keep a simple record of the tool, the date and the human edits for each important asset."
+      ]
+    },
+    {
+      "heading": "Checklist 6: likeness, voice and deepfake risk",
+      "paragraphs": [
+        "Synthetic voices and faces are the fastest way for a small brand to get into serious trouble. Indian courts have repeatedly protected well-known people's personality rights against unauthorized commercial use, and AI imitation is no exception. Before you replicate anyone:"
+      ],
+      "bullets": [
+        "Get written consent from any employee, founder, model or creator whose face or voice you replicate, covering channels, duration and the right to withdraw.",
+        "Never imitate a celebrity, politician or other public figure, even as a joke.",
+        "Label personalized messages that use a replicated voice or face, as ASCI requires.",
+        "Store voice clones and face models securely, and delete them when the agreement ends."
+      ]
+    },
+    {
+      "heading": "Checklist 7: fact-check before publishing",
+      "paragraphs": [
+        "AI drafts are persuasive precisely where they are least reliable. Assign a named reviewer for every piece and have them:"
+      ],
+      "bullets": [
+        "Trace every statistic to a primary source, and delete any they cannot find.",
+        "Check product claims against the evidence your legal or quality team holds.",
+        "Verify names, dates, prices and offer terms against current internal documents.",
+        "Ask a native speaker to review AI translations, especially in Hindi and regional languages.",
+        "Watch for invented quotes, studies and links, which AI drafts produce convincingly."
+      ]
+    },
+    {
+      "heading": "Put it on one page",
+      "paragraphs": [
+        "A short written AI policy prevents most problems: which tools are approved, what data may go into them, who signs off AI-made assets, when to label and where records are kept. Make it part of your [brand playbook](/brand-playbook) so agencies and freelancers follow it too.",
+        "Weighing where AI should sit alongside human creative work? Our comparison of [AI and human marketing](/compare/ai-vs-human-marketing) covers the trade-offs, or [contact us](/contact) to review your current process."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do we need to label every image made with AI?",
+      "a": "No. Under ASCI's guidelines, a label is needed when synthetic content could influence a purchase decision and would mislead without disclosure. Routine edits, decorative backgrounds, obvious fantasy and AI-written copy do not need one, although platforms may still apply their own labels."
+    },
+    {
+      "q": "Can we use an AI version of our founder's voice in ads?",
+      "a": "Yes, with the founder's documented consent and a clear label wherever the cloned voice could influence purchase decisions. ASCI specifically lists replicated voices in personalized messages as needing disclosure even when the person has agreed."
+    },
+    {
+      "q": "Who owns copyright in AI-generated marketing content in India?",
+      "a": "The law has not settled it. Work with substantial human creative input stands on firmer ground than content generated from a prompt alone, so keep people involved and keep records of their contribution."
+    },
+    {
+      "q": "Does the DPDP Act stop us using AI for personalization?",
+      "a": "No, but it requires lawful handling: clear notice, consent for the stated purpose, security and deletion on request. Check that your AI vendor's terms match those duties before uploading customer data."
+    }
+  ],
+  "sources": [
+    {
+      "label": "ASCI — Guidelines for Responsible Labelling of Synthetically Generated Content in Advertising (September 2026, published text)",
+      "url": "https://foxmandal.in/wp-content/uploads/2026/09/Guidelines-for-Responsible-Labelling-of-Synthetically-Generated-Content-in-Advertising.pdf"
+    },
+    {
+      "label": "Hogan Lovells — India's IT Rules amendment on labeling AI content (February 2026)",
+      "url": "https://www.hlc.com/en/publications/india-introduces-mandatory-labelling-for-ai-and-3hour-takedown-for-illegal-content"
+    },
+    {
+      "label": "Meta — Expanding GenAI transparency for Meta's ads products",
+      "url": "https://about.fb.com/news/2025/02/gen-ai-transparency-metas-ads-products/"
+    },
+    {
+      "label": "YouTube Help — Disclosing use of altered or synthetic content",
+      "url": "https://support.google.com/youtube/answer/14328491"
+    },
+    {
+      "label": "US Copyright Office — Copyright and Artificial Intelligence",
+      "url": "https://www.copyright.gov/ai/"
+    },
+    {
+      "label": "MeitY — DPDP Rules, 2025 and their phased commencement",
+      "url": "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf"
+    }
+  ]
+}

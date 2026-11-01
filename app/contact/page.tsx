@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { ExploreCarousel } from "@/components/sections/explore-carousel";
 import Link from "next/link";
 import { ArrowUpRight, CalendarDays, Clock, Mail, MapPin, MessageCircle, Phone } from "lucide-react";
 import { Breadcrumbs } from "@/components/seo/breadcrumbs";
@@ -23,6 +24,7 @@ export const metadata = buildMetadata({
 export default function ContactPage() {
   const services = getServices().map((s) => ({ slug: s.slug, title: s.title }));
   return (
+    <>
     <section className="relative isolate overflow-hidden pb-24 pt-28 md:pb-32 md:pt-36" aria-labelledby="contact-title">
       <div aria-hidden className="grid-bg absolute inset-0 -z-10" />
       <div aria-hidden className="aurora absolute inset-0 -z-10" />
@@ -177,5 +179,7 @@ export default function ContactPage() {
       </div>
       </div>
     </section>
+    <ExploreCarousel section="contact" title="Before you get in touch" />
+    </>
   );
 }

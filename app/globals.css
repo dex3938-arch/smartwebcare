@@ -178,10 +178,11 @@
 
 @layer components {
   .container-wide {
+    --gutter: clamp(1rem, 4vw, 2.75rem);
     width: 100%;
     max-width: var(--width-content);
     margin-inline: auto;
-    padding-inline: clamp(1rem, 4vw, 2.75rem);
+    padding-inline: var(--gutter);
   }
 
   .container-reading {
@@ -748,5 +749,137 @@
 @media (max-width: 767.98px) {
   body {
     padding-bottom: calc(4rem + env(safe-area-inset-bottom));
+  }
+}
+
+/* ═══════════════════════ Carousel (components/motion/carousel.tsx) ═══════════════════════ */
+.carousel-track {
+  scrollbar-width: none;
+  overscroll-behavior-x: contain;
+  scroll-padding-inline: var(--gutter, 1rem);
+}
+.carousel-track::-webkit-scrollbar {
+  display: none;
+}
+/* Cinematic depth: slides ease in from the edges as they scroll into the frame. */
+@supports (animation-timeline: view()) {
+  @media (prefers-reduced-motion: no-preference) {
+    .carousel-slide {
+      animation: carousel-depth linear both;
+      animation-timeline: view(inline);
+      animation-range: cover 0% cover 100%;
+    }
+  }
+}
+/* Scale only — no fade, so text on every slide keeps full contrast. */
+@keyframes carousel-depth {
+  0% {
+    transform: scale(0.92) translateY(6px);
+  }
+  22%,
+  78% {
+    transform: none;
+  }
+  100% {
+    transform: scale(0.92) translateY(6px);
+  }
+}
+
+/* Reading progress bar + step timeline (components/motion/*). */
+.timeline-rail {
+  background: linear-gradient(to bottom, var(--color-accent), var(--color-cyan));
+  transform-origin: top;
+}
+
+/* ═══════════════════════ Ring carousel (components/motion/ring-carousel.tsx) ═══════════════════════ */
+.ring-stage {
+  perspective: 1900px;
+  perspective-origin: 50% 32%;
+  touch-action: pan-y;
+  cursor: grab;
+}
+.ring-stage:active {
+  cursor: grabbing;
+}
+.ring-track {
+  transform-style: preserve-3d;
+}
+.ring-card {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  user-select: none;
+}
+.ring-card a {
+  -webkit-user-drag: none;
+}
+
+/* ═══════════════════════ Location maps (components/layout/location-maps.tsx) ═══════════════════════ */
+.map-pin-ring {
+  animation: map-pulse 2.4s var(--ease-out-expo) infinite;
+}
+.map-arc {
+  stroke-dasharray: 1;
+  stroke-dashoffset: 1;
+  animation: map-arc-draw 6s var(--ease-in-out-soft) infinite;
+}
+.map-scan {
+  transform-box: fill-box;
+  animation: map-scan 7s linear infinite;
+}
+@keyframes map-pulse {
+  0% {
+    transform: scale(0.6);
+    opacity: 0.9;
+  }
+  100% {
+    transform: scale(2.6);
+    opacity: 0;
+  }
+}
+@keyframes map-arc-draw {
+  0% {
+    stroke-dashoffset: 1;
+    opacity: 1;
+  }
+  35%,
+  80% {
+    stroke-dashoffset: 0;
+    opacity: 1;
+  }
+  100% {
+    stroke-dashoffset: 0;
+    opacity: 0;
+  }
+}
+@keyframes map-scan {
+  from {
+    transform: translateX(-10%);
+  }
+  to {
+    transform: translateX(1000%);
+  }
+}
+/* Hovering a city chip highlights its flight line. */
+.world-card:has([data-arc="0"]:is(:hover, :focus-visible)) .map-arc-0,
+.world-card:has([data-arc="1"]:is(:hover, :focus-visible)) .map-arc-1,
+.world-card:has([data-arc="2"]:is(:hover, :focus-visible)) .map-arc-2,
+.world-card:has([data-arc="3"]:is(:hover, :focus-visible)) .map-arc-3,
+.world-card:has([data-arc="4"]:is(:hover, :focus-visible)) .map-arc-4 {
+  stroke: #67e8f9;
+  stroke-width: 2.6;
+  animation: none;
+  stroke-dashoffset: 0;
+  opacity: 1;
+}
+@media (prefers-reduced-motion: reduce) {
+  .map-pin-ring,
+  .map-scan,
+  .map-runner {
+    animation: none;
+    display: none;
+  }
+  .map-arc {
+    animation: none;
+    stroke-dashoffset: 0;
   }
 }

@@ -1,0 +1,337 @@
+{
+  "slug": "linkedin-ads-lead-generation",
+  "guide": {
+    "eyebrow": "LinkedIn Ads · 2026 guide",
+    "title": "LinkedIn Ads for B2B lead generation: a practical 2026 guide",
+    "metaTitle": "LinkedIn Ads Lead Generation Guide (2026)",
+    "metaDescription": "How LinkedIn Ads work for B2B leads in 2026: objectives, formats, targeting, Lead Gen Forms, Conversions API tracking and the mistakes that waste budget.",
+    "lead": "LinkedIn Ads let you pay to reach people by job, seniority, company and industry, which few other platforms can do reliably. This guide covers how campaigns are built, which formats and audiences suit lead generation, how to track leads through to revenue and where budgets usually go wrong.",
+    "sections": [
+      {
+        "heading": "When LinkedIn Ads are the right tool",
+        "paragraphs": [
+          "LinkedIn advertising earns its keep when a single customer is worth a lot, buyers can be described by role and company, and a sales team is ready to follow up. Enterprise software, professional services, industrial equipment, executive education and B2B financial products tend to fit. Low-priced consumer products rarely do, because a click on LinkedIn usually costs more than one on consumer-focused platforms.",
+          "Paid campaigns work differently from organic LinkedIn. Organic posts build a reputation over months; ads put a chosen message in front of a chosen audience this week. Many companies run both, using organic posts to discover messages that resonate and ads to scale them. Our [organic LinkedIn marketing](/linkedin-marketing) service covers the unpaid side."
+        ]
+      },
+      {
+        "heading": "How campaigns are structured",
+        "paragraphs": [
+          "In Campaign Manager every campaign starts with an objective, grouped under awareness, consideration and conversions. For lead generation the usual choices are the Lead Generation objective, which uses LinkedIn's own forms, and Website Conversions, which sends people to your landing page and optimizes for actions tracked there. Campaigns sit inside campaign groups, which makes it easier to manage budgets by funnel stage or product line.",
+          "LinkedIn also offers Accelerate, an AI-assisted way of building campaigns that suggests targeting and ad copy from your objective and website. It can save setup time, but check the audience it proposes against your ideal customer profile before you launch."
+        ]
+      },
+      {
+        "heading": "Ad formats that suit lead generation",
+        "paragraphs": [
+          "Most lead programs use a handful of formats, each with a distinct role:"
+        ],
+        "bullets": [
+          "**Single image and video ads** in the feed, the workhorses of most campaigns.",
+          "**Document ads**, which let people read a PDF guide or report in the feed, either freely or gated behind a Lead Gen Form after a preview.",
+          "**Carousel ads** for walking through several features, use cases or proof points in sequence.",
+          "**Thought Leader Ads**, which sponsor a post written by a person (an employee, or since 2024 any member who gives permission), so the ad reads as a human voice rather than a brand. Our piece on [founder thought leadership](/insights/linkedin-thought-leadership-founders) explains why those voices carry weight.",
+          "**Conversation Ads**, delivered in LinkedIn messaging, with up to five buttons that let the reader choose a path, such as booking a demo or downloading a guide.",
+          "**Event Ads**, which drive registrations for a LinkedIn Event and suit webinars and launches."
+        ]
+      },
+      {
+        "heading": "Targeting that matches your ideal customer",
+        "paragraphs": [
+          "LinkedIn targeting draws on what members and companies list on the platform: job function, seniority, job title, skills, company industry, company size, location and more. The most accurate campaigns combine a few of these, for example finance function plus director-level seniority plus companies of 200 to 2,000 employees in India, rather than piling on every option available.",
+          "Matched audiences add your own data. You can upload a list of target companies for account-based marketing or a contact list from your CRM, and you can retarget people who visited your website, watched your video ads or opened a Lead Gen Form. LinkedIn retired lookalike audiences in February 2024 and now points advertisers to Predictive Audiences, which build a new audience from a source such as past leads or conversions.",
+          "Exclusions matter as much as inclusions. Remove existing customers, your own employees, competitors and, where relevant, students and job seekers. Check whether audience expansion and off-LinkedIn placements suit each campaign before leaving them switched on."
+        ]
+      },
+      {
+        "heading": "Offers, creative and forms",
+        "paragraphs": [
+          "Match the offer to how warm the audience is. Cold audiences respond to something useful that asks for little commitment, such as a benchmark report, a checklist or a short video. People who have engaged before are ready for a webinar or a product trial. Only your warmest audiences, such as recent website visitors from target accounts, should see a straight request to book a demo.",
+          "Lead Gen Forms prefill details from a member's profile, which makes them quick to complete and often brings in more leads than a landing page; the trade-off is that some people submit with little real intent. Add one or two qualifying questions, such as team size or buying timeline, and push leads into your CRM instantly so sales can follow up the same day. Landing pages give you more room to explain and qualify, at the cost of a little more friction."
+        ]
+      },
+      {
+        "heading": "Tracking leads all the way to revenue",
+        "paragraphs": [
+          "The LinkedIn Insight Tag tracks actions on your website and builds retargeting audiences. The Conversions API sends events from your server or CRM back to LinkedIn, such as a qualified lead, a booked meeting or a closed deal, including actions that happen offline, and it works alongside the Insight Tag. That lets LinkedIn optimize toward the leads that become pipeline rather than every form fill.",
+          "Judge campaigns on cost per qualified lead and pipeline created, not cost per lead alone. A campaign that produces fewer leads at a higher cost can still be the better investment if those leads turn into meetings. Our free [marketing ROI calculator](/tools/marketing-roi-calculator) helps you work out what a lead is worth to your business."
+        ]
+      },
+      {
+        "heading": "Mistakes that waste LinkedIn budgets",
+        "paragraphs": [
+          "The same errors appear in most accounts we audit:"
+        ],
+        "bullets": [
+          "Targeting so broadly that most impressions go to people who will never buy.",
+          "Sending every audience, however cold, straight to a demo request.",
+          "Running one ad for months until the audience has stopped noticing it.",
+          "Leaving leads sitting in Campaign Manager for days instead of syncing them to sales.",
+          "Optimizing for the cheapest leads without checking which ones sales accepts.",
+          "Writing off the channel after two weeks, before campaigns have gathered enough data."
+        ]
+      },
+      {
+        "heading": "Budgets and timelines",
+        "paragraphs": [
+          "LinkedIn runs an auction, so costs depend on the audience, the competition for it and how relevant your ads are. Narrow, senior audiences generally cost more to reach. Rather than chasing a benchmark price, set a test budget that lets each audience and creative gather enough results to compare, and allow several weeks of learning before you scale.",
+          "Expect the first month to focus on setup and learning, and the next two on cutting what doesn't work and backing what does. Deals with long sales cycles may take a quarter or more to show up as revenue, which is why tracking qualified leads and meetings matters in the meantime."
+        ]
+      }
+    ],
+    "takeaways": [
+      "LinkedIn Ads suit high-value B2B offers where buyers can be defined by role and company.",
+      "Document ads, Thought Leader Ads and Conversation Ads give lead campaigns more range than a standard image ad.",
+      "Combine a few targeting attributes, add matched audiences and always set exclusions.",
+      "Lead Gen Forms bring volume, while qualifying questions and instant CRM sync protect quality.",
+      "The Conversions API lets LinkedIn learn from qualified leads and closed deals, not just form fills.",
+      "Judge campaigns on qualified leads and pipeline, over months rather than weeks."
+    ],
+    "faqs": [
+      {
+        "q": "What is a Thought Leader Ad?",
+        "a": "It is a sponsored version of a post written by a person rather than your company page. The author, whether an employee or another LinkedIn member, approves the sponsorship and the post runs as written, which often feels more credible than a brand ad."
+      },
+      {
+        "q": "Should we use Lead Gen Forms or our own landing page?",
+        "a": "Test both if you can. Forms are faster and usually bring more leads, while landing pages filter harder and explain more. The right choice depends on how much qualifying your sales team needs before a first call."
+      },
+      {
+        "q": "Do LinkedIn Ads work for Indian companies selling abroad?",
+        "a": "They can. Location targeting covers countries, regions and cities, so an Indian firm can reach buyers in the UK, the US or the Gulf. Plan follow-up around the buyer's working hours, so each lead hears from you while their interest is still fresh."
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "LinkedIn Ads · How we deliver",
+    "title": "How we run LinkedIn Ads campaigns that sales teams trust",
+    "metaTitle": "Our LinkedIn Ads Management Process",
+    "metaDescription": "How SmartWebCare plans, tracks, builds, tests and reports LinkedIn Ads lead generation campaigns, with the deliverables and what we need from your team.",
+    "lead": "Our LinkedIn Ads work is built around one question: did sales want the lead? Every step below, from tracking setup to the weekly lead review, exists to answer it.",
+    "steps": [
+      {
+        "title": "ICP and offer workshop",
+        "summary": "We agree who we are targeting, what we are offering them and what a qualified lead means to your sales team.",
+        "activities": [
+          "Define target industries, company sizes, regions and buying roles",
+          "Write down a qualified-lead definition with your sales team",
+          "Work out what a qualified lead is worth from your deal size and close rates, using our [ROI calculator](/tools/marketing-roi-calculator) if helpful",
+          "Review past LinkedIn or other paid campaigns for lessons"
+        ],
+        "output": "A campaign plan and a qualified-lead definition that marketing and sales have both signed off."
+      },
+      {
+        "title": "Account and tracking setup",
+        "summary": "Before any money is spent, we make sure every lead and conversion will be recorded correctly.",
+        "activities": [
+          "Set up or audit Campaign Manager access, billing ownership and page permissions",
+          "Install the Insight Tag and define conversion events",
+          "Connect Lead Gen Forms and the Conversions API to your CRM, directly or through a partner tool",
+          "Submit test leads to confirm the data reaches sales correctly"
+        ],
+        "output": "Verified tracking, with a test lead visible in your CRM."
+      },
+      {
+        "title": "Audience build",
+        "summary": "We build layered audiences from LinkedIn's targeting and your own data.",
+        "activities": [
+          "Create audiences by function, seniority, company size and industry",
+          "Upload target-account and customer lists as matched audiences",
+          "Set up retargeting audiences from website visitors, video viewers and form openers",
+          "Add exclusions for customers, employees, competitors and job seekers"
+        ],
+        "output": "An audience map showing each segment, its size and the funnel stage it serves."
+      },
+      {
+        "title": "Offers, creative and forms",
+        "summary": "We produce ads and offers for each audience and stage instead of one ad for everyone.",
+        "activities": [
+          "Write copy variants for each buying role",
+          "Design image, carousel and document ads, and cut video where you have footage",
+          "Arrange Thought Leader Ads with the approval of the leaders whose posts we sponsor",
+          "Build Lead Gen Forms with one or two qualifying questions"
+        ],
+        "output": "An approved creative set and forms ready to launch."
+      },
+      {
+        "title": "Launch and structured testing",
+        "summary": "We launch in a controlled way and change one thing at a time so the results can be read clearly.",
+        "activities": [
+          "Organize campaign groups by funnel stage and product",
+          "Test one variable per round: audience, offer, format or message",
+          "Check pacing, frequency and placements daily for the first two weeks"
+        ],
+        "output": "A test log recording each change, the reason for it and its outcome."
+      },
+      {
+        "title": "Lead quality loop",
+        "summary": "Each week we review new leads with your sales team and feed what we learn back into the campaigns.",
+        "activities": [
+          "Mark each lead as qualified or not, with a reason",
+          "Send qualified outcomes back to LinkedIn through the Conversions API",
+          "Pause audiences and ads that produce poor leads and move budget to those that don't",
+          "Refresh creative before frequency climbs too high"
+        ],
+        "output": "A weekly lead-quality sheet and a record of the campaign changes made."
+      },
+      {
+        "title": "Monthly pipeline reporting",
+        "summary": "We report in the terms your leadership team cares about.",
+        "activities": [
+          "Report cost per qualified lead, meetings booked and pipeline created",
+          "Show engagement from target accounts",
+          "Recommend next month's budget split and tests, plus winning messages worth reusing in [organic LinkedIn posts](/linkedin-marketing)"
+        ],
+        "output": "A monthly report with clear, prioritized recommendations."
+      }
+    ],
+    "deliverables": [
+      "Campaign plan with a qualified-lead definition",
+      "Tracking setup covering the Insight Tag, conversion events and CRM connection",
+      "Audience map with matched audiences and exclusions",
+      "Ad copy, designs and document ads for each funnel stage",
+      "Lead Gen Forms with qualifying questions",
+      "Weekly lead-quality sheet",
+      "Monthly pipeline report and test log"
+    ],
+    "youProvide": [
+      "Access to your Campaign Manager ad account and LinkedIn page, with ad spend billed to your own payment method",
+      "CRM access, or a contact who can connect it",
+      "Customer and target-account lists for matching and exclusions",
+      "A sales contact who reviews leads weekly and follows up quickly",
+      "Approval from any leaders whose posts we sponsor as Thought Leader Ads"
+    ],
+    "faqs": [
+      {
+        "q": "Who owns the ad account and the data?",
+        "a": "You do. Campaigns run in your own Campaign Manager account, ad spend is billed to your payment method, and the audiences, leads and campaign history stay with you if we ever stop working together."
+      },
+      {
+        "q": "How soon will we see leads?",
+        "a": "Lead Gen Form campaigns usually produce their first leads soon after launch, but the first few weeks are about learning which audiences and offers bring qualified ones. We judge results over a few months, and longer if your sales cycle is long."
+      },
+      {
+        "q": "What do you need from our sales team?",
+        "a": "A short weekly review of new leads and quick follow-up. Their verdict on which leads were real opportunities is what lets us sharpen targeting; without it, campaigns can only optimize for form fills. To scope a campaign, [book a consultation](/book-consultation)."
+      }
+    ]
+  },
+  "useCases": {
+    "eyebrow": "LinkedIn Ads · Use cases",
+    "title": "LinkedIn Ads use cases: six B2B lead generation scenarios",
+    "metaTitle": "LinkedIn Ads Use Cases for B2B Lead Generation",
+    "metaDescription": "Illustrative LinkedIn Ads scenarios for HR-tech SaaS, an automation maker, B2B fintech, executive education, IT services abroad and a coworking operator.",
+    "lead": "LinkedIn Ads work best when you can name the roles and companies you want to reach. These six scenarios are illustrative, not client results, and show how targeting, offers and measures change with the business.",
+    "cases": [
+      {
+        "title": "Cutting the cost of qualified demos for HR software",
+        "businessType": "HR-tech SaaS · Bengaluru",
+        "challenge": "Search ads bring demo requests from very small businesses and students, while the product is built for HR heads at companies with a few hundred to a few thousand employees.",
+        "approach": [
+          "Target the HR function at manager level and above, within the right company-size band",
+          "Lead with a document ad, such as a practical salary-benchmarking or policy guide, gated by a short form",
+          "Retarget people who opened the document with a demo offer and a founder's Thought Leader Ad",
+          "Sync leads to the CRM and send qualified ones back through the Conversions API"
+        ],
+        "measure": [
+          "Cost per sales-qualified lead",
+          "Demos that become opportunities",
+          "Pipeline value from LinkedIn-sourced leads"
+        ]
+      },
+      {
+        "title": "Reaching plant heads for an industrial automation maker",
+        "businessType": "Industrial automation · Pune",
+        "challenge": "Sales depends on trade shows and distributor referrals, and the company struggles to get in front of plant and maintenance heads between events.",
+        "approach": [
+          "Upload a list of target manufacturing companies as a company audience",
+          "Video ads showing the equipment running on a real production line",
+          "Conversation Ads inviting engineers to a factory demo or a technical call",
+          "Event Ads ahead of trade shows to book meetings at the booth"
+        ],
+        "measure": [
+          "Engagement from target accounts",
+          "Meetings and factory visits booked",
+          "Requests for quotation that began with LinkedIn"
+        ]
+      },
+      {
+        "title": "Filling a CFO webinar for a B2B payments company",
+        "businessType": "B2B payments platform · Mumbai",
+        "challenge": "The company runs useful webinars on working capital and payments compliance, but registrations come mostly from junior staff who cannot make buying decisions.",
+        "approach": [
+          "Event Ads targeted to finance leaders by title and seniority at mid-size and large companies",
+          "Copy that names the specific problem the session solves",
+          "Retargeting attendees afterwards with a short consultation offer",
+          "Every claim in the ads reviewed for financial accuracy"
+        ],
+        "measure": [
+          "Registrations by seniority",
+          "Attendance from target companies",
+          "Consultations booked after the webinar"
+        ]
+      },
+      {
+        "title": "Finding serious applicants for an executive program",
+        "businessType": "Executive education · Hyderabad",
+        "challenge": "An executive management program gets plenty of enquiries, but many come from people without the work experience it requires.",
+        "approach": [
+          "Target by seniority, years of experience and relevant job functions",
+          "Lead Gen Forms that ask about experience and preferred start date",
+          "Video testimonials from alumni, used with their consent",
+          "Separate campaigns for working professionals in India and in the Gulf"
+        ],
+        "measure": [
+          "Leads a counselor marks as qualified",
+          "Application starts and completions",
+          "Cost per completed application"
+        ]
+      },
+      {
+        "title": "Booking meetings abroad for an IT services firm",
+        "businessType": "IT services · Noida",
+        "challenge": "The firm wants mid-market clients in the UK and the US, but its outbound emails get lost and its name means nothing in those markets.",
+        "approach": [
+          "Account lists of target companies in chosen sectors and regions",
+          "Document ads explaining how the firm runs delivery across time zones",
+          "Thought Leader Ads from the delivery head on real engineering challenges",
+          "Lead routing to a sales rep who works in the buyer's time zone"
+        ],
+        "measure": [
+          "Meetings booked with target accounts",
+          "CRM opportunities with LinkedIn as a source",
+          "Time from lead to first conversation"
+        ]
+      },
+      {
+        "title": "Attracting company enquiries for a coworking operator",
+        "businessType": "Coworking spaces · Bengaluru",
+        "challenge": "Ads on consumer platforms bring enquiries from individuals looking for a single desk, while the business wants teams that need private offices.",
+        "approach": [
+          "Target founders and operations or administration heads at growing companies",
+          "Lead Gen Forms that ask for team size and move-in timing",
+          "Carousel ads showing private offices, meeting rooms and the location's advantages"
+        ],
+        "measure": [
+          "Tours booked by companies",
+          "Leads that match the target team size",
+          "Seats contracted from LinkedIn leads"
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Are LinkedIn Ads worth it for a small B2B company?",
+        "a": "They can be, if a single deal is valuable enough to absorb higher click costs and you can define your buyers precisely. If not, start with [organic LinkedIn marketing](/linkedin-marketing) and search ads, and add LinkedIn Ads once you have a proven offer."
+      },
+      {
+        "q": "Can LinkedIn Ads help with hiring as well as sales?",
+        "a": "LinkedIn has recruitment-focused objectives and products, and they are planned differently from lead generation. Our focus here is pipeline, though employer-brand content can sit alongside it in your organic plan."
+      },
+      {
+        "q": "How do LinkedIn Ads compare with Google Ads for B2B?",
+        "a": "Google captures people who are already searching for a solution, while LinkedIn reaches the right roles before they search. Many B2B companies use both, and our [performance marketing](/performance-marketing) team plans search and social budgets together."
+      }
+    ]
+  }
+}

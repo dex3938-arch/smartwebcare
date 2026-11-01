@@ -1,0 +1,330 @@
+{
+  "slug": "performance-marketing",
+  "guide": {
+    "eyebrow": "Performance marketing · 2026 guide",
+    "title": "Performance marketing in 2026: how paid ads actually work now",
+    "metaTitle": "Performance Marketing Guide for 2026",
+    "metaDescription": "How Google and Meta ads work in late 2026: AI Max, Performance Max, Advantage+, consent-aware tracking, budgets, testing and the numbers that matter.",
+    "lead": "Performance marketing is paid advertising judged by what it causes: enquiries, orders, booked calls, signed deals. In late 2026 Google and Meta handle most of the targeting themselves, so the advertisers who win are the ones who feed those systems better data, sharper offers and more varied creative.",
+    "sections": [
+      {
+        "heading": "What performance marketing is, and what it isn't",
+        "paragraphs": [
+          "The defining feature isn't the ad format or the platform. It's the agreement that every rupee answers to an outcome the business cares about, tracked as close to revenue as your systems allow. A Reel, a search ad and a YouTube pre-roll can all be performance media if they're bought and judged that way.",
+          "It isn't the opposite of brand building. People who already recognize your name click and convert more readily, which is why accounts that cut every awareness activity often watch acquisition costs creep up a few months later. If you're weighing the two approaches, our [comparison of social media marketing and performance marketing](/compare/smm-vs-performance) sets out where each fits.",
+          "The figure that anchors everything is what a customer is worth to you. Without a working estimate of margin and repeat purchase, no cost per acquisition is good or bad. It's just a number on a dashboard."
+        ]
+      },
+      {
+        "heading": "How the big ad platforms work in late 2026",
+        "paragraphs": [
+          "On Google, Search campaigns can now switch on **AI Max**, a set of features inside an existing Search campaign rather than a separate campaign type. It combines search term matching (broad match plus keywordless matching), text customization that writes headlines from your landing pages and existing ads, and final URL expansion, which can send a click to a more relevant page on your site. You keep controls such as brand inclusions and exclusions, URL exclusions and locations of interest, and the search terms report labels which matches came from AI Max.",
+          "**Performance Max** buys Search, Shopping, YouTube, Display, Gmail and Maps inventory from one campaign. It was long criticized as a black box; since 2025 Google has added channel-level performance reporting, a full search terms report and campaign-level negative keywords, which apply to its Search and Shopping inventory.",
+          "On Meta, the Advantage+ campaign setup now covers the Sales, Leads and App objectives, and Advantage+ shopping campaigns have become Advantage+ sales campaigns. Audiences are broad by default. Meta's delivery system decides which of your ads each person sees, so a set of genuinely different creative concepts gives it more to match against than a dozen near-identical variations."
+        ]
+      },
+      {
+        "heading": "Your data is now the targeting",
+        "paragraphs": [
+          "When the platform chooses the audience, the conversion signal you send back decides who it looks for next. Optimize a lead campaign for raw form fills and it will find people who like filling in forms. Feed it the leads your sales team marked qualified, or purchases with their real order value, and it starts hunting for those instead.",
+          "That calls for server-side and first-party measurement: enhanced conversions on Google, the Conversions API on Meta and regular offline conversion imports from your CRM. Browser-only pixels miss a growing share of activity because of ad blockers, cookie limits and consent choices.",
+          "Consent belongs in the build, not in a later patch. For visitors in the EEA and UK, Google has expected consent signals through Consent Mode v2 since March 2024 before their data is used for ad measurement and personalization. India's DPDP Rules, published in November 2025, switch on in stages: the consent-manager provisions from November 2026, and the bulk of the notice-and-consent obligations from around May 2027. Collecting customer data with clear permission now, as our note on [building first-party data through email and WhatsApp](/insights/first-party-data-email-whatsapp) explains, saves a rebuild later."
+        ]
+      },
+      {
+        "heading": "Planning a campaign: economics, structure and budget",
+        "paragraphs": [
+          "Work backward from the business. Take your gross margin, average order or deal value and repeat rate, then decide the most you can pay to win a customer and stay profitable, both on the first order and over twelve months. That ceiling is your allowable acquisition cost, and every target in the account flows from it.",
+          "Structure for learning. Automated bidding needs a steady stream of conversions to calibrate, so a few well-funded campaigns usually beat many thin ones that never leave the learning phase. Split campaigns only where the economics genuinely differ: brand versus non-brand search, separate margins, different countries or a distinct product line.",
+          "Budget in two layers: a test budget you're prepared to lose while you find what works, and a scale budget released once a campaign holds its target for several weeks. Our guide to [splitting a small business marketing budget](/insights/marketing-budget-allocation-small-business) covers how paid media sits next to everything else."
+        ],
+        "bullets": [
+          "Who buys from you today, and which channel brought them",
+          "What one conversion is worth, on the first order and over a year",
+          "Which offer you'll lead with, and why someone would act on it now",
+          "Where the landing page or checkout loses people",
+          "Which signals prove a lead is real, so you can send them back to the ad platform"
+        ]
+      },
+      {
+        "heading": "Creative and landing pages do the heavy lifting",
+        "paragraphs": [
+          "With targeting automated, creative is the main lever you still hold. Test different ideas, not different button colors: a problem-first hook, a product demo, a price-led offer, customer proof, a founder speaking to camera. Each concept reaches a different kind of buyer.",
+          "Make every format native to where it runs. Vertical video for Reels and Shorts, square or vertical statics for feeds, and responsive search ads whose headlines each make sense alone, because the system will combine them in orders you never wrote.",
+          "The click is only half the job. A landing page that loads fast on a mid-range Android phone, repeats the promise made in the ad and offers one easy next step, such as a short form, a call button or a WhatsApp chat, often moves results more than any bid change."
+        ]
+      },
+      {
+        "heading": "Mistakes that quietly waste ad spend",
+        "paragraphs": [
+          "Most underperforming accounts we review share a handful of habits. None of them needs a bigger budget to fix."
+        ],
+        "bullets": [
+          "Optimizing for the cheapest lead, then wondering why sales can't close any of them",
+          "Counting page views, scroll events or duplicate form fires as conversions, which trains bidding on noise",
+          "Switching on broad match, AI Max or Performance Max without negatives, brand exclusions or URL exclusions",
+          "Editing bids, budgets and ads daily during the learning phase so the system never settles",
+          "Sending all paid traffic to the home page instead of a page built for that search or ad",
+          "Trusting platform-reported ROAS without checking it against actual orders or CRM revenue"
+        ]
+      },
+      {
+        "heading": "Measuring success beyond the ad dashboard",
+        "paragraphs": [
+          "Every platform takes as much credit as its attribution window allows, and two platforms will often claim the same sale. Treat in-platform numbers as steering signals, then judge the program on figures from your own systems: orders in your store, deals in your CRM, revenue in your accounts.",
+          "Three numbers keep the picture honest. Blended cost per new customer is all ad spend divided by new customers won. Marketing efficiency ratio is total revenue divided by total ad spend. Payback period is how many months of gross margin it takes to recover what you paid to acquire a customer.",
+          "To learn whether ads cause sales rather than intercept them, run incrementality tests: pause a channel in a few comparable cities, hold out an audience, or use the platforms' lift studies where your budget qualifies. Larger advertisers can add marketing mix modeling; Google made its open-source Meridian model available to everyone in January 2025. Our page on [how we measure client results](/clients/how-we-measure-results) shows how we report."
+        ]
+      }
+    ],
+    "takeaways": [
+      "Judge paid media on revenue-linked outcomes from your own systems, not on clicks or impressions.",
+      "Google's AI Max and Performance Max and Meta's Advantage+ automate targeting, so data, offer and creative decide results.",
+      "Send qualified leads and real order values back to the platforms, because the algorithm learns from whatever you call a conversion.",
+      "Build consent-aware, server-side tracking now, ahead of India's DPDP obligations.",
+      "Fewer, better-funded campaigns learn faster than many small ones.",
+      "Prove incrementality with holdouts or geo tests before scaling a channel."
+    ],
+    "faqs": [
+      {
+        "q": "Should a new advertiser start with Performance Max or Search campaigns?",
+        "a": "For most service businesses and B2B companies, a tightly built Search campaign comes first: it captures people already looking for what you sell and shows which queries convert. Performance Max tends to work better once you have conversion history, a clean product feed or strong creative assets, and brand exclusions so it can't take credit for searches you'd have won anyway."
+      },
+      {
+        "q": "Is broad match safe to use now?",
+        "a": "It can be, when bidding is optimized to a trustworthy conversion and someone reviews the search terms report every week. Broad match and AI Max's keywordless matching read your landing pages and account signals, not just the keyword text, so they reward accounts with clean conversion data and punish those without it. Keep negative keyword lists current either way."
+      },
+      {
+        "q": "Do I still need detailed audience targeting on Meta?",
+        "a": "Usually less than before. Broad audiences with strong creative often outperform narrow interest stacks, because Meta's system finds buyers among the people who respond. Audience controls still matter for exclusions, such as existing customers in an acquisition campaign, and for legal limits on age or location."
+      },
+      {
+        "q": "How can I tell whether my ads create sales or just take credit for them?",
+        "a": "Compare periods or regions with and without the spend. If total sales barely move when a campaign is paused in a few comparable cities, it was mostly capturing demand that would have arrived anyway. Branded search and retargeting are the usual suspects; prospecting campaigns tend to show more genuine lift."
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "Performance marketing · Our process",
+    "title": "How we run paid campaigns, from tracking audit to weekly optimization",
+    "metaTitle": "How We Run Performance Marketing",
+    "metaDescription": "Our six-step paid ads process: tracking audit, unit economics, measurement build, campaign and creative setup, a careful launch, then weekly optimization.",
+    "lead": "Before we touch a bid, we make sure the numbers we'll optimize against are true. Here's how a SmartWebCare performance engagement runs, what you receive at each stage and what we need from you. For the thinking behind it, read our [performance marketing guide](/performance-marketing/guide).",
+    "steps": [
+      {
+        "title": "Account and tracking audit",
+        "summary": "We go through your ad accounts, analytics and order or lead data to find where money leaks and where reported numbers can't be trusted.",
+        "activities": [
+          "Review spend, search terms, placements and audience history across Google and Meta accounts",
+          "Check every conversion action for duplicates, wrong values and events that shouldn't count",
+          "Reconcile platform-reported conversions with orders or CRM leads for a recent period",
+          "Test consent banner behavior, enhanced conversions and Conversions API coverage"
+        ],
+        "output": "A prioritized audit with each fix tagged by likely spend impact, so the biggest leaks close first."
+      },
+      {
+        "title": "Unit economics and targets",
+        "summary": "We turn your margins and sales data into targets that the ad accounts can actually be steered by.",
+        "activities": [
+          "Work out allowable cost per acquisition from margin, order value and repeat rate",
+          "Agree the primary conversion, plus the secondary signals that feed bidding",
+          "Split the budget into a test layer and a scale layer",
+          "Set the reporting rhythm and who signs off on changes"
+        ],
+        "output": "A one-page performance brief: target ranges, a budget plan and a written definition of a good lead or sale."
+      },
+      {
+        "title": "Measurement build",
+        "summary": "We fix tracking at the source so bidding learns from real outcomes rather than page events.",
+        "activities": [
+          "Configure GA4 events, Google Ads conversions and the Meta pixel through Google Tag Manager",
+          "Set up enhanced conversions and the Conversions API, respecting each visitor's consent choice",
+          "Connect CRM stages or order data for offline conversion imports",
+          "Agree UTM naming and build a live reporting dashboard"
+        ],
+        "output": "Verified tracking, documented so your team understands every event, plus a dashboard you can open any time."
+      },
+      {
+        "title": "Campaign architecture and creative",
+        "summary": "We design the account structure and the first round of ads around your offer, not around a template.",
+        "activities": [
+          "Map campaigns: brand and non-brand Search, AI Max settings, Performance Max with brand and URL exclusions, Meta Advantage+ with customer exclusions",
+          "Build negative keyword lists and placement exclusions before launch",
+          "Write a creative matrix of angles and formats, then produce the first batch of ads",
+          "Brief landing page changes, or build dedicated pages with our [web development team](/web-development)"
+        ],
+        "output": "A campaign map, launch-ready ads and a landing page plan matched to the promise each campaign makes."
+      },
+      {
+        "title": "Launch and learning",
+        "summary": "Campaigns go live at controlled budgets, and we watch them closely while the platforms calibrate.",
+        "activities": [
+          "Launch in stages, starting where buyer intent is highest",
+          "Read search terms and placements every few days in the first weeks",
+          "Hold structural changes until each campaign has enough conversions to judge",
+          "Log every change with its reason, so results can be traced back"
+        ],
+        "output": "A launch log and an early read-out showing what's spending, what's converting and what we'll change first."
+      },
+      {
+        "title": "Weekly optimization and monthly review",
+        "summary": "Once data builds up, we shift money toward what works and refresh what's fading.",
+        "activities": [
+          "Weekly: negatives, bid targets, budget moves and creative rotation",
+          "Monthly: compare platform results with your backend revenue or pipeline",
+          "Retire tired creative and brief the next batch from what the data shows",
+          "Where budget allows, run holdout or geo tests before scaling a channel"
+        ],
+        "output": "A weekly change log and a monthly review that ends with clear decisions: scale, fix, test or stop."
+      }
+    ],
+    "deliverables": [
+      "Tracking and account audit with a ranked fix list",
+      "Performance brief with allowable acquisition cost and budget plan",
+      "Documented conversion tracking across GA4, Google Ads and Meta",
+      "Campaign map and naming conventions",
+      "Monthly creative batches built from a tested concept matrix",
+      "Live reporting dashboard connected to your ad accounts",
+      "Weekly change log and monthly business review"
+    ],
+    "youProvide": [
+      "Admin access to Google Ads, Meta Business Manager, GA4, Google Tag Manager and your website or store",
+      "Order, lead or CRM data so ad results can be matched to real revenue",
+      "Margins, pricing and offer details, including how far you're willing to discount",
+      "Brand assets, product images or footage, and a named person for approvals",
+      "Regular feedback from sales or the front desk on lead quality"
+    ],
+    "faqs": [
+      {
+        "q": "Will you work inside our existing ad accounts?",
+        "a": "Yes. You keep ownership of every account, pixel and dataset; we're added as users with the access the work needs. If an account has a messy history we may suggest fresh campaigns inside it, but we never move your data into accounts you don't control."
+      },
+      {
+        "q": "How much of our time does this take each week?",
+        "a": "Most weeks, very little: approving new creative and answering a few questions. The first month asks more, because tracking, offers and landing pages need your input. We'll also ask your sales or front-desk team for a quick lead-quality check, since that feedback shapes bidding. You can map out timing with us in a [free consultation](/book-consultation)."
+      },
+      {
+        "q": "What happens if lead quality drops after launch?",
+        "a": "We trace the cause first: a shift in search terms, a new placement, a fresh creative or a form that has become too easy to submit. Then we tighten the signal by adding qualifying questions, importing only qualified leads as conversions or narrowing match settings, and we track whether cost per qualified lead recovers."
+      }
+    ]
+  },
+  "useCases": {
+    "eyebrow": "Performance marketing · Use cases",
+    "title": "Performance marketing use cases: six businesses, six different problems",
+    "metaTitle": "Performance Marketing Use Cases by Industry",
+    "metaDescription": "How paid ads work for D2C brands, clinics, SaaS, real estate, education and restaurants in India, each with its challenge, approach and the metrics to watch.",
+    "lead": "Paid ads behave differently in every category: what a good lead looks like, how long buyers take and which rules apply all change. These illustrative scenarios show how we'd approach each one and what we'd measure.",
+    "cases": [
+      {
+        "title": "Making Meta spend profitable again for a home-decor brand",
+        "businessType": "D2C e-commerce · Jaipur",
+        "challenge": "A Shopify brand selling block-print bedding relies on Meta ads for most of its sales. Cost per purchase keeps climbing, reported ROAS looks fine, but the bank balance disagrees, because many of the credited buyers are repeat customers who would have ordered anyway.",
+        "approach": [
+          "Move prospecting into Advantage+ sales campaigns with existing customers excluded, so spend goes toward new buyers",
+          "Build a creative matrix around distinct angles, such as fabric close-ups, styled rooms, price-led bundles and customer unboxings, refreshed monthly",
+          "Fix the product feed and add Performance Max for shopping demand, with brand exclusions so it can't claim branded searches",
+          "Report on blended numbers from Shopify, not just from Ads Manager"
+        ],
+        "measure": [
+          "Cost per new customer across all paid channels",
+          "Marketing efficiency ratio (total revenue ÷ total ad spend)",
+          "Contribution margin after ad costs, month by month"
+        ]
+      },
+      {
+        "title": "Turning enquiries into attended consultations for a skin clinic",
+        "businessType": "Dermatology clinic · Gurugram",
+        "challenge": "The clinic gets plenty of calls and form fills from ads, yet many never book and a fair number of those who book don't show up. Meanwhile the ad platforms count every enquiry as a success and keep finding more of the same.",
+        "approach": [
+          "Concentrate Google Search on treatment-intent queries within the clinic's catchment, with negatives for job seekers and home remedies",
+          "Add call tracking and a WhatsApp chat option, then send booked and attended consultations back to Google and Meta as offline conversions",
+          "Keep ad copy within medical advertising rules and platform healthcare policies, with no outcome promises or before-and-after claims",
+          "Give the front desk a short script and a same-day callback rule for ad leads"
+        ],
+        "measure": [
+          "Cost per attended consultation",
+          "Enquiry-to-booking and booking-to-attendance rates",
+          "Missed or unanswered calls from paid traffic"
+        ]
+      },
+      {
+        "title": "Paying for pipeline, not demo requests, at a SaaS startup",
+        "businessType": "B2B SaaS · Bengaluru",
+        "challenge": "A procurement-software startup runs search ads that bring in demo requests from students, competitors and companies far too small to buy. The sales team spends hours each week on calls that go nowhere.",
+        "approach": [
+          "Import CRM stages so Google bids toward sales-qualified leads and opportunities instead of raw demo forms",
+          "Shift budget from generic category terms to the problem and comparison searches buyers make late in their research",
+          "Add qualifying fields for company size and role, and route very small companies to a self-serve trial",
+          "Pair search with [LinkedIn lead generation](/linkedin-ads-lead-generation) to reach named target accounts"
+        ],
+        "measure": [
+          "Cost per sales-qualified lead",
+          "Pipeline value created per rupee of ad spend",
+          "Demo-to-opportunity conversion rate"
+        ]
+      },
+      {
+        "title": "Getting real site visits for a residential project",
+        "businessType": "Real estate developer · Pune",
+        "challenge": "A developer launching a mid-size residential project is buying lead-form volume on Meta. The sales team says most numbers are unreachable or uninterested, and site visits are scarce despite a healthy cost per lead.",
+        "approach": [
+          "Switch to higher-intent lead forms with qualifying questions about budget, configuration and timeline",
+          "Run Search for project-name, locality and configuration queries alongside Meta prospecting",
+          "Retarget website visitors and video viewers with site-visit scheduling rather than a generic brochure download",
+          "Show the project's RERA registration details on every ad and landing page, as the rules require"
+        ],
+        "measure": [
+          "Cost per completed site visit",
+          "Lead-to-visit rate by campaign and lead source",
+          "Bookings traced back to the original campaign in the CRM"
+        ]
+      },
+      {
+        "title": "Matching ad spend to the admissions calendar",
+        "businessType": "Test-prep institute · Delhi",
+        "challenge": "A coaching institute spends evenly all year, though demand peaks around results and admission windows. Off-season leads are cheap but rarely enroll, and in peak weeks the daily budget runs out by midday.",
+        "approach": [
+          "Pace the budget around the academic calendar, holding reserves for result days",
+          "Use YouTube and Shorts with faculty explainers to build familiarity before the peak",
+          "Make a free demo class or counseling session the conversion step, then import enrollments back into the ad platforms",
+          "Retarget demo attendees who didn't enroll with batch-start reminders"
+        ],
+        "measure": [
+          "Cost per enrollment by season",
+          "Demo attendance and demo-to-enrollment rates",
+          "Budget spent in peak weeks compared with the off-season"
+        ]
+      },
+      {
+        "title": "Growing direct orders for a restaurant group",
+        "businessType": "Multi-outlet restaurant · Lucknow",
+        "challenge": "Most online orders arrive through food-delivery apps, where commissions eat into margins. The owners want more direct orders and more walk-in diners, without paying to reach people outside each outlet's delivery radius.",
+        "approach": [
+          "Run location-targeted Google and Meta campaigns around each outlet, with the Business Profile linked for calls and directions",
+          "Promote a direct-ordering incentive, such as a free dessert, through the restaurant's own site or WhatsApp",
+          "Use short dish videos and table-booking ads timed to lunch, dinner and weekend peaks"
+        ],
+        "measure": [
+          "Cost per direct order",
+          "Direct orders as a share of all online orders",
+          "Calls, direction requests and table bookings from paid campaigns"
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Can performance marketing work on a small budget?",
+        "a": "It can, if the budget is concentrated. A small advertiser does better on one high-intent channel, usually Google Search for services or a single Meta campaign for products, than spread thinly across five. Plug your numbers into our [marketing ROI calculator](/tools/marketing-roi-calculator) to see what acquisition cost your margins can support."
+      },
+      {
+        "q": "Which businesses find paid ads hardest?",
+        "a": "Those with thin margins and one-off purchases, very long sales cycles with no CRM to track them, or offers that need a lot of explanation. Paid ads can still work for them, but the plan usually leans more on retargeting, lead nurturing and content than on cold acquisition alone."
+      },
+      {
+        "q": "Do regulated categories like healthcare, finance and property need a different approach?",
+        "a": "Yes. Google and Meta restrict certain claims and targeting options, sometimes require certification, and Indian sector rules add requirements of their own. We build campaigns around those limits from the start, as our notes on [healthcare and wellness marketing](/industries/healthcare-wellness) describe, rather than having ads rejected after launch."
+      }
+    ]
+  }
+}

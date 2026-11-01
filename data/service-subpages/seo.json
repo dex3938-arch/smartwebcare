@@ -1,0 +1,361 @@
+{
+  "slug": "seo",
+  "guide": {
+    "eyebrow": "SEO · 2026 buyer's guide",
+    "title": "Planning and buying SEO in 2026: a guide for business owners",
+    "metaTitle": "How to Plan and Buy SEO in 2026",
+    "metaDescription": "Plan SEO as a business owner in 2026: how AI Overviews change the job, what to fund first, how to read reports and which SEO offers to walk away from.",
+    "lead": "SEO is still the most dependable way to be found by people already looking for what you sell, but buying it well has become harder. This guide helps you decide what SEO should do for your business, what to fund first and how to judge the work, whether you hire us, someone else or do it yourself.",
+    "sections": [
+      {
+        "heading": "What you are actually buying when you pay for SEO in 2026",
+        "paragraphs": [
+          "Search results now mix classic links with maps, shopping units, videos and AI-generated answers. Google's AI Overviews and AI Mode build their responses from pages already in Google's index, and Google's documentation says there are no additional technical requirements to appear in them beyond normal Search eligibility. The core job is unchanged: make the right pages crawlable, useful and trusted for the searches that matter to your business.",
+          "What has changed is how you judge the result. AI Overviews appear only when Google's systems decide they add something to the classic results, and when they do, some questions are settled without a click. In India, AI Mode now works in eight Indian languages, and Google has described people here typing longer, more complex queries. For an owner, that means fewer easy clicks on simple questions and more weight on pages that help someone choose, compare and contact you. Our [roundup of what changed with AI Overviews and AI Mode](/insights/google-ai-overviews-ai-mode-what-changed) covers the timeline.",
+          "Think of an SEO budget as paying for three things: specialist hours, changes to your website and content your customers find credible. If a proposal cannot tell you how its hours split across those three, you do not yet know what you are buying."
+        ]
+      },
+      {
+        "heading": "Start with the business goal, not the keyword list",
+        "paragraphs": [
+          "Before anyone researches keywords, write down what more search visibility should produce: inquiries for a high-margin service, walk-ins at two branches, online orders from outside your city or less dependence on paid ads. Each goal points to different pages and different measures, and a plan without one drifts toward whatever is easiest to rank.",
+          "Then sort the searches you could chase into three groups. **Ready-to-buy** searches name a service, product or place, such as “physiotherapy clinic in Baner”. **Comparison** searches weigh options, such as “uPVC vs wooden windows”. **Learning** searches ask how or why. Ready-to-buy searches usually earn money first; learning searches build reach and are the ones AI answers absorb most."
+        ],
+        "bullets": [
+          "**Value:** would winning this search bring a customer you want, at a margin you like?",
+          "**Realism:** are the current results dominated by marketplaces, government sites or national brands you cannot outrank soon?",
+          "**Effort:** does it need one improved page, or a whole new section plus reviews and links?"
+        ]
+      },
+      {
+        "heading": "Which kind of SEO work to fund first",
+        "paragraphs": [
+          "SEO work falls into three streams, and few businesses need all three at full strength on day one. The right starting point depends on where your site stands today.",
+          "A good plan shifts weight between these streams every quarter. If the same proportions repeat month after month regardless of results, the plan is running on habit."
+        ],
+        "bullets": [
+          "**A new or rebuilt website:** fund the foundations first, meaning crawling, indexing, speed and site structure. Our [technical SEO guide](/technical-seo) explains what that involves.",
+          "**An established site stuck on page two or not converting:** fund page and content work. The [on-page SEO guide](/on-page-seo) shows what gets reviewed.",
+          "**A local business:** fund your Google Business Profile, reviews and location pages before long articles.",
+          "**A strong site in a competitive category:** fund authority through coverage, partnerships and mentions, as set out in our [off-page SEO guide](/off-page-seo)."
+        ]
+      },
+      {
+        "heading": "Budget your own time, not just the fee",
+        "paragraphs": [
+          "The hidden cost of SEO is the owner's and the team's time. Pages about your services need facts only you hold: what a treatment involves, which machine suits which job, which areas you really deliver to. An agency can interview, draft and publish, but it cannot invent expertise, and Google's helpful content guidance asks whether a page shows first-hand knowledge of its subject.",
+          "If nobody inside the business can give that time, say so at the start. A smaller scope with fast approvals beats an ambitious plan that waits weeks for sign-off."
+        ],
+        "bullets": [
+          "A named person who can approve copy within a few working days.",
+          "A short monthly call with someone who hears customer questions, from sales, the front desk or support.",
+          "Access to whoever can change the website, or permission for the agency to do it.",
+          "Patience for a full quarter before judging direction, and longer before judging the outcome."
+        ]
+      },
+      {
+        "heading": "How to read an SEO report without a specialist",
+        "paragraphs": [
+          "A useful monthly report fits on one page before the appendix. It should answer three questions in plain words: what changed, why we think it changed and what happens next.",
+          "Ask to see the leads or sales behind the traffic. If your provider cannot connect search visits to inquiries, fix tracking before you fund more content."
+        ],
+        "bullets": [
+          "**Impressions** count how often your pages were shown. Rising impressions with flat clicks often means more visibility on questions the results page answers by itself.",
+          "**Clicks and conversions** matter more than average position, which blends many searches, devices and locations into a single number.",
+          "**Branded vs non-branded** searches tell you whether new people are finding you or existing customers are typing your name.",
+          "**AI features:** Search Console's generative AI performance report, launched in June 2026 and opened to all sites at the end of August, shows how often your pages appeared in AI Overviews and AI Mode by page, country, device and date. It counts impressions, not clicks."
+        ]
+      },
+      {
+        "heading": "Red flags in SEO offers",
+        "paragraphs": [
+          "Most weak SEO offers are not scams; they sell activity that is easy to count instead of change that matters. Some practices, though, break Google's spam policies and can leave your site worse off than before you started."
+        ],
+        "bullets": [
+          "**Ranking promises.** Nobody controls Google's results, so a promised position or a page-one deadline is a sales line.",
+          "**Link packages.** Google's link spam policy covers buying or selling links for ranking, including paid guest posts and low-quality directory links. Monthly bundles of “high-authority backlinks” fall squarely inside it.",
+          "**Pages at scale.** Hundreds of near-identical city or keyword pages, whether written by AI or by hand, risk Google's scaled content abuse policy.",
+          "**Accounts held by the agency.** Search Console, Analytics, your domain and your Google Business Profile should be owned by you, with the agency added as a user.",
+          "**Reports that only show rankings**, especially for terms nobody searches or for your own brand name.",
+          "**Structured data sold as a growth plan.** Google has retired several lesser-used rich result types since mid-2025, and markup only helps when it matches what the page visibly shows."
+        ]
+      },
+      {
+        "heading": "Questions to ask before you sign",
+        "paragraphs": [
+          "A short conversation reveals most of what you need to know. Ask any provider, including us, to answer these in writing.",
+          "Good answers are specific to your business rather than to SEO in general. Ours are laid out step by step on the [SEO process](/seo/process) page."
+        ],
+        "bullets": [
+          "What will be different on our website at the end of month one?",
+          "Who writes content, who checks it for accuracy, and how is AI used in drafting?",
+          "Which three pages or searches matter most for us, and why those?",
+          "How will you report leads, not just traffic?",
+          "What happens to the content, the access and the work in progress if we stop?"
+        ]
+      },
+      {
+        "heading": "When SEO should wait",
+        "paragraphs": [
+          "SEO is not always the best use of the next rupee. If almost nobody searches for what you sell yet, because the category is new or the product unfamiliar, creating demand through social media, partnerships or ads usually comes first. If your website cannot turn visitors into inquiries, fixing the page will do more than sending extra visitors to it.",
+          "SEO also struggles when the offer itself is unclear. A business that cannot say in one sentence who it serves and why it is the better choice should settle that first; search visibility builds on that clarity."
+        ]
+      }
+    ],
+    "takeaways": [
+      "AI Overviews and AI Mode draw on the same indexed pages as classic results, so SEO fundamentals still decide whether you can appear.",
+      "Pick the business goal first and the searches second; ready-to-buy searches usually pay back before learning searches.",
+      "Fund the workstream that matches your situation, whether foundations, pages or authority, and expect the mix to change each quarter.",
+      "Your team's time for facts and approvals is part of the SEO budget.",
+      "Judge reports on leads and non-branded growth rather than average position.",
+      "Walk away from promised rankings, link bundles and pages produced at scale."
+    ],
+    "faqs": [
+      {
+        "q": "Is SEO still worth paying for if AI answers the question on the results page?",
+        "a": "For most businesses, yes. The searches that produce customers, such as a service in a city, a product to buy or a provider to compare, still lead to websites, maps and listings. Simple definitions are the searches most affected, so shift effort toward pages that help people decide and get in touch, and measure inquiries rather than raw visits."
+      },
+      {
+        "q": "Can I do SEO myself with AI writing tools?",
+        "a": "You can do a lot yourself: keep your Google Business Profile current, answer customer questions on your pages and fix obvious errors. Google's guidance allows AI-assisted content, but it asks you to fact-check everything and warns that mass-producing pages without added value may violate its spam policies. Let AI draft, then add the experience and detail only you have."
+      },
+      {
+        "q": "Traffic fell after a Google update. Should I change agencies?",
+        "a": "Not before you know why. Check whether the drop is spread across the site or limited to a few pages, whether impressions fell or only clicks, and whether inquiries actually declined. A capable provider will show you that analysis with a recovery plan; one that blames the algorithm without evidence deserves harder questions."
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "SEO · How we work",
+    "title": "How SmartWebCare runs an SEO engagement, step by step",
+    "metaTitle": "Our SEO Process: From Audit to Monthly Reports",
+    "metaDescription": "See how SmartWebCare delivers SEO: tracking checks, demand mapping, technical fixes, page work, local authority and monthly reports tied to your leads.",
+    "lead": "Every engagement follows the same spine, but the weight of each step depends on your site and your goal. Below are the activities, the output you get from each step and the input we rely on from your team.",
+    "steps": [
+      {
+        "title": "Access and measurement check",
+        "summary": "We start by confirming we can see what search already does for you, and that inquiries and sales are being recorded correctly.",
+        "activities": [
+          "Get user access to Google Search Console, Google Analytics, Bing Webmaster Tools and your Google Business Profile",
+          "Test contact forms, call buttons, WhatsApp links and checkout events to confirm each conversion is tracked",
+          "Pull twelve months of search data and separate branded from non-branded demand",
+          "Record the starting point for key pages, including appearances in AI features where Search Console reports them"
+        ],
+        "output": "A baseline snapshot and a list of tracking gaps, each fixed or assigned, so later reports compare like with like."
+      },
+      {
+        "title": "Demand and competitor mapping",
+        "summary": "We find the searches that lead to customers for your specific services, and see who currently wins them.",
+        "activities": [
+          "Interview your sales or front-desk team about the phrases and questions customers actually use",
+          "Research search terms by service, location and buying stage",
+          "Review live results for priority searches, noting maps, marketplaces, videos and AI Overviews",
+          "Match each group of searches to an existing page, or to a page that needs to exist"
+        ],
+        "output": "A search-to-page map showing which page should win which searches, scored for value and difficulty."
+      },
+      {
+        "title": "Technical audit",
+        "summary": "We crawl the site the way a search engine does and trace each problem back to the template or setting that causes it.",
+        "activities": [
+          "Crawl the site and compare the results with what Google reports as indexed",
+          "Check redirects, canonical tags, sitemaps, robots rules and mobile rendering",
+          "Review Core Web Vitals field data for your main page templates",
+          "Write each fix as a developer-ready ticket with the reason and the expected effect"
+        ],
+        "output": "A prioritized fix list your developer can act on, or that our [web development](/web-development) team can implement."
+      },
+      {
+        "title": "Quarterly roadmap",
+        "summary": "We turn the map and the audit into a three-month plan that fits your team's capacity.",
+        "activities": [
+          "Rank work by business value, effort and dependencies",
+          "Give each item an owner, on your side or ours",
+          "Agree the few measures that will show whether the quarter worked"
+        ],
+        "output": "A one-page roadmap with owners and dates, reviewed with you before work begins."
+      },
+      {
+        "title": "Page and content work",
+        "summary": "We improve the pages that matter most first, usually service, product or location pages, before adding new articles.",
+        "activities": [
+          "Rewrite titles, headings and copy around the searches each page should win",
+          "Interview your experts and draft content in your voice for review",
+          "Add internal links, plus structured data that matches what the page shows",
+          "Publish, request indexing and check how Google renders the page"
+        ],
+        "output": "Live, approved pages with a change log, so every edit can be traced to what happened next."
+      },
+      {
+        "title": "Local presence and authority",
+        "summary": "We strengthen the signals outside your website, following the approach in our [local SEO notes for 2026](/insights/local-seo-google-business-profile-2026).",
+        "activities": [
+          "Clean up your Google Business Profile categories, services, photos and hours",
+          "Fix inconsistent name, address and phone details across key directories",
+          "Set up a simple review request routine with your team, linked to [reputation management](/reputation-management) where needed",
+          "Pitch useful stories, data or expert comment to relevant publications and associations"
+        ],
+        "output": "Updated profiles, a citation log and a record of the outreach made and coverage earned."
+      },
+      {
+        "title": "Monthly reporting and quarterly reset",
+        "summary": "Each month you get a short report in plain language, and each quarter we decide together what to keep, stop or start.",
+        "activities": [
+          "Report clicks, inquiries and sales from organic search, split into branded and non-branded",
+          "Explain what changed, the likely cause and the next action",
+          "Watch for sudden drops in indexed pages or traffic between reports",
+          "Re-score the roadmap at the end of each quarter"
+        ],
+        "output": "A one-page monthly report with an appendix, and a refreshed roadmap every quarter."
+      }
+    ],
+    "deliverables": [
+      "Baseline report with tracking fixes",
+      "Search-to-page map for your services and locations",
+      "Technical audit with developer-ready tickets",
+      "Quarterly roadmap with owners and success measures",
+      "Rewritten or new pages, published and logged",
+      "Google Business Profile and citation clean-up log",
+      "Monthly report plus a quarterly review call"
+    ],
+    "youProvide": [
+      "Admin or user access to your website, Search Console, Analytics and Google Business Profile",
+      "A contact who can approve copy and answer questions within a few working days",
+      "Short interview slots with the people who know your services best",
+      "Details of any past SEO work, site migrations or manual actions"
+    ],
+    "faqs": [
+      {
+        "q": "Can you work through our existing developer?",
+        "a": "Yes. Many businesses keep their developer. We write each fix as a ticket with the reason and an acceptance check, then verify it after release. If you have no developer, our team can make the changes directly."
+      },
+      {
+        "q": "Who signs off content before it goes live?",
+        "a": "You do. Every new or rewritten page goes to your named approver, and anything involving medical, legal or financial claims also goes to a qualified person on your side. Nothing is published without approval."
+      },
+      {
+        "q": "What happens to the work if we stop?",
+        "a": "It all stays with you: the pages, the content, the roadmap, the reports and the accounts, which remain in your name throughout. We hand over open tickets and notes so another team can continue. To discuss a scope, [book a consultation](/book-consultation)."
+      }
+    ]
+  },
+  "useCases": {
+    "eyebrow": "SEO · Use cases",
+    "title": "Who SEO works for: six business situations and what changes",
+    "metaTitle": "SEO Use Cases for Indian Businesses",
+    "metaDescription": "Six illustrative SEO scenarios covering clinics, D2C brands, manufacturers, SaaS, real estate and site migrations, with the approach and what to measure.",
+    "lead": "SEO looks very different for a clinic with three branches and a manufacturer selling to buyers abroad. These illustrative scenarios show the problem, the approach we would take and the measures that tell you it is working.",
+    "cases": [
+      {
+        "title": "Getting each branch found for the treatments it offers",
+        "businessType": "Dental clinic group · Pune",
+        "challenge": "A clinic with three branches has one website page listing every treatment and one shared phone number. Searches like “root canal near Kothrud” show competitors' map listings, and the clinic cannot tell which branch any call came from.",
+        "approach": [
+          "Build a page for each branch with its own address, hours, dentists and the treatments it actually offers",
+          "Set up and verify a Google Business Profile per branch, each with a tracked phone number",
+          "Write treatment pages reviewed by the dentists, covering the procedure, recovery and when to visit",
+          "Ask patients for reviews after appointments through a simple front-desk routine"
+        ],
+        "measure": [
+          "Calls and booking requests per branch from search and maps",
+          "Non-branded impressions for treatment-plus-locality searches",
+          "New reviews per month for each branch"
+        ]
+      },
+      {
+        "title": "Earning sales that don't depend on marketplaces",
+        "businessType": "Skincare D2C brand · Jaipur",
+        "challenge": "Most sales come through marketplaces, where fees are high and the brand has little control over presentation. Its own store gets traffic almost only from people already searching for the brand name.",
+        "approach": [
+          "Restructure collection pages around how people shop: by skin concern, ingredient and routine step",
+          "Add product structured data that matches the price and availability shown on each page",
+          "Publish ingredient explainers that link to the products they discuss",
+          "Keep every claim within what the brand can substantiate"
+        ],
+        "measure": [
+          "Non-branded organic sessions and revenue on the brand's own store",
+          "Impressions for skin-concern and ingredient searches",
+          "Proportion of store revenue whose first visit came from organic search"
+        ]
+      },
+      {
+        "title": "Reaching overseas buyers who search by specification",
+        "businessType": "Industrial fastener manufacturer · Ludhiana",
+        "challenge": "Buyers in the Gulf and Europe search by grade, standard and size, but the company's products sit inside PDF catalogs that search engines read poorly. Inquiries arrive mainly through trade fairs and agents.",
+        "approach": [
+          "Turn the core catalog into HTML product and application pages, with specifications in text and tables",
+          "Create pages for the standards and grades buyers search for",
+          "Add a request-for-quote form that records the product and destination country",
+          "Earn mentions from the industry associations and trade directories buyers use"
+        ],
+        "measure": [
+          "Quote requests from target countries",
+          "Impressions and clicks from those countries in Search Console",
+          "How many inquiries name a specific product"
+        ]
+      },
+      {
+        "title": "Turning comparison searches into demo requests",
+        "businessType": "Inventory software startup · Gurugram",
+        "challenge": "The startup competes with much larger platforms. Prospects search for alternatives, integrations and use cases, but the site has only a home page, a pricing page and a blog of general tips.",
+        "approach": [
+          "Build pages for each integration, industry and core use case, written with the product team",
+          "Publish fair comparison pages that say where the product fits and where it doesn't",
+          "Fix app-style page templates so their content renders as HTML",
+          "Link help documentation to the matching feature pages"
+        ],
+        "measure": [
+          "Demo requests and trial sign-ups from organic search",
+          "Clicks for integration and alternative searches",
+          "Assisted conversions where organic search was an earlier touch"
+        ]
+      },
+      {
+        "title": "Competing with property portals for project searches",
+        "businessType": "Residential developer · Noida",
+        "challenge": "Property portals dominate searches for the developer's own locality. Its website is a single brochure page of renders, and inquiries come almost entirely from paid ads and portals.",
+        "approach": [
+          "Create a page per project with RERA registration details, floor plans, possession status and real site photos",
+          "Write locality guides on commute, schools and amenities, based on research on the ground",
+          "Win branded project searches first, where portals should not outrank the developer",
+          "Connect inquiry forms to the CRM so organic leads are tagged"
+        ],
+        "measure": [
+          "Organic inquiries per project",
+          "Clicks on branded project searches compared with portal listings",
+          "Site-visit bookings from organic leads"
+        ]
+      },
+      {
+        "title": "Changing platforms without losing search traffic",
+        "businessType": "Tour operator · Kochi",
+        "challenge": "The company is moving its website to a new platform with a new URL structure. Years of tour pages rank well, and a careless launch could wipe out the bookings they bring.",
+        "approach": [
+          "List every URL that earns traffic, links or bookings before the build starts",
+          "Map each old URL to its closest new equivalent and test the redirects on staging, as described in our notes on [rebranding without losing SEO](/insights/rebrand-without-losing-seo)",
+          "Keep page content and titles stable at launch, improving them in a later phase",
+          "Monitor indexing and errors daily for the first weeks after launch"
+        ],
+        "measure": [
+          "Organic clicks and bookings against the pre-launch baseline",
+          "Redirect errors and pages dropped from the index",
+          "Time taken for key tour pages to recover their positions"
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Our business is small. Is SEO only for bigger companies?",
+        "a": "No. A small local business often has the clearest win: a complete Google Business Profile, accurate details everywhere and a few strong service pages. The scope just needs to match the opportunity. If you are unsure, [tell us about your business](/contact) and we will say plainly whether SEO is the right next step."
+      },
+      {
+        "q": "Are these real client results?",
+        "a": "No. They are illustrative situations built from common problems, not case studies. We do not publish results we cannot evidence; see [how we measure results](/clients/how-we-measure-results) for how real engagements are reported."
+      },
+      {
+        "q": "Does this work also help with AI answers?",
+        "a": "It is the foundation. AI answer features draw on pages that search engines can crawl and trust. When a business also needs its answers quoted accurately in AI tools, we add [answer engine optimization](/aeo) on top."
+      }
+    ]
+  }
+}

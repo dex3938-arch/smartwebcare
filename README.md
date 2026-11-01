@@ -35,7 +35,7 @@ Every phone number, email, WhatsApp link, address, booking link and social profi
 ## 3. Enquiry form → Supabase
 
 1. Create a Supabase project (or use the existing one) → **SQL Editor → New query** → paste **`supabase/schema.sql`** → **Run**. This creates the `enquiries` table (and `blog_posts`) with Row Level Security: the public can only *add* an enquiry — nobody can read them except you in the dashboard.
-2. Supabase → **Project Settings → API** → copy the **Project URL**, **anon public** key and **service_role** key into Vercel as `NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_ANON_KEY`, `SUPABASE_SERVICE_ROLE_KEY` → Redeploy.
+2. Supabase → **Project Settings** → copy the **Project URL** (Data API), the **Publishable key** (`sb_publishable_…`, or legacy *anon*) and the **Secret key** (`sb_secret_…`, or legacy *service_role*) into Vercel as `NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_ANON_KEY`, `SUPABASE_SERVICE_ROLE_KEY` → Redeploy. Both key styles work; Supabase is retiring the legacy ones by the end of 2026, so prefer the new ones.
 3. Test: submit the form on `/contact` → the row appears in **Table Editor → enquiries** (status `new`; use `status`/`notes` columns to track follow-ups).
 
 How it works: the form posts to `/api/enquiry`, which validates the data, blocks bots (hidden honeypot field, minimum fill time, 5 submissions per 10 minutes per visitor) and saves the row. If the database isn't configured or is unreachable, the visitor keeps what they typed and gets **Send on WhatsApp / Send by email / Call us** buttons — no dead ends.
@@ -54,6 +54,15 @@ vercel --prod
 
 **No 404 dead ends:** uppercase URLs redirect to lowercase (`/Clients` → `/clients`), common aliases redirect (`/sitemap`, `/about-us`, `/contact-us`, `/testimonials`, `/services/<name>`, `/journal`…), and any unknown URL shows a helpful page with quick links, Call/WhatsApp and the enquiry form (it still answers HTTP 404 so Google doesn't index junk URLs). A full crawl of 24,084 pages found **0** broken internal links.
 
+### Updating an older copy of this project
+
+Extracting a new zip over an old folder adds and replaces files but never deletes them. These files were removed in later versions — **delete them if they exist**, or the build fails:
+
+- `app/sitemap.ts` (replaced by `app/sitemap.xml/route.ts` + `app/sitemaps/*`)
+- `components/layout/floating-whatsapp.tsx` (replaced by `components/layout/contact-dock.tsx`)
+
+Simplest alternative: extract into a fresh folder, copy your `.env.local` across, then `npm ci`.
+
 ## 5. Where to change things
 
 | What | File |
@@ -71,17 +80,42 @@ vercel --prod
 | FAQ page | `lib/faq.ts` |
 | Legal pages | `lib/legal.ts` (see `LEGAL_TO_CONFIRM`) |
 | Industry pages | `data/industries.json`, `data/industry-services.json`, `data/industry-city-faqs.json` |
+| Service sub-pages (guide / process / use cases) | `data/service-subpages/{service}.json` |
+| Insights articles | `data/insights/{slug}.json` · topics in `lib/insights.ts` |
+| About / Testimonials / Contact sub-pages | `lib/company-pages.ts` |
+| Navbar dropdowns | `PRIMARY_NAV` in `lib/site.ts` |
+| Sitemaps (XML index + `/site-map` page) | `lib/sitemap-data.ts` |
+| Carousel, scroll timeline, reading progress | `components/motion/carousel.tsx`, `step-timeline.tsx`, `reading-progress.tsx` |
+| 3D scenes (orbit, pipeline, constellation) | `components/three/scenes.tsx` (loaded by `scene-3d.tsx`, desktop only) |
+| Round 3D card carousel (auto-turns, stops on hover) | `components/motion/ring-carousel.tsx` |
+| Footer location maps (India map + world flight lines) | `components/layout/location-maps.tsx`; cities/pins: `scripts/build-maps.py` → `lib/map-points.ts` |
 | Colours, glass, animations | `app/globals.css` |
 | Logo files | `public/brand/` (see `docs/ASSET-MANIFEST.md`) |
 
-## 6. What's built
+## 6. Writing new content (keeps SEO clean)
+
+Every guide, process, use-case and insights page is a JSON file checked by a script, so new pages stay unique and on-brand:
+
+1. Read **`docs/CONTENT-STYLE.md`** (voice, honesty rules, banned filler, SEO field lengths).
+2. Copy an existing file — e.g. `data/insights/instagram-strategy-2026.json` — give it a new `slug` (= file name), and write.
+3. Add the new URL to `scripts/allowed-paths.txt` if other pages should link to it (for an insights article, also add it to the planned list).
+4. Run the checker and fix every error:
+
+```bash
+python3 scripts/check-content.py --all
+```
+
+It checks structure, word counts, meta title/description length, banned phrases, that every internal link exists, and repeated sentences across pages (duplicate content). Then `npm run build` — the page, sitemap entry, breadcrumbs and structured data are generated automatically.
+
+## 7. What's built
 
 - **Pages:** home, services index + all 29 original service pages, 7 long-form guides (`/seo-standards`, `/technical-seo`, `/on-page-seo`, `/off-page-seo`, `/geo`, `/xml-sitemap`, `/robots-txt`) plus the AEO guide on the `/aeo` service page, `/faq` (56 answers), `/resources`, `/industries` (+12), `/compare`, `/tools` (+9), `/blog`, `/clients`, `/about`, `/contact`, `/book-consultation`, legal (`/privacy-policy`, `/terms-and-conditions`, `/refund-policy`, `/disclaimer`), country / state / city pages (priority cities prebuilt, the long tail rendered on demand).
-- **SEO:** unique title, description, canonical, OG/Twitter image per page (`buildMetadata`), JSON-LD (Organization, WebSite, BreadcrumbList, Service, Article, FAQPage — only where the content is visible), `app/sitemap.ts` from the real route list, `app/robots.ts` (AI/answer-engine crawlers allowed on purpose), dynamic OG images (`/og`).
+- **New in this version:** 84 service sub-pages (`/{service}/guide`, `/process`, `/use-cases`), the Insights hub with 4 topics and 16 current-topic articles, 5 About pages, 2 Testimonials pages, 2 Contact pages, an HTML sitemap (`/site-map`), navbar dropdowns for every heading, carousels, a scroll-linked process timeline, reading-progress bars and three light 3D scenes (Services, How we work, Insights — desktop only; phones get a static image).
+- **SEO:** unique title, description, canonical, OG/Twitter image per page (`buildMetadata`), JSON-LD (Organization, WebSite, BreadcrumbList, Service, Article, FAQPage, CollectionPage — only where the content is visible), `/sitemap.xml` = sitemap index → `/sitemaps/pages.xml`, `services.xml`, `insights.xml`, `resources.xml`, `locations.xml`, `app/robots.ts` (AI/answer-engine crawlers allowed on purpose), dynamic OG images (`/og`).
 - **Brand light:** "SmartWebCare" shine sweep every 3 s; SWC emblem light sweep + circuit-node pulses; static under `prefers-reduced-motion`.
 - **Enquiries:** form saved to Supabase (with WhatsApp / email / call fallbacks), Call + WhatsApp on every page (header, phone bottom bar, desktop floating buttons, CTA bands, contact and 404 pages). Conversion events (`contact_cta_click`, `contact_form_started/submitted/failed`, `whatsapp_click`, `phone_click`, `email_click`, `service_page_view`) go to GTM's dataLayer once analytics is configured; message contents are never sent.
 
-## 7. Release checklist
+## 8. Release checklist
 
 | # | Item | Status |
 |---|---|---|

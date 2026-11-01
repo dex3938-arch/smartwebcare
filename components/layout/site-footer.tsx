@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Clock, Facebook, Instagram, Linkedin, Mail, MapPin, MessageCircle, Phone, Twitter } from "lucide-react";
 import { FOOTER_NAV, SITE, telHref } from "@/lib/site";
+import { LocationMaps } from "@/components/layout/location-maps";
 import { WHATSAPP_DISPLAY, whatsappHref } from "@/lib/whatsapp";
 import { Wordmark } from "@/components/brand/logo";
 import { WaveSeam } from "@/components/sections/wave-seam";
@@ -101,13 +102,14 @@ export function SiteFooter() {
               )}
             </div>
 
-            <div className="grid grid-cols-2 gap-10 sm:grid-cols-4">
+            <div className="grid grid-cols-2 gap-10 sm:grid-cols-3">
               <Column title="Quick Links" links={FOOTER_NAV.quick} />
               <Column title="Top Services" links={FOOTER_NAV.services} />
-              <Column title="India" links={FOOTER_NAV.india} />
-              <Column title="International" links={FOOTER_NAV.international} />
+              <Column title="Insights" links={FOOTER_NAV.insights} />
             </div>
           </div>
+
+          <LocationMaps />
 
           <div className="mt-14 flex flex-col gap-4 border-t border-[var(--color-border)] pt-7 text-[0.85rem] text-ink-muted md:flex-row md:items-center md:justify-between">
             <p>© {year} {SITE.name}. All rights reserved.</p>

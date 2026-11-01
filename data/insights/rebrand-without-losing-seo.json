@@ -1,0 +1,123 @@
+{
+  "slug": "rebrand-without-losing-seo",
+  "category": "brand-growth",
+  "published": "2026-11-01",
+  "eyebrow": "Brand & Growth",
+  "title": "How to rebrand without losing your search rankings",
+  "metaTitle": "Rebrand Without Losing SEO: A Site Move Checklist",
+  "metaDescription": "How to change your brand name, domain or website without losing rankings: redirect maps, Google's Change of Address tool, content and Search Console checks.",
+  "lead": "A new name or domain can undo years of search visibility if the move is handled carelessly, and most of that damage is avoidable. Google publishes clear guidance on site moves. This is that guidance turned into a working plan, from the first crawl to the 90 days after launch.",
+  "keyPoints": [
+    "Map every old URL to its closest new equivalent and use permanent, server-side redirects.",
+    "Use Google's Change of Address tool for domain moves, and keep redirects for at least a year.",
+    "Change as little as possible at once; a domain move plus a redesign plus new URLs multiplies the risk.",
+    "Monitor indexing, traffic and errors in Search Console for at least three months after launch."
+  ],
+  "sections": [
+    {
+      "heading": "Know which kind of change you're making",
+      "paragraphs": [
+        "A rebrand can mean very different technical events. A new logo and name on the same domain barely touches search. A new domain moves every URL you own. A new website platform often changes URL structures, templates and internal links all at once. Each step up adds risk.",
+        "Google notes that small and medium sites are generally best moved in one go, and that combining a move with a redesign of content or URL structure will likely cause some loss of traffic. If you can, separate the events: move the domain with URLs and content unchanged, let things settle, then redesign. If a new platform is unavoidable, our [web development](/web-development) team plans the build around the migration rather than the other way round."
+      ],
+      "bullets": [
+        "**Name change, same domain:** update brand mentions, page titles, structured data and profiles; no redirects needed.",
+        "**New domain, same structure:** redirect every URL one to one and use the Change of Address tool.",
+        "**New domain and new structure:** a full redirect map, the highest risk and the longest monitoring period."
+      ]
+    },
+    {
+      "heading": "Inventory everything before you touch it",
+      "paragraphs": [
+        "You can't redirect what you don't know exists. Build a complete list of old URLs from your XML sitemaps, a full site crawl, server logs, analytics landing-page reports and the Links report in Search Console. Include images, PDFs and other files that receive traffic or links, not just pages.",
+        "For each URL, record organic traffic, the queries it ranks for, how many sites link to it and whether it drives inquiries or sales. That baseline shows which pages need the most care. Export at least 12 months of traffic and ranking data so you can compare like for like after the move."
+      ]
+    },
+    {
+      "heading": "Build the redirect map",
+      "paragraphs": [
+        "Every old URL needs a destination: its closest equivalent on the new site. Use permanent server-side redirects, either 301 or 308. Google advises against redirecting many old URLs to one irrelevant page, such as the new home page; where content has been merged, point old URLs at the page that now covers the topic.",
+        "Redirect straight to the final URL. If chains truly can't be avoided, Google suggests keeping them short, ideally no more than three hops, but a direct redirect is the target. Plan to keep redirects for as long as possible, generally at least a year, and keep the old domain registered so they keep working."
+      ],
+      "bullets": [
+        "One row per old URL, with the new URL, redirect type and an owner.",
+        "Older internal redirects collapsed, so nothing chains through legacy addresses.",
+        "Query strings, trailing slashes, HTTP and www variants all accounted for.",
+        "A short list of retired pages, each with a reasoned destination rather than a blanket home-page rule."
+      ]
+    },
+    {
+      "heading": "Keep the content that earns your rankings",
+      "paragraphs": [
+        "Rankings belong to content as much as to addresses. For the pages that drive most of your search traffic, keep the substance, headings and internal links intact through the move. Change the brand name and visuals, but save rewrites for later, when you can measure their effect on their own.",
+        "Give every new page a self-referencing canonical tag, update hreflang annotations if you run language versions, and carry structured data across. Then update internal links to point directly at the new URLs instead of leaning on redirects. Google also suggests asking sites that link to you to update those links, starting with the most valuable ones."
+      ]
+    },
+    {
+      "heading": "Search Console: verification, Change of Address and sitemaps",
+      "paragraphs": [
+        "Verify every variant of both the old and new sites in Search Console, using the same Google account. Before launch, check the new domain for manual actions or URL removals left by a previous owner, because a domain can carry history you didn't create.",
+        "Once redirects are live, use the Change of Address tool. It is meant for moves from one domain or subdomain to another, not for switching from HTTP to HTTPS or between www and non-www versions, which Google works out from your redirects. You need to own both properties, the old home page must redirect permanently to the new one, and you should submit the change for each subdomain variant of the old domain. Google forwards signals for 180 days, so keep redirects in place at least that long, and in practice for a year or more.",
+        "Submit a sitemap of the new URLs. Google says warnings about redirecting URLs in an old sitemap are expected, and that the old sitemap can be retired once the new one is being used."
+      ]
+    },
+    {
+      "heading": "Launch-day checklist",
+      "paragraphs": [
+        "Most avoidable losses happen in the first hours after launch, when a staging setting or a broken redirect rule goes unnoticed. Work through this list before you announce anything."
+      ],
+      "bullets": [
+        "Remove any noindex tags and robots.txt blocks left over from staging.",
+        "Test a sample of redirects from every section with a crawler and the URL Inspection tool.",
+        "Confirm analytics, conversion tracking and ad destination URLs point to the new domain.",
+        "Update your Google Business Profile, social bios, directory listings and email signatures.",
+        "Make sure the server can handle heavier crawling by Googlebot in the days after the move.",
+        "Brief customer-facing staff so they can explain the new name with confidence."
+      ]
+    },
+    {
+      "heading": "The first 90 days: monitor and fix",
+      "paragraphs": [
+        "Expect some ranking movement while Google recrawls. Google says a medium-sized site can take a few weeks or more for most pages to move in its index, and larger sites take longer. Your job is to make sure any dip is temporary.",
+        "Fix problems as you find them, and resist changing redirect targets or URL structures again during this window; every extra change resets the clock."
+      ],
+      "bullets": [
+        "Watch indexed counts fall for the old sitemap and rise for the new one.",
+        "Check the page indexing report for errors and unexpected exclusions.",
+        "Review server logs for Googlebot hitting 404s or redirect loops.",
+        "Compare traffic and rankings for your top pages against the baseline every week.",
+        "Track branded searches for both the old and the new name."
+      ]
+    },
+    {
+      "heading": "Tell people the story search engines are getting",
+      "paragraphs": [
+        "Search signals and customer understanding move together. For a few months, mention 'formerly' with the old name on the home page, the About page and social bios, so people searching for the old brand recognize the new one. Announce the change to customers by email and WhatsApp, and to partners and publications that link to you.",
+        "Take a hypothetical Jaipur home-decor brand renaming itself and moving from an older .in domain to a new .com. A safe sequence: introduce the new name on the existing site first, so customers meet it on familiar ground; move to the new domain with identical URLs and content; submit Change of Address; then, once the numbers have settled, roll out the redesign section by section.",
+        "Our [rebranding](/rebranding) team plans the brand and the migration together, and our [technical SEO](/technical-seo) service handles redirect mapping, crawling and post-launch monitoring. For the brand side of the process, the [rebranding guide](/rebranding/guide) walks through each stage."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long does it take for rankings to recover after a domain change?",
+      "a": "There's no fixed timeline. Google says a medium-sized site can take a few weeks or more for most pages to move in its index. Clean one-to-one redirects and unchanged content usually make any dip shorter."
+    },
+    {
+      "q": "Can we let the old domain lapse after a year?",
+      "a": "We wouldn't. Google recommends keeping redirects for as long as possible, generally at least a year, and old links, bookmarks and printed materials keep pointing at the old domain long after that. If someone else registers it, they inherit that traffic."
+    },
+    {
+      "q": "Do we need the Change of Address tool when moving to HTTPS?",
+      "a": "No. Google says the tool isn't for HTTP-to-HTTPS or www changes; it works those out from your redirects. Use it when moving to a different domain or subdomain."
+    },
+    {
+      "q": "Should we redesign the site at the same time as the rebrand?",
+      "a": "Avoid it if you can. Google warns that combining a move with a content or URL redesign will likely cost some traffic, and moving first then redesigning makes any problem far easier to isolate."
+    }
+  ],
+  "sources": [
+    { "label": "Google Search Central — Site moves with URL changes", "url": "https://developers.google.com/search/docs/crawling-indexing/site-move-with-url-changes" },
+    { "label": "Search Console Help — Change of Address tool", "url": "https://support.google.com/webmasters/answer/9370220?hl=en" }
+  ]
+}

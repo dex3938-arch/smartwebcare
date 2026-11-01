@@ -47,7 +47,9 @@ async function saveToSupabase(row: Record<string, string | null>) {
     method: "POST",
     headers: {
       apikey: key,
-      Authorization: `Bearer ${key}`,
+      // Legacy anon / service_role keys are JWTs and also go in Authorization. The newer
+      // sb_publishable_ / sb_secret_ keys are not JWTs and must only be sent as `apikey`.
+      ...(key.startsWith("eyJ") ? { Authorization: `Bearer ${key}` } : {}),
       "Content-Type": "application/json",
       Prefer: "return=minimal",
     },

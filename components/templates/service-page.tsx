@@ -6,6 +6,7 @@ import { CtaBand } from "@/components/sections/cta-band";
 import { FeatureGrid, LinkList, Section, CityDirectory } from "@/components/sections/blocks";
 import { ConsultStrip, IncludedShowcase, ProcessFlow } from "@/components/services/service-sections";
 import { ServiceViewTracker } from "@/components/analytics/service-view";
+import { ServiceSubnav } from "@/components/services/service-subnav";
 import { GuideArticle } from "@/components/templates/guide-page";
 import { getGuide } from "@/lib/guides";
 import { stripMarkup } from "@/lib/markup";
@@ -82,6 +83,7 @@ export function ServicePage({ service }: { service: Service }) {
           </>
         }
       />
+      <ServiceSubnav slug={service.slug} title={service.title} active="overview" />
 
       <IncludedShowcase service={service} />
 

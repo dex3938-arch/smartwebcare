@@ -4,25 +4,10 @@ import dynamic from "next/dynamic";
 import { useEffect, useRef, useState } from "react";
 import { SwcMark } from "@/components/brand/logo";
 import { Tilt } from "@/components/motion/tilt";
+import { canUse3D } from "@/components/three/capability";
 import { cn } from "@/lib/utils";
 
 const NetworkScene = dynamic(() => import("@/components/three/network-scene"), { ssr: false });
-
-/** WebGL only where it's cheap: desktop, fine pointer, enough cores/memory, motion allowed. */
-function canUse3D() {
-  try {
-    const nav = navigator as Navigator & { connection?: { saveData?: boolean }; deviceMemory?: number };
-    if (!window.matchMedia("(min-width: 1024px) and (pointer: fine)").matches) return false;
-    if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return false;
-    if (nav.connection?.saveData) return false;
-    if (typeof nav.hardwareConcurrency === "number" && nav.hardwareConcurrency < 4) return false;
-    if (typeof nav.deviceMemory === "number" && nav.deviceMemory < 4) return false;
-    const c = document.createElement("canvas");
-    return !!(c.getContext("webgl2") || c.getContext("webgl"));
-  } catch {
-    return false;
-  }
-}
 
 const CHIPS = [
   { label: "Personal Branding", className: "left-[2%] top-[14%]" },

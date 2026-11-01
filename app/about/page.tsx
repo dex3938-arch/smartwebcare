@@ -1,4 +1,5 @@
 import { existsSync } from "node:fs";
+import { ExploreCarousel } from "@/components/sections/explore-carousel";
 import path from "node:path";
 import Image from "next/image";
 import { Heart, MessageCircle, Rocket, Sparkles, Target, Users, type LucideIcon } from "lucide-react";
@@ -156,6 +157,7 @@ export default function AboutPage() {
         </div>
       </section>
 
+      <ExploreCarousel section="about" title="More about SmartWebCare" />
       <CtaBand />
     </>
   );

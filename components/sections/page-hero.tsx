@@ -47,7 +47,7 @@ export function PageHero({
                 {eyebrow}
               </p>
             )}
-            <h1 className="text-[length:var(--text-h1)]">
+            <h1 className={cn(typeof title === "string" && title.length > 48 ? "text-[clamp(2.1rem,4.2vw,3.7rem)] leading-[1.04]" : "text-[length:var(--text-h1)]")}>
               <span className="reveal-line">
                 <span>{title}</span>
               </span>

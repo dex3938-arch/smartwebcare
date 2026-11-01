@@ -1,0 +1,131 @@
+{
+  "slug": "linkedin-thought-leadership-founders",
+  "category": "social-content",
+  "published": "2026-11-01",
+  "eyebrow": "Social & Content",
+  "title": "LinkedIn thought leadership for founders: from point of view to pipeline",
+  "metaTitle": "LinkedIn Thought Leadership for Founders",
+  "metaDescription": "A LinkedIn playbook for founders and senior leaders: profile, point of view, post formats, comments, newsletters, video and measuring pipeline, not likes.",
+  "lead": "Founders don't need to become full-time creators to win on LinkedIn. They need a clear point of view, a profile that turns curiosity into trust, and a habit of showing their thinking where buyers already spend time. Here is how to build that, and how to tell whether it is working.",
+  "keyPoints": [
+    "Decide what you believe about your market before deciding how often to post.",
+    "LinkedIn's rebuilt feed matches posts to members' interests by meaning, so specific, consistent topics help the right people find you.",
+    "Thoughtful comments on other people's posts matter as much as your own posts in the first few months.",
+    "Newsletters, short video and Thought Leader Ads extend a founder's reach once the basics work.",
+    "Measure conversations, meetings and pipeline influenced — not likes."
+  ],
+  "sections": [
+    {
+      "heading": "Start with a point of view, not a posting calendar",
+      "paragraphs": [
+        "Thought leadership is a position people can agree or disagree with. Without one, founder posts drift into company announcements and generic advice that anyone could have written. Before planning a single post, write down three to five beliefs about your market that you hold strongly and can back with experience.",
+        "Take a hypothetical Gurugram SaaS founder selling route-planning software to logistics firms. Saying that technology helps logistics is not a point of view. Arguing that most fleet delays in Indian cities are scheduling problems rather than traffic problems is — it is specific, arguable and tied to what the product fixes. Each belief becomes a content pillar you can return to for months."
+      ],
+      "bullets": [
+        "It is specific to your market, not true of every business.",
+        "You can tell real stories that support it, from customers, hires or your own mistakes.",
+        "It connects, without forcing, to the problem your company solves."
+      ]
+    },
+    {
+      "heading": "Make the profile do the selling",
+      "paragraphs": [
+        "Every good post sends people to your profile, and the profile decides whether they follow, connect or leave. The headline should say who you help and with what, not just your title. A bare 'Co-founder and CEO' tells a stranger nothing; 'Helping mid-size fleets cut idle time | Co-founder, [Company]' tells them whether to care.",
+        "Use the About section to state your point of view in your own voice, then add proof: what you have built, who you serve and how to reach you. Pin your strongest posts, a newsletter or a customer explainer in Featured. A clear photo and a banner that says what the company does finish the job. Our free [LinkedIn headline generator](/tools/linkedin-headline-generator) can help you draft a few versions to test."
+      ]
+    },
+    {
+      "heading": "How LinkedIn's feed decides who sees you",
+      "paragraphs": [
+        "In March 2026, LinkedIn's engineering team described a rebuilt feed. Instead of several separate systems pulling in candidate posts, one retrieval system uses large language model embeddings to match posts to members by meaning rather than by keywords alone. A ranking model then reads each member's activity as a sequence, so it can notice when someone's interests are shifting.",
+        "LinkedIn says this approach can surface posts from authors a member doesn't follow when the subject matches their interests. For new members with little history, it can infer likely interests from profile information. The lesson for founders is plain: write clearly and repeatedly about a defined set of subjects, and keep your profile consistent with them. Scattered posting gives the system very little to match.",
+        "None of this rewards tricks. It rewards posts that a particular kind of professional finds relevant to their work."
+      ]
+    },
+    {
+      "heading": "Formats that carry a founder's thinking",
+      "paragraphs": [
+        "Pick the format to suit the idea, not the other way round. Two to four posts a week is enough for most founders; consistency of topic matters more than volume."
+      ],
+      "bullets": [
+        "**Text posts** for lessons, opinions and short stories. Open with the claim or the moment of tension, keep paragraphs short and end with a question you actually want answered.",
+        "**Document posts** for frameworks, checklists and comparisons that readers want to keep and share with colleagues.",
+        "**Short video** for explanations that land better with your face and voice, such as a two-minute walk through a whiteboard sketch.",
+        "**Annotated images** for a chart, a product decision or a photo from a site visit, with the insight written in the post.",
+        "**Polls**, sparingly, when you genuinely want market input and will publish what you learned."
+      ]
+    },
+    {
+      "heading": "Comments are half the strategy",
+      "paragraphs": [
+        "In the early months your comments will reach more of the right people than your posts. Spend 20 to 30 minutes a day adding substance to conversations started by customers, prospects, investors and respected peers. A useful comment adds a data point, a counter-example or a sharp question; praise on its own adds nothing.",
+        "Keep a list of 30 to 50 people whose audiences overlap with your buyers and read their posts first. Over a few months the same people keep seeing your name, and many will visit your profile. Reply to every thoughtful comment on your own posts too, because those replies extend the conversation and show you are present."
+      ]
+    },
+    {
+      "heading": "Newsletters: a subscriber list inside LinkedIn",
+      "paragraphs": [
+        "LinkedIn's help center says all members can create a newsletter. Each new edition triggers push, in-app and email notifications to subscribers, and people who follow you are invited to subscribe. That makes a newsletter one of the few ways to reach your audience regardless of what the feed shows on a given day.",
+        "Choose a cadence you can hold — fortnightly or monthly suits most founders — and give each edition one strong idea with evidence: a teardown of a common mistake, a lesson from a customer project or a view on a regulatory change in your sector. Close each issue by pointing readers to something you own, such as your website or an email list, so the relationship doesn't depend on one platform. Our [email marketing and automation](/email-marketing-automation) team often helps founders connect the two."
+      ]
+    },
+    {
+      "heading": "Video without a studio",
+      "paragraphs": [
+        "LinkedIn has been pushing video, adding a swipeable vertical viewing experience and creator tools such as profile previews inside videos and average watch time data in early 2025. You don't need production crews to take part.",
+        "A phone, a quiet room and window light are enough. Record 60 to 120 seconds answering one question customers ask, add burned-in captions because many people watch muted at work, and upload natively rather than posting a link. For Indian audiences, speak in the language mix you would use in a client meeting rather than a polished script."
+      ]
+    },
+    {
+      "heading": "Paid amplification with Thought Leader Ads",
+      "paragraphs": [
+        "Once a founder's organic posts start resonating, the company can put money behind them. LinkedIn's Thought Leader Ads let a company Page sponsor public posts from its employees and other members, with the author's approval for each request. Text, single-image, video, document and article or newsletter posts are eligible; celebrations, polls, multi-image posts and reposts are not.",
+        "This works best when a post already performs organically and speaks to a real buying problem. Aim it at the job titles and companies on your account list rather than broad audiences, and measure it against the same pipeline signals as your organic work. Our [LinkedIn ads and lead generation](/linkedin-ads-lead-generation) service covers how to structure those campaigns."
+      ]
+    },
+    {
+      "heading": "Measure pipeline, not likes",
+      "paragraphs": [
+        "Likes are a weak stand-in for business impact. A founder whose posts earn modest engagement but regularly start conversations with the right buyers is doing better than one with viral posts and an empty calendar."
+      ],
+      "bullets": [
+        "Profile views and new followers from your target job titles and companies.",
+        "Inbound messages and connection requests that mention a specific post.",
+        "Meetings where the prospect has seen your content — add a 'where did you hear about us' question to forms and first calls.",
+        "Opportunities in your CRM tagged as influenced by founder content.",
+        "Newsletter subscribers who work at target accounts."
+      ]
+    },
+    {
+      "heading": "Give it two quarters",
+      "paragraphs": [
+        "Review these numbers monthly, but judge the program over at least two quarters. B2B buying cycles are long and trust builds slowly; the founders who get results are usually the ones who kept going after the first quiet month.",
+        "If you want help setting up the content engine and the measurement around it, see our [LinkedIn marketing](/linkedin-marketing) service."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How often should a founder post on LinkedIn?",
+      "a": "Two to four posts a week, plus daily commenting, is sustainable for most founders. Consistency over several months matters far more than any single week's volume."
+    },
+    {
+      "q": "Can someone else write my posts?",
+      "a": "Many founders work with a writer, but the ideas, stories and opinions must be yours, and you should handle the comments yourself. Readers notice when the voice in the feed doesn't match the person in the meeting."
+    },
+    {
+      "q": "Should we focus on the company page or the founder's profile?",
+      "a": "Both have a role. People tend to engage more readily with people, while the company page carries the brand's official voice, careers content and ads. We weigh the two in [personal vs company branding](/compare/personal-vs-company-branding)."
+    },
+    {
+      "q": "How long before LinkedIn content produces leads?",
+      "a": "Expect a few months of steady posting and commenting before inbound conversations become regular. In the meantime, watch leading signals such as profile views and messages from target accounts."
+    }
+  ],
+  "sources": [
+    { "label": "LinkedIn Engineering — Engineering the next generation of LinkedIn's Feed (Mar 2026)", "url": "https://www.linkedin.com/blog/engineering/feed/engineering-the-next-generation-of-linkedins-feed" },
+    { "label": "LinkedIn Help — LinkedIn Newsletters", "url": "https://www.linkedin.com/help/linkedin/answer/111414" },
+    { "label": "LinkedIn Help — Thought Leader Ads", "url": "https://www.linkedin.com/help/lms/answer/a1399568" },
+    { "label": "TechCrunch — LinkedIn amps up vertical video tools (Feb 2025)", "url": "https://techcrunch.com/2025/02/04/linkedin-amps-up-vertical-video-tools-as-uploads-jump-36" }
+  ]
+}

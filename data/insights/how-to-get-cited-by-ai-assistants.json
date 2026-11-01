@@ -1,0 +1,160 @@
+{
+  "slug": "how-to-get-cited-by-ai-assistants",
+  "category": "search-visibility",
+  "published": "2026-11-01",
+  "eyebrow": "Search, AEO & GEO",
+  "title": "How businesses get cited by ChatGPT, Perplexity, Gemini and Copilot",
+  "metaTitle": "How to Get Cited by AI Assistants",
+  "metaDescription": "How ChatGPT, Perplexity, Gemini and Copilot find and cite businesses: which crawlers to allow, consistent entity details, reviews, original data and tracking.",
+  "lead": "When someone asks an assistant to recommend a CA firm in Gurugram or compare two billing tools, the reply is assembled from sources the assistant can reach and trust. Nobody can buy or promise an organic citation, but you can make sure your business is reachable, consistent and worth quoting. Here's how that works, assistant by assistant.",
+  "keyPoints": [
+    "Each assistant reads the web through its own crawler or a search engine's index, so blocking the wrong user agent can quietly remove you from its answers.",
+    "Search bots and training bots are separate: you can allow OAI-SearchBot, PerplexityBot and Claude-SearchBot while refusing GPTBot or ClaudeBot.",
+    "Assistants lean on what several independent sources agree about you, so consistent details, reviews and third-party mentions matter as much as your own site.",
+    "Specific, original information such as price ranges, process details and local data gives an assistant a reason to cite you instead of a directory.",
+    "Track ChatGPT visits through its utm_source tag, Copilot citations in Bing Webmaster Tools and a fixed set of test prompts each month."
+  ],
+  "sections": [
+    {
+      "heading": "Where each assistant gets its sources",
+      "paragraphs": [
+        "The big assistants don't share one index. Each relies on its own bots, or on a search engine it is tied to, and each publishes separate user agents for search, user-triggered fetching and model training:"
+      ],
+      "bullets": [
+        "**ChatGPT:** search answers rely on `OAI-SearchBot`; `GPTBot` collects content that may train OpenAI's models; `ChatGPT-User` fetches a page when a user's request needs it, and OpenAI notes that robots.txt rules may not apply to those user-initiated visits.",
+        "**Perplexity:** `PerplexityBot` indexes pages so they can be surfaced and linked in answers and, according to Perplexity, is not used to train foundation models; `Perplexity-User` fetches pages on a user's behalf and generally ignores robots.txt.",
+        "**Gemini and Google's AI features:** these draw on the index Googlebot builds. The `Google-Extended` token controls training and grounding for Gemini outside Search and does not affect Search inclusion.",
+        "**Microsoft Copilot:** grounded in Bing's index, so Bingbot access and healthy Bing indexing are what count.",
+        "**Claude:** `Claude-SearchBot` indexes for search, `Claude-User` fetches pages for users and `ClaudeBot` gathers training data; Anthropic says all three honor robots.txt."
+      ]
+    },
+    {
+      "heading": "Set a robots.txt policy on purpose",
+      "paragraphs": [
+        "Many sites block AI bots by accident, through a copied robots.txt file or a firewall's “block AI scrapers” switch. Decide deliberately instead. A business that wants to be recommended should normally allow search and user-fetch bots, then choose separately whether to allow training bots.",
+        "A site that wants visibility without training might add a group with `User-agent: OAI-SearchBot` and `Allow: /`, and another with `User-agent: GPTBot` and `Disallow: /`. OpenAI says robots.txt changes reach its search systems in about a day. Check your CDN and security plugins too, because a bot stopped at the firewall never reads robots.txt at all. Our [robots.txt guide](/robots-txt) walks through the syntax."
+      ]
+    },
+    {
+      "heading": "Make your business unmistakable",
+      "paragraphs": [
+        "Assistants have to work out that the “Sharma & Associates” on your site, on LinkedIn and in a directory are the same firm. Inconsistent names, old addresses and stale phone numbers make that harder and invite wrong answers. The fixes are unglamorous:"
+      ],
+      "bullets": [
+        "Use one exact business name and one primary phone number everywhere.",
+        "Keep an About page that states what you do, where, since when and who leads the business.",
+        "Match details across your site, Google Business Profile, LinkedIn, Justdial, IndiaMART and industry directories.",
+        "Add Organization markup with `sameAs` links to your official profiles.",
+        "Correct or remove listings that still show an old address or number."
+      ]
+    },
+    {
+      "heading": "Earn independent corroboration",
+      "paragraphs": [
+        "An assistant asked which physiotherapy clinics in Chandigarh are good for sports injuries looks for agreement across sources, not just your own claims. The signals you can influence honestly are the same ones that build reputation offline.",
+        "Our [reputation management](/reputation-management) work focuses on exactly this mix of reviews and credible mentions. The signals worth building:"
+      ],
+      "bullets": [
+        "A steady flow of genuine reviews on Google and on platforms specific to your industry.",
+        "Mentions in local news, trade publications, association member lists and event pages.",
+        "Guest articles, podcast appearances and talks where your expertise is visible.",
+        "Client stories published with permission, describing the work and outcomes accurately."
+      ]
+    },
+    {
+      "heading": "Publish information worth citing",
+      "paragraphs": [
+        "Assistants tend to quote the page that answers the question most specifically. A Lucknow interior studio that publishes typical timelines from its own projects, a materials comparison with real prices and a clear account of its process gives an assistant something a generic directory can't.",
+        "Structuring that content so it reads well as a quoted answer is the subject of our [AEO guide](/aeo/guide). Start with:"
+      ],
+      "bullets": [
+        "Price ranges, minimums and what affects cost, even if final quotes vary.",
+        "Follow-up answers on the same page: timelines, documents needed and what happens next.",
+        "The name of whoever wrote or reviewed the content, and when it was last updated.",
+        "Short, dated findings from your own data, such as anonymized enquiry trends or project counts."
+      ]
+    },
+    {
+      "heading": "Technical checks that decide whether you can be read",
+      "paragraphs": [
+        "None of the above helps if a crawler can't fetch and read your pages. Confirm these basics:"
+      ],
+      "bullets": [
+        "Important text is present in the server-rendered HTML, not only after JavaScript runs.",
+        "Pages load without logins, pop-up walls or geo-blocks that stop crawlers.",
+        "A current XML sitemap is submitted to both Google Search Console and Bing Webmaster Tools.",
+        "Canonical tags are correct, with no stray `noindex` and sensible status codes.",
+        "Server logs or bot reports show that the crawlers you allow are actually fetching pages."
+      ]
+    },
+    {
+      "heading": "Monitoring: what you can and can't see",
+      "paragraphs": [
+        "Measurement is patchy, so combine a monthly prompt test with whatever data each platform shares. For the test, write fifteen to twenty questions customers really ask, run them on each assistant in the same wording every month, and log whether you're named, whether the details are right and which sources are cited. Answers vary between sessions, so look for trends rather than single results.",
+        "Alongside the prompt test, watch these signals:"
+      ],
+      "bullets": [
+        "**ChatGPT:** OpenAI adds `utm_source=chatgpt.com` to links from ChatGPT search, so those visits can be segmented in your analytics.",
+        "**Copilot:** the AI Performance report in Bing Webmaster Tools, in public preview since February 2026, shows total citations, cited pages, a sample of grounding queries and page-level citation trends.",
+        "**Google:** Search Console now has a generative AI report; see our breakdown of [what changed in Google's AI search](/insights/google-ai-overviews-ai-mode-what-changed).",
+        "**Perplexity and others:** referral traffic in analytics, read alongside your monthly prompt test."
+      ]
+    },
+    {
+      "heading": "What not to do",
+      "paragraphs": [
+        "Shortcuts tend to backfire, because the same systems that cite you also read complaints, reviews and spam reports. A structured program such as our [GEO service](/geo) avoids these traps:"
+      ],
+      "bullets": [
+        "Buying reviews or mentions, which breaks platform rules and consumer law and tends to generate the complaints assistants later surface.",
+        "Self-published “best agencies in Delhi” lists that rank yourself first without stated criteria.",
+        "Hidden text or instructions aimed at AI systems, which can be treated as manipulation.",
+        "Expecting an llms.txt file to stand in for crawlable, useful pages."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "If I block GPTBot, will ChatGPT stop citing my site?",
+      "a": "Not by itself. GPTBot relates to model training, while ChatGPT search relies on OAI-SearchBot. To stay visible in ChatGPT search, allow OAI-SearchBot even if you block GPTBot."
+    },
+    {
+      "q": "Can I pay to be recommended by ChatGPT or Perplexity?",
+      "a": "Organic answers can't be bought. Where assistants carry advertising, ads are a separate, labeled product, and in India ASCI's 2026 guidelines expect paid AI product suggestions to be marked “Sponsored by [Brand]”."
+    },
+    {
+      "q": "How long do changes take to show up in assistant answers?",
+      "a": "It varies. OpenAI says robots.txt changes reach its search systems in about a day, but recrawling and re-evaluating content can take weeks, and answers differ from one session to the next. Judge progress over months."
+    },
+    {
+      "q": "Does Copilot use Google's results?",
+      "a": "No. Copilot is grounded in Microsoft's Bing index, so verify your site in Bing Webmaster Tools, submit your sitemap there and review its AI Performance report alongside Google Search Console."
+    }
+  ],
+  "sources": [
+    {
+      "label": "OpenAI — Overview of OpenAI crawlers",
+      "url": "https://developers.openai.com/api/docs/bots"
+    },
+    {
+      "label": "OpenAI Help Center — Publishers and developers FAQ",
+      "url": "https://help.openai.com/en/articles/12627856-publishers-and-developers-faq"
+    },
+    {
+      "label": "Perplexity — Perplexity crawlers",
+      "url": "https://docs.perplexity.ai/guides/bots"
+    },
+    {
+      "label": "Anthropic — Does Anthropic crawl data from the web, and how can site owners block the crawler?",
+      "url": "https://support.claude.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler"
+    },
+    {
+      "label": "Google Search Central — AI features guidance, including Google-Extended",
+      "url": "https://developers.google.com/search/docs/appearance/ai-features"
+    },
+    {
+      "label": "Bing Webmaster Blog — Introducing AI Performance in Bing Webmaster Tools (public preview)",
+      "url": "https://blogs.bing.com/webmaster/February-2026/Introducing-AI-Performance-in-Bing-Webmaster-Tools-Public-Preview"
+    }
+  ]
+}

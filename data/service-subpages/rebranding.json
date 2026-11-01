@@ -1,0 +1,345 @@
+{
+  "slug": "rebranding",
+  "guide": {
+    "eyebrow": "Rebranding · 2026 guide",
+    "title": "Rebranding without losing what works: a 2026 guide",
+    "metaTitle": "Rebranding Guide: Refresh, Reposition or Rename",
+    "metaDescription": "When to rebrand, how much to change, and how to protect search rankings, reviews and customer trust through the switch. A practical guide for 2026.",
+    "lead": "A rebrand replaces signals customers already recognize, so it always costs something before it pays back. This guide helps you decide how much to change, protect the equity you have built, and run the switch so customers, search engines and AI assistants follow you to the new identity.",
+    "sections": [
+      {
+        "heading": "Three kinds of change, and why the label matters",
+        "paragraphs": [
+          "“Rebrand” covers very different projects. A **refresh** updates execution, such as a cleaner logo, a modern typeface and new photography, while the name and positioning stay. A **repositioning** changes what the brand stands for or whom it serves, and usually alters messaging more than visuals. A **rename** changes the name itself, the costliest and riskiest move, because every link, review, listing and memory points to the old one.",
+          "Agreeing which of the three you are doing heads off the most common rebrand argument: half the room expecting a facelift and the other half expecting a new company."
+        ]
+      },
+      {
+        "heading": "Good and bad reasons to rebrand",
+        "paragraphs": [
+          "Rebrands pay off when the brand is blocking the business. Typical triggers are a name that limits growth, such as a city name on a company going national; a merger that needs one identity; a move up-market that the current look undermines; a trademark dispute; or a reputation problem that cannot be repaired under the old name.",
+          "Rebrands fail when they cure boredom. Internal teams tire of their own brand long before customers do. A new marketing head, a competitor's fresh look or a feeling that the logo has aged are reasons to investigate, not reasons to change."
+        ],
+        "bullets": [
+          "Which specific business problem does the current brand cause?",
+          "What evidence shows that customers, not only staff, see the problem?",
+          "What is the smallest change that would fix it?"
+        ]
+      },
+      {
+        "heading": "Audit your brand equity before touching anything",
+        "paragraphs": [
+          "Equity lives in specific assets: a color customers link to you, a jingle, a mascot, a shape, a phrase, the name itself. Marketers call these distinctive assets. List every candidate and ask customers which ones they connect to you without prompting. The ones they recognize are worth keeping or evolving; the ones nobody notices can go.",
+          "Run the same audit on digital equity: pages that bring search traffic, backlinks pointing at your domain, reviews on Google and marketplaces, and social handles. These are often worth more than the visual identity, and they are the easiest to lose in a careless switch."
+        ]
+      },
+      {
+        "heading": "Protecting search rankings, reviews and listings",
+        "paragraphs": [
+          "If the website address changes, pair each old page with the closest page on the new site and put permanent (301) redirects in place before launch. Google's Change of Address tool in Search Console tells Google about a move between domains, but it works alongside those redirects, not instead of them. Leave the redirects in place for the long term, since old links and bookmarks keep sending visitors well after launch.",
+          "Update your Google Business Profile, marketplace stores, directory listings and social handles in a planned order. Changing the name on a verified Business Profile can trigger re-verification, so have documents showing the new name ready. The technical side is laid out in our piece on [keeping rankings through a rebrand](/insights/rebrand-without-losing-seo), step by step."
+        ]
+      },
+      {
+        "heading": "Legal and paperwork steps people forget",
+        "paragraphs": [
+          "A new name or logo needs its own trademark search and, usually, a fresh application, because a registration covers the mark as registered, not its successor. If the registered company name changes too, Indian companies pass a special resolution and file with the Registrar of Companies, then update bank, GST and other registrations. These are jobs for your trademark attorney, company secretary and accountant, but the brand timeline has to make room for them.",
+          "Contracts, invoices, letterheads, email signatures, vehicle livery, uniforms and signage all carry the old identity. An asset inventory built early turns this from a last-minute scramble into a checklist."
+        ]
+      },
+      {
+        "heading": "Teaching AI assistants the new name",
+        "paragraphs": [
+          "Search features and AI assistants describe businesses from what they find across the web, and old descriptions linger. After a rename, publish a clear announcement on your own site, mention the former name on your About page, and make sure structured data, social profiles and major directories all carry the new name with the same description.",
+          "Check every month what assistants say when asked about the old and the new name. Where answers stay outdated, the cause is almost always a source still carrying the old details. For the mechanics, read [how AI assistants choose sources](/insights/how-to-get-cited-by-ai-assistants) on our insights hub."
+        ]
+      },
+      {
+        "heading": "Rolling out: your people first, then customers",
+        "paragraphs": [
+          "Launch internally before you launch publicly. Staff, dealers and franchisees should understand why the brand changed and have new materials in hand before customers ask them about it. A rebrand that employees cannot explain looks like something is being hidden.",
+          "For customers, explain the change in terms of what it means for them: same team, same service, a new name because the business now serves more cities, for instance. Some brands run a transition period with “formerly known as” lines; others switch overnight. The right choice depends on how much recognition the old name carries. Our [rebranding process](/rebranding/process) shows how we plan each route."
+        ],
+        "bullets": [
+          "**Big-bang launch**: everything changes on one date; suits renames after mergers, or old brands with baggage.",
+          "**Phased rollout**: digital first, then print, signage and vehicles as stock runs out; gentler on budget.",
+          "**Endorsed transition**: the new name appears beside the old one for a set period, then the old one is retired."
+        ]
+      },
+      {
+        "heading": "Measuring whether the rebrand worked",
+        "paragraphs": [
+          "Measure against a baseline taken before launch, and judge results over quarters, not weeks. If you are still unsure whether you need a rebrand at all, [talk to us](/contact) before briefing anyone on design."
+        ],
+        "bullets": [
+          "Searches for the new name rising as searches for the old one taper off",
+          "Organic traffic and rankings holding steady through the first months after launch",
+          "Retention of existing customers, dealers and partners through the switch",
+          "A perception survey repeated before and after, using identical questions",
+          "Inquiries from the new audience or market the rebrand was meant to reach"
+        ]
+      }
+    ],
+    "takeaways": [
+      "Decide whether you need a refresh, a repositioning or a rename before anything is designed.",
+      "Rebrand to solve a business problem customers can see, not because the team is tired of the brand.",
+      "Keep the distinctive assets customers recognize and retire the ones nobody notices.",
+      "Redirects, listings, reviews and trademarks need a plan before launch day, not after it.",
+      "Brief employees and partners first, then tell customers what changes for them."
+    ],
+    "faqs": [
+      {
+        "q": "Will we lose our Google reviews if we change our name?",
+        "a": "Reviews belong to the Business Profile rather than the name, so renaming the existing profile is generally the way to keep them; creating a fresh profile starts from zero. Expect Google to ask you to re-verify after the change, and avoid leaving a duplicate profile under either name."
+      },
+      {
+        "q": "Should we keep our old domain after rebranding?",
+        "a": "Yes. Keep it registered and redirecting for as long as you can. Old links, bookmarks, printed materials and email threads will keep pointing at it, and if it lapses, someone else can buy it."
+      },
+      {
+        "q": "Can we rebrand in stages if budget is tight?",
+        "a": "Yes. Digital touchpoints are cheapest to change and usually go first; signage, vehicles and printed stock can follow as each comes up for replacement. Set a firm end date so the two identities do not live side by side indefinitely."
+      },
+      {
+        "q": "How do we stop people using the old logo?",
+        "a": "Remove old files from shared drives, publish the new ones in one place, and give teams ready templates so the new identity is easier to use than the old one. Once more than a handful of people create materials, a short [brand playbook](/brand-playbook) keeps everyone aligned."
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "Rebranding · How we work",
+    "title": "How we run a rebrand, from equity audit to launch day",
+    "metaTitle": "Our Rebranding Process: Audit to Rollout",
+    "metaDescription": "Our rebranding process step by step: equity audit, research, scope decision, strategy and design, transition planning, internal launch and public rollout.",
+    "lead": "A rebrand changes something people already know, so our process spends as much effort on protecting what works and planning the switch as on the new design. Every step ends with a decision or a document you approve.",
+    "steps": [
+      {
+        "title": "Brand equity audit",
+        "summary": "We document what the current brand owns in customers' minds and online before suggesting any change.",
+        "activities": [
+          "Inventory of logos, colors, taglines, mascots, sounds and other recognizable assets",
+          "Digital equity review covering top search pages, backlinks, reviews, listings and handles",
+          "A list of every place the brand appears, from invoices to delivery vans",
+          "Review of current trademark registrations with your legal adviser"
+        ],
+        "output": "An equity audit and a full asset inventory, which later becomes the rollout checklist."
+      },
+      {
+        "title": "Stakeholder and customer research",
+        "summary": "We establish why the brand needs to change and whether customers agree.",
+        "activities": [
+          "Interviews with leadership, sales, front-line staff and key partners",
+          "Customer interviews or surveys on recognition, perception and associations",
+          "Competitor review in both current and target markets",
+          "Analysis of the gap between how the brand is seen and how it needs to be seen"
+        ],
+        "output": "A research summary naming the problem the rebrand must solve."
+      },
+      {
+        "title": "Scope decision",
+        "summary": "With the evidence in front of you, we agree the degree of change: refresh, repositioning or rename. The trade-offs are laid out in our [rebranding guide](/rebranding/guide).",
+        "activities": [
+          "A workshop weighing each option against the problem, the cost and the risk",
+          "A list of assets to keep, evolve or retire",
+          "A rough estimate of rollout effort for each option",
+          "Sign-off on scope before strategy and design begin"
+        ],
+        "output": "A scope document fixing what will change and what will not."
+      },
+      {
+        "title": "Strategy and identity design",
+        "summary": "We update positioning and messaging, then design the new or evolved identity around the assets worth keeping.",
+        "activities": [
+          "Revised positioning, messaging and tone of voice",
+          "Name development and screening, if a rename is in scope",
+          "Design routes that show how much of the old identity carries over",
+          "Refinement and application to priority touchpoints"
+        ],
+        "output": "An approved strategy and identity, with updated guidelines."
+      },
+      {
+        "title": "Transition plan",
+        "summary": "We turn the asset inventory into a dated plan so nothing is missed at launch.",
+        "activities": [
+          "URL redirect map and website launch checklist, prepared with your developer or our [SEO](/seo) team",
+          "A sequence for updating Google Business Profile, marketplaces, directories and social handles",
+          "A print, signage, packaging and vehicle schedule agreed with suppliers",
+          "Customer, partner and media communication plan, including an FAQ"
+        ],
+        "output": "A rollout plan with an owner, a date and dependencies for every touchpoint."
+      },
+      {
+        "title": "Internal launch",
+        "summary": "Your team and partners see the new brand first, along with the story and the tools to use it.",
+        "activities": [
+          "A briefing session or short video explaining why the brand changed",
+          "Templates, email signatures and presentation files ready on day one",
+          "Talking points for sales, support and front-line staff",
+          "Removal of old files from shared drives"
+        ],
+        "output": "A team that can explain the change and has everything it needs to apply it."
+      },
+      {
+        "title": "Public rollout and monitoring",
+        "summary": "We launch in the agreed sequence and watch the signals that show whether customers and search engines are following.",
+        "activities": [
+          "Announcement across the website, social channels, email and WhatsApp",
+          "Monitoring of redirects, rankings, branded search and listing updates",
+          "Tracking customer questions and sentiment, and adjusting messaging",
+          "A review at the end of the first quarter"
+        ],
+        "output": "A launched brand and a post-launch report listing any fixes still needed."
+      }
+    ],
+    "deliverables": [
+      "Brand equity audit and asset inventory",
+      "Research summary and scope document",
+      "Updated positioning, messaging and voice",
+      "New or evolved visual identity, with guidelines",
+      "Redirect map and digital transition checklist",
+      "Dated rollout plan covering every touchpoint",
+      "Internal launch kit and customer communication pack",
+      "Post-launch monitoring report"
+    ],
+    "youProvide": [
+      "Access to brand files, website, analytics, Search Console and Google Business Profile",
+      "Contacts for your printing, signage and packaging suppliers",
+      "Leadership time and a few customer contacts for research",
+      "Your legal adviser's input on trademarks and any company name change",
+      "Approvals at each step from one accountable decision-maker"
+    ],
+    "faqs": [
+      {
+        "q": "Do we need to stop marketing during the rebrand?",
+        "a": "Rarely. Campaigns usually continue under the old brand until a planned cut-over date, and we time new creative so it is ready for launch day. Pausing everything for months tends to cost more than a short overlap."
+      },
+      {
+        "q": "Can you work with our existing web developer?",
+        "a": "Yes. We supply the redirect map, launch checklist and new design assets, then check the live site after launch. If you have no developer, our [web development](/web-development) team can handle the site."
+      },
+      {
+        "q": "What if research shows we don't need a rebrand?",
+        "a": "Then we will tell you. Sometimes the real issue is weak messaging, inconsistent execution or an underperforming website, and a smaller fix makes more sense than a new identity."
+      }
+    ]
+  },
+  "useCases": {
+    "eyebrow": "Rebranding · Who it's for",
+    "title": "Rebranding use cases: when established businesses change, and how",
+    "metaTitle": "Rebranding Use Cases for Established Brands",
+    "metaDescription": "Six illustrative rebrand scenarios, from a heritage sweet shop to a logistics merger and an exporter, each with the challenge, approach and what to measure.",
+    "lead": "Rebrands start from different places: a heritage name that feels dated, two firms becoming one, a business that has outgrown its city. These illustrative scenarios show how the scope and the risks change with each. None of them describes a real client.",
+    "cases": [
+      {
+        "title": "A heritage sweet shop modernizing without losing regulars",
+        "businessType": "Family-run sweet shop chain · Lucknow",
+        "challenge": "Older customers love the shops, but younger buyers ordering festival gift boxes online see the brand as old-fashioned beside new premium mithai labels. The family worries that any change will feel like a betrayal.",
+        "approach": [
+          "Audit which assets regulars recognize, such as the founder's name, a signature color or the hand-lettered sign",
+          "Refresh rather than rename: keep the core assets and modernize type, packaging and photography",
+          "Introduce the refreshed look first on a premium gift-box range",
+          "Tell the family's story in store and online so the change reads as continuity"
+        ],
+        "measure": [
+          "Online and corporate gift-box orders in festival seasons",
+          "Repeat visits from existing customers after the refresh",
+          "Social mentions and tags from younger buyers"
+        ]
+      },
+      {
+        "title": "Two logistics firms merging into one",
+        "businessType": "Logistics companies · Delhi NCR and Jaipur",
+        "challenge": "Two family-owned logistics firms are merging. Each runs trucks, warehouses and long-standing client accounts under its own name, and drivers and staff identify strongly with their old company.",
+        "approach": [
+          "Interview leaders, staff and major clients from both sides about what each brand stands for",
+          "Choose between a new name and keeping one existing name, based on recognition and legal checks",
+          "Plan the changeover of fleet, warehouses and uniforms depot by depot to control cost",
+          "Hold an internal launch for staff and drivers before any client announcement"
+        ],
+        "measure": [
+          "Client retention from both firms over the first year",
+          "Staff understanding of the new brand story in internal pulse surveys",
+          "Consistency of the new identity across fleet, depots and documents"
+        ]
+      },
+      {
+        "title": "A city-named business going national",
+        "businessType": "Modular kitchen company · Pune",
+        "challenge": "The company's name includes its home city, which helped locally but confuses customers in Hyderabad and Bengaluru, where it is opening studios. Its website ranks well for local searches under the old name.",
+        "approach": [
+          "Rename while keeping the visual assets customers recognize, so the switch feels familiar",
+          "Map every URL and set redirects, following our checklist for [rebranding without losing SEO](/insights/rebrand-without-losing-seo)",
+          "Rename existing Google Business Profiles instead of creating new ones, with documents ready for re-verification",
+          "Run an endorsed transition with a “formerly known as” line for an agreed period"
+        ],
+        "measure": [
+          "Organic traffic and rankings through the first two quarters after launch",
+          "Searches for the new name in the new cities",
+          "Leads from the new cities against plan"
+        ]
+      },
+      {
+        "title": "A startup pivoting from consumers to businesses",
+        "businessType": "Fintech startup · Bengaluru",
+        "challenge": "The company began with a playful consumer app and now sells software to banks and NBFCs. Its cartoon mascot and casual tone make procurement teams hesitate.",
+        "approach": [
+          "Reposition for enterprise buyers, with messages built on security, compliance support and reliability",
+          "Evolve the identity toward a more restrained system and retire the mascot from B2B materials",
+          "Rewrite the website and sales deck for the new audience",
+          "Explain the pivot directly to existing users and investors"
+        ],
+        "measure": [
+          "Progress of enterprise deals through procurement stages",
+          "First-impression feedback gathered on sales calls",
+          "Inbound inquiries from financial institutions"
+        ]
+      },
+      {
+        "title": "An exporter rebranding for overseas buyers",
+        "businessType": "Textile manufacturer · Ludhiana",
+        "challenge": "The manufacturer has supplied Indian retailers for decades and now wants direct relationships with buyers in Europe and the Gulf. Its brand was built for domestic trade fairs: a long name, a dated logo and a catalog written for local agents.",
+        "approach": [
+          "Research how target buyers evaluate suppliers and what signals quality and compliance to them",
+          "Shorten or adapt the name for international use, with trademark checks in target markets",
+          "Refresh the identity and rebuild the catalog, website and LinkedIn presence in buyer-friendly English",
+          "Present certifications and capacity facts the same way on every channel"
+        ],
+        "measure": [
+          "Qualified inquiries from overseas buyers",
+          "Meetings booked at international trade fairs",
+          "Website visits from target countries"
+        ]
+      },
+      {
+        "title": "A clinic group moving beyond its founder's name",
+        "businessType": "Multi-specialty clinic group · Indore",
+        "challenge": "The clinics carry the founding doctor's name, which works locally but makes it harder to recruit senior specialists and expand. Patients, however, trust that name deeply.",
+        "approach": [
+          "Research how much patient trust rests on the founder versus the clinics' service",
+          "Use an endorsed approach: a new group name with a “founded by” credit during the transition",
+          "Keep every announcement factual and in line with medical advertising rules",
+          "Update Business Profiles, signage and patient-facing documents on a phased schedule"
+        ],
+        "measure": [
+          "Patient retention and appointment volumes through the transition",
+          "Searches for the new name in Indore",
+          "Inquiries from specialists interested in joining"
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Which kind of rebrand carries the most risk?",
+        "a": "Renames that touch a strong website or many physical locations, because there are more places for equity to leak. The city-named and clinic scenarios above both need careful transition plans, which is what our [rebranding process](/rebranding/process) is built around."
+      },
+      {
+        "q": "Is a refresh enough if our only problem is a dated look?",
+        "a": "Often, yes. If customers know and like the name and you are not changing direction, updating the visual system and photography usually solves the problem with far less disruption than a rename."
+      },
+      {
+        "q": "Can you help if we have already started a rebrand in-house?",
+        "a": "Yes. We can audit what has been done, fill gaps such as redirects or rollout planning, and help finish the job. [Book a consultation](/book-consultation) and bring whatever you have so far."
+      }
+    ]
+  }
+}

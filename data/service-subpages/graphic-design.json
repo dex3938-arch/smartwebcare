@@ -1,0 +1,334 @@
+{
+  "slug": "graphic-design",
+  "guide": {
+    "eyebrow": "Graphic design · 2026 guide",
+    "title": "Graphic design for marketing: briefs, formats and what works in 2026",
+    "metaTitle": "Marketing graphic design guide for 2026",
+    "metaDescription": "A practical guide to marketing graphic design in 2026: writing briefs, hierarchy and type, Meta ad formats, print files, AI image tools and testing creative.",
+    "lead": "Most business design work is not a logo. It is the steady flow of posts, ads, decks, brochures and banners that carry your brand every week. This guide covers how to plan that work so it stays consistent and earns attention.",
+    "sections": [
+      {
+        "heading": "What marketing design is for",
+        "paragraphs": [
+          "Each marketing asset has one job: make a specific message clear to a specific audience in the moment they see it. A festive offer post, a sales deck slide and an exhibition standee all need hierarchy, legibility and an obvious next step, even though they live in very different places.",
+          "It builds on brand identity but is a separate discipline. Identity work, covered under [brand development](/brand-development), creates the logo, palette and typefaces. Graphic design applies them again and again, in formats the identity designer may never have pictured, without letting the brand drift."
+        ]
+      },
+      {
+        "heading": "Start with the brief, not the canvas",
+        "paragraphs": [
+          "Weak briefs produce endless revisions. Before anyone opens a design tool, write down the single message, the audience, where the asset will appear, the action you want and the deadline. If the message will not fit in one sentence, no layout will rescue it."
+        ],
+        "bullets": [
+          "**Message:** one idea per asset; a second idea deserves a second asset.",
+          "**Placement:** feed post, Story, email header, flyer or slide, with exact pixel or print sizes.",
+          "**Mandatories:** logo, legal lines, prices, validity dates and registration numbers such as RERA where they apply.",
+          "**References:** examples you like and, just as useful, examples you dislike.",
+          "**Success measure:** what the asset should change, such as clicks, replies or walk-ins."
+        ]
+      },
+      {
+        "heading": "Hierarchy, type and color that survive a phone screen",
+        "paragraphs": [
+          "Most marketing graphics are seen on a phone, often for a moment while someone scrolls. That rewards one dominant element, a short headline set heavy enough to read at thumbnail size, and strong contrast between text and background.",
+          "Review every design at the size it will actually appear. A layout that looks balanced on a large monitor often turns into tiny, unreadable type in a feed. When text sits over a photo, add a solid panel or a dark overlay instead of hoping the image stays quiet behind the words.",
+          "If your audience reads Hindi, Tamil, Bengali or another Indian script, choose typefaces that render that script properly and leave room for longer lines. Bilingual designs need matched weights and sizes so neither language looks like an afterthought."
+        ]
+      },
+      {
+        "heading": "The formats platforms recommend",
+        "paragraphs": [
+          "Platforms adjust their layouts often, so check current specs before every major campaign. Meta's ad guidance recommends vertical 9:16 creative for Stories and Reels placements and notes that the safe zones for those two differ. For feeds, it advises 1:1 or 4:5 images rather than horizontal crops, which take up less of the screen.",
+          "Ads Manager can resize assets automatically, but automatic crops often cut off headlines, faces or the product itself. Building a native version for each important placement keeps you in control of what people actually see."
+        ],
+        "bullets": [
+          "**Full-screen vertical (9:16):** Stories, Reels covers and WhatsApp Status. Keep text and logos clear of the interface at the top and bottom.",
+          "**Portrait and square (4:5, 1:1):** feed posts and carousel cards.",
+          "**Landscape (1.91:1 or 16:9):** link previews, YouTube thumbnails, website banners and slides."
+        ]
+      },
+      {
+        "heading": "Print still plays by its own rules",
+        "paragraphs": [
+          "Brochures, standees, menu cards and packaging inserts remain a big part of the work for Indian retailers, clinics and property developers. Print files need different preparation from screen files, and errors are costly once a run is on paper."
+        ],
+        "bullets": [
+          "Ask your printer for their preferred color profile; screen designs are built in RGB, while print workflows typically use CMYK.",
+          "Add bleed beyond the trim edge and keep important text inside a safe margin, following the printer's specs.",
+          "Export at the resolution the printer requests, with fonts embedded or outlined.",
+          "Check a physical proof on the actual paper stock before approving a large run.",
+          "Store editable source files and final print-ready PDFs in one clearly named folder."
+        ]
+      },
+      {
+        "heading": "AI image tools: useful, with house rules",
+        "paragraphs": [
+          "Generative features now sit inside the software designers use daily, from background removal to extending a photo so it fits a new aspect ratio. They save real time on production chores. They remain unreliable for accurate product details, hands, rendered text in Indian scripts and anything that must match a real place or person.",
+          "Provenance is becoming part of the file itself. Adobe automatically attaches Content Credentials, based on the C2PA standard, to images generated entirely with Firefly. In India, the IT Rules were amended in February 2026 so that platforms must prominently label realistic synthetic images, audio and video. The safe habits for marketers are simple: never present AI-generated people, products or results as real, keep a record of what was generated, and read the license terms of every tool you use."
+        ]
+      },
+      {
+        "heading": "Templates, consistency and measuring creative",
+        "paragraphs": [
+          "Templates are how small teams stay consistent without a designer on every post. A good set covers your most-used formats, locks the logo, colors and type, and marks clear zones for text and images. The rules on which template to use when belong in your [brand playbook](/brand-playbook).",
+          "Judge creative by what it changes. For ads, compare versions that differ in one element at a time, such as the headline, image or offer. For organic posts, saves, shares and replies say more than likes. For sales collateral, ask the sales team which slides they use and which they skip."
+        ],
+        "bullets": [
+          "Read results at the creative level in your ad platform, not only campaign totals.",
+          "Keep a simple log of what each asset tested and what you learned.",
+          "Retire templates that keep underperforming instead of tweaking them forever."
+        ]
+      }
+    ],
+    "takeaways": [
+      "Write a one-sentence message and a placement list before design starts.",
+      "Check every asset at the size it will appear on a phone.",
+      "Build native 9:16, 4:5 and landscape versions instead of relying on automatic crops.",
+      "Prepare print files with bleed, the printer's color profile and a physical proof.",
+      "Use AI tools for production chores, and never pass off generated people or results as real.",
+      "Test creative one change at a time so you know what made the difference."
+    ],
+    "faqs": [
+      {
+        "q": "Should we design in Canva ourselves or hire a designer?",
+        "a": "The two work well together. A designer can build a set of locked Canva templates for everyday posts that your team fills in. Bring in design support for campaigns, ads, decks and print, where hierarchy and production quality have more effect on results."
+      },
+      {
+        "q": "How many ad creative variations should we test?",
+        "a": "Enough to learn something, but not so many that each version gets too little spend to judge. Start with a few concepts that differ in one clear way, such as the offer or the main image, then build more variations around the winner."
+      },
+      {
+        "q": "Can AI-generated images be used in ads?",
+        "a": "Often, within each platform's ad policies and the tool's license terms. Avoid using them to show real customers, before-and-after results or products that differ from what you sell, and label realistic synthetic content wherever the platform asks. When accuracy matters, a real [photo shoot](/shoot-services) is the safer choice."
+      },
+      {
+        "q": "How is graphic design different from packaging design?",
+        "a": "Packaging has its own constraints: dielines, materials, mandatory label information and how the pack reads on a shelf or as a marketplace thumbnail. We handle it as a separate service, [product packaging design](/product-packaging-design), while graphic design covers marketing and sales assets."
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "Graphic design · How we deliver",
+    "title": "How SmartWebCare produces your marketing designs",
+    "metaTitle": "Our graphic design process and deliverables",
+    "metaDescription": "How SmartWebCare runs graphic design: brief, concept routes, master design, adaptation to every format, proofing and an organized library of final files.",
+    "lead": "Design moves fastest when the brief is tight and the files are organized. Our process works for one-off campaigns and for the steady monthly flow of social, ad and sales assets.",
+    "steps": [
+      {
+        "title": "Brief and brand check",
+        "summary": "We turn your request into a written brief and check it against your brand rules, so the first draft aims at the right target.",
+        "activities": [
+          "Short call or form covering message, audience, placements, mandatories and deadline",
+          "Review of brand guidelines, past designs and what performed well before",
+          "List of exact sizes and file specs for each placement or printer",
+          "Clarifying questions sent together in one batch"
+        ],
+        "output": "A signed-off brief with the deliverables list, sizes and dates."
+      },
+      {
+        "title": "Concept routes",
+        "summary": "For campaigns and new template sets we start with a few distinct directions on one hero format, so you pick a route before we adapt it everywhere.",
+        "activities": [
+          "Moodboard or reference pull for the campaign theme",
+          "Two or three concept routes on the main placement",
+          "Headline and visual hierarchy options",
+          "Short rationale for how each route answers the brief"
+        ],
+        "output": "Concept routes to choose from, with our recommendation."
+      },
+      {
+        "title": "Master design and refinement",
+        "summary": "We develop the chosen route into a finished hero design, with feedback gathered as comments on the file so each round stays focused.",
+        "activities": [
+          "Full design of the hero asset with final copy",
+          "Image sourcing, retouching or a photography brief if new images are needed",
+          "Checks on text size and contrast for legibility",
+          "One consolidated feedback round per draft"
+        ],
+        "output": "An approved master design that sets the look for every other format."
+      },
+      {
+        "title": "Adaptation across formats",
+        "summary": "We rebuild the master natively for each placement rather than stretching one file, keeping text inside every platform's safe areas.",
+        "activities": [
+          "Versions for 9:16, 4:5, 1:1 and landscape placements as briefed",
+          "Language versions, for example Hindi and English, with matched type",
+          "Print versions with bleed, safe margins and the printer's color profile",
+          "Editable templates for assets your team will repeat"
+        ],
+        "output": "A complete, consistent set of assets for every placement in the brief."
+      },
+      {
+        "title": "Proofing and quality check",
+        "summary": "Every file is checked before it leaves us, because a typo on a printed standee is expensive and a wrong price in an ad misleads customers.",
+        "activities": [
+          "Copy, price, date and contact-detail check against the brief",
+          "Size, resolution and file-type check for each placement",
+          "Preview on phone screens and, for print, a soft or physical proof",
+          "Final sign-off from your named approver"
+        ],
+        "output": "Approved, error-checked files ready to publish or print."
+      },
+      {
+        "title": "Handover and asset library",
+        "summary": "We deliver files in a clear folder structure, with templates and usage notes your team can follow, ideally anchored in your [brand playbook](/brand-playbook).",
+        "activities": [
+          "Exports in the formats each channel needs, plus source files",
+          "Folder naming by campaign, format and language",
+          "Template guide for in-house use",
+          "Notes on what to test next for ad creative"
+        ],
+        "output": "An organized asset library with print-ready and digital files, sources and templates."
+      }
+    ],
+    "deliverables": [
+      "Written brief with sizes and specs for every placement",
+      "Concept routes with rationale",
+      "Final designs for each agreed format and language",
+      "Print-ready PDFs prepared to your printer's specs",
+      "Editable source files and reusable templates",
+      "Organized asset library with consistent file naming",
+      "Short template guide for your team"
+    ],
+    "youProvide": [
+      "Logo files, brand guidelines and fonts, or their license details",
+      "Final copy, prices, offers and legal lines, or approval for us to write them",
+      "Product photos or access to a shoot",
+      "Printer specs or ad platform requirements where you have them",
+      "One approver per project to keep feedback consistent"
+    ],
+    "faqs": [
+      {
+        "q": "Can you handle a monthly volume of social and ad designs?",
+        "a": "Yes. For ongoing work we agree a monthly plan of formats and deadlines, build templates for repeat formats and keep time free for reactive pieces like festive offers. It pairs naturally with [Instagram marketing](/instagram-marketing) or [performance marketing](/performance-marketing) when we run those channels too."
+      },
+      {
+        "q": "Do you write the copy on the designs?",
+        "a": "We can. Our team writes headlines, ad text and deck copy when the brief includes it, and you approve the words before design is finalized. If you already have copy, we edit it only for length and clarity on the layout."
+      },
+      {
+        "q": "Will you work directly with our printer?",
+        "a": "Yes. Send us their specs or put us in touch, and we prepare files to their requirements. For large or expensive runs we recommend a physical proof first."
+      }
+    ]
+  },
+  "useCases": {
+    "eyebrow": "Graphic design · Who it's for",
+    "title": "Graphic design for brands that publish, sell and pitch every week",
+    "metaTitle": "Graphic design use cases for growing brands",
+    "metaDescription": "Illustrative graphic design scenarios for D2C brands, clinics, manufacturers, coaches, real estate and restaurants, with our approach and what to measure.",
+    "lead": "The right design support depends on how much you publish and where it appears. These illustrative scenarios show common situations and how we would approach each one.",
+    "cases": [
+      {
+        "title": "Festive campaign creative for a skincare brand",
+        "businessType": "D2C skincare brand · Mumbai",
+        "challenge": "Diwali and wedding-season sales need dozens of assets across Meta ads, Instagram, the website and marketplace banners at the same time. Last season each piece was made separately, and the campaign looked like five different brands.",
+        "approach": [
+          "One campaign master design approved before any adaptation",
+          "Native versions for each ad placement and marketplace banner size",
+          "Variations that test offer framing and product image one change at a time",
+          "Claims on every creative checked against what the product label supports"
+        ],
+        "measure": [
+          "Click-through and cost per purchase by creative in Ads Manager",
+          "Visual consistency of the campaign across channels",
+          "Time from brief to live assets"
+        ]
+      },
+      {
+        "title": "Patient education visuals for a clinic",
+        "businessType": "Physiotherapy clinic · Chandigarh",
+        "challenge": "The clinic wants to explain treatments on Instagram and in the waiting room without sounding like advertising or making promises that medical conduct rules frown on.",
+        "approach": [
+          "Carousel templates for explainers with simple diagrams and plain-language captions",
+          "Waiting-room posters and take-home exercise sheets in Hindi and English",
+          "A house rule of no before-and-after images or outcome claims, written into the template guide",
+          "Doctor review of every medical statement before it is published"
+        ],
+        "measure": [
+          "Saves and shares on explainer posts",
+          "Patients who mention the content during appointments",
+          "Reprint requests for exercise sheets"
+        ]
+      },
+      {
+        "title": "A modular sales deck for a manufacturer",
+        "businessType": "Industrial packaging manufacturer · Vadodara",
+        "challenge": "Each sales rep carries a personal version of the company deck, with old photos, mismatched specs and charts pasted from spreadsheets. Large buyers notice the inconsistency.",
+        "approach": [
+          "Interviews with the sales team on which slides win meetings and which they skip",
+          "A modular deck with core story slides and swappable industry sections",
+          "Charts redrawn from source data in one consistent style",
+          "A locked master template so reps can update figures without breaking layouts"
+        ],
+        "measure": [
+          "Reps using the current deck version",
+          "Meetings that progress to a quote or sample request",
+          "Time needed to prepare a tailored deck"
+        ]
+      },
+      {
+        "title": "Content templates for a leadership coach",
+        "businessType": "Executive coach · Bengaluru",
+        "challenge": "The coach posts on LinkedIn and Instagram several times a week but designs everything late at night in a free tool. Posts look inconsistent, and there is never time to build a lead magnet.",
+        "approach": [
+          "A personal brand template set covering quote cards, carousels and event banners",
+          "Editable Canva versions so an assistant can produce routine posts",
+          "An ebook layout for a downloadable guide that collects email sign-ups",
+          "A quarterly template refresh based on which posts drew replies"
+        ],
+        "measure": [
+          "Time spent producing each post",
+          "Comments, replies and profile visits from carousels",
+          "Ebook downloads and email sign-ups"
+        ]
+      },
+      {
+        "title": "Launch collateral for a residential tower",
+        "businessType": "Real estate project · Noida",
+        "challenge": "A new tower launch needs billboards, brochures, site-office standees, WhatsApp creatives and digital ads, all carrying the RERA registration number and matching renders, inside a tight launch window.",
+        "approach": [
+          "One key visual approved first, then a production schedule split by print and digital deadlines",
+          "A brochure with floor plans redrawn for legibility and accurate area labels",
+          "Vertical WhatsApp creatives and carousel cards for channel partners",
+          "Mandatory project details placed in the same position on every template"
+        ],
+        "measure": [
+          "Enquiries by creative and channel",
+          "Channel partners actively using the supplied creatives",
+          "Errors caught at proof stage before printing"
+        ]
+      },
+      {
+        "title": "Menus and promotions for a café chain",
+        "businessType": "Café chain · Kolkata",
+        "challenge": "Each outlet edits its own menu and makes its own promo posts, so prices, dish names and photos differ between branches and delivery apps.",
+        "approach": [
+          "A master menu design with outlet-specific price layers",
+          "Banner and dish-photo guidelines for delivery apps",
+          "Weekly promo templates that outlet managers can fill in",
+          "Seasonal menu inserts planned alongside the marketing calendar"
+        ],
+        "measure": [
+          "Menu and price errors reported by outlets",
+          "Orders of promoted dishes",
+          "Time from a new dish to a live menu and posts"
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "We have a logo but no guidelines. Where should we start?",
+        "a": "Start with a small set of rules: logo usage, colors, fonts and a few templates for the formats you use most. If the identity itself needs reviewing or extending, [brand development](/brand-development) or a [brand playbook](/brand-playbook) is the better first step."
+      },
+      {
+        "q": "Is professional design worth it if we only post organically?",
+        "a": "Yes, if you post regularly. Consistent, readable design makes your content recognizable in a crowded feed and saves your team time on every post. A template set is often the most cost-effective place to begin."
+      },
+      {
+        "q": "How do we get started?",
+        "a": "Send a list of the assets you need each month and a few examples of past work through our [project brief](/contact/project-brief) form. We will suggest a plan and scope it after a free consultation."
+      }
+    ]
+  }
+}

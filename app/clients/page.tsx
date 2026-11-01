@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { ExploreCarousel } from "@/components/sections/explore-carousel";
 import { ArrowUpRight } from "lucide-react";
 import { PageHero } from "@/components/sections/page-hero";
 import { CtaBand } from "@/components/sections/cta-band";
@@ -81,6 +82,7 @@ export default function ClientsPage() {
           Testimonials as shared with SmartWebCare. Outcomes are as stated by the clients themselves.
         </p>
       </section>
+      <ExploreCarousel section="clients" title="Working with SmartWebCare" />
       <CtaBand title="Your brand could be next." />
     </>
   );

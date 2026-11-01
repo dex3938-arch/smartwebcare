@@ -103,7 +103,7 @@ export function ContactDock() {
               href={telHref()}
               onClick={() => track("phone_click", { location: "floating" })}
               aria-label={`Call ${SITE.name} on ${SITE.phone}`}
-              className="group flex h-12 items-center overflow-hidden rounded-full bg-[var(--color-navy)] px-3.5 text-white shadow-[0_10px_30px_-8px_rgba(8,27,58,0.45)] focus-visible:outline-offset-4"
+              className="group flex h-12 items-center overflow-hidden rounded-full bg-[var(--color-navy)] px-3.5 text-white shadow-[0_10px_30px_-8px_rgba(8,27,58,0.45)] ring-2 ring-white/40 focus-visible:outline-offset-4"
             >
               <Phone className="h-5 w-5 shrink-0" aria-hidden />
               <span className="max-w-0 whitespace-nowrap text-[0.92rem] font-medium opacity-0 transition-all duration-300 group-hover:ml-2 group-hover:max-w-[200px] group-hover:opacity-100 group-focus-visible:ml-2 group-focus-visible:max-w-[200px] group-focus-visible:opacity-100">

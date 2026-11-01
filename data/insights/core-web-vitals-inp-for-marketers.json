@@ -1,0 +1,136 @@
+{
+  "slug": "core-web-vitals-inp-for-marketers",
+  "category": "search-visibility",
+  "published": "2026-11-01",
+  "eyebrow": "Search, AEO & GEO",
+  "title": "Core Web Vitals for marketers: LCP, INP and CLS explained, and how to brief a developer",
+  "metaTitle": "Core Web Vitals and INP Explained for Marketers",
+  "metaDescription": "LCP, INP and CLS in plain English: Google's thresholds, field vs lab data, what breaks them on marketing sites and a brief you can hand your developer.",
+  "lead": "Core Web Vitals are Google's three measures of how a page feels to real visitors: how fast the main content appears, how quickly the page responds to taps and clicks, and whether it jumps around while loading. Marketing teams often break them without realizing, through sliders, chat widgets and tags. You don't need to code to manage them; you need to know what to ask for.",
+  "keyPoints": [
+    "The three Core Web Vitals are LCP for loading, INP for responsiveness and CLS for visual stability; INP replaced First Input Delay on March 12, 2024.",
+    "A page counts as good with LCP of 2.5 seconds or less, INP of 200 milliseconds or less and CLS of 0.1 or less, measured at the 75th percentile of real visits.",
+    "Search Console judges you on 28 days of field data from real Chrome users, so lab scores are for diagnosis rather than the final verdict.",
+    "Hero sliders, chat widgets, tag-manager sprawl and late-loading banners are the usual culprits on marketing sites.",
+    "Google uses Core Web Vitals in ranking but says good scores don't ensure top positions, so treat them as a conversion and trust issue first."
+  ],
+  "sections": [
+    {
+      "heading": "The three metrics in plain English",
+      "paragraphs": [
+        "**Largest Contentful Paint (LCP)** measures how long the biggest visible element takes to appear, usually a hero image, a video poster or a large block of headline text. It is the moment a visitor feels the page has arrived.",
+        "**Interaction to Next Paint (INP)** measures how quickly the page visibly responds after someone clicks, taps or presses a key. Hovering, scrolling and zooming don't count. The score reflects roughly the slowest interaction in a visit, ignoring rare outliers, so one sluggish menu or form can define it.",
+        "**Cumulative Layout Shift (CLS)** measures unexpected movement, such as a button jumping just as someone reaches for it. Shifts within half a second of a tap or click are excluded because users expect them, and the score comes from the worst burst of shifts on the page."
+      ]
+    },
+    {
+      "heading": "Thresholds, and how a page passes",
+      "paragraphs": [
+        "Google assesses each metric at the 75th percentile of page loads, separately for mobile and desktop, so most visitors, not just those on fast phones, must get a good experience. In Search Console, a group of similar URLs takes the worst status among its metrics: good LCP and INP combined with poor CLS makes the whole group poor.",
+        "The published thresholds are:"
+      ],
+      "bullets": [
+        "**LCP:** good at 2.5 seconds or less, needs improvement up to 4 seconds, poor above 4 seconds.",
+        "**INP:** good at 200 milliseconds or less, needs improvement up to 500 milliseconds, poor above that.",
+        "**CLS:** good at 0.1 or less, needs improvement up to 0.25, poor above 0.25."
+      ]
+    },
+    {
+      "heading": "Why INP replaced FID",
+      "paragraphs": [
+        "First Input Delay measured only the wait before the browser began handling a visitor's first interaction. Pages could pass while menus, filters and forms felt slow afterward. INP, which became a Core Web Vital on March 12, 2024, considers interactions across the whole visit and counts the full time until the screen updates.",
+        "Google splits that time into three parts: input delay while the browser is busy with other work, processing time for the page's own code, and presentation delay before the next frame is drawn. Marketing scripts mostly hurt the first part, because they keep the browser's main thread occupied at the moment a visitor taps."
+      ]
+    },
+    {
+      "heading": "Field data and lab data",
+      "paragraphs": [
+        "Field data comes from real Chrome users through the Chrome UX Report. Search Console's Core Web Vitals report is built on it, reflecting the previous 28 days, and PageSpeed Insights shows it at the top when enough data exists. Lab data comes from a simulated test such as Lighthouse: useful for finding causes, but it represents one device on one connection.",
+        "Two consequences surprise many teams. Low-traffic pages may have no field data of their own, in which case Search Console may fall back to data for the whole site or show nothing. And after a fix, field numbers improve gradually as the 28-day window rolls forward; Search Console's validation also monitors for 28 days."
+      ]
+    },
+    {
+      "heading": "What usually breaks them on marketing sites",
+      "paragraphs": [
+        "Most problems on brochure sites, landing pages and online stores come from a familiar set of additions:"
+      ],
+      "bullets": [
+        "**Hero sliders and carousels:** several large images load before the first is visible, slowing LCP, while the rotation code competes with taps.",
+        "**Lazy-loading the hero image:** a common page-builder default that delays the very element LCP measures.",
+        "**Autoplay background video:** heavy downloads at the moment the page should be painting text.",
+        "**Chat, WhatsApp and review widgets:** third-party scripts that load on every page at start-up, keeping the main thread busy and hurting INP.",
+        "**Tag-manager sprawl:** analytics, ad pixels, heatmaps and testing tools added over the years, each costing processing time.",
+        "**Banners injected at the top:** cookie notices, promo strips and pop-ups that push content down and raise CLS.",
+        "**Images and embeds without reserved space:** Instagram feeds, YouTube players and ad slots that resize after loading.",
+        "**Web fonts:** fallback text swapping to a differently sized brand font, causing small but frequent shifts."
+      ]
+    },
+    {
+      "heading": "Trade-offs a marketer should own",
+      "paragraphs": [
+        "Most fixes are decisions rather than code. A Bengaluru SaaS startup's landing page might carry a dozen tags because each team once asked for one, and the developer can't remove any of them until someone decides which still earn their place. Decisions that usually pay off:"
+      ],
+      "bullets": [
+        "Replace an auto-rotating slider with one strong static hero.",
+        "Load chat widgets only when a visitor clicks the chat button, or after the page has settled.",
+        "Show a lightweight preview image for YouTube embeds and load the player on click.",
+        "Reserve fixed space for banners and announcement bars, or place them at the bottom of the screen.",
+        "Audit tags every quarter and remove any that nobody reports on."
+      ]
+    },
+    {
+      "heading": "How to brief a developer",
+      "paragraphs": [
+        "If you'd rather hand this over entirely, our [web development](/web-development) team builds and repairs sites against performance budgets, and our [technical SEO guide](/technical-seo) covers related crawling and rendering issues. If you're briefing your own developer, a clear brief saves days of back-and-forth. Include:"
+      ],
+      "bullets": [
+        "**Scope:** the URL groups failing in Search Console, or the landing pages that matter most for campaigns.",
+        "**Metric and device:** for example, “INP poor on mobile for product pages”.",
+        "**Current values and dates:** field figures from Search Console or PageSpeed Insights, with the date you captured them.",
+        "**Targets:** the good thresholds for each metric at the 75th percentile.",
+        "**Constraints:** scripts that must stay, such as GA4, the Meta pixel or the booking widget, and anything that can go.",
+        "**Acceptance:** lab checks before release, then field data reviewed after a full 28-day window.",
+        "**Guardrails:** conversion tracking verified after changes, so a speed fix doesn't silently break attribution."
+      ]
+    },
+    {
+      "heading": "Keeping scores healthy after the fix",
+      "paragraphs": [
+        "Scores slip when new campaigns, widgets and tags arrive without anyone checking. These habits sit inside our wider [SEO standards](/seo-standards), and if you'd like a performance review of your current site, [contact us](/contact). Make performance part of every launch rather than an annual clean-up:"
+      ],
+      "bullets": [
+        "Set a simple performance budget for new landing pages, such as a maximum hero image size and a cap on third-party scripts.",
+        "Route every new tag request through one owner who records its purpose and a review date.",
+        "Check Search Console's Core Web Vitals report monthly, and test big launches in PageSpeed Insights before they go live.",
+        "Re-test after plugin, theme or page-builder updates."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is INP the same as page speed?",
+      "a": "No. Page speed usually refers to loading, which LCP measures. INP measures responsiveness after the page has loaded, so a page can appear quickly and still fail INP if menus, forms or buttons react slowly."
+    },
+    {
+      "q": "Why does PageSpeed Insights show a different result from Search Console?",
+      "a": "PageSpeed Insights combines a lab test from one simulated device with field data for that URL or the whole site when available, while Search Console reports grouped field data over 28 days. Use field data to judge and lab data to diagnose."
+    },
+    {
+      "q": "Will fixing Core Web Vitals improve my rankings?",
+      "a": "Google says Core Web Vitals are used by its ranking systems, but strong scores don't ensure top positions, and relevance and content quality carry more weight. Faster, steadier pages tend to help conversions either way."
+    },
+    {
+      "q": "How long until Search Console shows the improvement?",
+      "a": "Expect several weeks. Field data covers a rolling 28 days, so the effect of a fix builds gradually, and validation in the report also runs for 28 days."
+    }
+  ],
+  "sources": [
+    { "label": "web.dev — Web Vitals", "url": "https://web.dev/articles/vitals" },
+    { "label": "web.dev — Interaction to Next Paint (INP)", "url": "https://web.dev/articles/inp" },
+    { "label": "web.dev — INP becomes a Core Web Vital on March 12", "url": "https://web.dev/blog/inp-cwv-march-12" },
+    { "label": "web.dev — Largest Contentful Paint (LCP)", "url": "https://web.dev/articles/lcp" },
+    { "label": "web.dev — Cumulative Layout Shift (CLS)", "url": "https://web.dev/articles/cls" },
+    { "label": "Search Console Help — Core Web Vitals report", "url": "https://support.google.com/webmasters/answer/9205520" },
+    { "label": "Google Search Central — Understanding page experience in Google Search results", "url": "https://developers.google.com/search/docs/appearance/page-experience" }
+  ]
+}

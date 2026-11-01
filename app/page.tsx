@@ -35,6 +35,9 @@ import { WaveSeam } from "@/components/sections/wave-seam";
 import { NetworkField } from "@/components/art/network-field";
 import { FounderCard } from "@/components/people/founder-card";
 import { TrackedLink } from "@/components/ui/tracked-link";
+import { RingCarousel } from "@/components/motion/ring-carousel";
+import { InsightCard } from "@/components/insights/insight-card";
+import { getInsights } from "@/lib/insights";
 import { ABOUT, CONSULT, CONTACT, HERO, SERVICES_INTRO, STATS, TESTIMONIAL_NOTE, TESTIMONIALS, TRUST, WHY } from "@/lib/home";
 import { PEOPLE } from "@/lib/people";
 import {
@@ -108,6 +111,8 @@ const toScroll = (s: Service): ScrollService => ({
 export default async function HomePage() {
   const countries = getCountries();
   const industries = getIndustries();
+  // One article per topic first, so the carousel opens with variety.
+  const insights = [...getInsights()].sort((a, b) => getInsights().filter((x) => x.category === a.category).indexOf(a) - getInsights().filter((x) => x.category === b.category).indexOf(b)).slice(0, 8);
   const menu = getServiceMenu();
   const bestSellers = SERVICES_INTRO.bestSellers.map((slug) => getService(slug)).filter((s): s is Service => !!s);
   // "More Services": the live site's tabs. "All" lists the catalogue in its original order.
@@ -380,6 +385,28 @@ export default async function HomePage() {
       </section>
 
       <WaveSeam from="tint" to="navy" />
+
+      {/* ══════════════════════ Insights carousel ══════════════════════ */}
+      {insights.length > 0 && (
+        <section className="container-wide pb-20 pt-16 md:pb-28 md:pt-24" aria-labelledby="insights-home-title">
+          <div className="mb-10 flex flex-col justify-between gap-6 md:flex-row md:items-end">
+            <div className="max-w-2xl">
+              <p className="eyebrow mb-4">Insights</p>
+              <h2 id="insights-home-title" className="text-[length:var(--text-h2)]">
+                What&rsquo;s working <em className="text-gradient italic">now</em>.
+              </h2>
+            </div>
+            <Link href="/insights" className="link-underline inline-flex shrink-0 items-center gap-1.5 font-semibold text-[var(--color-accent-text)]">
+              All insights <ArrowRight className="h-4 w-4" aria-hidden />
+            </Link>
+          </div>
+          <RingCarousel label="Latest insights">
+            {insights.map((a) => (
+              <InsightCard key={a.slug} article={a} />
+            ))}
+          </RingCarousel>
+        </section>
+      )}
 
       {/* ══════════════════════ Free consultation (navy) ══════════════════════ */}
       <section id="consultation" className="navy relative overflow-hidden pb-24 pt-10 md:pb-32 md:pt-14" aria-labelledby="consult-title">

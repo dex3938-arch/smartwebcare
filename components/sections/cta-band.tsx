@@ -38,7 +38,7 @@ export function CtaBand({
             <Button href={whatsappHref()} variant="secondary" size="lg">
               WhatsApp us <ArrowUpRight className="h-4 w-4" aria-hidden />
             </Button>
-            <Button href={telHref()} variant="secondary" size="lg" aria-label={`Call ${SITE.name} on ${SITE.phone}`}>
+            <Button href={telHref()} variant="secondary" size="lg" aria-label={`Call us on ${SITE.phone}`}>
               <Phone className="h-4 w-4" aria-hidden /> Call us
             </Button>
           </div>

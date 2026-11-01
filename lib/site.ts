@@ -94,13 +94,59 @@ export const COMPANY_LINKS: NavLink[] = [
   { label: "Book a call", href: "/book-consultation", description: "Free 30-minute consultation" },
 ];
 
-/** Same items as the live socialguava.com navbar. */
+/**
+  The live socialguava.com navbar (Home, Services, About, Testimonials, Contact) plus
+  Insights; each heading opens its sub-pages.
+*/
 export const PRIMARY_NAV: NavItem[] = [
   { label: "Home", href: "/" },
   { label: "Services", href: "/services", panel: "services" },
-  { label: "About", href: "/about" },
-  { label: "Testimonials", href: "/clients" },
-  { label: "Contact", href: "/contact" },
+  {
+    label: "About",
+    href: "/about",
+    panel: "list",
+    items: [
+      { label: "About SmartWebCare", href: "/about", description: "Mission, team and philosophy" },
+      { label: "Our story", href: "/about/our-story", description: "Why we exist and what we build" },
+      { label: "Founders", href: "/about/founders", description: "Khyati Arora & Kartik Sahni" },
+      { label: "How we work", href: "/about/how-we-work", description: "Process, updates & reporting" },
+      { label: "Our values", href: "/about/values", description: "The principles behind the work" },
+      { label: "Why SmartWebCare", href: "/about/why-smartwebcare", description: "An honest fit check" },
+    ],
+  },
+  {
+    label: "Testimonials",
+    href: "/clients",
+    panel: "list",
+    items: [
+      { label: "Client testimonials", href: "/clients", description: "Work, in our clients' words" },
+      { label: "Working with us", href: "/clients/working-with-us", description: "What being a client is like" },
+      { label: "How we measure results", href: "/clients/how-we-measure-results", description: "Metrics that matter" },
+    ],
+  },
+  {
+    label: "Insights",
+    href: "/insights",
+    panel: "list",
+    items: [
+      { label: "All insights", href: "/insights", description: "Current guides for founders" },
+      { label: "AI & Automation", href: "/insights/topic/ai-automation", description: "Agents, WhatsApp, AI receptionists" },
+      { label: "Search, AEO & GEO", href: "/insights/topic/search-visibility", description: "Google, AI answers, local SEO" },
+      { label: "Social & Content", href: "/insights/topic/social-content", description: "Instagram, LinkedIn, YouTube" },
+      { label: "Brand & Growth", href: "/insights/topic/brand-growth", description: "Branding, data and budgets" },
+    ],
+  },
+  {
+    label: "Contact",
+    href: "/contact",
+    panel: "list",
+    items: [
+      { label: "Contact us", href: "/contact", description: "Form, WhatsApp, phone & email" },
+      { label: "Book a consultation", href: "/book-consultation", description: "Free 30-minute call" },
+      { label: "Project brief guide", href: "/contact/project-brief", description: "What to share before we talk" },
+      { label: "Contact FAQ", href: "/contact/faq", description: "Response times & next steps" },
+    ],
+  },
 ];
 
 /** Footer columns — same as the live socialguava.com footer. */
@@ -110,9 +156,10 @@ export const FOOTER_NAV = {
     { label: "Services", href: "/services" },
     { label: "About", href: "/about" },
     { label: "Testimonials", href: "/clients" },
+    { label: "Insights", href: "/insights" },
     { label: "Contact", href: "/contact" },
     { label: "Blog", href: "/blog" },
-    { label: "Sitemap", href: "/sitemap.xml" },
+    { label: "Sitemap", href: "/site-map" },
   ],
   services: [
     { label: "AI Agents & Automations", href: "/ai-agents" },
@@ -122,19 +169,13 @@ export const FOOTER_NAV = {
     { label: "Brand Playbook", href: "/brand-playbook" },
     { label: "Video & Graphic Design", href: "/graphic-design" },
   ],
-  india: [
-    { label: "Gurugram", href: "/india/gurugram" },
-    { label: "Mumbai", href: "/india/mumbai" },
-    { label: "Delhi NCR", href: "/india/delhi" },
-    { label: "Bangalore", href: "/india/bangalore" },
-    { label: "Pune", href: "/india/pune" },
-  ],
-  international: [
-    { label: "Dubai", href: "/uae/dubai" },
-    { label: "London", href: "/uk/london" },
-    { label: "New York", href: "/usa/new-york" },
-    { label: "Toronto", href: "/canada/toronto" },
-    { label: "Sydney", href: "/australia/sydney" },
+  insights: [
+    { label: "All insights", href: "/insights" },
+    { label: "AI & Automation", href: "/insights/topic/ai-automation" },
+    { label: "Search, AEO & GEO", href: "/insights/topic/search-visibility" },
+    { label: "Social & Content", href: "/insights/topic/social-content" },
+    { label: "Brand & Growth", href: "/insights/topic/brand-growth" },
+    { label: "Free tools", href: "/tools" },
   ],
   /** Small bottom row: legal + the SEO/AEO/GEO resources. */
   legal: [

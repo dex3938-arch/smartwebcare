@@ -1,0 +1,343 @@
+{
+  "slug": "web-development",
+  "guide": {
+    "eyebrow": "Web development · 2026 guide",
+    "title": "How to plan a business website that loads fast, ranks and lasts",
+    "metaTitle": "Business website development guide for 2026",
+    "metaDescription": "How business websites are built in 2026: choosing a platform, Core Web Vitals and INP, mobile-first indexing, accessibility, privacy and measuring results.",
+    "lead": "A business website is software your marketing depends on every day. This guide explains how sites are built in 2026, which early decisions shape cost and speed for years, and how to tell whether a new build is working.",
+    "sections": [
+      {
+        "heading": "What web development covers now",
+        "paragraphs": [
+          "Web development turns a design and a content plan into a working site: the code, the content management system, hosting, forms, integrations and the checks that keep it fast and secure. For most businesses the hard part is not clever features. It is getting the basics right on every page and keeping them right after launch.",
+          "It sits between two neighboring disciplines. [UI/UX design](/ui-ux-design) decides how the site should work for the people using it; development makes that behavior real in a browser and keeps it reliable. Search visibility depends on both, which is why shortcuts taken during a build tend to resurface later in [technical SEO](/technical-seo) audits."
+        ],
+        "bullets": [
+          "**Front end:** the HTML, CSS and JavaScript a visitor's browser downloads and runs.",
+          "**Back end and CMS:** where content is stored and edited, and where enquiries and orders are processed.",
+          "**Infrastructure:** domain, DNS, hosting, CDN, SSL certificates, backups and monitoring.",
+          "**Integrations:** CRM, payment gateway, WhatsApp or email tools, analytics and tag managers."
+        ]
+      },
+      {
+        "heading": "Choosing a platform: builders, WordPress or a custom framework",
+        "paragraphs": [
+          "There is no single right platform. A hosted builder suits a small brochure site that one person updates. WordPress stays practical when you need a large plugin ecosystem and many editors. A framework such as Next.js paired with a headless CMS makes sense when performance, custom logic or publishing to several channels matters more than plug-and-play convenience.",
+          "Judge each option on who will edit content, how often, what it must connect to and who will maintain it two years from now. A stack your team cannot update safely becomes a liability, however quick it felt on launch day."
+        ],
+        "bullets": [
+          "Count the plugins or apps a platform needs for your core job; each one is code someone must keep patched.",
+          "Ask how content is exported if you ever move. Lock-in is a cost even when the monthly fee is low.",
+          "Confirm where form submissions are stored and who controls the hosting account."
+        ]
+      },
+      {
+        "heading": "Speed and Core Web Vitals in 2026",
+        "paragraphs": [
+          "Google's Core Web Vitals measure loading (Largest Contentful Paint), responsiveness (Interaction to Next Paint) and visual stability (Cumulative Layout Shift). On web.dev, Google sets the good thresholds at an LCP within 2.5 seconds, an INP of 200 milliseconds or less and a CLS of 0.1 or less, assessed at the 75th percentile of real page loads on mobile and desktop.",
+          "INP replaced First Input Delay as a Core Web Vital in March 2024, and it is the metric many sites now struggle with. It reflects how quickly a page responds to taps and clicks throughout a visit, not just the first one, so heavy third-party scripts, chat widgets and large JavaScript bundles drag it down. Our explainer on [INP for marketers](/insights/core-web-vitals-inp-for-marketers) lists the questions to ask your developers.",
+          "Treat speed as a conversion and trust issue first. A slow product page or a form that jumps while someone types loses enquiries regardless of where you rank."
+        ]
+      },
+      {
+        "heading": "Mobile-first is the default, not a feature",
+        "paragraphs": [
+          "Google's documentation states that it uses the mobile version of a site's content, crawled with its smartphone agent, for indexing and ranking. If text, images, structured data or links exist only in the desktop layout, Google may never see them. Responsive design avoids most of this because both versions share the same content and metadata.",
+          "Build and test for a mid-range Android phone on an unreliable connection, because that is how many Indian visitors arrive. Real devices reveal problems that a desktop browser squeezed to phone width hides."
+        ],
+        "bullets": [
+          "Keep primary content visible without interaction; Google says its crawler does not click, swipe or type to reveal content.",
+          "Use the same alt text and image URLs on mobile and desktop.",
+          "Put phone numbers, WhatsApp links and directions one tap away."
+        ]
+      },
+      {
+        "heading": "Accessibility and privacy are build requirements",
+        "paragraphs": [
+          "WCAG 2.2, a W3C Recommendation since October 2023, is the standard most organizations work toward at Level AA. It added criteria that matter on phones: touch and click targets no smaller than 24 by 24 CSS pixels (with listed exceptions), focused elements that are not hidden behind sticky bars, and sign-in steps that allow pasting and password managers instead of making people remember or retype codes.",
+          "In India, accessibility is moving from guidance toward obligation. After the Supreme Court's November 2024 judgment in Rajive Raturi v. Union of India, the government published draft amendments to the disability rights rules in 2026 that propose mandatory accessibility standards for websites and apps. Brands selling to EU consumers should also check the European Accessibility Act, which has applied since 28 June 2025 to services including e-commerce.",
+          "Privacy belongs in the same conversation. India's Digital Personal Data Protection Rules were notified in November 2025, with most notice and consent duties phasing in over 18 months. A site that collects names and phone numbers should show a plain notice where data is collected, store submissions securely and keep personal details out of URLs and analytics tags."
+        ]
+      },
+      {
+        "heading": "Mistakes that make websites expensive later",
+        "paragraphs": [
+          "Most failed builds are planning failures rather than coding failures. Each of these is cheap to avoid before development starts and costly to unwind after launch."
+        ],
+        "bullets": [
+          "Starting from a theme and filling it, instead of starting from the pages and actions customers need.",
+          "Writing content last, so layouts are shaped around placeholder text that never matches reality.",
+          "Adding every tracking pixel and widget anyone requests, then wondering why the site feels sluggish.",
+          "Changing URLs during a redesign without redirects, which discards years of search history.",
+          "Registering the domain or hosting in a freelancer's personal account.",
+          "Going live without backups, uptime alerts or a named person responsible for updates."
+        ]
+      },
+      {
+        "heading": "How to measure whether the new site works",
+        "paragraphs": [
+          "Decide the measures before launch and record a baseline from the old site, so you compare like with like. A redesign that looks better but cannot show a change in enquiries is hard to defend at the next budget review."
+        ],
+        "bullets": [
+          "**Field performance:** Core Web Vitals from real users in Search Console or the Chrome UX Report, not a single lab test.",
+          "**Conversions:** form submissions, calls, WhatsApp clicks or orders, tracked as analytics events.",
+          "**Search health:** indexed pages, crawl errors and query trends in Search Console during the weeks after launch.",
+          "**Publishing speed:** how long your team takes to add or edit a page without developer help.",
+          "**Reliability:** uptime, failed form submissions and security alerts."
+        ]
+      }
+    ],
+    "takeaways": [
+      "Pick a platform for the people who will maintain it, not only for launch day.",
+      "Core Web Vitals are judged on real visits, so test on the phones and networks your customers use.",
+      "Build to WCAG 2.2 Level AA from the start, because retrofitting accessibility costs more.",
+      "Collect personal data only with a clear notice, and keep it out of URLs and analytics.",
+      "Own your domain, hosting and code repository in your company's name.",
+      "Agree on success measures such as enquiries and field performance before the site goes live."
+    ],
+    "faqs": [
+      {
+        "q": "Is a website builder good enough for a small business?",
+        "a": "Often, yes. For a few pages, a contact form and occasional edits, a hosted builder is quick to set up and easy to run. It starts to pinch when you need custom integrations, multilingual content at scale, strict performance targets or full control of your code. Ask what the site must do in two years, not just next month."
+      },
+      {
+        "q": "Do Core Web Vitals affect Google rankings?",
+        "a": "Google describes good Core Web Vitals, along with other page experience aspects, as aligned with what its core ranking systems seek to reward. Relevance and content quality still carry more weight, so speed work will not lift a thin page to the top. It does remove a reason for visitors to leave, which is why we treat it as a conversion issue as much as a search one."
+      },
+      {
+        "q": "What should we own when an agency builds our site?",
+        "a": "Your domain registration, hosting or cloud account, code repository, CMS admin, analytics and Search Console properties should all sit under your company email, with the agency added as a user. That way you can change partners without rebuilding or losing data."
+      },
+      {
+        "q": "How often does a website need rebuilding?",
+        "a": "There is no fixed cycle. Rebuild when the platform blocks what the business needs, when security updates stop, or when performance and accessibility problems cannot be fixed without starting over. Many sites only need a content refresh and steady maintenance."
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "Web development · How we deliver",
+    "title": "How SmartWebCare builds and launches your website",
+    "metaTitle": "Our website build process, step by step",
+    "metaDescription": "From scoping and sitemap to staging, QA, launch and handover: each step of a SmartWebCare website build, what you receive and what we need from you.",
+    "lead": "We build in short, visible stages so you see working pages early and approve decisions before they become expensive to change. Here is what happens at each stage and what you walk away with.",
+    "steps": [
+      {
+        "title": "Scoping and technical audit",
+        "summary": "We pin down what the site must do, who will edit it and what it connects to, then audit your current site so nothing that already ranks or converts gets lost.",
+        "activities": [
+          "Stakeholder call to list business goals, key visitor actions and must-have integrations",
+          "Crawl of the existing site to capture URLs, high-traffic pages and backlinks worth keeping",
+          "Platform recommendation with trade-offs for cost, editing and maintenance",
+          "Check of who owns the domain, hosting and analytics accounts"
+        ],
+        "output": "A scope document with the page list, integrations, platform choice and a phased timeline for your sign-off."
+      },
+      {
+        "title": "Sitemap, content plan and wireframes",
+        "summary": "We define the page structure and the content each page needs before visual design, so layouts are built around real copy. When the project includes [UI/UX design](/ui-ux-design/process), this step builds on that research.",
+        "activities": [
+          "Sitemap and URL structure, including a redirect map from old addresses",
+          "Content inventory: what exists, what needs writing and what we will source",
+          "Mobile-first wireframes for each page template",
+          "Mapping of conversion paths such as calls, WhatsApp, bookings or checkout"
+        ],
+        "output": "An approved sitemap, redirect map and wireframes for every template."
+      },
+      {
+        "title": "Visual design and components",
+        "summary": "We design the key templates in your brand style and break them into reusable components, so future pages can be assembled without fresh design work.",
+        "activities": [
+          "High-fidelity designs for home, service, listing and contact templates",
+          "Component set covering headers, cards, forms, buttons and tables with their states",
+          "Accessibility review of color contrast, tap targets and focus states in the designs",
+          "One consolidated review round per template"
+        ],
+        "output": "Signed-off designs and a component library the build follows exactly."
+      },
+      {
+        "title": "Build on a private staging site",
+        "summary": "We develop on a staging address you can open at any time, and load real content into the CMS as each template is finished. Metadata, structured data and sitemaps are set up to meet our [technical SEO](/technical-seo) checklist.",
+        "activities": [
+          "Front-end build with performance budgets for images, fonts and scripts",
+          "CMS setup with editing fields that match how your team works",
+          "Integrations with your CRM, payment gateway, WhatsApp, email and analytics",
+          "Structured data, XML sitemap and robots rules"
+        ],
+        "output": "A working staging site with real content, connected forms and tracking you can test yourself."
+      },
+      {
+        "title": "Quality assurance",
+        "summary": "We test the site the way customers will use it: on budget and flagship phones, on slow connections, with only a keyboard and with a screen reader.",
+        "activities": [
+          "Device and browser testing across Android, iOS, tablets and desktops",
+          "Lab performance runs on key templates against Core Web Vitals targets",
+          "Automated accessibility scans plus manual keyboard and screen-reader passes",
+          "Form, payment and integration tests using test data",
+          "Broken-link, redirect and metadata checks"
+        ],
+        "output": "A QA report listing what was tested, what was fixed and anything deferred with your approval."
+      },
+      {
+        "title": "Launch and handover",
+        "summary": "We go live at a quiet time for your business, watch the site closely through the first days and hand over everything needed to run it. Our article on [rebranding without losing SEO](/insights/rebrand-without-losing-seo) describes the same migration safeguards.",
+        "activities": [
+          "DNS switch, SSL, CDN and backup configuration",
+          "Redirects activated and the sitemap submitted in Search Console",
+          "Uptime and error monitoring switched on",
+          "Recorded CMS training session for your editors"
+        ],
+        "output": "A live site, a handover pack with every login in your company's name, and a review once real traffic data comes in."
+      }
+    ],
+    "deliverables": [
+      "Scope document, sitemap and redirect map",
+      "Wireframes and high-fidelity designs for every template",
+      "Reusable component library and tailored CMS editing fields",
+      "Production website on hosting registered to your company",
+      "Analytics events for forms, calls, WhatsApp clicks and orders",
+      "QA report covering devices, performance and accessibility",
+      "Handover pack with a credentials list, editor guide and training recording"
+    ],
+    "youProvide": [
+      "A decision-maker who can approve scope, designs and the launch date",
+      "Logo, brand guidelines, photography and any existing copy",
+      "Access to your current domain, hosting, analytics and Search Console",
+      "Accounts for the payment gateway, CRM or WhatsApp tools to be connected",
+      "Feedback on staging in one consolidated list per review round"
+    ],
+    "faqs": [
+      {
+        "q": "Can you rebuild our site without losing search traffic?",
+        "a": "No one can promise rankings, but we can protect what you have earned. Before the build we record every indexed URL and its traffic, map each one to its new address and keep titles and content that already perform. After launch we watch Search Console for crawl errors and fix them quickly."
+      },
+      {
+        "q": "Who writes the website content?",
+        "a": "Either side can. Some clients send finished copy; others want us to write it from interviews and existing material. The scope document records who writes which page and when it is due, because late content is the most common reason a launch slips."
+      },
+      {
+        "q": "What happens after launch?",
+        "a": "You own the site and can run it with the training we provide. If you would rather not, we offer ongoing care covering updates, backups, monitoring and small changes, scoped after a [free consultation](/book-consultation)."
+      }
+    ]
+  },
+  "useCases": {
+    "eyebrow": "Web development · Who it's for",
+    "title": "Website builds for clinics, D2C brands, manufacturers and more",
+    "metaTitle": "Website development use cases by industry",
+    "metaDescription": "Six illustrative website scenarios, from a clinic booking site to a B2B product catalog and a D2C store, with the challenge, our approach and what to track.",
+    "lead": "Different businesses need very different websites. These illustrative scenarios show how a build changes with the goal, and what each business should watch once its site is live.",
+    "cases": [
+      {
+        "title": "A booking-led site for a multi-doctor clinic",
+        "businessType": "Dermatology clinic · Pune",
+        "challenge": "Patients find the clinic on Google Maps, then land on a slow page with a PDF price list and a phone number that keeps reception busy all day. Doctor profiles are out of date, and nobody on staff can edit the site.",
+        "approach": [
+          "Doctor and treatment pages built from CMS templates the front desk can update",
+          "Appointment requests routed to WhatsApp and the clinic calendar, with a privacy notice on the form",
+          "Treatment content written to inform rather than promise outcomes",
+          "Branch location pages linked to each Google Business Profile"
+        ],
+        "measure": [
+          "Appointment requests per week by source",
+          "Mobile INP and LCP on treatment pages",
+          "Call and WhatsApp taps from branch pages"
+        ]
+      },
+      {
+        "title": "A faster storefront for a growing D2C brand",
+        "businessType": "Handloom apparel brand · Jaipur",
+        "challenge": "Most sales come through Instagram DMs and a marketplace. The brand's own store runs a heavy theme with many apps installed, product pages crawl on mobile data, and the checkout loses shoppers who want to pay by UPI.",
+        "approach": [
+          "Audit of installed apps, removing those that add script weight without earning revenue",
+          "Image handling that serves modern formats sized for each screen",
+          "Checkout offering UPI, cards and cash on delivery through the existing payment gateway",
+          "Product structured data and collection pages planned around how shoppers search"
+        ],
+        "measure": [
+          "Checkout completion on mobile",
+          "Revenue from the website compared with the marketplace",
+          "Core Web Vitals on product and collection templates"
+        ]
+      },
+      {
+        "title": "A spec-rich product catalog for a manufacturer",
+        "businessType": "Valve and fittings manufacturer · Ahmedabad",
+        "challenge": "Distributors and procurement teams need datasheets, certifications and dimensions quickly. The current site is a few static pages and a contact form, so every technical question becomes a long email thread with sales.",
+        "approach": [
+          "Filterable catalog generated from the spreadsheet the team already maintains",
+          "Datasheets published as searchable HTML pages with PDF downloads",
+          "Request-for-quote form that sends product codes straight into the CRM",
+          "Export-market pages with the right units and certifications"
+        ],
+        "measure": [
+          "Quote requests that arrive with product codes attached",
+          "Organic visits to product and datasheet pages",
+          "Sales time spent answering specification questions"
+        ]
+      },
+      {
+        "title": "A course site that survives admission-season traffic",
+        "businessType": "Test-prep institute · Kota",
+        "challenge": "Results day and admission windows bring sudden traffic spikes. The old shared-hosting site goes down at the worst moments, and batch timings, fees and syllabus details are scattered across PDFs.",
+        "approach": [
+          "Static-first pages served from a CDN so spikes do not take the site down",
+          "Course and batch pages generated from one data source the office updates",
+          "Counseling-slot booking with leads routed to the right counselor",
+          "Load testing ahead of each admission window"
+        ],
+        "measure": [
+          "Uptime and response time on peak days",
+          "Counseling slots booked per course",
+          "Enquiries from organic search compared with paid campaigns"
+        ]
+      },
+      {
+        "title": "A marketing site and docs hub for a SaaS startup",
+        "businessType": "HR software startup · Gurugram",
+        "challenge": "The product team ships weekly, but every text change on the marketing site needs a developer. Feature pages lag behind the product, and documentation sits in a separate tool with no route back to sign-up.",
+        "approach": [
+          "Headless CMS so marketing publishes pages and changelog posts without engineering",
+          "Design components shared with the product so site and app feel consistent",
+          "Docs and marketing on one domain with clear paths to a trial",
+          "Event tracking from first visit through to trial activation"
+        ],
+        "measure": [
+          "Trial sign-ups by landing page",
+          "Time from content request to published page",
+          "Docs visits that lead to sign-up rather than a support ticket"
+        ]
+      },
+      {
+        "title": "One project platform for a residential developer",
+        "businessType": "Residential developer · Kochi",
+        "challenge": "Each project launch gets a microsite from a different vendor, so branding, tracking and lead handling change every time. RERA details are presented inconsistently, and form leads reach sales hours late.",
+        "approach": [
+          "One site with a project template covering floor plans, amenities, location, RERA registration and walkthrough video",
+          "Instant lead routing to the sales team's WhatsApp and CRM",
+          "Media loading that keeps heavy renders and video from slowing the first view",
+          "Campaign landing pages built from the same templates so tracking stays consistent"
+        ],
+        "measure": [
+          "Time from form submission to first sales call",
+          "Site visits booked per project",
+          "Engagement with floor plans and walkthroughs"
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Our business is not on this list. Can you still help?",
+        "a": "Yes. These scenarios are examples, not a menu. The same questions apply to any business: what visitors need to do, who updates the site and what it must connect to. Share a few details through our [project brief](/contact/project-brief) and we will tell you honestly whether a new build is the right move."
+      },
+      {
+        "q": "Should we fix our current site or start again?",
+        "a": "Fix it if the platform is sound and the problems are content, speed or structure. Start again if the platform is unsupported, the code is hard to maintain, or the changes you need would touch every template. A [technical SEO](/technical-seo) audit is often the quickest way to find out which side you are on."
+      },
+      {
+        "q": "Do you build sites for businesses outside India?",
+        "a": "Yes. We plan for the currency, time zones, accessibility laws and data-protection rules of each market you sell into, and host close to your main audience. Start with a [free consultation](/book-consultation)."
+      }
+    ]
+  }
+}

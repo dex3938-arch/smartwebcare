@@ -1,0 +1,132 @@
+{
+  "slug": "first-party-data-email-whatsapp",
+  "category": "brand-growth",
+  "published": "2026-11-01",
+  "eyebrow": "Brand & Growth",
+  "title": "Building email and WhatsApp lists the right way: consent, opt-in and deliverability",
+  "metaTitle": "Build Email and WhatsApp Lists with Real Consent",
+  "metaDescription": "How to grow email and WhatsApp lists with consent that fits India's DPDP framework: double opt-in, lead magnets, segmentation and Gmail and Yahoo rules.",
+  "lead": "Email and WhatsApp lists are audiences you own: no algorithm decides whether your message is seen. But a list built on vague permission is a liability under India's data protection law, inbox providers' rules and WhatsApp's own policies. Here is how to build one that is lawful, deliverable and genuinely useful.",
+  "keyPoints": [
+    "India's DPDP Rules were notified on 14 November 2025, with most business obligations phased in over 18 months.",
+    "Consent should be a clear, affirmative choice for a stated purpose, and as easy to withdraw as to give.",
+    "Gmail and Yahoo require bulk senders to authenticate their mail, offer one-click unsubscribe and keep complaints low.",
+    "WhatsApp's Business Platform requires opt-in that clearly names your business before you send a message."
+  ],
+  "sections": [
+    {
+      "heading": "Why owned lists are worth the effort",
+      "paragraphs": [
+        "Social reach is rented. A platform can change its ranking overnight, and your best post may reach a fraction of your followers. A list of people who asked to hear from you works differently: you choose when to speak, and every subscriber can receive the message.",
+        "That only holds if the permission is real. Bought lists, scraped numbers and contacts collected for one purpose then used for another lead to spam complaints, blocked senders and, under India's data protection law, legal exposure. The goal is a smaller list of people who actually want your messages."
+      ]
+    },
+    {
+      "heading": "What India's DPDP framework expects",
+      "paragraphs": [
+        "The Digital Personal Data Protection Act was enacted in August 2023, and the government notified the DPDP Rules on 14 November 2025. The Rules give organizations an 18-month window for phased compliance, so most obligations on businesses apply from around May 2027. In early 2026 MeitY consulted on shortening that timeline for some organizations, so confirm the current position before you plan.",
+        "The direction is already clear, and it makes sense to build to it now. Under the Act, consent has to be free, specific, informed, unconditional and unambiguous, given through a clear affirmative action and limited to the purpose you state. Businesses must give a separate, plain-language consent notice explaining what data they collect and why. People can withdraw consent at any time, and withdrawing should be as easy as giving it.",
+        "Individuals can also ask to access, correct and erase their data, and businesses must respond within 90 days. Processing a child's data needs verifiable consent from a parent or guardian. Penalties are steep: up to ₹250 crore for failing to keep reasonable security safeguards. Treat this as orientation rather than legal advice, and have a lawyer review your notices and flows."
+      ]
+    },
+    {
+      "heading": "Design a consent flow that holds up",
+      "paragraphs": [
+        "Good consent design is mostly about being specific and keeping records. A customer who buys from you shares a number so you can deliver an order; that alone isn't permission to send promotions, so ask for it separately, at checkout or afterwards."
+      ],
+      "bullets": [
+        "**Unticked boxes only.** A box ticked by default is not a clear affirmative action.",
+        "**Separate purposes.** Order updates, a weekly newsletter and WhatsApp offers are different purposes, so give people separate choices.",
+        "**A plain notice at the point of collection.** Say what you'll send, how often, on which channel and how to stop.",
+        "**Keep evidence.** Store the date, time, source, wording shown and the choice made for every opt-in.",
+        "**Make leaving easy.** An unsubscribe link in every email, a clear opt-out option on WhatsApp and a habit of acting on both quickly."
+      ]
+    },
+    {
+      "heading": "Double opt-in: a small step that protects the list",
+      "paragraphs": [
+        "Double opt-in means a new email subscriber confirms by clicking a link in a confirmation message before you add them. Inbox providers don't mandate it, but it filters out typos, fake addresses and people signed up by someone else — exactly the addresses that cause bounces and complaints.",
+        "Keep the confirmation email short, sent instantly and clearly branded, with one button and a line on what subscribers will receive. Deliver the lead magnet after confirmation so people have a reason to click. On WhatsApp, the equivalent is a message after a web or in-store opt-in that repeats what the person signed up for and how to stop."
+      ]
+    },
+    {
+      "heading": "Lead magnets that attract buyers",
+      "paragraphs": [
+        "A lead magnet should attract the people likely to buy, not everyone who likes free things. The test is simple: would someone who wants this be a reasonable prospect for what you sell? These illustrative examples pass it.",
+        "Put the offer where intent is highest: product pages, the confirmation page after a purchase, the end of a useful article, or the counter with a QR code. A pop-up that appears the instant someone lands mostly collects irritation."
+      ],
+      "bullets": [
+        "A Pune dental clinic: a printable brushing chart and check-up reminder schedule for children, offered on WhatsApp.",
+        "A Gurugram SaaS startup: a template or calculator for the task its product automates, delivered by email.",
+        "A Jaipur home-textiles brand: early access to new collections and a care guide for block-printed fabrics.",
+        "A Delhi CA firm: a monthly compliance calendar emailed at the start of each month."
+      ]
+    },
+    {
+      "heading": "Segment from the first sign-up",
+      "paragraphs": [
+        "Segmentation is easiest when it starts at collection. Ask for one or two fields that change what you send — city, interest or business type — and record where each subscriber came from. Then let behavior refine the picture: what people open, click, buy and ignore.",
+        "On WhatsApp, segmentation also saves money. Since 1 July 2025 Meta has charged per message on the WhatsApp Business Platform, and every delivered marketing template is billed. Sending an offer only to people who opted into that category costs less, and draws fewer blocks, than broadcasting to the whole list."
+      ]
+    },
+    {
+      "heading": "Gmail and Yahoo rules for bulk email",
+      "paragraphs": [
+        "Since February 2024, Gmail and Yahoo have enforced sender requirements. The strictest apply to bulk senders — Gmail's threshold is around 5,000 or more messages a day to personal Gmail accounts — but the basics apply to everyone.",
+        "Most email platforms handle the headers for you. Your part is to send from your own authenticated domain rather than a free webmail address, and to keep complaints low by mailing only people who asked."
+      ],
+      "bullets": [
+        "**All senders:** authenticate with SPF or DKIM and keep the spam rate reported in Google's Postmaster Tools below 0.3%. Google recommends staying under 0.1%.",
+        "**Bulk senders:** set up SPF, DKIM and DMARC — a policy of p=none is acceptable — and make sure the From domain aligns with SPF or DKIM.",
+        "**One-click unsubscribe:** marketing and subscribed messages need a list-unsubscribe header that supports one-click unsubscribe, plus a clearly visible unsubscribe link in the message.",
+        "**Act fast on unsubscribes:** Yahoo asks bulk senders to honor them within two days."
+      ]
+    },
+    {
+      "heading": "WhatsApp opt-in rules",
+      "paragraphs": [
+        "Meta requires businesses on the WhatsApp Business Platform to get opt-in before messaging people. You can collect it on any channel — a website form, SMS, a phone menu, a paper form at your counter — and it doesn't have to mention WhatsApp specifically, provided you comply with local law. It must clearly say the person is agreeing to receive messages from you, and it must clearly name your business.",
+        "Meta's best-practice advice goes further: cover the categories of message you plan to send, collect separate opt-in for each category, explain how to opt out and respect opt-outs. Businesses whose quality rating stays low for a sustained period can have their messaging limited, so permission is a deliverability issue as well as a legal one. Given the DPDP principles, the safest course is to make WhatsApp marketing its own recorded choice."
+      ]
+    },
+    {
+      "heading": "A 60-day plan to build both lists",
+      "paragraphs": [
+        "Our [email marketing and automation](/email-marketing-automation) and [WhatsApp marketing](/whatsapp-marketing) teams set up these flows for clients, and the [email marketing guide](/email-marketing-automation/guide) and [WhatsApp marketing guide](/whatsapp-marketing/guide) cover sequences and segmentation in more depth."
+      ],
+      "bullets": [
+        "**Weeks 1–2:** audit existing contacts, separate people with recorded marketing consent from those without, and rewrite your consent notices.",
+        "**Week 3:** set up domain authentication, one-click unsubscribe, double opt-in and a WhatsApp opt-in flow with categories.",
+        "**Weeks 4–5:** launch one lead magnet on your highest-intent pages and at the point of sale.",
+        "**Weeks 6–7:** build a welcome sequence of three to five emails, or a short WhatsApp series, that delivers value before any offer.",
+        "**Week 8:** review sign-up sources, unsubscribe and complaint rates, and the first sales from each list."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I add existing customers' numbers to WhatsApp broadcasts?",
+      "a": "Only if they opted in to hear from you. A number shared to deliver an order is not permission for promotions. Ask for opt-in — a short message after delivery or a checkbox at checkout works."
+    },
+    {
+      "q": "Is a pre-ticked checkbox acceptable?",
+      "a": "No. The DPDP Act expects a clear affirmative action, and a box ticked by default isn't one. Inbox providers and WhatsApp also treat unclear permission as a quality problem that hurts delivery."
+    },
+    {
+      "q": "Is double opt-in legally required?",
+      "a": "Not by name, but it is good evidence that a real person chose to subscribe, and it keeps bad addresses off your list. We recommend it for email marketing."
+    },
+    {
+      "q": "What if someone unsubscribes from email but keeps buying from us?",
+      "a": "Keep sending transactional messages such as order confirmations, but stop marketing email. Respect the opt-out on every channel it covers, and keep a record of the request."
+    }
+  ],
+  "sources": [
+    { "label": "PIB — DPDP Rules, 2025 Notified (Nov 2025)", "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc20251117695301.pdf" },
+    { "label": "MeitY — The Digital Personal Data Protection Act, 2023", "url": "https://www.meity.gov.in/static/uploads/2024/06/2bf1f0e9f04e6fb4f8fef35e82c42aa5.pdf" },
+    { "label": "Google Workspace Admin Help — Email sender guidelines", "url": "https://support.google.com/a/answer/81126?hl=en" },
+    { "label": "Yahoo Sender Hub — Sender best practices", "url": "https://senders.yahooinc.com/best-practices" },
+    { "label": "Meta for Developers — Get opt-in for WhatsApp", "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/getting-opt-in" },
+    { "label": "Meta developer docs — WhatsApp Business Platform per-message pricing", "url": "https://developers.facebook.com/docs/whatsapp/pricing" }
+  ]
+}

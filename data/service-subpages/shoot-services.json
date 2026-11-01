@@ -1,0 +1,347 @@
+{
+  "slug": "shoot-services",
+  "guide": {
+    "eyebrow": "Shoots · 2026 guide",
+    "title": "Brand and product shoots: how to plan one that feeds every channel",
+    "metaTitle": "How to Plan a Product and Brand Shoot",
+    "metaDescription": "A practical 2026 guide to product and brand shoots: shot lists by channel, marketplace image rules, vertical video, AI imagery, usage rights and value.",
+    "lead": "A shoot day is expensive to repeat, so most of its value is decided before anyone picks up a camera. This guide covers how to plan photography and video that your website, listings, ads and social channels can all use.",
+    "sections": [
+      {
+        "heading": "What a shoot is now expected to deliver",
+        "paragraphs": [
+          "A shoot used to produce a set of polished photos for a catalog or website. Today the same day is expected to supply marketplace packshots, lifestyle images for ads, vertical video for Reels and Shorts, founder or team portraits, and images for WhatsApp catalogs and email. Each has its own framing, aspect ratio and editing needs.",
+          "The practical shift is from shooting whatever looks good to shooting to a list. Every frame should have a destination, and every destination should get the frames it needs."
+        ]
+      },
+      {
+        "heading": "The main types of shoot and when each fits",
+        "paragraphs": [
+          "Most brands need two or three of these in a single shoot. Choose by asking which images are missing from the channels that actually bring in sales."
+        ],
+        "bullets": [
+          "**Packshots:** the product alone, usually on white or a plain background, for listings and catalogs.",
+          "**Lifestyle:** the product in use, in a setting your customer recognizes, for ads, websites and social posts.",
+          "**Detail and texture:** close-ups of fabric, finish, ingredients or craftsmanship that answer questions a buyer would otherwise have to ask.",
+          "**Food:** styled dishes and packaging for menus, delivery apps and social channels, where timing and freshness matter.",
+          "**People and place:** founders, teams, clinics, factories or offices, which build trust on websites and LinkedIn.",
+          "**Short video:** product demos, process clips and talking-head pieces, usually shot vertically."
+        ]
+      },
+      {
+        "heading": "Platform requirements to plan around",
+        "paragraphs": [
+          "Marketplaces set rules for the main product image, and listings that break them can be suppressed. Amazon asks for the product alone on a pure white background, without added text, logos or watermarks, at a resolution high enough for shoppers to zoom. Flipkart publishes its own image guidelines, which differ by category. Both change from time to time, so check the current seller help pages before you write the shot list.",
+          "Social platforms change their framing too. In early 2025 Instagram switched profile grids from squares to taller rectangles, so images composed tightly for a square crop can lose their edges. Reels and Shorts are vertical, which means a scene framed only for a wide website banner will not crop well. Shoot important setups both ways, or frame wide enough to crop safely; our [Instagram strategy notes for 2026](/insights/instagram-strategy-2026) cover what to post once you have the assets.",
+          "Search is a channel as well. Google's guidance on its AI features lists high-quality images and videos among the ways to support your pages, so original photography on your website does more than decorate it."
+        ]
+      },
+      {
+        "heading": "Where AI-generated imagery fits",
+        "paragraphs": [
+          "AI image tools can extend a background, build a mood board or produce a quick concept, and they are improving quickly. They are risky as a replacement for photographing the real product: a generated image can show a color, texture or size the product does not have, which leads to disappointed customers and returns.",
+          "Platforms increasingly expect disclosure. Google's guidance for Merchant Center requires AI-generated product images to carry the IPTC `DigitalSourceType` value `TrainedAlgorithmicMedia` in their metadata. Whatever tools are used in editing, the honest test is simple: would a customer holding the product feel the image showed them what they bought?"
+        ]
+      },
+      {
+        "heading": "How to plan a shoot",
+        "paragraphs": [
+          "Planning takes longer than shooting, and it is where most of the value is created.",
+          "A shot list also protects the budget. When the day runs short, it tells everyone which shots matter most."
+        ],
+        "bullets": [
+          "**Start from channels.** List every place the images will appear and the formats each one needs.",
+          "**Write the shot list.** Each line names the product or subject, the setup, the orientation and the destination.",
+          "**Build a mood board.** Agree lighting, color, props and styling with examples, so nobody discovers differences in taste on set.",
+          "**Prepare products.** Send flawless samples, spare units, every variant and the packaging, cleaned and steamed in advance.",
+          "**Sort people and places.** Cast models, book locations, obtain permissions and collect signed releases from anyone recognizable.",
+          "**Agree usage rights.** Confirm who owns the images, where they can be used and for how long, especially where models appear."
+        ]
+      },
+      {
+        "heading": "Common shoot mistakes",
+        "paragraphs": [
+          "Every one of these costs more to fix with a reshoot than it would have taken to plan for."
+        ],
+        "bullets": [
+          "Shooting only horizontal frames, then discovering that most social placements are vertical.",
+          "Leaving out a size reference, so customers cannot judge how big the product is.",
+          "Color that drifts from the real product because nobody shot a reference card or checked under neutral light.",
+          "Styling the product in a way it is never used, which looks attractive but answers no buyer's question.",
+          "Missing variants: the hero color is shot beautifully and the other five never get photographed.",
+          "Editing that changes the product itself, such as smoothing a fabric's texture or brightening food beyond recognition."
+        ]
+      },
+      {
+        "heading": "How to judge whether a shoot was worth it",
+        "paragraphs": [
+          "Judge a shoot by how much of it gets used and by what the images do once they are live.",
+          "Our [shoot process](/shoot-services/process) explains how we plan around these measures, and our [video editing](/video-editing) team turns shoot footage into finished Reels, ads and product videos. For listing images in particular, see [marketplace listings](/marketplace-listings)."
+        ],
+        "bullets": [
+          "**Use rate:** how many delivered images and clips go live across channels in the first few months.",
+          "**Listing performance:** conversion and return reasons on marketplace listings after the new images go up.",
+          "**Ad results:** whether new images and clips outperform the creatives they replaced in paid campaigns.",
+          "**Shelf life:** how long the library keeps supplying usable content before the next shoot is needed."
+        ]
+      }
+    ],
+    "takeaways": [
+      "Plan a shoot backward from the channels, so every frame has a destination.",
+      "Marketplace main images follow strict rules, so check the current seller guidelines before building the shot list.",
+      "Shoot key setups vertically as well as horizontally, or frame wide enough to crop.",
+      "Use AI imagery for concepts and backgrounds, not as a substitute for photographing the real product.",
+      "Agree usage rights and model releases before the shoot, not after.",
+      "Measure a shoot by how much of it is used and how the images perform once live."
+    ],
+    "faqs": [
+      {
+        "q": "Can AI-generated images replace a product shoot?",
+        "a": "For concepts and backgrounds, sometimes. For showing the actual product, not reliably: generated details can misrepresent color, size or texture, and some platforms require AI-generated product images to be labeled in their metadata. Real photographs remain the safer base, with AI used carefully in editing."
+      },
+      {
+        "q": "Who owns the photos after a shoot?",
+        "a": "It depends on the agreement, so settle it in writing beforehand. Cover ownership or license terms, the channels and regions allowed, the duration, and any limits on images featuring models or private locations."
+      },
+      {
+        "q": "Should we shoot photos and video on the same day?",
+        "a": "Often, yes, because the set, styling and products are already prepared. Plan separate time for video, though: it needs different lighting, sound and more takes, and rushing it compromises both."
+      },
+      {
+        "q": "How many products can be photographed in a day?",
+        "a": "It depends on the shot types more than the product count. Simple white-background packshots move quickly, while styled lifestyle setups or food that must look fresh take far longer each. A shot list with estimated times gives a realistic answer for your products."
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "Shoots · How we work",
+    "title": "How a SmartWebCare shoot runs, from brief to organized asset library",
+    "metaTitle": "Our Shoot Process: From Brief to Asset Library",
+    "metaDescription": "How SmartWebCare runs product and brand shoots: channel brief, shot list and call sheet, product prep, art-directed shoot day, selects, retouch, delivery.",
+    "lead": "A shoot looks like one busy day, but most of the work happens before and after it. Each stage below lists the work involved, the result you get and anything we need from you to keep shoot day on track.",
+    "steps": [
+      {
+        "title": "Channel brief",
+        "summary": "We start by listing where the images and videos will be used and what each channel is currently missing.",
+        "activities": [
+          "Review your website, listings, ads and social profiles for gaps and inconsistencies",
+          "Agree the priority products, people or places to capture",
+          "Note platform requirements such as marketplace main-image rules and vertical video formats",
+          "Set a realistic scope for the time and budget available"
+        ],
+        "output": "A creative brief listing every destination and the assets it needs."
+      },
+      {
+        "title": "Pre-production",
+        "summary": "We turn the brief into a plan everyone can work from on the day.",
+        "activities": [
+          "Build a mood board for lighting, color, props and styling",
+          "Write a shot list with the setup, orientation and destination of each frame",
+          "Cast models, book stylists and scout locations, with permissions where needed",
+          "Issue a call sheet with timings, addresses and contacts"
+        ],
+        "output": "An approved mood board, shot list and call sheet."
+      },
+      {
+        "title": "Product and set preparation",
+        "summary": "We get products and sets camera-ready before the shoot begins, so the day is spent shooting.",
+        "activities": [
+          "Receive, inspect and log every product and variant",
+          "Clean, steam, assemble or style products as required",
+          "Shoot test frames with a color reference to agree the look"
+        ],
+        "output": "Approved test frames and a confirmed product list."
+      },
+      {
+        "title": "Shoot day",
+        "summary": "Our photographer and art director work through the shot list while you watch on set or remotely.",
+        "activities": [
+          "Capture packshots, lifestyle setups, details and video in the planned order",
+          "Show frames on a tethered screen for live feedback",
+          "Shoot vertical and horizontal versions of key setups",
+          "Log any unplanned extra shots against the list"
+        ],
+        "output": "A complete set of raw captures, backed up the same day."
+      },
+      {
+        "title": "Selects and review",
+        "summary": "You choose the frames to edit from a contact sheet, with our recommendations marked.",
+        "activities": [
+          "Share an online contact sheet organized by product and setup",
+          "Mark our recommended selects for each destination",
+          "Collect your choices and notes in a single round"
+        ],
+        "output": "A confirmed list of selects to be edited."
+      },
+      {
+        "title": "Post-production",
+        "summary": "We color-correct, retouch and edit to the agreed standard, keeping every product true to life.",
+        "activities": [
+          "Correct color against the reference card and the real product",
+          "Remove dust, creases and distractions without altering the product itself",
+          "Prepare white-background versions for marketplaces",
+          "Cut video clips into finished pieces with our [video editing](/video-editing) team"
+        ],
+        "output": "Final edited photos and videos, with one round of revisions included."
+      },
+      {
+        "title": "Delivery and asset library",
+        "summary": "We deliver files ready to use, organized so your team can still find them months later.",
+        "activities": [
+          "Export each image in the sizes and crops every channel needs",
+          "Name and folder files by product, setup and channel",
+          "Add usage notes and suggested alt text for web images"
+        ],
+        "output": "An organized asset library with usage notes, ready for your team and partners."
+      }
+    ],
+    "deliverables": [
+      "Creative brief and channel list",
+      "Mood board, shot list and call sheet",
+      "Edited high-resolution photos for every agreed destination",
+      "Marketplace-ready white-background images",
+      "Vertical and horizontal crops of key images",
+      "Edited video clips, where video is in scope",
+      "Organized asset library with usage notes and alt text suggestions"
+    ],
+    "youProvide": [
+      "Final products, every variant and the packaging, delivered before the shoot",
+      "Brand guidelines and examples of imagery you like or dislike",
+      "Access and permission for any shoot at your premises",
+      "A decision-maker available on shoot day, in person or online"
+    ],
+    "faqs": [
+      {
+        "q": "Can we approve shots during the shoot if we can't be on set?",
+        "a": "Yes. We share frames live through a remote viewing link or a video call, so you can comment as we go. It helps to have one person with the authority to approve."
+      },
+      {
+        "q": "What if a product arrives damaged or a variant is missing?",
+        "a": "We inspect every item on arrival and tell you straight away, so replacements can be sent in time. If something still cannot be shot on the day, we reschedule that part rather than photograph a flawed sample. For packs that photograph well in the first place, see [product packaging design](/product-packaging-design)."
+      },
+      {
+        "q": "Do you handle model and location releases?",
+        "a": "Yes. We arrange signed releases for models and permissions for locations, and record what each allows, so you know exactly where the images can be used. [Book a consultation](/book-consultation) to plan your first shoot."
+      }
+    ]
+  },
+  "useCases": {
+    "eyebrow": "Shoots · Use cases",
+    "title": "Shoot services use cases: six brands and what each shoot must deliver",
+    "metaTitle": "Product and Brand Shoot Use Cases",
+    "metaDescription": "Illustrative shoot scenarios for an ethnic-wear label, cloud kitchen, eye clinic, manufacturer, property developer and career coach, with what to measure.",
+    "lead": "What a shoot must deliver depends on where the business sells and what customers need to see. These illustrative scenarios show how the shot list, the approach and the measures change.",
+    "cases": [
+      {
+        "title": "Cutting color-related returns on a marketplace launch",
+        "businessType": "Ethnic-wear label · Surat",
+        "challenge": "A label launching sarees and kurtas on marketplaces gets returns because the colors look different from the photos. Its images are phone shots under mixed lighting, with no detail views of fabric or embroidery.",
+        "approach": [
+          "Shoot each piece on a model and as a flat lay under consistent, color-checked light",
+          "Add close-ups of fabric, border and embroidery for every design",
+          "Produce main images that meet each marketplace's current guidelines",
+          "Edit for accurate color rather than extra saturation"
+        ],
+        "measure": [
+          "Returns citing color or appearance",
+          "Listing conversion before and after the new images",
+          "Customer questions about fabric and fit"
+        ]
+      },
+      {
+        "title": "Menus that look like the food that arrives",
+        "businessType": "Cloud kitchen · Chennai",
+        "challenge": "A cloud kitchen running three brands uses stock photos on delivery apps. Customers comment that the food looks different, and the menus have no consistent style.",
+        "approach": [
+          "Photograph every dish as it is actually packed and served, in batches by brand",
+          "Set a simple, consistent background and angle for each brand",
+          "Shoot short vertical clips of preparation for social posts",
+          "Deliver images sized for each delivery app, in line with the wider [restaurant marketing](/industries/restaurants-hospitality) plan"
+        ],
+        "measure": [
+          "Orders per dish after the photos change",
+          "Ratings and comments that mention how the food looks",
+          "Menu items still without original photos"
+        ]
+      },
+      {
+        "title": "Showing patients the clinic and the people before they visit",
+        "businessType": "Eye clinic · Bhopal",
+        "challenge": "New patients feel anxious about a first visit. The clinic's website and Google Business Profile show stock images and a logo, and nothing of the real rooms or doctors.",
+        "approach": [
+          "Photograph doctors and staff in natural, approachable portraits",
+          "Capture reception, consultation rooms and equipment, with patient privacy protected",
+          "Shoot a short walkthrough video of what happens at a first visit",
+          "Keep imagery factual and non-promotional, in line with professional advertising rules for doctors"
+        ],
+        "measure": [
+          "Photo views and actions on Google Business Profile",
+          "Appointment requests from the website",
+          "Patient feedback mentioning feeling prepared for the visit"
+        ]
+      },
+      {
+        "title": "Making a factory look as capable as it is",
+        "businessType": "Precision components manufacturer · Rajkot",
+        "challenge": "Export buyers judge suppliers by their website and catalog before any visit. The manufacturer's photos are years old and show cluttered shop floors.",
+        "approach": [
+          "Plan the shoot around production schedules, with safety gear worn in every frame",
+          "Capture machinery, quality checks, finished components and the team",
+          "Shoot product images on clean backgrounds for the catalog and website",
+          "Record short process clips for LinkedIn and trade-show screens"
+        ],
+        "measure": [
+          "Use of the new images across website, catalog and trade-show material",
+          "Quality of inquiries from buyers who mention the website",
+          "Sales team feedback after buyer meetings"
+        ]
+      },
+      {
+        "title": "Showing the real property, not only the renders",
+        "businessType": "Residential developer · Gurugram",
+        "challenge": "A ready-to-move project is still marketed with renders from its launch. Buyers want to see the actual flats, views and amenities before deciding to visit.",
+        "approach": [
+          "Photograph the sample flat and finished amenities at the best time of day for light",
+          "Shoot a walkthrough video and short vertical clips for ads",
+          "Label any remaining renders clearly as artist's impressions",
+          "Capture the neighborhood, including roads, shops and commute landmarks"
+        ],
+        "measure": [
+          "Site-visit bookings from ads and listings",
+          "Engagement on walkthrough videos",
+          "Questions from visitors that the photos and videos already answer"
+        ]
+      },
+      {
+        "title": "Building a consistent personal brand library",
+        "businessType": "Career coach · Mumbai",
+        "challenge": "A coach posting regularly on LinkedIn and Instagram relies on selfies and one old headshot. The look changes with every post, and nothing suits a course page or speaker profile.",
+        "approach": [
+          "Plan one session with several outfits, settings and expressions",
+          "Shoot portraits, at-the-desk scenes and speaking shots",
+          "Record short talking-head clips for Reels and LinkedIn video",
+          "Deliver crops for profile pictures, banners and course pages, as part of a wider [personal branding](/personal-branding) plan"
+        ],
+        "measure": [
+          "Profile visits and connection requests after the new images go live",
+          "Webinar or course sign-ups from social profiles",
+          "How many months the library lasts before it needs refreshing"
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "We already have product photos. Is a new shoot worth it?",
+        "a": "Only if the current images hold you back: wrong colors, missing variants, no vertical formats or a style that no longer fits the brand. Reviewing your images against each channel shows whether you need a full shoot or just a few targeted setups."
+      },
+      {
+        "q": "Can one shoot serve both marketplaces and social media?",
+        "a": "Yes, if it is planned that way. White-background packshots and styled or video setups need different time on the day, so the shot list should give each its own block."
+      },
+      {
+        "q": "How often should a brand plan a shoot?",
+        "a": "Whenever the library stops covering what you need: a new range, a new season, a rebrand or a channel asking for formats you lack. A shoot planned around each launch or season is usually easier to manage than repeated last-minute ones. [Tell us what is coming up](/contact) and we will suggest a plan."
+      }
+    ]
+  }
+}

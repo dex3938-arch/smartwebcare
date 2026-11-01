@@ -1,0 +1,336 @@
+{
+  "slug": "marketplace-listings",
+  "guide": {
+    "eyebrow": "Marketplace listings · 2026 guide",
+    "title": "Selling on Amazon and Flipkart: listings, ads and margins in 2026",
+    "metaTitle": "Amazon & Flipkart Selling Guide for 2026",
+    "metaDescription": "How marketplace search ranks products, what a converting listing needs, how sponsored ads and fees work in 2026, and which seller metrics to track weekly.",
+    "lead": "On a marketplace, your listing is shop window, salesperson and packaging rolled into one, and it competes on the same screen as every rival. This guide covers how Amazon and Flipkart decide what shoppers see, how to build listings that sell, and how to stop ads and fees from eating the margin.",
+    "sections": [
+      {
+        "heading": "How marketplace search decides what shoppers see",
+        "paragraphs": [
+          "Marketplace search engines want to show products that shoppers will buy. Broadly, they weigh relevance, meaning how well your title, attributes and search terms match the query, alongside performance signals such as click-through, conversion, sales history, price competitiveness, delivery speed and stock availability. Neither Amazon nor Flipkart publishes the full formula, so treat any confident claim about exact weightings with suspicion.",
+          "Because sales feed rankings, new listings face a chicken-and-egg problem. Sponsored ads, launch pricing and complete content help a new product earn the early sales that organic rank then builds on.",
+          "Where several sellers offer the same product, the marketplace picks one offer to show by default; Amazon calls it the Buy Box. Price, fulfillment method, delivery promise and seller performance all affect who wins it, so a great listing can still lose sales to a reseller with a sharper offer."
+        ]
+      },
+      {
+        "heading": "What a listing that converts contains",
+        "paragraphs": [
+          "Write for a shopper on a phone. Most will see only the main image, title, rating and price in search results, then swipe through the image carousel before reading a single bullet.",
+          "Marketplace AI assistants now answer shopper questions such as 'is this machine washable?' or 'will this fit a six-seater table?' using listing details, reviews and customer Q&As. Complete attributes and accurate bullets are the raw material for those answers, which is why images from our [product shoot services](/shoot-services) are only half of a strong listing."
+        ],
+        "bullets": [
+          "**Title:** brand, product type, key attribute and variant, in the order the category style guide asks for, readable first and keyword-rich second",
+          "**Bullets:** each answers a buyer question, such as size, material, compatibility, care or what's in the box, instead of repeating adjectives",
+          "**Images:** a main image that meets the marketplace's rules (Amazon requires a pure white background), followed by scale, detail, in-use and comparison shots",
+          "**Attributes:** every applicable field filled, because filters, comparison widgets and AI shopping assistants read them",
+          "**Brand content:** A+ Content on Amazon, with comparison charts and story modules, for registered brands",
+          "**Video:** a short demonstration wherever the product's use isn't obvious from photos"
+        ]
+      },
+      {
+        "heading": "Brand Registry and protecting your catalog",
+        "paragraphs": [
+          "If you own a brand, register it. Amazon's brand-owner tools, including A+ Content, a Brand Store, brand-only ad formats and stronger ways to report counterfeits and unauthorized page edits, depend on Brand Registry, which is tied to a trademark. Check the current eligibility rules in Seller Central, since what counts as an acceptable trademark filing varies by marketplace.",
+          "Flipkart runs its own brand approval process for sellers listing branded goods. On both platforms, watch for duplicate listings, unauthorized sellers and edits to your product page made by others. Catching them early is far easier than unwinding them later."
+        ]
+      },
+      {
+        "heading": "How sponsored ads work on marketplaces",
+        "paragraphs": [
+          "Marketplace ads are auctions for placements in search results and on product pages. On Amazon, Sponsored Products promote single listings, Sponsored Brands show your logo with several products, and Sponsored Display reaches shoppers on product pages and off Amazon. Flipkart Ads offers comparable sponsored placements across search and browse pages.",
+          "A practical structure starts with automatic campaigns to discover search terms, moves proven terms into manual exact-match campaigns with their own bids, targets competitor and complementary product pages, and protects your own brand searches from rivals bidding on them. Our comparison of [organic and paid growth for e-commerce](/industry-compare/organic-vs-paid-ecommerce) explains how the two reinforce each other.",
+          "Two ratios keep marketplace ads honest. ACoS, ad spend divided by ad-attributed sales, shows whether the ads pay for themselves. TACoS, ad spend divided by total sales including organic, shows whether ads are building organic sales over time; a falling TACoS with steady revenue is the healthy pattern."
+        ]
+      },
+      {
+        "heading": "What changed for Indian sellers recently",
+        "paragraphs": [
+          "Fees have moved in sellers' favor at lower price points. From March 16, 2026, Amazon India charges zero referral fees on products priced under ₹1,000 across more than 1,800 categories, a large expansion of its 2025 waiver for products under ₹300. Flipkart, whose zero-commission policy had covered fashion products up to ₹1,000, extended it to fashion at every price point in July 2026. Closing, shipping and fulfillment fees still apply, so recalculate each SKU's margin from the current rate card.",
+          "Review integrity is under closer watch. The Bureau of Indian Standards has a dedicated standard for online consumer reviews, IS 19000:2022, covering how platforms and sellers collect, moderate and publish them, and marketplaces remove reviews they judge to be incentivized or manipulated. Use only each marketplace's own review programs and request tools.",
+          "Quick-commerce apps have also become a parallel storefront for many grocery, personal-care and household brands in large cities. They run on separate listing rules and ad products, and they reward a narrow, fast-moving range more than a long catalog."
+        ]
+      },
+      {
+        "heading": "Planning: which marketplace, which products, which price",
+        "paragraphs": [
+          "Start with unit economics for every SKU: selling price, minus referral fee or commission, closing fee, shipping or fulfillment, packaging, expected returns and a realistic ad cost per sale. Some products only make sense as bundles or multipacks once those costs are counted.",
+          "Choose hero products, the few SKUs with the best margin, reviews and search demand, and concentrate content and ad budget there. A long tail of thin listings with no reviews rarely earns rank on its own.",
+          "Decide fulfillment deliberately. Marketplace-managed fulfillment usually strengthens the delivery promise and eligibility for fast-delivery badges, while self-ship gives more control over stock and packaging. Plenty of sellers use marketplace fulfillment for fast movers and self-ship for the rest."
+        ]
+      },
+      {
+        "heading": "Mistakes that cost marketplace sellers",
+        "paragraphs": [
+          "Most lost marketplace sales trace back to a few avoidable habits rather than to competition."
+        ],
+        "bullets": [
+          "Stuffing titles with keywords until they're unreadable, and risking suppression for breaking style rules",
+          "Leaving attributes blank, which hides the product from filtered searches",
+          "Running automatic campaigns indefinitely without harvesting or negating search terms",
+          "Ignoring stock-outs, which can cost rank that takes weeks to recover",
+          "Discounting into a loss during sale events without modeling fees and returns",
+          "Answering bad reviews defensively, or not answering at all"
+        ]
+      },
+      {
+        "heading": "Metrics to review every week",
+        "paragraphs": [
+          "Watch traffic (sessions or page views per listing), conversion (Amazon's unit session percentage, or orders per visitor on Flipkart), Buy Box share where other sellers compete on your products, organic rank for your main search terms, ACoS and TACoS, return rate with reasons, and the trend in star rating and review count.",
+          "Then roll everything up into contribution margin per SKU after fees, ads and returns. That figure decides whether a product deserves more budget or a quiet exit. To see how we run this work week to week, read our [marketplace listing process](/marketplace-listings/process)."
+        ]
+      }
+    ],
+    "takeaways": [
+      "Marketplace rankings follow sales, so content, price and early ads work together to earn organic rank.",
+      "Fill every attribute, because filters, comparison tools and AI shopping assistants depend on them.",
+      "Register your brand to use A+ Content and to protect your catalog from unauthorized changes.",
+      "Judge ads on TACoS as well as ACoS to see whether paid sales are building organic ones.",
+      "Recalculate SKU margins after the 2026 fee changes on Amazon India and Flipkart.",
+      "Put budget behind a few hero products instead of spreading it across a long, thin catalog."
+    ],
+    "faqs": [
+      {
+        "q": "Do I need a trademark to sell on Amazon India?",
+        "a": "No, you can list products without one. But Brand Registry, and with it A+ Content and stronger protection against listing hijacks, depends on a trademark registration or, in some cases, a filed application. If you plan to build a brand rather than resell, file for a trademark early."
+      },
+      {
+        "q": "How many keywords should one listing target?",
+        "a": "One main search phrase per listing plus a cluster of closely related ones, worked naturally into the title, bullets and backend fields. Trying to rank a single product for every loosely related term dilutes relevance and makes the title hard to read. Separate variations or bundles can target different phrases."
+      },
+      {
+        "q": "Why has my listing been suppressed or made inactive?",
+        "a": "Common causes are a missing required attribute, a main image that breaks the rules, a title that's too long or contains restricted characters, a pricing error flagged by the marketplace, or a pending compliance document. Seller Central and the Flipkart seller dashboard show the specific reason; fix that field and the listing usually returns."
+      },
+      {
+        "q": "Should my own website match marketplace prices?",
+        "a": "Large, unexplained gaps cause trouble: shoppers notice, and marketplaces may reduce visibility for offers they consider uncompetitive. Many brands keep similar headline prices and give direct buyers other reasons to return, such as bundles, loyalty points, faster support or exclusive variants."
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "Marketplace listings · Our process",
+    "title": "How we optimize and manage your Amazon and Flipkart catalog",
+    "metaTitle": "Our Amazon & Flipkart Listing Process",
+    "metaDescription": "Our marketplace process: account health and catalog audit, keyword research, listing rewrites, images and A+ Content, sponsored ads, then weekly management.",
+    "lead": "We treat a marketplace catalog as a set of small businesses, one per SKU, each with its own margin, competition and content gaps. This is how we work through it and what you get at each step. The background to each step is in our [marketplace selling guide](/marketplace-listings/guide).",
+    "steps": [
+      {
+        "title": "Account health and catalog audit",
+        "summary": "We start with anything that could block sales entirely, then rank every SKU by opportunity.",
+        "activities": [
+          "Check account health, policy warnings, and suppressed or inactive listings",
+          "Review Brand Registry status, category approvals and any duplicate or hijacked listings",
+          "Calculate SKU-level margin after current fees, shipping, returns and ad cost",
+          "Benchmark each hero listing against the top competing products"
+        ],
+        "output": "A catalog audit that sorts SKUs into fix now, optimize, push with ads, or reconsider."
+      },
+      {
+        "title": "Keyword and review research",
+        "summary": "We find the words shoppers use and the doubts that stop them from buying.",
+        "activities": [
+          "Build keyword lists from marketplace search suggestions, search term reports and brand analytics where available",
+          "Mine your reviews and competitors' for objections, praise and missing information",
+          "Identify attributes and filters your listings don't yet satisfy"
+        ],
+        "output": "A keyword map per SKU and a review-insights sheet that feeds both copy and images."
+      },
+      {
+        "title": "Listing rewrites",
+        "summary": "We rewrite titles, bullets, descriptions and backend fields for each priority product.",
+        "activities": [
+          "Draft titles to each category's style guide, then bullets that answer real buyer questions",
+          "Complete every relevant attribute and backend search term",
+          "Fix variation structures so sizes and colors sit under the right parent listing",
+          "Prepare bulk upload files in Amazon and Flipkart formats"
+        ],
+        "output": "Upload-ready listing content, reviewed and approved by you before anything goes live."
+      },
+      {
+        "title": "Images, video and A+ Content",
+        "summary": "We plan each image stack around buyer questions, then produce it with our shoot and design teams.",
+        "activities": [
+          "Plan the image sequence: main, scale, detail, in-use, comparison and infographic",
+          "Shoot or retouch product images to marketplace requirements",
+          "Design A+ Content modules and comparison charts with our [graphic design team](/graphic-design)",
+          "Script and edit a short product video where it helps"
+        ],
+        "output": "Image sets, A+ Content and video uploaded to every priority listing."
+      },
+      {
+        "title": "Sponsored ads setup",
+        "summary": "We build campaigns that discover new search terms, defend your brand and push hero products.",
+        "activities": [
+          "Structure automatic, manual and product-targeting campaigns with clear naming",
+          "Set budgets and target ACoS for each SKU from its actual margin",
+          "Add negative keywords and brand-defense campaigns",
+          "Mirror the approach on Flipkart Ads for products sold there"
+        ],
+        "output": "Live campaigns on Amazon and Flipkart, with documented targets for every SKU."
+      },
+      {
+        "title": "Weekly management and sale-event planning",
+        "summary": "Marketplaces change daily, so we review every week and plan well ahead of the big sale periods.",
+        "activities": [
+          "Harvest search terms, adjust bids and pause wasteful targets",
+          "Monitor stock, competitor price moves, Buy Box share and new reviews or questions",
+          "Plan deals, coupons and ad budgets ahead of events such as the Great Indian Festival and Big Billion Days",
+          "Report SKU-level contribution margin after fees and ads every month"
+        ],
+        "output": "A weekly change log and a monthly SKU-level report with next month's priorities."
+      }
+    ],
+    "deliverables": [
+      "Catalog audit with SKU-level margin and priority ranking",
+      "Keyword map and review-insights sheet for each priority SKU",
+      "Rewritten listings and bulk upload files",
+      "Image stacks, infographics and A+ Content",
+      "Sponsored ads structure with per-SKU targets",
+      "Weekly change log",
+      "Monthly SKU profitability report"
+    ],
+    "youProvide": [
+      "User-level access to Seller Central and the Flipkart seller dashboard, never your password",
+      "Product specifications, certifications, compliance documents and trademark details",
+      "Product samples for photography, or existing high-resolution images",
+      "Cost prices, margins and stock plans for each SKU",
+      "Quick approvals on listing changes and promotions"
+    ],
+    "faqs": [
+      {
+        "q": "Do you need our Seller Central login?",
+        "a": "No. You add us as a user with the permissions the work needs, and you can change or remove that access at any time. Sharing a password is poor security practice and can cause account problems you don't want."
+      },
+      {
+        "q": "Can you manage Amazon and Flipkart under one engagement?",
+        "a": "Yes. Research and content are shared across both, then adapted to each platform's format rules and ad products. Reporting combines them, so you can compare SKU margins by marketplace side by side."
+      },
+      {
+        "q": "How do you prepare for big sale events?",
+        "a": "Planning starts weeks ahead: confirming stock, choosing which products get deals, building ad budgets that can scale on peak days and refreshing images with event messaging. Afterward we review which deals were actually profitable once fees and returns came in, and that shapes the next event. Want to plan for the next one? [Get in touch](/contact)."
+      }
+    ]
+  },
+  "useCases": {
+    "eyebrow": "Marketplace listings · Use cases",
+    "title": "Marketplace use cases: who gains from better listings and ads",
+    "metaTitle": "Amazon & Flipkart Seller Use Cases",
+    "metaDescription": "Illustrative scenarios for marketplace sellers, from ethnic wear and kitchenware to export crafts, herbal care, electronics and sports goods, with metrics.",
+    "lead": "Marketplace problems look alike from the outside, because sales are too low, but the causes differ: returns, hijackers, thin content, wasted ad spend or the wrong price point. These illustrative scenarios show how we'd diagnose and approach each.",
+    "cases": [
+      {
+        "title": "Cutting returns for an ethnic-wear catalog",
+        "businessType": "Ethnic-wear seller · Surat",
+        "challenge": "A seller lists several hundred sarees and kurta sets on Amazon and Flipkart. Sales are steady, but returns for size and color mismatch are wiping out the margin, and reviews say products look different from their photos.",
+        "approach": [
+          "Reshoot hero products in consistent lighting, with fabric close-ups and on-model images",
+          "Add detailed size charts, fabric weight and care instructions to every listing",
+          "Group variations properly so shoppers see every color on one page",
+          "Re-check margins under Flipkart's expanded zero-commission policy for fashion"
+        ],
+        "measure": [
+          "Return rate by reason for priority SKUs",
+          "Conversion rate on reshot listings",
+          "Contribution margin per order after returns"
+        ]
+      },
+      {
+        "title": "Protecting a D2C brand as it moves onto marketplaces",
+        "businessType": "Kitchenware D2C · Delhi",
+        "challenge": "A brand selling cast-iron cookware from its own website wants to add Amazon. Resellers already list its products at lower prices, and one has edited the product page with wrong information.",
+        "approach": [
+          "Complete Brand Registry and take control of the product detail pages",
+          "Report unauthorized sellers and incorrect edits through the brand protection tools",
+          "Build A+ Content explaining seasoning, care and the difference from cheaper alternatives",
+          "Run brand-defense ads on the brand's own name"
+        ],
+        "measure": [
+          "Buy Box share held by the brand",
+          "Conversion of branded search traffic on its own listings",
+          "Number of unauthorized offers over time"
+        ]
+      },
+      {
+        "title": "Selling handcrafted brassware to buyers abroad",
+        "businessType": "Handicrafts exporter · Moradabad",
+        "challenge": "An exporter that supplies importers wants to sell directly to consumers in the US and UAE through Amazon. Its photos were made for trade catalogs, and its listings read like translated invoices.",
+        "approach": [
+          "Research how buyers in each country search for and describe these products",
+          "Rewrite listings in natural English for each market, with dimensions in the units buyers there use",
+          "Plan lifestyle images that show scale and use in homes like the buyers' own",
+          "Model landed cost, marketplace fees and returns per country before setting prices"
+        ],
+        "measure": [
+          "Sessions and conversion rate per country",
+          "Margin per order after international fees and shipping",
+          "Review rating in each market"
+        ]
+      },
+      {
+        "title": "Keeping product claims compliant for a herbal brand",
+        "businessType": "Herbal personal care · Kochi",
+        "challenge": "A brand selling herbal soaps and skin creams wants to grow on marketplaces, but its old listings made health claims that drew policy warnings. The team is unsure what it can and can't say about its products.",
+        "approach": [
+          "Review every claim against the product's license, labeling and the marketplace's category policies",
+          "Rewrite listings around ingredients, usage and sensory benefits rather than cures",
+          "Use A+ Content to explain sourcing and traditional formulations",
+          "Answer reviews and customer questions carefully, without giving medical advice"
+        ],
+        "measure": [
+          "Policy warnings and listing suppressions over time",
+          "Conversion rate on rewritten listings",
+          "Star rating and review volume trend"
+        ]
+      },
+      {
+        "title": "Standing out among look-alike competitors",
+        "businessType": "Electronics accessories brand · Bengaluru",
+        "challenge": "A brand selling chargers and cables competes with dozens of near-identical products. Its ad spend keeps rising, and organic rank slips whenever it pauses ads.",
+        "approach": [
+          "Concentrate ads on a few hero products with the best ratings and margins",
+          "Add comparison charts and compatibility details that competing listings lack",
+          "Target competitor product pages with Sponsored Display where the brand's ratings are stronger",
+          "Track TACoS monthly to check whether ads are lifting organic sales"
+        ],
+        "measure": [
+          "TACoS trend for hero products",
+          "Organic rank for the main search terms",
+          "Conversion rate on listings with new comparison content"
+        ]
+      },
+      {
+        "title": "Moving a manufacturer from wholesale to retail",
+        "businessType": "Sports goods manufacturer · Jalandhar",
+        "challenge": "A maker of cricket and fitness equipment sells mostly to wholesalers. It wants its own brand on marketplaces, but has no product photography, no reviews and packaging designed for bulk cartons rather than single deliveries.",
+        "approach": [
+          "Choose a small launch range with strong margins and clear search demand",
+          "Redesign packaging for single-unit shipping, with our [packaging design](/product-packaging-design) team, so it survives transit and photographs well",
+          "Launch with sponsored ads and competitive introductory pricing to earn first reviews legitimately",
+          "Plan stock and fulfillment ahead of the cricket season peak"
+        ],
+        "measure": [
+          "Time to first reviews on each launch product",
+          "Ad-attributed versus organic sales over the first months",
+          "Damage-related returns after the packaging change"
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Is marketplace selling worth it if we already have our own website?",
+        "a": "For most consumer brands, yes, as a second storefront. Many shoppers start their product search on a marketplace, so being absent hands that demand to competitors. Your website stays the place to build direct relationships, and the two work best with consistent pricing and content, as our [e-commerce and D2C](/industries/ecommerce-d2c) notes explain."
+      },
+      {
+        "q": "Which product categories need extra approvals?",
+        "a": "Categories such as grocery and food, beauty, health and personal care, and some electronics or branded goods often need documents, such as licenses, certificates or brand authorization, before you can list. Requirements change, so we check the current category rules in each seller dashboard at the start of the engagement."
+      },
+      {
+        "q": "Can a small seller with only a few products benefit?",
+        "a": "Often more than a large one, because a few well-built listings with focused ads can compete in a niche. The work is lighter and shows faster whether a product has potential. Tell us about your range through our [contact page](/contact) and we'll say honestly whether marketplaces suit it."
+      }
+    ]
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "slug": "ui-ux-design",
+  "guide": {
+    "eyebrow": "UI/UX design · 2026 guide",
+    "title": "UI/UX design explained: research, flows, prototypes and testing",
+    "metaTitle": "UI/UX design guide: research, flows and testing",
+    "metaDescription": "How UI/UX design works in 2026: user research, information architecture, prototypes, usability testing, WCAG 2.2, design systems and AI design tools.",
+    "lead": "Good interface design is mostly invisible: people find what they came for and finish what they started. This guide covers how product and website teams get there in 2026, and where design projects usually go wrong.",
+    "sections": [
+      {
+        "heading": "Where UX ends and UI begins",
+        "paragraphs": [
+          "UX design decides what a product should do for each person and in what order: which tasks matter most, how information is grouped, what happens when something fails. UI design gives those decisions a visible form through layout, type, color, icons and motion. When the two are treated as one step, visual polish usually arrives before anyone has checked whether the flow makes sense.",
+          "Neither is the same as building. Designers produce research findings, flows, prototypes and specifications; developers turn them into working software. On website projects we pass those outputs to our [web development](/web-development) team, and keeping that boundary clear is what stops feedback rounds from turning into redesigns."
+        ]
+      },
+      {
+        "heading": "Research that fits a real budget",
+        "paragraphs": [
+          "Research does not need a lab. A few conversations with recent customers, a read through support tickets and sales notes, and a look at where analytics shows people dropping off will surface most of the problems worth solving first.",
+          "Ask about past behavior rather than opinions. 'Walk me through the last time you booked a test' produces usable detail; 'Would you use this feature?' produces polite guesses. Recording sessions, with permission, lets the whole team hear customers in their own words."
+        ],
+        "bullets": [
+          "**Interviews:** short calls with recent customers and with people who chose a competitor or gave up.",
+          "**Analytics review:** funnels, on-site search terms, repeated clicks on dead elements and exit pages.",
+          "**Support and sales notes:** questions people keep asking are design problems in disguise.",
+          "**Competitor walkthroughs:** noting conventions users already expect, without copying layouts."
+        ]
+      },
+      {
+        "heading": "Information architecture and user flows",
+        "paragraphs": [
+          "Information architecture is how content and features are organized and labeled. Card sorting, where people group topics in ways that make sense to them, and tree testing, where they try to find items in a proposed menu, are inexpensive ways to check structure before anything is drawn.",
+          "User flows then trace each important task from entry to completion, including the unhappy paths: a failed payment, an expired OTP, a search with no results. Many products feel broken not because the main path is wrong but because nobody designed what happens when things go sideways."
+        ]
+      },
+      {
+        "heading": "Prototyping, and where AI fits in the workflow",
+        "paragraphs": [
+          "Prototypes let people react to a product before it exists. Low-fidelity versions test structure; clickable high-fidelity versions test wording, hierarchy and confidence. The right fidelity is the lowest one that answers the question you are asking right now.",
+          "AI features are now built into mainstream design tools. Figma, for example, offers prompt-based features that generate first-draft layouts and interactive prototypes. They help with exploring options quickly and filling screens with realistic content, but they produce plausible patterns, not answers to your users' particular problems. Every generated screen still needs a designer to check it against research, accessibility and the brand."
+        ]
+      },
+      {
+        "heading": "Accessibility is decided in the design file",
+        "paragraphs": [
+          "Many accessibility failures are set long before code: low-contrast text, tiny tap targets, meaning carried by color alone, or form labels that vanish once someone starts typing. WCAG 2.2, the current W3C Recommendation, added several success criteria that designers can check directly on their screens.",
+          "These checks also help anyone using a phone one-handed, in bright sunlight or on a cracked screen, which describes ordinary use for a lot of people."
+        ],
+        "bullets": [
+          "**Target size (2.5.8):** pointer targets of at least 24 by 24 CSS pixels, or enough spacing around smaller ones.",
+          "**Focus not obscured (2.4.11):** sticky headers, cookie bars and chat bubbles must not fully hide the element a keyboard user is on.",
+          "**Dragging movements (2.5.7):** anything done by dragging, such as a slider or reorderable list, needs a single-pointer alternative.",
+          "**Redundant entry and accessible authentication (3.3.7, 3.3.8):** do not make people retype details they already gave, and let them paste or autofill sign-in details rather than recall or transcribe them.",
+          "**Consistent help (3.2.6):** if you offer help such as chat or a phone number, keep it in the same place across pages."
+        ]
+      },
+      {
+        "heading": "Usability testing and design systems",
+        "paragraphs": [
+          "Usability testing means watching representative people attempt real tasks with a prototype or live product while you stay quiet. Small rounds repeated often tend to catch more than one large study at the end, because each round checks whether the previous fixes worked.",
+          "A design system records decisions so they are not remade on every screen: tokens for color, type and spacing, components with all their states, and guidance on when to use each. It pays off once more than one designer or developer touches the product, and it is the main defense against an interface slowly drifting into inconsistency."
+        ]
+      },
+      {
+        "heading": "Common mistakes and how to measure design",
+        "paragraphs": [
+          "The costly mistakes are predictable: designing for stakeholders rather than users, skipping empty and error states, approving screens on a large monitor that customers will only see on a phone, and treating a redesign as finished on launch day.",
+          "Measure design through behavior, not compliments. Choose a few metrics tied to the tasks you designed for, record them before the change and compare afterward."
+        ],
+        "bullets": [
+          "**Task success:** whether people complete the key task without help, in testing and in analytics.",
+          "**Time on task and errors:** how long the task takes and where people backtrack or make mistakes.",
+          "**Funnel completion:** the share of people who finish sign-up, booking or checkout steps.",
+          "**Support load:** tickets about how to do things the interface should make obvious.",
+          "**Satisfaction:** a short survey after key tasks, read alongside the behavioral data."
+        ]
+      }
+    ],
+    "takeaways": [
+      "Decide the flow before the look, because visual polish cannot rescue a confusing structure.",
+      "Ask users what they did last time, not what they might do someday.",
+      "Design error, empty and loading states as carefully as the main path.",
+      "Check WCAG 2.2 criteria such as target size and focus visibility in the design file, not after launch.",
+      "Treat AI-generated layouts as drafts that still need research and review.",
+      "Compare task success and drop-offs before and after a change so decisions rest on evidence."
+    ],
+    "faqs": [
+      {
+        "q": "How many people do we need for usability testing?",
+        "a": "Fewer than most teams expect for qualitative testing. A small group who match your audience will usually reveal the biggest problems in a flow; testing again after each change matters more than a large first round. Studies that compare numbers, such as two versions of a checkout, need bigger samples and usually a live product."
+      },
+      {
+        "q": "Can we do UX without a researcher on the team?",
+        "a": "At a basic level, yes. Founders and product managers can run customer interviews and simple usability sessions from a clear script. A specialist adds neutral questioning, pattern-spotting across sessions and the skill of turning findings into specific design changes. Our [UI/UX design process](/ui-ux-design/process) shows how we run these steps with clients."
+      },
+      {
+        "q": "Is a design system worth it for a small product?",
+        "a": "A lightweight one usually is. A single page of color, type and spacing tokens plus a handful of core components saves time and keeps screens consistent. A fully documented system makes sense once several people design or build at the same time."
+      },
+      {
+        "q": "Do AI design tools replace UX designers?",
+        "a": "They speed up parts of the job, such as generating layout options, drafting placeholder content and turning sketches into clickable drafts. They do not interview your customers, weigh trade-offs against your business model or notice that a flow confuses older users. We use them for speed and keep people on the decisions; [book a consultation](/book-consultation) if you want to see how."
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "UI/UX design · How we deliver",
+    "title": "How SmartWebCare runs a UI/UX design project",
+    "metaTitle": "Our UI/UX design process from research to handoff",
+    "metaDescription": "Discovery, user research, flows, prototypes, usability testing and developer handoff: how SmartWebCare runs UI/UX projects and what each step delivers.",
+    "lead": "Our UI/UX work runs on evidence and short feedback loops. Each step below ends with something you can review, put in front of users or hand to developers.",
+    "steps": [
+      {
+        "title": "Discovery workshop",
+        "summary": "We align on the business goal, the users who matter most and the tasks the product must make easy, and agree on how success will be measured.",
+        "activities": [
+          "Workshop with founders, product owners and sales or support leads",
+          "Review of analytics, support tickets and any past research",
+          "Heuristic review of the current product or site, if there is one",
+          "Agreement on target metrics and constraints such as platform and timeline"
+        ],
+        "output": "A one-page brief with goals, priority users, key tasks, success metrics and known constraints."
+      },
+      {
+        "title": "User research",
+        "summary": "We talk to real customers and observe how they work today, so design decisions start from behavior rather than assumptions.",
+        "activities": [
+          "Recruiting and scheduling interviews with current and lapsed users",
+          "Recorded interviews built around past-behavior questions",
+          "Contextual sessions where useful, such as watching front-desk staff use a clinic system",
+          "Synthesis of notes into themes, pain points and opportunities"
+        ],
+        "output": "A research summary with evidence-backed findings, lightweight personas or jobs-to-be-done, and a ranked list of problems."
+      },
+      {
+        "title": "Structure and flows",
+        "summary": "We organize content and features, then map every priority task end to end, including error, empty and edge cases.",
+        "activities": [
+          "Card sort or tree test to check navigation labels",
+          "Information architecture map",
+          "User flow diagrams for priority tasks, unhappy paths included",
+          "Low-fidelity wireframes for the main screens"
+        ],
+        "output": "An approved architecture map, flow diagrams and wireframes that define what each screen must do."
+      },
+      {
+        "title": "Interface design and prototype",
+        "summary": "We apply your brand to the wireframes and build a clickable prototype realistic enough for people to react to honestly.",
+        "activities": [
+          "Visual direction explored on one or two key screens before rolling it out",
+          "High-fidelity mobile and desktop screens with every component state",
+          "Clickable prototype of the priority flows",
+          "Contrast, target-size and focus checks against WCAG 2.2 AA"
+        ],
+        "output": "High-fidelity designs and a shareable prototype of the core flows."
+      },
+      {
+        "title": "Usability testing and iteration",
+        "summary": "We watch representative users attempt the priority tasks on the prototype, fix what trips them up and retest the flows where the stakes are highest.",
+        "activities": [
+          "Test script with realistic tasks and clear success criteria",
+          "Moderated remote sessions, recorded with participants' consent",
+          "Findings ranked by severity and how often they occurred",
+          "Design changes and a follow-up round for critical flows"
+        ],
+        "output": "A testing report with session clips, issues found, changes made and remaining risks."
+      },
+      {
+        "title": "Design system and developer handoff",
+        "summary": "We package the design so developers can build it accurately, whether your in-house team or our [web development](/web-development/process) team takes on the build.",
+        "activities": [
+          "Design tokens for color, type, spacing and corner radius",
+          "Component library with states, variants and usage notes",
+          "Annotated specs for interactions, validation messages and responsive behavior",
+          "Walkthrough with developers and a review of the first built screens"
+        ],
+        "output": "A design system file, annotated specs and a recorded handoff session."
+      }
+    ],
+    "deliverables": [
+      "Discovery brief with goals and success metrics",
+      "Research summary and ranked problem list",
+      "Information architecture map and user flow diagrams",
+      "Wireframes and high-fidelity screens for mobile and desktop",
+      "Clickable prototype of the priority flows",
+      "Usability testing report with session recordings",
+      "Design system file and developer handoff specs"
+    ],
+    "youProvide": [
+      "Access to analytics, support tickets and any earlier research",
+      "Help reaching customers for interviews and testing sessions",
+      "Brand guidelines and existing design files",
+      "A product owner who can make decisions within a few working days",
+      "Technical constraints from your developers, shared early"
+    ],
+    "faqs": [
+      {
+        "q": "Which tools do you design in?",
+        "a": "We design and prototype in Figma, so your team can comment directly on screens and developers can inspect specs. Research notes, recordings and synthesis live in a shared workspace that you keep after the project."
+      },
+      {
+        "q": "Can you work alongside our in-house developers?",
+        "a": "Yes, and we plan for it from discovery. We ask about your framework and component library early, design within their limits where sensible, and stay available during the build to answer questions and review screens. If you are new to the discipline, our [UI/UX design guide](/ui-ux-design/guide) explains each stage."
+      },
+      {
+        "q": "What if research shows we should build something different?",
+        "a": "That is research doing its job. We raise it as soon as the evidence is clear, show what we found and propose options, from a scope change to a smaller experiment. Changing course at this stage costs far less than building the wrong flow. To talk a project through, [book a consultation](/book-consultation)."
+      }
+    ]
+  },
+  "useCases": {
+    "eyebrow": "UI/UX design · Who it's for",
+    "title": "UI/UX design for apps, portals and websites people actually finish using",
+    "metaTitle": "UI/UX design use cases: apps, SaaS and portals",
+    "metaDescription": "Illustrative UI/UX scenarios for SaaS, hospitals, fintech, edtech, marketplaces and service websites, with the user problem, our approach and what to measure.",
+    "lead": "UX work earns its keep wherever a task matters and people give up halfway through. These illustrative scenarios show the problems we design for and how each team would know the work paid off.",
+    "cases": [
+      {
+        "title": "First-run onboarding for a B2B SaaS dashboard",
+        "businessType": "Inventory software startup · Bengaluru",
+        "challenge": "Trial users sign up, meet an empty dashboard and leave before importing any data. The sales team fills the gap with demo calls, which cannot keep up as sign-ups grow.",
+        "approach": [
+          "Interviews with trial users who left and those who converted, to find the moment the product clicks",
+          "First-run flow rebuilt around importing one real item, with sample data as a fallback",
+          "Empty states that explain the next step instead of showing blank tables",
+          "Prototype tests with warehouse managers before engineering starts"
+        ],
+        "measure": [
+          "Trial users who complete a first import",
+          "Trial-to-paid conversion over the following billing cycles",
+          "Demo calls requested for basic setup questions"
+        ]
+      },
+      {
+        "title": "Appointment booking in a hospital app",
+        "businessType": "Multi-specialty hospital · Hyderabad",
+        "challenge": "Younger patients manage fine, but older patients and caregivers call the helpline instead. Doctor search is buried, sign-in by OTP often fails, and lab reports are hard to locate.",
+        "approach": [
+          "Contextual sessions with patients and caregivers in the waiting area",
+          "Booking flow with larger targets, readable type and Telugu, Hindi and English labels",
+          "Sign-in that supports OTP autofill and lets one caregiver manage family profiles",
+          "A single reports screen with plain-language file names"
+        ],
+        "measure": [
+          "Bookings completed in the app compared with the helpline",
+          "Drop-off at the sign-in step",
+          "Caregiver task success in follow-up testing"
+        ]
+      },
+      {
+        "title": "A loan application people can complete",
+        "businessType": "Lending NBFC · Mumbai",
+        "challenge": "Applicants abandon a long form that asks for the same details twice, rejects document photos without saying why and gives no sense of how much is left.",
+        "approach": [
+          "Every field traced to the regulatory or credit reason it exists, and the rest removed",
+          "Short steps with saved progress and a visible step count",
+          "Specific error messages and on-screen camera guidance for document capture",
+          "Details carried forward between steps so nothing is typed twice"
+        ],
+        "measure": [
+          "Completion at each step of the application",
+          "Documents rejected on first upload",
+          "Support chats about the application"
+        ]
+      },
+      {
+        "title": "Course discovery for an upskilling platform",
+        "businessType": "Online learning platform · Noida",
+        "challenge": "Learners land on a large catalog with filters named in internal jargon. Many leave without enrolling, and some enroll at the wrong level and ask for refunds.",
+        "approach": [
+          "Card sort with learners to rebuild categories in their own words",
+          "A short goal-based quiz that recommends a starting course",
+          "Course pages restructured around outcomes, prerequisites and weekly time commitment",
+          "Tree test of the new navigation before development"
+        ],
+        "measure": [
+          "Enrollments from catalog visits",
+          "Refund requests that cite the wrong level",
+          "On-site searches that return no results"
+        ]
+      },
+      {
+        "title": "A seller app for rural dealers",
+        "businessType": "Agri-inputs marketplace · Indore",
+        "challenge": "Dealers use the seller app on low-cost phones with patchy connections. Listing a product takes too many screens, and new orders go unnoticed for hours.",
+        "approach": [
+          "Field visits to see dealers' devices, connectivity and reading comfort",
+          "Photo-first listing flow cut to essentials, with Hindi labels",
+          "Drafts that save offline and a clear sync status",
+          "Order alerts designed around WhatsApp, where dealers already respond"
+        ],
+        "measure": [
+          "Time to list a product in testing",
+          "Drafts that are never published",
+          "Late or missed order confirmations"
+        ]
+      },
+      {
+        "title": "Better-qualified enquiries for a design studio",
+        "businessType": "Interior design studio · Delhi",
+        "challenge": "The portfolio site looks polished, but enquiries are vague and the team spends hours qualifying people whose budgets or timelines do not fit.",
+        "approach": [
+          "Interviews with past clients about how they chose a designer",
+          "Portfolio reorganized by room, budget band and style so visitors self-select",
+          "A short enquiry flow that asks about scope and timing in friendly language",
+          "Prototype tested with recent enquirers before the build"
+        ],
+        "measure": [
+          "Qualified enquiries as a share of all enquiries",
+          "Team time spent per lead before a first meeting",
+          "Visitors who move from portfolio pages to the enquiry form"
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Our product is already live. Is it too late for UX work?",
+        "a": "No. A live product gives you real usage data, which makes research faster. We usually start with analytics, support tickets and a few usability sessions on current flows, then redesign the parts that cost you most. The [UI/UX process page](/ui-ux-design/process) walks through each stage."
+      },
+      {
+        "q": "Do you design for Indian regional languages?",
+        "a": "Yes. We plan layouts for longer strings and different scripts from the start, test with native speakers, and avoid word-for-word translations when a clearer local term exists."
+      },
+      {
+        "q": "Can UX design help our marketing website, not just our app?",
+        "a": "Yes. The same methods apply to finding a service, comparing options and getting in touch. On website projects we work closely with our [web development](/web-development) team so research findings carry through to the build. [Book a consultation](/book-consultation) to discuss yours."
+      }
+    ]
+  }
+}

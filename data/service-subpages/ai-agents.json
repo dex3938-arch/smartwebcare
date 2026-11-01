@@ -1,0 +1,351 @@
+{
+  "slug": "ai-agents",
+  "guide": {
+    "eyebrow": "AI Agents · 2026 guide",
+    "title": "AI agents for business in 2026: how they work, where they fit and how to judge them",
+    "metaTitle": "AI Agents for Business: A Practical 2026 Guide",
+    "metaDescription": "How AI agents differ from chatbots and automations, what changed in 2026, how to pick a first use case, and the numbers that show an agent is working.",
+    "lead": "A chatbot talks; an AI agent can also look things up and act in your systems, such as booking a slot or updating a lead, within limits you set. This guide explains how that works in practice, what changed this year, and how to tell a useful agent from an expensive demo.",
+    "sections": [
+      {
+        "heading": "What an AI agent actually is",
+        "paragraphs": [
+          "Strip away the marketing and an AI agent has three parts: a language model that understands the request, a set of tools it is allowed to use, and rules about when to stop and hand over to a person. The tools are what make it an agent. Checking a delivery status, holding a slot in a calendar or creating a lead in your CRM are actions, not answers.",
+          "That separates agents from two neighbors. A scripted chatbot follows buttons and keyword trees, and it breaks when a customer phrases things differently. A workflow [automation](/ai-automations) runs the same steps every time a trigger fires, with no conversation at all. An agent sits between them: it holds a conversation, and it is also allowed to act.",
+          "For most small and mid-sized businesses, the useful agents are narrow. One that qualifies property inquiries, or one that answers order questions for a skincare brand, will outperform a general assistant that tries to do everything."
+        ],
+        "bullets": [
+          "**Model:** the language model that interprets messages and drafts replies.",
+          "**Knowledge:** your approved documents, policies and product data, retrieved at answer time.",
+          "**Tools:** connections to systems such as a CRM, calendar, online store or helpdesk.",
+          "**Guardrails:** topics it must refuse, data it must never reveal, and the moments it must escalate.",
+          "**Handoff:** a route to a named person or team, with the conversation history attached."
+        ]
+      },
+      {
+        "heading": "How a conversation flows through an agent",
+        "paragraphs": [
+          "When a message arrives on your website widget or WhatsApp number, the agent first works out the intent: is this a pricing question, a booking or a complaint? It then pulls the relevant facts from your knowledge base instead of relying on what the model absorbed during training. This step, usually called retrieval, keeps answers tied to your current price list rather than last year's.",
+          "If the request needs an action, the agent calls a tool. A well-built agent checks the result before replying, so a failed calendar booking produces an honest 'that slot has just gone, here are two others' instead of a false confirmation. Every step is logged, which is what lets you audit a conversation later. When the agent reaches its limits, the customer should land with a person who can see the whole thread."
+        ]
+      },
+      {
+        "heading": "What changed in 2025 and 2026",
+        "paragraphs": [
+          "Models became much more dependable at calling tools in the right order, which is why agents moved from demos into daily use. Open standards such as the Model Context Protocol (MCP) also give agents a common way to plug into business software, so integrations need less custom code.",
+          "Channel rules shifted too. Meta's terms for the WhatsApp Business Platform, effective January 15, 2026, stop AI providers from distributing general-purpose assistants on WhatsApp when the AI is their main product. A business using AI to serve its own customers is a different case, and that is the kind of agent most companies need. The same terms bar using WhatsApp data to train AI models, apart from fine-tuning a model for your own exclusive use.",
+          "Costs moved as well. Since October 1, 2026, Meta charges for free-form replies inside WhatsApp's 24-hour customer service window again, after the first 1,000 such messages per business phone number each month. Meta also launched its own business agent on WhatsApp, billed by token usage, while replies from third-party agents are billed as ordinary service messages. An agent that sends five short messages where one would do now costs more, so reply design is a budget decision as well as a style one.",
+          "If you serve customers in the European Union, the AI Act's transparency duty has applied since August 2, 2026: people must be told they are dealing with an AI system unless that is obvious. Disclosing the agent up front is good practice everywhere."
+        ]
+      },
+      {
+        "heading": "Choosing your first use case",
+        "paragraphs": [
+          "Start from your inbox, not from the technology. Export a few weeks of website chats, WhatsApp messages and email inquiries, then sort them by intent. The best first candidate is a request that arrives often, follows a predictable pattern and has a clear correct answer in your own data.",
+          "Then weigh the cost of a mistake. Telling a shopper the wrong delivery date is recoverable; giving a patient the wrong pre-procedure instruction is not. High-risk topics can still be part of the agent's job, but only as information collection followed by fast escalation."
+        ],
+        "bullets": [
+          "**Volume:** enough repeat conversations that a person spends real time on them each week.",
+          "**Predictability:** most requests follow a few patterns your team could write down.",
+          "**Data access:** the answer lives in a system the agent can read, such as an order database or calendar.",
+          "**Low harm:** a wrong answer is embarrassing, not dangerous or legally binding.",
+          "**Clear finish line:** the conversation ends in a booking, a qualified lead or a settled question."
+        ]
+      },
+      {
+        "heading": "How much autonomy to give it",
+        "paragraphs": [
+          "Think of autonomy as a dial with three settings. At the lowest, the agent answers questions and drafts actions for a person to approve. In the middle, it takes reversible actions on its own, such as booking or rescheduling. At the highest, it takes actions with financial or legal weight, such as issuing refunds, and that level needs strict limits and audit trails.",
+          "Most businesses should launch at the first or second setting and move up only after reviewing real transcripts. Read-only access to your systems is a sensible default until the agent has earned more."
+        ]
+      },
+      {
+        "heading": "Common mistakes that sink agent projects",
+        "paragraphs": [
+          "Most failures trace back to planning gaps rather than to the model itself. The same handful appear again and again."
+        ],
+        "bullets": [
+          "Feeding the agent an outdated FAQ document and expecting it to know current prices, stock or policies.",
+          "Hiding the human option, which turns a small misunderstanding into an angry customer.",
+          "Letting it improvise on regulated topics such as medical, legal or financial advice.",
+          "Launching on every channel at once instead of proving one channel first.",
+          "Skipping transcript review after launch, so recurring errors go unnoticed for months.",
+          "Counting conversations handled instead of checking whether problems were actually solved."
+        ]
+      },
+      {
+        "heading": "Measuring whether an agent is working",
+        "paragraphs": [
+          "Pick a handful of numbers before launch and record a baseline from your current setup; without one, any result looks good. Review a sample of transcripts every week for the first couple of months, then monthly. Our [AI agents process](/ai-agents/process) builds that review into the engagement."
+        ],
+        "bullets": [
+          "**Resolution rate:** conversations closed without a person, confirmed by sampling rather than by the absence of complaints.",
+          "**Escalation quality:** whether handed-over conversations arrive with the details your team needs.",
+          "**Accuracy:** the share of sampled answers that are correct and on-policy.",
+          "**Conversion:** bookings, qualified leads or orders that started in an agent conversation.",
+          "**Cost per resolved conversation:** platform and messaging fees divided by genuine resolutions.",
+          "**Customer feedback:** a one-tap rating at the end, plus any complaints that mention the agent."
+        ]
+      },
+      {
+        "heading": "Privacy, consent and data handling",
+        "paragraphs": [
+          "Agents handle names, phone numbers and sometimes health or financial details, so treat the setup as a data project as much as a software one. In India, the DPDP Rules published in November 2025 give businesses until May 2027 to meet most of their obligations. Use that time to decide what the agent may collect, where transcripts live and how long you keep them.",
+          "Limit what the agent can see to what the job needs, keep API keys out of prompts, and confirm whether your AI vendor uses your data for training. Our [responsible AI checklist](/insights/responsible-ai-marketing-checklist) is a practical place to start."
+        ]
+      }
+    ],
+    "takeaways": [
+      "An AI agent is defined by the actions it can take, not by how fluent its replies sound.",
+      "Narrow agents built around one job beat general assistants that try to cover everything.",
+      "Meta's 2026 WhatsApp terms target general-purpose AI assistants, not businesses serving their own customers.",
+      "WhatsApp bills service replies again from October 2026, so concise reply design now saves money.",
+      "Launch with limited autonomy and expand it only after reviewing real transcripts.",
+      "Measure resolved problems and answer accuracy rather than the volume of conversations."
+    ],
+    "faqs": [
+      {
+        "q": "Can I just connect ChatGPT to my WhatsApp Business number?",
+        "a": "Not as a general-purpose assistant. Meta's WhatsApp Business Platform terms bar AI providers from offering open-ended assistants there. Using a model behind the scenes to answer questions about your own products, orders and bookings is a different matter, provided you follow WhatsApp's opt-in and messaging policies."
+      },
+      {
+        "q": "Does an agent need to work in Hindi as well as English?",
+        "a": "If your customers switch languages mid-sentence, yes. Current models handle Hindi, Hinglish and several other Indian languages reasonably well in text, but test with real messages from your own customers, including Hindi typed in Roman script, before launch."
+      },
+      {
+        "q": "What happens when the model provider updates its model?",
+        "a": "Your knowledge base, instructions and conversation logs stay with you; the model is a component that can be swapped. Re-run your test set whenever the underlying model changes, because tone and accuracy can shift even when nothing on your side has changed."
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "AI Agents · How we deliver",
+    "title": "How SmartWebCare builds and runs an AI agent, from transcript audit to monthly tuning",
+    "metaTitle": "How We Build AI Agents: Our Delivery Process",
+    "metaDescription": "Our step-by-step process for AI agents: conversation audit, knowledge and tool mapping, guardrails, testing, soft launch and ongoing transcript review.",
+    "lead": "We build agents the way you would train a new team member: study the work first, write down the rules, test before customers see it, and keep coaching after launch. Here is what each stage involves and what you receive.",
+    "steps": [
+      {
+        "title": "Conversation audit and scope",
+        "summary": "We read your real conversations before designing anything, so the agent is built for the questions customers actually ask.",
+        "activities": [
+          "Export and anonymize a sample of recent chats, WhatsApp threads and inquiry emails",
+          "Tag each conversation by intent, outcome and whether it needed a person",
+          "Rank intents by volume, risk and how clearly your data answers them",
+          "Agree on the launch scope and an explicit out-of-scope list with your team"
+        ],
+        "output": "A scope document listing launch intents, excluded topics, escalation triggers and baseline metrics."
+      },
+      {
+        "title": "Knowledge and systems mapping",
+        "summary": "We gather the facts the agent will rely on and map every system it needs to read from or write to.",
+        "activities": [
+          "Collect price lists, policies, service details and product data, flagging anything outdated",
+          "Restructure that material into short, retrievable entries, each with an owner and a review date",
+          "List integrations such as CRM, calendar, store or helpdesk, and the minimum permission each needs",
+          "Decide which actions start as read-only"
+        ],
+        "output": "A structured knowledge base and an integration map showing data flows and access levels."
+      },
+      {
+        "title": "Agent design and guardrails",
+        "summary": "We write the agent's instructions, voice and limits, then prove them on paper with sample conversations.",
+        "activities": [
+          "Draft the system instructions, tone guidelines and AI disclosure message",
+          "Define refusals, sensitive topics and the exact handoff rules",
+          "Write sample dialogues for common, awkward and hostile cases",
+          "Build a test set of real questions paired with approved answers"
+        ],
+        "output": "An agent specification and test set that your team signs off before build work starts."
+      },
+      {
+        "title": "Build and channel setup",
+        "summary": "We configure the agent, connect its tools and place it on your chosen channel with a working handoff inbox.",
+        "activities": [
+          "Configure the model, retrieval and tool connections in a staging environment",
+          "Install the website widget or connect your WhatsApp Business number through the Cloud API",
+          "Route handoffs to a shared inbox or CRM with the full conversation attached",
+          "Set up logging so every answer and action can be traced"
+        ],
+        "output": "A working staging agent on your channel, ready for testing."
+      },
+      {
+        "title": "Testing and red-teaming",
+        "summary": "We try to break the agent before your customers can, then fix what we find.",
+        "activities": [
+          "Run the full test set and score each answer for accuracy, tone and policy",
+          "Probe with off-topic requests, prompt-injection attempts and tries at extracting private data",
+          "Test Hindi, English and mixed-language messages drawn from your real samples",
+          "Hold a review session where your staff chat with the agent and log issues"
+        ],
+        "output": "A test report with scores, fixes made and a go or no-go recommendation."
+      },
+      {
+        "title": "Soft launch",
+        "summary": "The agent goes live on limited traffic or hours while we review every conversation closely.",
+        "activities": [
+          "Start with one channel, set hours or a portion of traffic",
+          "Review transcripts daily and close knowledge gaps the same week",
+          "Brief your team on handoffs and how to flag a bad answer"
+        ],
+        "output": "A live agent with a dashboard and a daily issue log during the first weeks."
+      },
+      {
+        "title": "Ongoing tuning and reporting",
+        "summary": "After launch we keep improving the agent on a fixed review rhythm.",
+        "activities": [
+          "Sample and score transcripts against the metrics agreed in the scope",
+          "Add new intents once the current ones are stable",
+          "Re-test whenever the underlying model or your policies change",
+          "Share a monthly report with findings and recommended changes"
+        ],
+        "output": "A monthly report and change log showing what was fixed, added and measured."
+      }
+    ],
+    "deliverables": [
+      "Scope document with launch intents, exclusions and baseline metrics",
+      "Structured knowledge base with owners and review dates",
+      "Agent specification covering instructions, tone, guardrails and handoff rules",
+      "Test set and pre-launch red-team report",
+      "Deployed agent on your website, WhatsApp or another agreed channel",
+      "Handoff workflow into your inbox or CRM",
+      "Performance dashboard and monthly improvement report",
+      "Admin guide and a recorded walkthrough for your team"
+    ],
+    "youProvide": [
+      "Access to past chats, WhatsApp threads or inquiry emails for the audit",
+      "Current price lists, policies and product or service details",
+      "Login or API access to the systems the agent must use",
+      "A named owner who approves scope, guardrails and launch",
+      "Staff available to pick up handed-over conversations"
+    ],
+    "faqs": [
+      {
+        "q": "What if the agent gives a wrong answer after launch?",
+        "a": "Every answer is logged, so we trace the cause: a gap in the knowledge base, an unclear instruction or a tool error. We fix it, add the case to the test set and re-run the tests so the same mistake doesn't return. Your team can flag answers from the handoff inbox at any time."
+      },
+      {
+        "q": "Can we start on the website and add WhatsApp later?",
+        "a": "Yes, and we usually recommend it. Proving the agent on one channel keeps the review workload manageable. Adding WhatsApp later means setting up a Business Platform account and approved templates, which our [WhatsApp marketing](/whatsapp-marketing) service handles."
+      },
+      {
+        "q": "Do we need to replace our CRM or helpdesk?",
+        "a": "Rarely. We connect to the tools you already use wherever they offer an API. If a system has none, we look at workarounds such as a shared sheet or a light [automation](/ai-automations) before suggesting any change. A [free consultation](/book-consultation) is the quickest way to check fit."
+      }
+    ]
+  },
+  "useCases": {
+    "eyebrow": "AI Agents · Use cases",
+    "title": "Where AI agents earn their place: six business scenarios",
+    "metaTitle": "AI Agent Use Cases for Indian Businesses",
+    "metaDescription": "Six illustrative AI agent scenarios, from a Gurugram developer qualifying leads to a Ludhiana manufacturer answering dealers, with what to measure in each.",
+    "lead": "These scenarios are illustrative, not client stories. Each one shows a common problem, how an agent could be scoped to solve it, and the numbers that would show whether it worked.",
+    "cases": [
+      {
+        "title": "Qualifying property inquiries before a sales call",
+        "businessType": "Residential developer · Gurugram",
+        "challenge": "Leads from property portals and ads arrive at all hours, and many go cold before a salesperson calls back. Sales staff spend their mornings phoning people who were only browsing or whose budget doesn't fit the project.",
+        "approach": [
+          "An agent on the website and WhatsApp asks about budget, preferred configuration, location and purchase timeline in a natural conversation",
+          "It answers project questions from approved brochure content and RERA details, never quoting unapproved offers",
+          "Qualified buyers book a site visit straight into the sales calendar, while others receive the brochure and a follow-up date",
+          "Each lead reaches the CRM with a short summary and a qualification score"
+        ],
+        "measure": [
+          "Time from inquiry to first meaningful response",
+          "Share of agent-booked site visits that actually take place",
+          "Sales hours spent on unqualified calls, before and after launch"
+        ]
+      },
+      {
+        "title": "Answering product and order questions for a skincare brand",
+        "businessType": "D2C skincare brand · Jaipur",
+        "challenge": "The support inbox fills with the same questions: which serum suits oily skin, where is my order, can I return an opened product. Replies slow down during sales, and pre-purchase questions go unanswered while shoppers move on.",
+        "approach": [
+          "The agent recommends products only from the brand's approved ingredient and skin-type guidance",
+          "It looks up order status from the store platform after verifying the customer's phone number or order ID",
+          "Any mention of a reaction, rash or allergy goes straight to a trained person with the thread attached"
+        ],
+        "measure": [
+          "Order-status questions resolved without a person",
+          "Purchase rate of shoppers who chatted first, compared with those who didn't",
+          "Accuracy of sampled product recommendations against the brand's guidance"
+        ]
+      },
+      {
+        "title": "Handling course and fee questions for a coaching institute",
+        "businessType": "Test-prep institute · Kota",
+        "challenge": "Students and parents ask about batches, fees, scholarship tests and hostel options, often late in the evening and in a mix of Hindi and English. Counselors repeat the same answers all day and miss the serious inquiries.",
+        "approach": [
+          "A bilingual agent answers batch, fee-structure and schedule questions from the current prospectus",
+          "It collects the student's class, target exam and city, then books a counseling call",
+          "Refund requests and special cases go to a counselor rather than being answered by the agent"
+        ],
+        "measure": [
+          "Counseling calls booked through the agent each week",
+          "Share of Hindi and Hinglish conversations completed without a handoff",
+          "Counselor hours spent on repeat questions"
+        ]
+      },
+      {
+        "title": "Giving dealers instant stock and specification answers",
+        "businessType": "Industrial fasteners manufacturer · Ludhiana",
+        "challenge": "Dealers message the sales desk on WhatsApp for stock levels, specifications and price checks. The desk is two people, so dealers wait hours for simple answers and sometimes order elsewhere instead.",
+        "approach": [
+          "An agent open only to registered dealers reads live stock and the current price list from the ERP",
+          "It answers specification questions from product data sheets and shares the right PDF",
+          "The agent drafts quotes, and the sales desk approves each one before it is sent"
+        ],
+        "measure": [
+          "Average dealer wait time for stock and price answers",
+          "Quotes sent per week and the time from request to quote",
+          "Errors caught in agent-drafted quotes during approval"
+        ]
+      },
+      {
+        "title": "Triaging support tickets for a SaaS product",
+        "businessType": "B2B SaaS startup · Bengaluru",
+        "challenge": "A small support team handles how-to questions, billing queries and genuine bugs in one queue. Simple questions delay urgent issues, and customers in other time zones wait overnight for a reply.",
+        "approach": [
+          "The agent answers how-to questions from the help center and links the exact article",
+          "It checks the customer's plan and account status before answering billing questions",
+          "Suspected bugs become tickets with steps, browser and account details already filled in"
+        ],
+        "measure": [
+          "First-response time across time zones",
+          "Agent-resolved tickets that are not reopened",
+          "Engineering time saved on incomplete bug reports"
+        ]
+      },
+      {
+        "title": "Taking first-contact details for an immigration consultancy",
+        "businessType": "Immigration consultancy · Dubai",
+        "challenge": "Prospective clients send long messages describing their situation and expect immediate guidance. Consultants can't reply to each one quickly, and some inquiries concern visa routes the firm doesn't handle.",
+        "approach": [
+          "The agent states plainly that it cannot give immigration advice, then collects nationality, visa type, timeline and urgency",
+          "It checks whether the request matches the firm's services and redirects politely if not",
+          "Eligible inquiries are booked into a consultation slot of the type the firm chooses"
+        ],
+        "measure": [
+          "Inquiries correctly matched to the firm's services",
+          "Consultations booked from after-hours inquiries",
+          "Complaints or confusion about the agent's role, reviewed monthly"
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Which of these scenarios makes the safest first project?",
+        "a": "Order-status and booking agents are usually the safest start, because the answers come straight from a system and mistakes are easy to spot. Lead qualification comes next. Advice-heavy topics should stay with people, with the agent only collecting details. If you're unsure, a [free consultation](/book-consultation) will help you rank your options."
+      },
+      {
+        "q": "Can one agent handle both sales and support?",
+        "a": "It can, but we usually separate the two in the design even if customers see a single chat window. Sales and support need different tone, data access and escalation paths, and keeping them distinct makes testing and reporting much clearer."
+      },
+      {
+        "q": "How is this different from an AI receptionist?",
+        "a": "An agent works in text channels such as your website and WhatsApp, while an [AI receptionist](/ai-receptionist) answers phone calls with a voice. Many businesses need both, sharing one knowledge base so the answers match. The [AI agents guide](/ai-agents/guide) explains how agents work under the hood."
+      }
+    ]
+  }
+}

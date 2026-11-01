@@ -1,0 +1,366 @@
+{
+  "slug": "aeo",
+  "guide": {
+    "eyebrow": "AEO · Owner's guide",
+    "title": "AEO for business owners: how to get your answers chosen",
+    "metaTitle": "AEO for Owners: Get Your Answers Chosen",
+    "metaDescription": "A practical, non-technical AEO guide: find the questions that win customers, write answers AI tools trust, fix your profiles and check whether you're cited.",
+    "lead": "When customers ask Google, ChatGPT or Copilot a question about your field, the reply now names a handful of sources. This guide covers what you can do as an owner, without becoming technical, to make your business one of them.",
+    "sections": [
+      {
+        "heading": "What changes when the answer arrives before the link",
+        "paragraphs": [
+          "A search used to return ten links, and the customer did the comparing. Answer engines now do part of that work themselves: they read several sources, summarize them and cite a few. Your aim shifts from ranking a page to being one of the sources an answer relies on, and to being described correctly whenever you are mentioned.",
+          "This is already everyday behavior in India. Google's AI Mode handles Hindi and seven other Indian languages, and Google says more people here use Lens each month than in any other country. A customer can ask, in Hindi or by pointing a camera, which purifier suits hard water in a small flat, and get one blended answer instead of ten tabs.",
+          "The consequence for owners is encouraging. Answer engines favor businesses that state facts clearly and consistently in many places, and you already know the facts. The work is writing them down where the engines look."
+        ]
+      },
+      {
+        "heading": "Find the questions that decide a sale",
+        "paragraphs": [
+          "Not every question is worth winning. “What is a water softener?” attracts readers; “do I need a softener if my housing society already has one?” attracts buyers. Concentrate on the questions people ask just before they choose, call or pay.",
+          "Write twenty of these down in your customers' own words. That list, rather than a keyword tool, is the starting point of a sensible AEO plan."
+        ],
+        "bullets": [
+          "Questions your staff answer on WhatsApp and phone calls every week",
+          "Objections raised just before someone decides not to buy",
+          "Comparisons customers make between you and the alternatives, including doing nothing",
+          "Questions about how pricing works, timelines, safety, warranty and service area",
+          "Topics reviewers mention, good or bad"
+        ]
+      },
+      {
+        "heading": "Write answers worth citing",
+        "paragraphs": [
+          "Generic answers lose because every competitor can write them. What makes yours worth citing is detail only a working business has: the real steps of your process, the conditions under which your advice changes, the mistakes you see customers make and figures you can stand behind, such as your own delivery times or service radius.",
+          "For the page-level mechanics, including headings, lists, readable HTML and where structured data fits, our main [AEO guide](/aeo) goes into detail."
+        ],
+        "bullets": [
+          "**Specific:** “Most flats need one installation visit; villas with several bathrooms need two” beats “quick installation”.",
+          "**Owned:** a named person with relevant experience wrote or reviewed the answer.",
+          "**Current:** facts that change, such as fees, hours or batch dates, show when they were last checked.",
+          "**Consistent:** the same answer appears on your website, your Google Business Profile and your marketplace listings."
+        ]
+      },
+      {
+        "heading": "Show up where answer engines read",
+        "paragraphs": [
+          "Your website is only one input. Google's guidance for its AI features asks site owners to keep Merchant Center and Business Profile information up to date, and other assistants draw on reviews, directories, marketplaces, videos and news coverage. When those sources disagree with your site, the answer may pick the wrong version.",
+          "Treat your business facts like a price list: one master version, updated everywhere the moment something changes."
+        ],
+        "bullets": [
+          "Google Business Profile categories, services, hours and photos that match your site",
+          "Bing Places and Bing Webmaster Tools, since Microsoft Copilot draws on Bing",
+          "Marketplace and aggregator listings that use the same product names and specifications",
+          "Industry directories, associations and publications that already cover your field",
+          "Reviews, where calm, factual replies can correct misunderstandings"
+        ]
+      },
+      {
+        "heading": "The one technical conversation to have with your developer",
+        "paragraphs": [
+          "Most AEO work is writing and housekeeping, but one setting can undo all of it. Ask your developer to confirm the site does not block the crawlers of the answer engines you want to appear in: Googlebot for Google's AI features, Bingbot for Copilot, OAI-SearchBot for ChatGPT search and PerplexityBot for Perplexity. Some security plugins and CDN settings block unfamiliar bots by default.",
+          "Also ask whether key answers exist as text when the page loads, rather than inside images, PDFs or panels that only fill in after a click. Our [robots.txt guide](/robots-txt) explains the rules your developer will check, including how search crawlers differ from AI training crawlers."
+        ]
+      },
+      {
+        "heading": "How to tell whether it is working",
+        "paragraphs": [
+          "There is no single AEO dashboard, but several free sources together give a fair picture. Review them monthly rather than daily, because answers vary from one run to the next.",
+          "Expect changes in how you are described before changes in traffic. Being described accurately, and named alongside the right competitors, is an early sign the work is landing."
+        ],
+        "bullets": [
+          "**Google Search Console:** the generative AI report, open to all sites since August 2026, shows which of your pages appeared in AI Overviews and AI Mode, and how often.",
+          "**Bing Webmaster Tools:** the AI Performance report, in public preview since February 2026, shows how often your pages are cited in Copilot and Bing's AI summaries.",
+          "**Google Analytics:** ChatGPT adds `utm_source=chatgpt.com` to the links it sends, so those visits can be counted separately.",
+          "**A fixed question set:** ask the same twenty questions in each assistant every month and log whether you are cited, how you are described and who else appears.",
+          "**Your inquiry form:** add “AI assistant” as an option under “How did you hear about us?”"
+        ]
+      },
+      {
+        "heading": "Mistakes that waste effort",
+        "paragraphs": [
+          "Most of these come from treating AEO as a new channel to game rather than a discipline of being clear. Our [GEO guide](/geo) covers the wider question of how generative engines decide what to reference."
+        ],
+        "bullets": [
+          "**Chasing hacks.** Google states that no special files or markup are needed to appear in its AI features, so time spent on tricks is time not spent on better answers.",
+          "**Publishing hundreds of thin FAQ pages.** Volume without substance looks like mass-produced content, not expertise.",
+          "**Contradicting yourself.** Old prices on one page, new prices on another and different hours on Google leave the engine guessing.",
+          "**Hiding answers.** Price guides in PDFs, specifications in images and key details behind forms are hard for any engine to use.",
+          "**Expecting control.** Nobody can make an assistant recommend you; you can make your business the clearest, best-supported option."
+        ]
+      },
+      {
+        "heading": "A 30-day starting plan",
+        "paragraphs": [
+          "You do not need a large project to begin. One focused month gets the basics right and gives you a baseline to improve on.",
+          "If you would rather hand it over, the [AEO process](/aeo/process) page shows how we run the same work at a larger scale, and our article on [getting cited by AI assistants](/insights/how-to-get-cited-by-ai-assistants) adds worked examples."
+        ],
+        "bullets": [
+          "**Week 1:** write the twenty questions and run them through Google, ChatGPT, Perplexity and Copilot, noting who gets cited.",
+          "**Week 2:** rewrite the answers to your five most valuable questions on your site, with a named reviewer and a date.",
+          "**Week 3:** bring your Google Business Profile, Bing Places and main listings in line with your website.",
+          "**Week 4:** confirm crawler access with your developer and repeat the week-one checks."
+        ]
+      }
+    ],
+    "takeaways": [
+      "AEO means becoming one of the few sources an answer relies on, and being described correctly when you are named.",
+      "Start from the questions customers ask just before they buy, written in their own words.",
+      "Detail only a working business has, such as process, conditions and real timelines, is what makes an answer worth citing.",
+      "Keep your facts identical across your site, Google Business Profile, Bing Places and listings.",
+      "Make sure your site lets in the search crawlers of the assistants you want to appear in.",
+      "Track progress with Search Console, Bing Webmaster Tools, ChatGPT referral tags and a fixed monthly question set."
+    ],
+    "faqs": [
+      {
+        "q": "An AI assistant says something wrong about my business. What can I do?",
+        "a": "Find where the wrong fact comes from, often an old page, a directory listing or a review, and correct it at the source. Then make the right fact clear on your own site and profiles. Assistants usually let you send feedback on an answer, but fixing the underlying sources matters more, because those are what the answer is built from."
+      },
+      {
+        "q": "Do I need content in Hindi or other Indian languages?",
+        "a": "Only if your customers search in them. AI Mode works in several Indian languages, so a business serving Hindi-speaking customers can gain from well-written Hindi pages. Have a fluent speaker review every translation; a clumsy machine translation is less trustworthy than a good English page."
+      },
+      {
+        "q": "Are paid AI visibility tracking tools worth it?",
+        "a": "They save time once you track many questions across several assistants. For most small businesses, the free reports plus a fixed monthly question set give enough signal to start. If you buy a tool, check which assistants it covers and how often it re-runs each question."
+      },
+      {
+        "q": "Will being cited in AI answers reduce visits to my website?",
+        "a": "It can reduce visits for simple questions that the answer settles. Google says clicks from results pages with AI Overviews tend to be higher quality, with visitors spending longer on the site. The visits that matter most, from people ready to compare, book or buy, still need your website."
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "AEO · How we work",
+    "title": "How we run answer engine optimization, from question bank to monthly checks",
+    "metaTitle": "Our AEO Process: Questions, Answers, Checks",
+    "metaDescription": "How SmartWebCare delivers AEO: a question bank from your customers, an AI answer baseline, expert-reviewed answers, aligned profiles and monthly checks.",
+    "lead": "Our AEO work is built around one asset: a bank of the questions your customers ask, each with a single approved answer. Every step below either builds that bank, publishes it or checks how answer engines use it.",
+    "steps": [
+      {
+        "title": "Question bank",
+        "summary": "We collect the questions that come before a purchase, from the people who hear them most often.",
+        "activities": [
+          "Interview sales, support or front-desk staff and review anonymized chat and email samples",
+          "Pull question-style searches from Search Console and your site search",
+          "Note the follow-up questions Google and the assistants suggest for your core topics",
+          "Rank questions by how close they sit to a buying decision"
+        ],
+        "output": "A prioritized question bank, starting with the questions that matter most to revenue."
+      },
+      {
+        "title": "Answer-visibility baseline",
+        "summary": "We record how answer engines treat your business today, before anything is changed.",
+        "activities": [
+          "Run a fixed set of priority questions in Google AI Overviews and AI Mode, ChatGPT search, Perplexity and Copilot",
+          "Record each citation, the wording used to describe your business and the sources shown in your place",
+          "Flag wrong or outdated facts about your business and trace where they come from",
+          "Check that the crawlers for those engines can reach your site"
+        ],
+        "output": "A baseline sheet and an error log, which become the comparison point for every later report."
+      },
+      {
+        "title": "Fact sheet and answer map",
+        "summary": "We agree one master set of business facts and decide where each answer should live.",
+        "activities": [
+          "Compile a brand fact sheet covering services, areas served, hours, policies, credentials and key specifications",
+          "Map each question to an existing page, a new section or a new page",
+          "Merge or retire pages that give conflicting answers"
+        ],
+        "output": "An approved fact sheet and a question-to-page map your whole team can work from."
+      },
+      {
+        "title": "Answer writing and expert review",
+        "summary": "We draft answers in plain language, and the right person on your side confirms every fact.",
+        "activities": [
+          "Write answer-first sections with the conditions and exceptions real customers need",
+          "Add evidence such as your process, credentials, examples and sources",
+          "Send drafts to a named expert reviewer and record the review date"
+        ],
+        "output": "Reviewed, approved answer copy ready to publish."
+      },
+      {
+        "title": "Publishing and structure",
+        "summary": "We publish answers as readable text and check that machines interpret each page correctly.",
+        "activities": [
+          "Publish in HTML with clear headings, plus lists and tables where they help",
+          "Add structured data only where it matches visible content, then validate it",
+          "Link related answers so each topic forms a clear cluster",
+          "Confirm each page renders correctly and is indexed"
+        ],
+        "output": "Live pages with validation results and a change log."
+      },
+      {
+        "title": "Profiles and third-party sources",
+        "summary": "We bring your off-site information in line with the fact sheet, because answer engines read far beyond your website.",
+        "activities": [
+          "Update Google Business Profile, Bing Places and Merchant Center details",
+          "Align marketplace and directory listings, working with our [marketplace listings](/marketplace-listings) team where needed",
+          "Request corrections to wrong information on third-party sites",
+          "Coordinate replies through [reputation management](/reputation-management) when reviews spread errors"
+        ],
+        "output": "A profile update log and a list of correction requests with their status."
+      },
+      {
+        "title": "Monthly answer checks",
+        "summary": "Each month we rerun the baseline questions, read the platform reports and refine whatever is underperforming.",
+        "activities": [
+          "Rerun the fixed question set and compare with earlier months",
+          "Review Search Console's generative AI report, Bing's AI Performance report and ChatGPT referrals in Analytics",
+          "Add new questions from recent customer conversations",
+          "Update answers whenever the facts change"
+        ],
+        "output": "A monthly answer-visibility report covering citations, descriptions, corrections and next actions."
+      }
+    ],
+    "deliverables": [
+      "Prioritized question bank in your customers' words",
+      "Baseline of AI answers with an error log",
+      "Brand fact sheet approved by your team",
+      "Question-to-page map",
+      "Expert-reviewed answer pages, published and validated",
+      "Profile and listing alignment log",
+      "Monthly answer-visibility report"
+    ],
+    "youProvide": [
+      "A few hours from staff who talk to customers every day",
+      "A subject expert who reviews answers for accuracy",
+      "Access to your website, Search Console, Analytics, Google Business Profile and Bing Webmaster Tools",
+      "Prompt notice when prices, services, hours or policies change"
+    ],
+    "faqs": [
+      {
+        "q": "How many questions do you work on at a time?",
+        "a": "We work in batches, starting with the questions closest to a purchase. Batch size depends on how quickly answers can be reviewed; a small batch approved quickly does more than a large one waiting for sign-off."
+      },
+      {
+        "q": "Do you use AI to write the answers?",
+        "a": "AI tools help with research and some first drafts, but a person edits every answer and your expert checks it before it goes live. The facts come from your business, not from a model's guess."
+      },
+      {
+        "q": "Can AEO work if our site has technical SEO problems?",
+        "a": "Only partly. If pages cannot be crawled or indexed, answer engines struggle to use them. When the baseline shows serious problems, we recommend fixing them first through our [SEO](/seo) work or with your developer. [Book a consultation](/book-consultation) to scope both together."
+      }
+    ]
+  },
+  "useCases": {
+    "eyebrow": "AEO · Use cases",
+    "title": "AEO in practice: six businesses whose customers ask before they buy",
+    "metaTitle": "AEO Use Cases: Clinics, SaaS, Food and More",
+    "metaDescription": "Illustrative AEO scenarios for clinics, SaaS, tax advisers, herbal brands, coaching institutes and restaurants, with the approach and what to measure.",
+    "lead": "AEO pays off wherever customers research with questions before they act. These illustrative scenarios show where that happens, what we would change and how you would know it is working.",
+    "cases": [
+      {
+        "title": "Answering the questions patients ask before booking",
+        "businessType": "Physiotherapy clinic · Lucknow",
+        "challenge": "Patients ask assistants whether knee pain needs physiotherapy or surgery, how many sessions are typical and whether home visits exist. The answers cite national health portals and a hospital chain, never the clinic, and one assistant still gives its old address.",
+        "approach": [
+          "Publish condition pages reviewed by the lead physiotherapist, stating clearly when to see a doctor instead",
+          "Explain how session plans are decided rather than promising a number of sessions",
+          "Correct the old address in the source directories and on Google Business Profile",
+          "Keep content educational, without promotional or outcome claims"
+        ],
+        "measure": [
+          "Appearances for condition questions in Search Console's generative AI report",
+          "Accuracy of the clinic's description across the monthly question set",
+          "Appointment calls from patients who mention finding the clinic online"
+        ]
+      },
+      {
+        "title": "Making the shortlist when buyers ask for software",
+        "businessType": "Payroll software company · Bengaluru",
+        "challenge": "Finance heads ask ChatGPT and Copilot for payroll tools that handle Indian compliance for a fifty-person company. The company is rarely named, and when it is, the description lists features from two years ago.",
+        "approach": [
+          "Publish clear pages for each compliance capability, company size and integration",
+          "Keep a public changelog and a current page explaining how pricing is structured",
+          "Seek coverage in the HR and finance publications assistants already cite",
+          "Align product descriptions across software directories and review sites"
+        ],
+        "measure": [
+          "Mentions and description accuracy across the fixed question set",
+          "Copilot citations in Bing Webmaster Tools",
+          "Demo requests from visits tagged `utm_source=chatgpt.com`"
+        ]
+      },
+      {
+        "title": "Keeping seasonal tax answers accurate",
+        "businessType": "Chartered accountancy firm · Ahmedabad",
+        "challenge": "Small business owners ask assistants about GST return deadlines, filing changes and penalties. The firm's articles are detailed but undated, and several describe rules that have since changed.",
+        "approach": [
+          "Audit every compliance article and add a reviewing partner's name and review date",
+          "Update or retire articles that describe superseded rules",
+          "Answer recurring seasonal questions on pages refreshed each cycle rather than republished",
+          "Link each answer to the official notification it relies on"
+        ],
+        "measure": [
+          "Citations for deadline and procedure questions",
+          "Number of outdated pages still live",
+          "Consultation requests during filing season"
+        ]
+      },
+      {
+        "title": "Answering ingredient and safety questions honestly",
+        "businessType": "Herbal skincare brand · Kochi",
+        "challenge": "Shoppers ask assistants whether a face oil suits sensitive skin or is safe during pregnancy, and what each herb does. Reseller pages and marketplace reviews answer for the brand, sometimes with claims it would never make.",
+        "approach": [
+          "Publish an ingredient page for each formula covering sourcing, purpose and usage",
+          "State plainly what the product is not meant for and when to consult a doctor",
+          "Bring marketplace listing copy in line with the website",
+          "Ask resellers to correct exaggerated claims"
+        ],
+        "measure": [
+          "How assistants describe the product's uses and cautions",
+          "Product page visits referred by AI assistants",
+          "Safety questions reaching customer support"
+        ]
+      },
+      {
+        "title": "Stopping assistants from quoting last year's fees",
+        "businessType": "Test-prep institute · Kota",
+        "challenge": "Parents ask assistants about batch timings, fees and hostel options. The answers mix the current brochure with a fee table from an old news article and a third-party listing.",
+        "approach": [
+          "Publish one dated page for fee structure, batches and facilities, linked from every course page",
+          "Replace old PDF brochures with that page",
+          "Update education directories with the same details",
+          "Answer parents' common questions about safety and student support in plain language"
+        ],
+        "measure": [
+          "Whether answers in the monthly question set quote current details",
+          "Admission inquiries from parents who used an assistant",
+          "Corrections accepted on third-party sites"
+        ]
+      },
+      {
+        "title": "Being the answer to late-night food questions",
+        "businessType": "Biryani restaurant · Hyderabad",
+        "challenge": "Late-night diners ask Google and assistants where to find biryani after midnight. The restaurant's hours are wrong on two platforms, and its menu exists only as a photo.",
+        "approach": [
+          "Publish the menu as text on the website, with dish descriptions and spice levels",
+          "Fix regular and holiday hours on [Google Business Profile](/insights/local-seo-google-business-profile-2026), Bing Places and the delivery apps",
+          "Invite reviews that mention dishes and timings naturally, without scripting them",
+          "Add photos of dishes exactly as they are served"
+        ],
+        "measure": [
+          "Calls and direction requests from Google Business Profile",
+          "Whether assistants state the correct hours",
+          "Late-evening orders on delivery apps"
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Which businesses benefit least from AEO?",
+        "a": "Those whose customers rarely research before buying, such as impulse purchases or walk-in services chosen purely by location. Accurate listings still matter for them, but a full AEO program usually does not. For a quick read on your situation, [contact us](/contact)."
+      },
+      {
+        "q": "How is this different from the SEO use cases?",
+        "a": "The [SEO use cases](/seo/use-cases) focus on ranking pages for searches. These focus on questions that assistants answer directly, where the accuracy and consistency of your facts matter as much as visibility. Many businesses need both, with SEO first."
+      },
+      {
+        "q": "How long before AI answers change?",
+        "a": "It varies by platform and by how often your pages are recrawled. Corrections to profiles and directories can show up sooner than new content, which needs time to be indexed and trusted. We report monthly so short-term swings do not drive decisions."
+      }
+    ]
+  }
+}
